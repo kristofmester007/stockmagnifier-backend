@@ -1,0 +1,77 @@
+{
+    "ticker": "CRM",
+    "total_news": 10,
+    "average_sentiment": -0.12684825835749508,
+    "weighted_average_sentiment": -0.0550912533800642,
+    "average_daily_sentiments": [
+        0.027772606971363228,
+        0,
+        0.030984572134912014,
+        0,
+        -0.336822641082108,
+        -0.2467080888648828,
+        0
+    ],
+    "news": [
+        {
+            "id": "684344af-57a3-4971-b34a-746b23b33930",
+            "summary": "The hunt for cheap stocks begins.",
+            "date": "2025-04-04T12:42:55Z",
+            "sentiment-score": -0.004880731925368309
+        },
+        {
+            "id": "165f6e57-3343-3dd2-a85b-a91349831079",
+            "summary": "Investors may keep a tab on stocks like OZK, TJX, AGRO, CRM and BKU, which have lately hiked their dividend payments.",
+            "date": "2025-04-04T12:08:00Z",
+            "sentiment-score": -0.7478321781381965
+        },
+        {
+            "id": "06a606fe-feed-34f6-a786-2bce21641147",
+            "summary": "We recently published a list of Jim Cramer\u2019s Thoughts on Liberation Day, Tariffs, and 17 Stocks to Watch Right Now. In this article, we are going to take a look at where Salesforce, Inc. (NYSE:CRM) stands against other stocks that Jim Cramer discusses. On Tuesday, April 1st, the host of Mad Money opened the show [\u2026]",
+            "date": "2025-04-04T22:22:57Z",
+            "sentiment-score": 0.012588643468916416
+        },
+        {
+            "id": "3eb87042-acb6-3b77-bcdc-5ab7572b9f7a",
+            "summary": "We recently published a list of 12 Best Enterprise Software Stocks to Buy Now. In this article, we are going to take a look at where Salesforce Inc. (NYSE:CRM) stands against other best enterprise software stocks to buy now. In 2024, the global enterprise market size was estimated at $263.79 billion, according to Grand View [\u2026]",
+            "date": "2025-04-05T23:40:10Z",
+            "sentiment-score": 0.014200030826032162
+        },
+        {
+            "id": "e57cc0b0-e93b-3a70-8bdb-9580bc8689fa",
+            "summary": "Salesforce (NYSE:CRM) recently declared a 4% increase in quarterly dividends, reflecting strategic financial management amidst challenging market conditions. Concurrently, its collaboration with Deloitte aims to deliver AI-driven industry solutions, bolstering business appeal. This positive news contrasts sharply with the broader stock market downturn, where a 10.82% decline in Salesforce's share price was observed. The drop aligns with widespread investor anxiety following significant tariff...",
+            "date": "2025-04-05T17:37:56Z",
+            "sentiment-score": -0.6878453129902482
+        },
+        {
+            "id": "a10fb8f7-288b-3a82-83f7-20dc69cf3716",
+            "summary": "Salesforce.com (CRM) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
+            "date": "2025-04-07T13:00:14Z",
+            "sentiment-score": 0.019071352668106556
+        },
+        {
+            "id": "0fba2fdc-4a2c-3c56-9bb5-deba86153b85",
+            "summary": "Director Oscar Munoz bought stock the first trading day after President Donald Trump announced new tariffs.",
+            "date": "2025-04-07T16:04:00Z",
+            "sentiment-score": 0.04289779160171747
+        },
+        {
+            "id": "9c40e759-3bcd-35f5-8e1c-e73eaad49a0a",
+            "summary": "Let\u2019s dig into the relative performance of Salesforce (NYSE:CRM) and its peers as we unravel the now-completed Q4 sales software earnings season.",
+            "date": "2025-04-09T09:05:41Z",
+            "sentiment-score": 0.03891567327082157
+        },
+        {
+            "id": "1ab33a0d-7a0f-39bb-9556-66e28b245c15",
+            "summary": "We recently published a list of 20 Stocks Insiders Bought in April After Trump\u2019s Tariff Rollout. In this article, we are going to take a look at where Salesforce, Inc. (NYSE:CRM) stands against other stocks that insiders bought in April after Trump\u2019s tariff rollout. President Donald Trump called April 2 a \u201cLiberation Day\u201d after signing [\u2026]",
+            "date": "2025-04-09T01:47:06Z",
+            "sentiment-score": 0.013792152516543865
+        },
+        {
+            "id": "f38e07b0-36ae-3876-8b27-f3225762df12",
+            "summary": "Key Insights Significantly high institutional ownership implies Salesforce's stock price is sensitive to their trading...",
+            "date": "2025-04-09T12:00:40Z",
+            "sentiment-score": 0.030609995126724243
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "ticker": "NOW",
+    "total_news": 19,
+    "average_sentiment": 0.24571223928298996,
+    "weighted_average_sentiment": 0.23377102596216995,
+    "average_daily_sentiments": [
+        0.0311876330524683,
+        0.44944015983492136,
+        0.30637734653428195,
+        0.0029652193188667297,
+        0.027847894001752138,
+        0.010788590472657233,
+        0.555397286079824
+    ],
+    "news": [
+        {
+            "id": "b0310934-5fc6-33f3-a51b-3a8fa6ec162b",
+            "summary": "Leading artificial intelligence (AI) companies are seeing growing demand that points to a lucrative opportunity.  Investors who keep a long-term perspective and take advantage of market dips to buy shares of competitively positioned companies at discounts will be in the best position to profit from this opportunity.  Nvidia's (NASDAQ: NVDA) breakneck innovation in the AI chip market has powered its way toward the top of the semiconductor industry.",
+            "date": "2025-04-03T09:30:00Z",
+            "sentiment-score": 0.8446822213009
+        },
+        {
+            "id": "f479977f-91b7-3026-b199-0b69a8ea7027",
+            "summary": "In the closing of the recent trading day, ServiceNow (NOW) stood at $824.03, denoting a +1.54% change from the preceding trading day.",
+            "date": "2025-04-02T21:50:16Z",
+            "sentiment-score": 0.43857063353061676
+        },
+        {
+            "id": "5551cad4-9e13-3662-a954-78a0e7a880d1",
+            "summary": "ServiceNow (NYSE: NOW) is a software company specializing in cloud-based workflow management.  Is it too late to invest in ServiceNow?  ServiceNow's long-term growth will depend on how well it scales up its artificial intelligence (AI) platform and tools, but it's been good so far.",
+            "date": "2025-04-03T11:45:00Z",
+            "sentiment-score": 0.8186545465141535
+        },
+        {
+            "id": "a8eafb03-7174-321f-9ffd-ba33f5cb0946",
+            "summary": "Tracey Ryniec, Zacks Senior Stock Strategist, looks at ServiceNow, Palantir, and Palo Alto Networks. Are they deals?",
+            "date": "2025-04-03T22:59:00Z",
+            "sentiment-score": 0.0028550904244184494
+        },
+        {
+            "id": "8ce00271-19ec-3791-be42-b747cdd736db",
+            "summary": "Founded in 2021, Logik.ai offers a product that combines AI with a sophisticated rules engine to optimise and simplify the transaction management cycle.",
+            "date": "2025-04-04T09:02:43Z",
+            "sentiment-score": 0.1300022869836539
+        },
+        {
+            "id": "6e7bb548-9c30-3fc5-afa8-3c3a35b5ff63",
+            "summary": "ServiceNow (NOW) announced it signed a definitive agreement to acquire Logik.ai. The transaction is subject to customary regulatory approvals and closing conditions. Logik.ai\u2019s capabilities for sales and commerce will expand ServiceNow\u2019s CRM footprint. The acquisition will accelerate ServiceNow\u2019s momentum in sales and order management, process that governs the commercial lifecycle from opportunity management, quoting, and order placement, through fulfillment and delivery, to renewals and expansi",
+            "date": "2025-04-04T13:51:05Z",
+            "sentiment-score": 0.8575883852317929
+        },
+        {
+            "id": "0ddddb4b-4e61-33d9-b9d8-6a7777682990",
+            "summary": "ServiceNow (NYSE:NOW) recently announced a strategic partnership with Tech Mahindra to enhance broadband solutions for Communication Service Providers. Despite this collaboration, ServiceNow's shares fell 6% over the past week. This decline was part of a broader market downturn, as the Dow Jones and Nasdaq entered correction and bear market territories, respectively, following trade tensions induced by new tariffs from the Trump administration. Industry-wide concerns affected large technology...",
+            "date": "2025-04-04T18:24:01Z",
+            "sentiment-score": -0.9579402576200664
+        },
+        {
+            "id": "e0ede18c-2053-31cf-b582-a1cbb0c65d54",
+            "summary": "We recently published a list of Jim Cramer\u2019s Thoughts on Liberation Day, Tariffs, and 17 Stocks to Watch Right Now. In this article, we are going to take a look at where ServiceNow, Inc. (NYSE:NOW) stands against other stocks that Jim Cramer discusses. On Tuesday, April 1st, the host of Mad Money opened the show [\u2026]",
+            "date": "2025-04-04T22:24:45Z",
+            "sentiment-score": 0.013503947295248508
+        },
+        {
+            "id": "5b6ffe56-0f91-3419-8438-7905f42c84cc",
+            "summary": "Companies that consistently increase their sales, margins, or returns on capital are usually rewarded with the best returns, and those that can do all three for years on end are almost always the legendary stocks that return 100 times your money.",
+            "date": "2025-04-05T13:50:50Z",
+            "sentiment-score": 0.04182564467191696
+        },
+        {
+            "id": "314806c4-f575-3e3c-8268-23fae3761f34",
+            "summary": "We recently published a list of 12 Best Enterprise Software Stocks to Buy Now. In this article, we are going to take a look at where ServiceNow, Inc. (NYSE:NOW) stands against other best enterprise software stocks to buy now. In 2024, the global enterprise market size was estimated at $263.79 billion, according to Grand View [\u2026]",
+            "date": "2025-04-05T22:13:43Z",
+            "sentiment-score": 0.013870143331587315
+        },
+        {
+            "id": "0015eaab-8356-36ad-8a25-94871660f338",
+            "summary": "We recently published a list of Jim Cramer Raises Big Question About Tariffs & Discusses These 11 Stocks. In this article, we are going to take a look at where ServiceNow, Inc. (NYSE:NOW) stands against other stocks that Jim Cramer discusses. In a recent appearance on CNBC\u2019s Squawk on the Street, Jim Cramer asked the [\u2026]",
+            "date": "2025-04-06T23:17:30Z",
+            "sentiment-score": 0.0029652193188667297
+        },
+        {
+            "id": "f6ac89a0-ec61-326d-afab-c0b3e4df29fd",
+            "summary": "NOW, PLTR and PANW have been highlighted in this Market Edge article.",
+            "date": "2025-04-07T09:31:00Z",
+            "sentiment-score": 0.03376634093001485
+        },
+        {
+            "id": "11eb880e-6ac2-3c81-b70d-238386156181",
+            "summary": "AT&T, ServiceNow, and Fortinet will survive the incoming tariffs and trade wars.",
+            "date": "2025-04-07T08:20:00Z",
+            "sentiment-score": 0.5918874014168978
+        },
+        {
+            "id": "25a9f21a-5479-358f-a0d0-e14b40c8367a",
+            "summary": "According to the average brokerage recommendation (ABR), one should invest in ServiceNow (NOW). It is debatable whether this highly sought-after metric is effective because Wall Street analysts' recommendations tend to be overly optimistic. Would it be worth investing in the stock?",
+            "date": "2025-04-07T13:30:08Z",
+            "sentiment-score": 0.016587626188993454
+        },
+        {
+            "id": "b8b86b02-943f-32a6-b061-30bc1db9d5bd",
+            "summary": "We recently published a list of Jim Cramer Reveals Stocks Benefiting From Tariff Selloff & Discusses These 8 Stocks. In this article, we are going to take a look at where ServiceNow, Inc. (NYSE:NOW) stands against other stocks that Jim Cramer discusses. In his appearance on CNBC\u2019s Squawk on the Street on Thursday, Jim Cramer [\u2026]",
+            "date": "2025-04-07T18:41:01Z",
+            "sentiment-score": -0.0027707647532224655
+        },
+        {
+            "id": "fd2a3268-ed82-3ccb-8cb0-976a95e18581",
+            "summary": "NOW's deal to acquire Logic.ai enhances its CRM capabilities with AI-driven solutions, but forex headwinds and a challenging macroeconomic environment raise concerns.",
+            "date": "2025-04-07T19:00:00Z",
+            "sentiment-score": 0.8924161288887262
+        },
+        {
+            "id": "97b8a15c-95a2-3d57-81c1-e1782ba84a43",
+            "summary": "Lakehouse Capital, a Sydney-based investment manager, released its \u201cLakehouse Global Growth Fund\u201d January 2025 investor letter. A copy of the letter can be downloaded here. January was a strong month for the fund, fueled by excellent results from several of portfolio companies. The Fund returned 7.3% net of fees and expenses for the month compared [\u2026]",
+            "date": "2025-04-08T13:19:53Z",
+            "sentiment-score": 0.9077352024614811
+        },
+        {
+            "id": "79f57ae1-6f9b-3832-8872-1bf1470b970d",
+            "summary": "In the closing of the recent trading day, ServiceNow (NOW) stood at $727.65, denoting a -1.07% change from the preceding trading day.",
+            "date": "2025-04-08T21:50:16Z",
+            "sentiment-score": -0.008854882791638374
+        },
+        {
+            "id": "a6c0afbd-80db-3490-9d4a-84054ffbc1f2",
+            "summary": "We recently published a list of 10 Best Long Term Growth Stocks to Buy According to Billionaires. In this article, we are going to take a look at where ServiceNow, Inc. (NYSE:NOW) stands against other best long term growth stocks to buy according to billionaires. As per Barclays, the US administration announced numerous executive orders with [\u2026]",
+            "date": "2025-04-09T16:21:20Z",
+            "sentiment-score": 0.0311876330524683
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "ticker": "HD",
+    "total_news": 15,
+    "average_sentiment": 0.12287760861217975,
+    "weighted_average_sentiment": 0.07868894874506323,
+    "average_daily_sentiments": [
+        0,
+        0.22426674677990377,
+        -0.31462080869823694,
+        0,
+        0.46078852424398065,
+        -0.0023729372769594193,
+        0.2432820985559374
+    ],
+    "news": [
+        {
+            "id": "c576d5bd-e608-381e-a823-14cd0cfd5edf",
+            "summary": "Home Depot, Lowe\u2019s, and Tractor Supply all sport decent yields that are growing and undergirded by strong cash flow. Dividend yields should help Gap and Hasbro, too, as a volatility buffer.",
+            "date": "2025-04-03T06:00:00Z",
+            "sentiment-score": 0.8744825571775436
+        },
+        {
+            "id": "8e9cfdc4-67dc-3e6d-83dc-e824b62969b1",
+            "summary": "RH's fourth-quarter fiscal 2024 results indicate strong demand despite a challenging housing market.",
+            "date": "2025-04-03T13:13:00Z",
+            "sentiment-score": 0.9192151762545109
+        },
+        {
+            "id": "184f6806-be83-3275-908d-48bb7a91ed21",
+            "summary": "To navigate the volatility the year may bring, blue-chip retail stocks like WMT, COST and HD offer a blend of stability and growth.",
+            "date": "2025-04-03T12:58:00Z",
+            "sentiment-score": 0.09715296793729067
+        },
+        {
+            "id": "65135eeb-8d6a-3f53-a146-fffa3f3f7dee",
+            "summary": "There's a lot of uncertainty in the stock market right now, and it's causing many investors to reconsider some of their stocks and look at which ones might offer good opportunities to buy.  With U.S. President Donald Trump's ongoing tariff actions against trade partners and some economists increasing their estimates of a potential recession, it's no surprise that investors are taking a more skeptical approach to each stock they buy.  When considering two leading consumer goods companies, Amazon (NASDAQ: AMZN) and Home Depot (NYSE: HD), which looks like the best stock to buy right now?",
+            "date": "2025-04-04T12:45:00Z",
+            "sentiment-score": -0.005157269537448883
+        },
+        {
+            "id": "59dcc911-c823-3df4-8b7c-85a430d7c706",
+            "summary": "Walmart, Costco Wholesale and The Home Depot are part of the Zacks top Analyst Blog.",
+            "date": "2025-04-04T13:16:00Z",
+            "sentiment-score": 0.00041139498353004456
+        },
+        {
+            "id": "1033f9aa-43cd-3f52-98d1-19a42b8f0e3f",
+            "summary": "Home Depot (NYSE: HD) is one of just 30 components in the Dow Jones Industrial Average (DJINDICES: ^DJI).  Like the majority of Dow stocks, Home Depot is an industry-leading business that pays a dividend, making it a go-to blue chip stock.  Here's why the sell-off in the dividend stock is a buying opportunity for long-term investors.",
+            "date": "2025-04-05T07:05:00Z",
+            "sentiment-score": 0.015097031369805336
+        },
+        {
+            "id": "53efd516-9013-3a73-a221-d18676ad1735",
+            "summary": "An ill-timed April Fools\u2019 Day joke from a tool review website had customers up in arms, as stock markets crash and the economy looks increasingly dire.",
+            "date": "2025-04-03T21:30:00Z",
+            "sentiment-score": -0.9177223071455956
+        },
+        {
+            "id": "4629aac5-4113-3282-8709-f12fad8ccad6",
+            "summary": "Despite headwinds that have come in the form of economic downturns, a global pandemic, supply chain issues, inflationary pressures, and higher interest rates, nothing has gotten in the way of Home Depot (NYSE: HD) paying a dividend for the past 152 straight quarters -- or 38 straight years.  In its fiscal 2024 alone, Home Depot paid over $8.9 billion in dividends, up from $8.4 billion in the previous fiscal year.  In February of 2023, 2024, and 2025, Home Depot bumped up its quarterly payouts by 10%, 8%, and 2%, respectively.",
+            "date": "2025-04-05T12:05:00Z",
+            "sentiment-score": 0.906480017118156
+        },
+        {
+            "id": "229adc11-b286-3d16-b1fd-3efd52d85ac1",
+            "summary": "Quarterly earnings results are a good time to check in on a company\u2019s progress, especially compared to its peers in the same sector. Today we are looking at Home Depot (NYSE:HD) and the best and worst performers in the home furnishing and improvement retail industry.",
+            "date": "2025-04-07T09:05:19Z",
+            "sentiment-score": -0.40299954265356064
+        },
+        {
+            "id": "fd58f280-cc04-3846-a417-341e561f07c2",
+            "summary": "Finding stocks expected to beat quarterly earnings estimates becomes an easier task with our Zacks Earnings ESP.",
+            "date": "2025-04-07T13:00:13Z",
+            "sentiment-score": 0.10026570502668619
+        },
+        {
+            "id": "99aadc3d-109b-3a22-bfde-7c39ac52efe3",
+            "summary": "Home Depot (NYSE:HD) experienced a flat price movement over the past week, amidst a backdrop of significant investor activism highlighting proposals on corporate governance and sustainability, which the company recommended voting against ahead of its annual meeting on May 22, 2025. At the same time, broader market volatility, driven by heightened uncertainties around new tariffs, saw the market dip significantly, with the Dow Jones index dropping sharply. This general market turbulence likely...",
+            "date": "2025-04-07T17:23:39Z",
+            "sentiment-score": -0.6411285884678364
+        },
+        {
+            "id": "29112f85-8e99-3f5f-b059-793c59c02837",
+            "summary": "Recently, Zacks.com users have been paying close attention to Home Depot (HD). This makes it worthwhile to examine what the stock has in store.",
+            "date": "2025-04-08T13:00:13Z",
+            "sentiment-score": 0.04607897251844406
+        },
+        {
+            "id": "4c23a284-21e2-3512-8bef-0f7e4709f97a",
+            "summary": "Based on the average brokerage recommendation (ABR), Home Depot (HD) should be added to one's portfolio. Wall Street analysts' overly optimistic recommendations cast doubt on the effectiveness of this highly sought-after metric. So, is the stock worth buying?",
+            "date": "2025-04-08T13:30:08Z",
+            "sentiment-score": 0.02887299470603466
+        },
+        {
+            "id": "51350ce6-a892-3039-ba80-26db92682a26",
+            "summary": "(Bloomberg) -- The Friday before President Donald Trump\u2019s April 2 announcement of across-the-board tariffs, the top lawyer for one of the biggest US retail industry groups updated members on planning for a potential lawsuit over the trade levies.Most Read from BloombergThe Irish Hot Press Is the Low-Tech Laundry Trick the World NeedsTrump Order on CDFI Fund Risks Aid for Small Businesses, HousingThis Skinny Mexico City Tower Is Just 14 Feet Wide on One SideIn Chicago, a Former Steel Mill Looks t",
+            "date": "2025-04-08T16:36:26Z",
+            "sentiment-score": -0.0213942751288414
+        },
+        {
+            "id": "d89ddfd6-abd3-30bb-a42b-94ebf0a6a069",
+            "summary": "Home Depot (HD) concluded the recent trading session at $334.81, signifying a -1.96% move from its prior day's close.",
+            "date": "2025-04-08T21:45:15Z",
+            "sentiment-score": 0.8435092950239778
+        }
+    ]
+}

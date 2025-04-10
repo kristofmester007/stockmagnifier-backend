@@ -1,0 +1,677 @@
+{
+    "ticker": "MSFT",
+    "total_news": 110,
+    "average_sentiment": -0.23060254268348218,
+    "weighted_average_sentiment": -0.29402276429165186,
+    "average_daily_sentiments": [
+        -0.2449829974947007,
+        -0.5327342094942218,
+        -0.2449101728387177,
+        0.14060143598665795,
+        -0.16472610676040253,
+        -0.16531664540094357,
+        -0.1663983778151519
+    ],
+    "news": [
+        {
+            "id": "6a4eb73f-25fc-3dc3-8863-c41509d1752a",
+            "summary": "OpenAI's user and revenue growth is set to benefit Microsoft via cloud, ownership, and Copilot integration, says Jefferies",
+            "date": "2025-04-02T19:40:04Z",
+            "sentiment-score": 0.8561655785888433
+        },
+        {
+            "id": "adf691a2-941d-33f8-a552-bc40ee03f63b",
+            "summary": "In the spring of 1975, a college dropout and his childhood friend launched a tiny software company in Albuquerque with a singular mission: put a computer on every desk and in every home. Five decades later, Microsoft stands as a survivor of tech\u2019s brutal evolutionary cycles, transforming from a scrappy BASIC interpreter vendor to an operating system kingpin, an internet also-ran, a stagnating giant, and now a cloud computing and AI player worth almost $3 trillion.",
+            "date": "2025-04-03T09:00:00Z",
+            "sentiment-score": -0.0029162317514419556
+        },
+        {
+            "id": "ec48308e-3afc-3bd8-bb1b-b8beaf194b1f",
+            "summary": "Microsoft (MSFT) is celebrating its anniversary with an event on Friday at its headquarters in Redmond, Washington.",
+            "date": "2025-04-03T09:00:00Z",
+            "sentiment-score": 0.0864035370759666
+        },
+        {
+            "id": "c375acb6-5a1a-3d86-bafc-d67d7f3447cd",
+            "summary": "The Nasdaq Composite index is home to almost every stock listed on the Nasdaq exchange, so it's typically a good proxy for the performance of the broader technology industry.  Investors are trying to digest rising uncertainty relating to global trade policies, which could affect economic growth and corporate earnings.  One stock investors might want to consider scooping up is DigitalOcean (NYSE: DOCN).",
+            "date": "2025-04-03T08:17:00Z",
+            "sentiment-score": -0.038983551785349846
+        },
+        {
+            "id": "918f8531-6773-3529-814e-6f50c868d975",
+            "summary": "Although the code that Gates printed out on a teletype machine may look crude compared to what's powering today's artificial intelligence platforms, it played a critical role in creating Microsoft in April 1975 \u2014 a golden anniversary that the Redmond, Washington, company will celebrate on Friday.  Gates, 69, set the stage for that jubilee with a blog post reminiscing on how he and his old high school friend \u2014 the late Paul Allen \u2014 scrambled to create the world's first \u201csoftware factory\u201d after reading an article in the January 1975 issue of Popular Electronics magazine about the Altair 8800, a minicomputer that would be powered by a tiny chip made by the then-obscure technology company, Intel.",
+            "date": "2025-04-03T00:09:40Z",
+            "sentiment-score": 0.02295423112809658
+        },
+        {
+            "id": "57f18b91-5603-3d77-8365-b2a2a10f3e84",
+            "summary": "Apple (NASDAQ: AAPL) is the world's largest company -- by about half a trillion dollars as I write this.  In fact, considering the current state of Apple's business and the growth trajectories of some of its competitors, I think it's highly likely that Apple will lose its title of the world's largest company within the next few years.  There are four companies that could pass Apple in that time frame.",
+            "date": "2025-04-03T10:15:00Z",
+            "sentiment-score": -0.86153912730515
+        },
+        {
+            "id": "c713c3e3-68ee-4cc6-bbf7-b6a230f1388b",
+            "summary": "The tariff-fueled sell-off has erased over $900 billion from Magnificent Seven stocks.",
+            "date": "2025-04-03T20:27:10Z",
+            "sentiment-score": -0.9356228290125728
+        },
+        {
+            "id": "be6b0971-2fe3-34f2-bcb7-a5c270bfe9cb",
+            "summary": "(Bloomberg) -- Roughly $1.7 trillion was erased from the S&P 500 Index at the start of trading on Thursday amid worries that President Donald Trump\u2019s sweeping new round of tariffs could plunge the economy into a recession.Most Read from BloombergMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLondon Clears Final Hurdle for More High-Speed Trains to EuropeLocal Governments Vie for Fired Federal WorkersChicago School District Agrees to Minimum 16% Teacher Pay RaiseThe d",
+            "date": "2025-04-03T20:48:37Z",
+            "sentiment-score": -0.7952549308538437
+        },
+        {
+            "id": "eaa51833-dc95-3e9b-92fa-96209222504f",
+            "summary": "(Bloomberg) -- The retail traders who have stormed the markets in recent years were among the only investors buying on Thursday as US stocks had their worst day since June 2020.Most Read from BloombergMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeHousing Agency Aims to Relocate Its DC HeadquartersWhat Would \u2018Transportation Abundance\u2019 Look Like?Small investor",
+            "date": "2025-04-03T20:38:38Z",
+            "sentiment-score": 0.033882804214954376
+        },
+        {
+            "id": "722e5191-6c6b-3c2c-bdd2-18d4cbfb10b8",
+            "summary": "FreightWaves sat down with Ventagium\u2019s founder, Arturo Torres Arpi, to explore barriers preventing companies from embracing data-driven strategies and solutions that can drive operational excellence. The post Q&A: Can the industry loosen up its data bottlenecks? appeared first on FreightWaves.",
+            "date": "2025-04-03T18:10:07Z",
+            "sentiment-score": 0.04626378417015076
+        },
+        {
+            "id": "9e8fe2ba-72d8-3049-b978-882d03f5b6a2",
+            "summary": "NICE's business unit, Nice Actimize, introduces X-Sight ActOne with Agentic AI, boosting fraud prevention efficiency and ensuring faster, more accurate investigations.",
+            "date": "2025-04-03T17:19:00Z",
+            "sentiment-score": 0.7612250139936805
+        },
+        {
+            "id": "be2daed6-e982-35f5-9ab2-9b15c9fd3a44",
+            "summary": "Microsoft (MSFT) has reportedly stopped or delayed data center projects across the globe, possibly signaling a reassessment of its artificial intelligence ambitions.",
+            "date": "2025-04-03T16:41:00Z",
+            "sentiment-score": -0.9355180053971708
+        },
+        {
+            "id": "8e5a7d85-8fa0-32c4-b067-9dd7cf8752b9",
+            "summary": "(Reuters) -U.S. President Donald Trump's sweeping reciprocal tariffs could hamstring Big Tech's billion-dollar efforts to build artificial intelligence infrastructure in the country, likely undermining a key goal of the administration, analysts said on Thursday.  Trump and technology executives have touted lofty plans by Oracle, SoftBank and others to invest heavily in artificial intelligence since his return to the White House earlier this year.  On Wednesday, Trump slapped steep duties on leading technology equipment suppliers including 34% on China, 32% on Taiwan and 25% on South Korea, while imposing a 10% baseline tariff on all imports to the U.S.",
+            "date": "2025-04-03T16:22:20Z",
+            "sentiment-score": 0.336630392819643
+        },
+        {
+            "id": "b8fca58f-7da9-3f23-ac27-ae363cf24ab1",
+            "summary": "Microsoft Pauses Key Data Center Developments Across Multiple Regions",
+            "date": "2025-04-03T15:27:20Z",
+            "sentiment-score": -0.5510983914136887
+        },
+        {
+            "id": "d0d7d09a-4e48-33f5-8bfa-c5f33f3592a0",
+            "summary": "ADBE shares are benefiting from strong demand for its creative products and expanding clientele amid increasing competition.",
+            "date": "2025-04-03T15:06:00Z",
+            "sentiment-score": 0.9225995168089867
+        },
+        {
+            "id": "d05ae130-187f-37d6-b409-47f0fede3d3f",
+            "summary": "Tech stocks were pummeled Thursday following President Trump\u2019s earlier tariff announcement, a sign of how vulnerable the sector is to a possible recession as well as to higher prices on everything from consumer goods to hardware.  The six tech companies with trillion-dollar market capitalizations (Apple, Nvidia, Microsoft, Amazon, Alphabet and Meta Platforms) lost a combined $985 billion in stock market value today.",
+            "date": "2025-04-03T20:59:43Z",
+            "sentiment-score": -0.9472819371148944
+        },
+        {
+            "id": "b0cd5422-7919-3966-b5eb-a36dcf293500",
+            "summary": "(Bloomberg) -- There\u2019s virtually nowhere to hide for many US technology companies under President Donald Trump\u2019s new tariff regime, the harshest in a century.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018Transportation Abundance\u2019 Look Like?After Thursday\u2019s slump wiped $1.4",
+            "date": "2025-04-04T08:14:06Z",
+            "sentiment-score": 0.059058938175439835
+        },
+        {
+            "id": "684344af-57a3-4971-b34a-746b23b33930",
+            "summary": "The hunt for cheap stocks begins.",
+            "date": "2025-04-04T12:42:55Z",
+            "sentiment-score": -0.004880731925368309
+        },
+        {
+            "id": "114c2a4e-2972-3e4e-9de7-b72cea658b90",
+            "summary": "Microsoft has pulled back on data center projects around the world, Bloomberg reports, suggesting that the company is wary of expanding its cloud computing infrastructure too rapidly. Microsoft has halted talks for or delayed development sites of data centers in the U.K., Australia, North Dakota, Wisconsin, and Illinois, per Bloomberg. A spokesperson told the publication that Microsoft makes its plans years in advance and that the changes demonstrate \"the flexibility of [its] strategy.\" As recen",
+            "date": "2025-04-03T18:45:48Z",
+            "sentiment-score": -0.8709978759288788
+        },
+        {
+            "id": "2e3e61be-e9b1-3fe9-9262-0e283ca3d0f7",
+            "summary": "Not great. Here's their combined loss of market value Thursday, according to Dow Jones Market Data\u2014a record one-day wipeout: $1.03 trillion lost market value Given their size, those moves translated into huge market-value drops: Apple alone lost $311 billion.",
+            "date": "2025-04-04T13:41:56Z",
+            "sentiment-score": -0.9421958513557911
+        },
+        {
+            "id": "a1eb86fd-2725-3959-b00b-d5f8105cb62f",
+            "summary": "GE Vernova, Constellation Energy and Microsoft are part of the Zacks Investment Ideas article.",
+            "date": "2025-04-04T12:41:00Z",
+            "sentiment-score": 0.006973464973270893
+        },
+        {
+            "id": "f290548e-e7bb-3566-aca8-51df34625d0b",
+            "summary": "Generation Investment Management, an investment management firm, released its \u201cGlobal Equity Strategy\u201d fourth quarter 2024 investor letter. A copy of the letter can be downloaded here. The firm is not a momentum investor and avoids companies with uncertain future earnings and high valuations. The firm invests for the long-term and remains curious about new companies. [\u2026]",
+            "date": "2025-04-04T12:16:21Z",
+            "sentiment-score": 0.004829013720154762
+        },
+        {
+            "id": "793f1120-ec83-3e39-ab69-94226f4781e4",
+            "summary": "The Nasdaq Composite index hit its most recent high on Dec. 16, 2024, but the tech-laden index has turned in a forgettable performance so far this year.  The result is largely due to the rising economic uncertainty in the U.S. thanks to the new administration's policies.  This puts the Nasdaq Composite in correction territory.",
+            "date": "2025-04-04T12:15:00Z",
+            "sentiment-score": -0.8978245528414845
+        },
+        {
+            "id": "1da74049-117e-379c-99ad-aa804bd5bfcf",
+            "summary": "Flexera has introduced Cloud License Management, a solution designed to enhance the management of cloud software expenditures, which have become a significant concern for organizations with cloud spend challenges surpassing even security issues. This new tool allows organizations to gain a comprehensive understanding of their cloud software investments across platforms like Amazon Web Services and Microsoft Azure. By providing a unified view of cloud software spend, along with actionable...",
+            "date": "2025-04-04T12:07:44Z",
+            "sentiment-score": 0.48118103574961424
+        },
+        {
+            "id": "77d2f527-18bf-35a6-b700-ca0778dec689",
+            "summary": "The company has recently halted negotiations or postponed development in Indonesia, the UK, Australia, and the US.",
+            "date": "2025-04-04T11:27:57Z",
+            "sentiment-score": -0.9094807915389538
+        },
+        {
+            "id": "b0c5659d-a1ab-37a9-91f1-1bc9b9b03778",
+            "summary": "All \"Magnificent Seven\" names \u2014 Nvidia (NVDA), Alphabet (GOOG, GOOGL), Tesla (TSLA), Microsoft (MSFT), Amazon (AMZN), Meta (META), and Apple (AAPL) \u2014 are in the red under Trump's second administration. Yahoo Finance podcast Stocks in Translation host Jared Blikre takes a closer look at the group's moves. Catch more Stocks in Translation here, with new episodes every Tuesday and Thursday. To watch more expert insights and analysis on the latest market action, check out more Catalysts here.",
+            "date": "2025-04-04T15:56:11Z",
+            "sentiment-score": 0.02140659186989069
+        },
+        {
+            "id": "e3004365-c645-41ce-a190-e4dd2914c1e2",
+            "summary": "Microsoft's Copilot is getting a slew of intelligent upgrades, leaving rival Apple further behind in the AI wars.",
+            "date": "2025-04-04T16:31:50Z",
+            "sentiment-score": -0.6320246197283268
+        },
+        {
+            "id": "d042f97a-64da-32c8-b07a-c1da4fe8085a",
+            "summary": "REDMOND, Wash (Reuters) -Thousands of people swooned in a dark conference hall that felt more like a rock concert when a Microsoft product manager demonstrated the company's latest feature: how to sum numbers in Excel, with the click of a button.  \"It was literally like Mick Jagger walked out,\" said Yusuf Mehdi, Microsoft's consumer chief marketing officer, who started as an intern.  On Friday, the day Microsoft turned 50, the company's leaders and staff gathered at its Redmond headquarters to remember the software maker's glory days while trumpeting what they hope will bring it into the future: more powerful artificial intelligence.",
+            "date": "2025-04-04T16:32:37Z",
+            "sentiment-score": 0.02756340615451336
+        },
+        {
+            "id": "f50e82fe-bfdb-3173-a7be-170de2061035",
+            "summary": "Fifty years after the founding of Microsoft, the CEO of its artificial intelligence division has a big task: develop a new product line as integral to daily life as the software giant's past innovations.  \u201cWe\u2019re really trying to land this idea that everybody is going to have their own personalized AI companion,\" said Mustafa Suleyman in an interview with The Associated Press.  Suleyman is laying out that vision on Microsoft's 50th anniversary Friday.",
+            "date": "2025-04-04T16:31:32Z",
+            "sentiment-score": 0.04298886423930526
+        },
+        {
+            "id": "0118089b-d910-3694-b842-f272d9f8bef9",
+            "summary": "The 1978 photo came about because one employee, Bob Greenberg, won a free portrait from a radio contest.",
+            "date": "2025-04-04T15:11:09Z",
+            "sentiment-score": 0.04800401907414198
+        },
+        {
+            "id": "8bb7cfb1-c280-4d50-8828-57abe6763b61",
+            "summary": "Nintendo announced that it is delaying preorders of its Switch 2 console amid Trump tariffs.",
+            "date": "2025-04-04T18:12:21Z",
+            "sentiment-score": -0.918307114392519
+        },
+        {
+            "id": "084f0bdc-a80d-4338-ac0b-eaabb0b8a6ea",
+            "summary": "Intel and TSMC have reached a tentative agreement to shore up Intel's foundry business, according to The Information.",
+            "date": "2025-04-03T20:24:17Z",
+            "sentiment-score": 0.9004811774939299
+        },
+        {
+            "id": "63aba0bb-52ae-3b10-8437-5a05c95d5c43",
+            "summary": "Microsoft (MSFT) announced an array of updates to personalize and automate its Copilot AI assistant at the company\u2019s 50th anniversary celebrations Friday.",
+            "date": "2025-04-04T18:26:26Z",
+            "sentiment-score": 0.24918598867952824
+        },
+        {
+            "id": "5bd99687-d901-37f7-9955-f71bc206f469",
+            "summary": "For its 50th birthday, Microsoft is teaching its AI-powered Copilot chatbot a few new tricks. Copilot can now take action on \"most websites,\" Microsoft says, enabling it to book tickets, reserve restaurants, and more. The bot has gained the ability to remember specific things about you, similar to OpenAI's ChatGPT, like your favorite food and films. And it can now analyze real-time video from your phone, answering questions in the context of what it \"sees.\" The upgrades come as Microsoft is repo",
+            "date": "2025-04-04T16:30:00Z",
+            "sentiment-score": 0.12625829642638564
+        },
+        {
+            "id": "b5662b5b-95a7-37d7-972a-24887be45e4c",
+            "summary": "Microsoft marked its 50th anniversary by unveiling major Copilot AI updates, including new developer tools and user features",
+            "date": "2025-04-04T20:15:26Z",
+            "sentiment-score": 0.49974972289055586
+        },
+        {
+            "id": "1eaad342-b16d-3008-868e-31fdfc1b5653",
+            "summary": "While scaling back some site developments, Microsoft says infrastructure plans are still aligned with growing AI demand",
+            "date": "2025-04-04T20:11:40Z",
+            "sentiment-score": 0.7884500101208687
+        },
+        {
+            "id": "2460a497-b889-4618-baeb-ec3778d59c88",
+            "summary": "Nvidia and Tesla led megacaps lower on Friday as stocks continued to sell off amid a global trade war.",
+            "date": "2025-04-04T20:28:05Z",
+            "sentiment-score": -0.9510598769411445
+        },
+        {
+            "id": "efb71348-0c08-3461-b8d9-617db3788863",
+            "summary": "A number of stocks fell in the afternoon session after China imposed a 34% tariff on all U.S. imports amid escalating trade war tensions. This was partly in response to the \"reciprocal tariffs\" announced by the Trump administration the previous day, with levies on Chinese goods estimated to be as high as 50%. The move is the first in a list of anticipated retaliatory measures that could have had investors really worried. The tariffs were also widely seen as a significant threat to global trade f",
+            "date": "2025-04-04T20:33:24Z",
+            "sentiment-score": -0.9488690737634897
+        },
+        {
+            "id": "c0be4de8-f2b2-320e-b50b-bc63107b2879",
+            "summary": "(Bloomberg) -- Meta Platforms Inc. plans to spend nearly $1 billion on the development of a data center project in central Wisconsin, underscoring a larger effort from the social media giant to ramp up investments in AI and cloud infrastructure.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersWhat Would \u2018Transportation Abundance\u2019 Look Like?London Cl",
+            "date": "2025-04-04T19:57:37Z",
+            "sentiment-score": 0.10988254053518176
+        },
+        {
+            "id": "0f62c2fe-39cc-3ebf-8e83-78c930cd79e0",
+            "summary": "Microsoft (MSFT) is turning 50. One of the people who knows the company best is former CEO Steve Ballmer. He sat down with Yahoo Finance Tech Editor Dan Howley to discuss how the tech giant continues to evolve through its embrace of AI and how it navigates turmoil such as tariffs. To watch more expert insights and analysis on the latest market action, check out more Asking for a Trend here.",
+            "date": "2025-04-04T21:57:40Z",
+            "sentiment-score": 0.043092581909149885
+        },
+        {
+            "id": "cb4c591f-4727-3add-89b4-1bf578d3c10f",
+            "summary": "GitHub Copilot, Microsoft-owned GitHub's AI coding assistant, could soon become costlier for some users. On Friday, GitHub announced \"premium requests\" for GitHub Copilot, a new system that imposes rate limits when users switch to AI models other than the base model for tasks such as \"agentic\" coding and multi-file edits. While GitHub Copilot subscribers can still take unlimited actions with the base model (OpenAI's GPT-4o), tasks and actions with newer models, like Anthropic's 3.7 Sonnet, will",
+            "date": "2025-04-04T17:52:41Z",
+            "sentiment-score": 0.030987469479441643
+        },
+        {
+            "id": "b063c558-98da-35b0-b260-8d5af8eede23",
+            "summary": "A pro-Palestinian protester interrupted the keynote event of Microsoft's 50th anniversary celebration Friday, the latest backlash over the tech industry's work to supply artificial intelligence technology to the Israeli military.  The protest happened as Microsoft AI CEO Mustafa Suleyman was presenting product updates and a long-term vision for the company's AI assistant product, Copilot, to an audience that included Microsoft co-founder Bill Gates and former CEO Steve Ballmer.",
+            "date": "2025-04-04T21:31:39Z",
+            "sentiment-score": -0.6769107971340418
+        },
+        {
+            "id": "e0c1168a-d053-3b1a-b251-de83b6f60060",
+            "summary": "We recently published a list of Top 10 Stocks to Watch as Investors Brace for Potential Recession. In this article, we are going to take a look at where Microsoft Corporation (NASDAQ:MSFT) stands against other top stocks to watch as investors brace for potential recession. President Donald Trump\u2019s new reciprocal tariff announcement is hammering stock [\u2026]",
+            "date": "2025-04-04T21:23:06Z",
+            "sentiment-score": -0.08709060586988926
+        },
+        {
+            "id": "195d2fc3-1cfb-4497-affc-f396f4b6db6b",
+            "summary": "Former Microsoft CEO Steve Ballmer says companies need to continue to invest through tumultuous markets.",
+            "date": "2025-04-04T22:36:22Z",
+            "sentiment-score": -0.06324300169944763
+        },
+        {
+            "id": "8cee95b2-1268-362f-a741-76a159ea0c38",
+            "summary": "Microsoft (NASDAQ:MSFT) founder Bill Gates nostalgically looks back on the computer code he wrote 50 years ago, which played a pivotal role in the creation of the tech giant. What Happened: Gates reminisced about the early days of Microsoft in a blog post. He and his late high school friend, Paul Allen, were inspired by a 1975 article about the Altair 8800, a minicomputer powered by a chip from the then-unknown tech company, Intel (NASDAQ:INTC). This prompted them to assure Altair\u2019s manufacturer",
+            "date": "2025-04-05T02:30:15Z",
+            "sentiment-score": 0.015493560582399368
+        },
+        {
+            "id": "2980f019-5847-3cdb-95ba-05d22939c67f",
+            "summary": "Microsoft AI CEO Mustafa Suleyman's remarks were interrupted by a pro-Palestinian protesting employee during the technology company's 50th anniversary celebration on Friday over the firm's ties with Israel.  Suleyman responded by saying: \"I hear your protest, thank you.\"",
+            "date": "2025-04-05T02:07:37Z",
+            "sentiment-score": -0.5947316475212574
+        },
+        {
+            "id": "acdc21f8-1861-348e-a3d2-02565b571761",
+            "summary": "As Microsoft CEOs past and present gathered here to celebrate the company's 50th birthday, one leader said he is targeting a particular metric's improvement to guide his strategy on artificial intelligence.  Mustafa Suleyman, chief executive of Microsoft AI, said his consumer and research division is tracking the usual measures of adoption for the company's AI assistant called Copilot.  In an older era when consumers gave less real-time feedback on software, the time they spent with a product -- on social media, for instance -- or the problems they could solve represented crude \"proxies for quality,\" he said.",
+            "date": "2025-04-05T00:13:06Z",
+            "sentiment-score": -0.000921938568353653
+        },
+        {
+            "id": "66171968-f38f-33c2-a9e5-194c9e2ff383",
+            "summary": "We recently published a list of Mag7 and Beyond: Top 10 AI News Updates and Ratings. In this article, we are going to take a look at where Microsoft Corporation (NASDAQ:MSFT) stands against other top AI news updates and ratings. According to a study presented at a European Central Bank conference, companies that manage to [\u2026]",
+            "date": "2025-04-04T23:01:05Z",
+            "sentiment-score": 0.02872564736753702
+        },
+        {
+            "id": "3d18ecbb-9783-345b-bfba-af3b7b9f88b7",
+            "summary": "The share price of Arm Holdings (NASDAQ: ARM) rocketed higher in the first month of 2025, but the British technology company saw a significant pullback since hitting a 2025 high on Jan. 22.  Arm stock has traded down 44% since then as investors pressed the panic button over multiple headwinds.  Does the sharp pullback that Arm saw in the past couple of months present a buying opportunity for long-term investors?",
+            "date": "2025-04-05T09:20:00Z",
+            "sentiment-score": -0.9497489668428898
+        },
+        {
+            "id": "9e480f72-250e-37b7-b057-a6d70fa975d8",
+            "summary": "OpenAI CEO Sam Altman stated in a post to X: \u201cchange of plans: we are going to release o3 and o4-mini after all, probably in a couple of weeks, and then do GPT-5 in a few months. there are a bunch of reasons for this, but the most exciting one is that we are going to be able to make GPT-5 much better than we originally though. we also found it harder than we thought it was going to be to smoothly integrate everything. and we want to make sure we have enough capacity to support what we expect to",
+            "date": "2025-04-05T14:50:10Z",
+            "sentiment-score": 0.5005569728091359
+        },
+        {
+            "id": "7adf1788-3409-3df3-96ed-1dfb8c534eb0",
+            "summary": "With artificial intelligence (AI) increasing demand for electricity, nuclear energy is becoming a more viable option.  In fact, all three big cloud computing companies have announced major investments in nuclear power.  Microsoft started the ball rolling when last fall it signed a 20-year power purchase agreement with Constellation Energy in which the power company would restart its Three Mile Island nuclear facility to power Microsoft's data centers.",
+            "date": "2025-04-05T13:07:00Z",
+            "sentiment-score": 0.7022174429148436
+        },
+        {
+            "id": "df2ee29d-8fa8-32ef-978c-accf355df5d8",
+            "summary": "(Bloomberg) -- Hon Hai Precision Industry Co.\u2019s first-quarter sales rose at their fastest clip since 2022 on resilient data center demand, a bright sign for the artificial intelligence sector amid tariff-induced fears.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersLocal Governments Vie for Fired Federal WorkersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesWhat Would \u2018Transportation Abundance\u2019 Look Like?Hochul Says Trump\u2019s Tariffs Are Alre",
+            "date": "2025-04-05T13:03:02Z",
+            "sentiment-score": 0.7547125546261668
+        },
+        {
+            "id": "d5340078-d710-3d34-8e5d-fdf4282a49ba",
+            "summary": "Nvidia (NVDA) fell with other Magnificent 7 stocks on Thursday as the market reacted to new tariffs \u2014 but the company also may\u2019ve slipped because a major bank downgraded it for unrelated reasons.",
+            "date": "2025-04-05T13:00:00Z",
+            "sentiment-score": -0.9561457755044103
+        },
+        {
+            "id": "41d0b97f-8ff3-3298-b325-c13e3455c315",
+            "summary": "Tesla (NASDAQ: TSLA) stock ended 2024 with a gain of 63%, partly because of President Donald Trump's November U.S. election win.  Investors speculated that a looser regulatory environment -- and CEO Elon Musk's closeness with Trump and his inner circle -- could pave the way for Tesla to bring its autonomous driving and humanoid robotics platforms to market more quickly.  According to Musk, these products could make Tesla the most valuable company in the world one day -- in fact, he thinks there is a possibility it could be worth more than the next five largest companies combined.",
+            "date": "2025-04-06T08:30:00Z",
+            "sentiment-score": 0.8688229452818632
+        },
+        {
+            "id": "b5b3c666-b82e-3574-b8da-3ba50d14b2bc",
+            "summary": "The tech giants that powered the stock market for the past two years were among the hardest hit this week in this week's big selloff.  Apple shares shed 16% of their value over two days\u2014Thursday and Friday\u2014 as the company draws the bulk of its business from hardware manufactured in countries like China that were hit with steep tariffs.  The corporate software and cloud computing services that make up the bulk of its business are less exposed to tariffs in general.",
+            "date": "2025-04-05T18:30:53Z",
+            "sentiment-score": -0.9539671633392572
+        },
+        {
+            "id": "c71c89f0-dfcd-399c-89bf-eebacba622c5",
+            "summary": "Microsoft (NASDAQ: MSFT), Apple, and Nvidia.  It has crushed the S&P 500 over the long term, gaining 342% over the last decade compared to 145% for the index.  The technology sector has grown in value by so much that it now makes up 29.6% of the S&P 500.",
+            "date": "2025-04-06T11:00:00Z",
+            "sentiment-score": 0.7720577493309975
+        },
+        {
+            "id": "1e01e888-b205-3de4-98db-fe1e0efd3042",
+            "summary": "Although recent\u00a0stock market volatility has pushed down prices for many stocks, the artificial intelligence (AI) sector remains a compelling investment, with the tremendous transformative potential it brings to many industries.  A newcomer to the AI space is the recent initial public offering (IPO)\u00a0CoreWeave (NASDAQ: CRWV).  The company went public on March 28, and AI semiconductor powerhouse Nvidia was among those that bought shares.",
+            "date": "2025-04-06T13:13:00Z",
+            "sentiment-score": 0.12456437107175589
+        },
+        {
+            "id": "2c282091-6bb1-37c9-8916-bce2ffb0b1ae",
+            "summary": "The mostly forgotten former technology titan may quietly be sitting on the next big thing in AI's ongoing evolution.",
+            "date": "2025-04-06T13:00:00Z",
+            "sentiment-score": -0.0053644925355911255
+        },
+        {
+            "id": "011d3387-61e6-3986-9253-3c409191f35f",
+            "summary": "Microsoft has released a browser-based, playable level of the classic video game Quake II. This functions as a tech demo for the gaming capabilities of Microsoft\u2019s Copilot AI platform \u2014 though by the company\u2019s own admission, the experience isn\u2019t quite the same as playing a well-made game. You can try it out for yourself, using your keyboard to navigate a single level of Quake II for a couple minutes before you hit the time limit. In a blog post describing their work, Microsoft researchers said t",
+            "date": "2025-04-06T16:10:24Z",
+            "sentiment-score": 0.022696946747601032
+        },
+        {
+            "id": "c56a044c-e73f-3678-83e1-600280649a09",
+            "summary": "We recently published a list of Starter Stock Portfolio 12 Safe Stocks to Buy. In this article, we are going to take a look at where Microsoft Corporation (NASDAQ:MSFT) stands against other best beginner stocks. The US stock market has experienced a turbulent first quarter of 2025, marked by increased volatility and negative returns across [\u2026]",
+            "date": "2025-04-06T20:42:02Z",
+            "sentiment-score": -0.9391689039766788
+        },
+        {
+            "id": "36e4b58b-1540-3185-bd15-80246e6bab5d",
+            "summary": "Growth-driven exchange-traded funds (ETFs) -- like the Vanguard Growth ETF (NYSEMKT: VUG) -- have significantly outperformed the S&P 500.  With just a 0.04% expense ratio, the Vanguard Growth ETF is a great way to achieve exposure without racking up high fees.  The Vanguard Growth ETF made an all-time high in December and nearly broke through to a new high in February.",
+            "date": "2025-04-07T12:30:00Z",
+            "sentiment-score": 0.8830670528113842
+        },
+        {
+            "id": "61c923ae-248a-39b0-a67d-394c7098a60f",
+            "summary": "Microsoft's joint venture Wicresoft will cease its China operations from Tuesday, a move that will lead to the layoff of about 2,000 staff, Chinese media outlet Caijing reported on Monday, citing sources.  The move is in line with Microsoft's decision to stop outsourcing after-sales support in China to Wicresoft, according to Caijing, raising questions about how the U.S. tech firm will service China-based users of its Windows and Office products.  The report said the closure would lead to layoffs mainly in the 2,000-strong Microsoft outsourcing team in China.",
+            "date": "2025-04-07T08:57:38Z",
+            "sentiment-score": -0.9481786387041211
+        },
+        {
+            "id": "528b2673-ea25-431e-a234-6fc71598aa09",
+            "summary": "The Magnificent 7 tech stocks continued their sell off Monday as the Trump administration\u2019s global tariff plan rocked markets.",
+            "date": "2025-04-07T13:39:20Z",
+            "sentiment-score": -0.8942932719364762
+        },
+        {
+            "id": "c5225218-b550-462a-b025-be7f38940888",
+            "summary": "The profit outlook for businesses has dimmed considerably post Trump tariff news.",
+            "date": "2025-04-07T14:53:59Z",
+            "sentiment-score": -0.4999271593987942
+        },
+        {
+            "id": "ae9c976b-a15e-34b8-9b12-193f1aa8b802",
+            "summary": "Tariffs will be the focus, but Apple's issues predate the shocking tariff announcement on April 2.",
+            "date": "2025-04-07T16:45:00Z",
+            "sentiment-score": 0.004510894417762756
+        },
+        {
+            "id": "f030d7fe-cd97-31b7-8bdb-66c130528720",
+            "summary": "We recently published a list of the 8 Most Profitable Dividend Stocks to Buy Now. In this article, we are going to take a look at where Microsoft Corporation (NASDAQ:MSFT) stands against other profitable dividend stocks. When it comes to profits, dividend investing is the first thing that springs to mind. Dividends represent a portion of [\u2026]",
+            "date": "2025-04-07T18:27:51Z",
+            "sentiment-score": 0.00766803789883852
+        },
+        {
+            "id": "aaad0b5c-b63c-36e6-be26-edfd1f1a73d0",
+            "summary": "AI-oriented companies appear to be performing \u201coverwhelmingly\u201d well, Gabelli Portfolio Manager John Felton recently told Schwab Network. Among the companies well-positioned to benefit from the latter trend are Microsoft (MSFT) and Oracle (ORCL), he suggested. A \u201cDisconnect\u201d Between the Performance and Stock Prices of AI Names Although AI-oriented stocks in general and the sector\u2019s \u201chigh [\u2026]",
+            "date": "2025-04-07T17:55:40Z",
+            "sentiment-score": 0.1445121169090271
+        },
+        {
+            "id": "96d9994a-a927-3df7-8349-ee8625f15680",
+            "summary": "Microsoft has fired two employees who interrupted the company's 50th anniversary celebration to protest its work supplying artificial intelligence technology to the Israeli military, according to a group representing the workers.  Microsoft didn't immediately respond to a request for comment Monday.  The protests began Friday when Microsoft software engineer Ibtihal Aboussad walked up to a stage where an executive was announcing new product features and a long-term vision for Microsoft's AI ambitions.",
+            "date": "2025-04-07T19:48:31Z",
+            "sentiment-score": -0.8576625101268291
+        },
+        {
+            "id": "a82a8239-10b3-3599-a8e0-b2571ab9a60f",
+            "summary": "While the S&P 500 includes industry leaders, not every stock in the index is a winner. Some companies are past their prime, weighed down by poor execution, weak financials, or structural headwinds.",
+            "date": "2025-04-07T13:33:23Z",
+            "sentiment-score": -0.9473897842690349
+        },
+        {
+            "id": "039ecda3-4fef-43c7-82a1-91e57d6642a4",
+            "summary": "Trump's tariffs have sent shockwaves through markets amid one of the largest three-day crashes since World War II.",
+            "date": "2025-04-08T08:00:53Z",
+            "sentiment-score": -0.8629733622074127
+        },
+        {
+            "id": "18d03600-9684-3b7c-9e58-674af7d576bb",
+            "summary": "Nvidia is one of the worst-performing stocks among megacap tech so far this year.",
+            "date": "2025-04-08T14:00:00Z",
+            "sentiment-score": -0.9562628315761685
+        },
+        {
+            "id": "5438f033-17e5-3f3f-a0dc-c239d61719ce",
+            "summary": "Recently, Articul8 introduced A8-SupplyChain, a cutting-edge family of domain-specific Generative AI models tailored for the manufacturing supply chain. This innovation marks a significant advancement in optimizing supply chain, manufacturing, and industrial processes by providing real-time decision-making and autonomous reasoning without the need for data replication. A8-SupplyChain is integrated with Articul8\u2019s ModelMesh\u2122, enhancing its ability to interpret complex, fragmented data and...",
+            "date": "2025-04-08T12:10:08Z",
+            "sentiment-score": 0.2855474753305316
+        },
+        {
+            "id": "8581405c-668e-36d5-a908-1180ffa11f15",
+            "summary": "(Bloomberg) -- A sharp selloff in shares of Apple Inc. illustrates investor skepticism about its ability to navigate President Donald Trump\u2019s tariffs on China, Vietnam and India \u2014 countries all critical to the iPhone maker\u2019s supply chain.Most Read from BloombergThe Irish Hot Press Is the Low-Tech Laundry Trick the World NeedsThis Skinny Mexico City Tower Is Just 14 Feet Wide on One SideHousing Agency Aims to Relocate Its DC HeadquartersBoston Mayor Wu Embraces Trump Resistance as Campaign Heats",
+            "date": "2025-04-08T10:29:32Z",
+            "sentiment-score": -0.35352545976638794
+        },
+        {
+            "id": "d05abba2-0aeb-3c9d-834a-c3acc41b165d",
+            "summary": "Two Democratic U.S. senators demanded information from Microsoft and Google about their cloud computing partnerships with artificial intelligence companies, expressing concern the arrangements could stifle competition in the cutting-edge industry.  U.S. Senators Elizabeth Warren of Massachusetts and Ron Wyden of Oregon, the ranking Democrats on the Senate banking and finance committees, respectively, asked Google for details about its partnership with AI startup Anthropic and Microsoft about its tie-up with ChatGPT creator OpenAI, according to the letters.  \"We are concerned that corporate partnerships within the AI sector discourage competition, circumvent our antitrust laws, and result in fewer choices and higher prices for businesses and consumers using AI tools,\" the senators wrote.",
+            "date": "2025-04-08T10:05:27Z",
+            "sentiment-score": -0.8554754182696342
+        },
+        {
+            "id": "4e533441-f9b9-47ea-bf80-e22da3646462",
+            "summary": "Output per worker fell by 0.5% between 2019 and 2024, according to the Resolution Foundation.",
+            "date": "2025-04-08T05:00:15Z",
+            "sentiment-score": -0.9579885229468346
+        },
+        {
+            "id": "065f818f-c222-36d3-a9e0-418da9491221",
+            "summary": "We recently published a list of 10 Best Fundamental Stocks to Buy According to Billionaires. In this article, we are going to take a look at whereMicrosoft Corporation (NASDAQ: MSFT) stands against other best fundamental stocks to buy according to billionaires. As per Fitch Ratings, the US tariffs are now at levels that continue to [\u2026]",
+            "date": "2025-04-08T02:35:52Z",
+            "sentiment-score": 0.05933324992656708
+        },
+        {
+            "id": "177015f4-14c7-32ec-bc0d-2aaf63727a43",
+            "summary": "In the latest trading session, Microsoft (MSFT) closed at $357.86, marking a -0.55% move from the previous day.",
+            "date": "2025-04-07T21:45:14Z",
+            "sentiment-score": 0.658591534011066
+        },
+        {
+            "id": "a0916ed0-a4d0-499c-bc29-27930b793194",
+            "summary": "AMD stock catches a downgrade as Trump tariff fears spread throughout markets.",
+            "date": "2025-04-08T15:01:08Z",
+            "sentiment-score": -0.9439758956432343
+        },
+        {
+            "id": "b1c2c8bf-4529-3da1-a303-0589d605105b",
+            "summary": "It could be Turnaround Tuesday for stocks after a bruising three-day stretch. Futures on the Dow Jones Industrial Average are jumping, as traders focus on the Trump administration reportedly beginning trade discussions with Japan. The S&P 500 and Nasdaq Composite are also set to open higher. President Trump's broad tariffs are set to kick in tomorrow, with many now seeing them as a negotiating tactic. China, however, vowed today to quote \u201cfight to the end\u201d on the tariff front.Here is what you need to know about the markets today:Levi\u2019s puts investors through the spin cycle: Shares of&nbsp; the jeans maker surged 10% in early trading following better than expected quarterly earnings. The company maintained its full year profit outlook. Walmart is in focus: While Wall Street tries to estimate what tariffs could mean for companies, veteran retail analyst Greg Melich of EvercoreISI is estimating a worst-case scenario of tariffs on Walmart. Melich said, \"If 50% incremental [tariffs] on China and 20% rest of the world [tariffs] are maintained, AND no carrots of tax cuts or deregulation are implemented, we estimate the EPS pressure for Walmart of 2% could grow 3x higher.\" BrIIt could be the year of lost profits for companies due to tariffs: The bottom up consensus earnings per share expectation for the S&P 500 assumes 9.6% growth. Some of the biggest EPS gains are seen in tech darlings Nvidia, Broadcom, Netflix and Microsoft. But long-time strategist Adam Parker at Trivariate Research says investors no longer believe those numbers. Parker thinks the tariffs are such a headwind, investors may see NO earnings growth for the S&P 500.",
+            "date": "2025-04-08T11:37:55Z",
+            "sentiment-score": 0.20111581683158875
+        },
+        {
+            "id": "772d5ca8-1894-3d0d-a508-364402acfbf2",
+            "summary": "Two Microsoft employees have been fired after publicly protesting the company\u2019s contracts with the Israeli military.",
+            "date": "2025-04-08T14:22:00Z",
+            "sentiment-score": -0.9192993259057403
+        },
+        {
+            "id": "feee747d-3b09-3462-a9d9-489661bcb4fb",
+            "summary": "We recently published a list of Jim Cramer Reveals Stocks Benefiting From Tariff Selloff & Discusses These 8 Stocks. In this article, we are going to take a look at where Microsoft Corporation (NASDAQ:MSFT) stands against other stocks that Jim Cramer discusses. In his appearance on CNBC\u2019s Squawk on the Street on Thursday, Jim Cramer [\u2026]",
+            "date": "2025-04-08T14:20:36Z",
+            "sentiment-score": -0.012292718514800072
+        },
+        {
+            "id": "e447c522-15bf-3dd1-af79-56c83584b2cd",
+            "summary": "The Nasdaq Composite (NASDAQINDEX: ^IXIC) is officially in a bear market.  While it had been floating around in correction territory for a few weeks, it fell more than 20% below its all-time high after President Donald Trump announced his new tariff plan on\u00a0April 2.  Trump announced new tariffs on more than 180 countries, with the amounts varying from 10% to 99%.",
+            "date": "2025-04-08T15:12:00Z",
+            "sentiment-score": -0.9441219428554177
+        },
+        {
+            "id": "8d264d8d-4acf-39d8-b9aa-76a2f4f78398",
+            "summary": "The Zacks Focus List offers investors a way to easily find top-rated stocks and build a winning investment portfolio. Here's why you should take advantage.",
+            "date": "2025-04-08T13:30:02Z",
+            "sentiment-score": 0.05991522129625082
+        },
+        {
+            "id": "5eeaf32c-1adf-40bd-a5ca-31d24b0b82cd",
+            "summary": "Nvidia and its \"Magnificent Seven\" peers had shed $1.8 trillion in value last week",
+            "date": "2025-04-08T12:54:02Z",
+            "sentiment-score": -0.9507620232179761
+        },
+        {
+            "id": "544bafef-b44d-3320-8890-20392ac1d5a6",
+            "summary": "The trade-war selloff took a breather on Tuesday, buoying Big Tech firms including Nvidia (NVDA), Tesla (TSLA), Meta (META), and Microsoft (MSFT), after a mixed day on Monday and two especially gnarly days last week wiped $1.8 trillion off the market value of leading tech stocks.",
+            "date": "2025-04-08T15:59:00Z",
+            "sentiment-score": -0.8614030126482248
+        },
+        {
+            "id": "a50a44c2-876d-36c0-873f-7d55e9ac43ef",
+            "summary": "Warren and Wyden launch inquiry into cloud-AI alliances that could reshape the future of artificial intelligence.",
+            "date": "2025-04-08T17:52:15Z",
+            "sentiment-score": 0.03771843854337931
+        },
+        {
+            "id": "1b570e8c-73b5-3834-8543-ae33296257a2",
+            "summary": "The market is wobbling again, and the Magnificent Seven tech stocks are being swept along.    In recent trading, the stocks varied from a 1.3% loss for Apple to a near-2% gain for Nvidia.   The septet had added nearly $500 billion in market cap, according to Dow Jones Market Data, only for a large chunk of those gains to evaporate.",
+            "date": "2025-04-08T16:27:16Z",
+            "sentiment-score": -0.9164056982845068
+        },
+        {
+            "id": "90dee840-1724-307a-af53-973b392d3fde",
+            "summary": "We recently published a list of Tariff Hits and More: 10 AI Stocks in the Spotlight. In this article, we are going to take a look at where Microsoft Corporation (NASDAQ:MSFT) stands against other AI stocks in the spotlight. The newly announced tariffs by U.S. President Donald Trump could have serious consequences for many stocks. [\u2026]",
+            "date": "2025-04-08T18:19:32Z",
+            "sentiment-score": -0.4807109273970127
+        },
+        {
+            "id": "8487dd66-47cb-3a1d-a824-e5f23e71058f",
+            "summary": "Lawmakers question whether cloud giants' deals with AI startups could hurt competition and lead to higher prices",
+            "date": "2025-04-08T20:03:40Z",
+            "sentiment-score": -0.8791603315621614
+        },
+        {
+            "id": "e3f66fd5-c3da-3d3a-adfb-7dbd77bd0444",
+            "summary": "We recently published a list of 10 Best Stocks to Buy According to Billionaire Steve Cohen. In this article, we are going to take a look at where Microsoft Corporation (NASDAQ:MSFT) stands against other best stocks to buy according to billionaire Steve Cohen. Steve Cohen, a prominent figure in the world of hedge funds, is [\u2026]",
+            "date": "2025-04-08T22:11:27Z",
+            "sentiment-score": 0.01967949979007244
+        },
+        {
+            "id": "d43f5da3-ce37-3ceb-bf94-a8ef14f087bc",
+            "summary": "How much has President Trump\u2019s tariff plan cost Apple?  It is no longer the world\u2019s most valuable company.  Apple\u2019s shares fell 5% for the day and are now down 23% since last week\u2019s tariff announcement.",
+            "date": "2025-04-08T20:59:01Z",
+            "sentiment-score": -0.9563706303015351
+        },
+        {
+            "id": "6605e722-5597-3a31-a906-6fcb8f125add",
+            "summary": "A small collective of unlikely candidates is emerging as the most popular opportunities in the quantum computing industry.",
+            "date": "2025-04-09T10:45:00Z",
+            "sentiment-score": 0.060491140466183424
+        },
+        {
+            "id": "f96365e4-d84d-3da8-aa1b-37b0136e234e",
+            "summary": "Apple stock rises but its slump over the past four sessions pushes the iPhone maker below Microsoft as the world\u2019s most valuable public company, Tesla and Nvidia shares recover, while Delta withholds its full-year outlook because of \u2018broad economic uncertainty.\u2019",
+            "date": "2025-04-09T10:42:00Z",
+            "sentiment-score": -0.7381226206198335
+        },
+        {
+            "id": "24eb806e-1e5d-3b58-917b-390720595b5d",
+            "summary": "The big-tech companies have largely bankrolled AI\u2019s growth, after all:  Microsoft Meta Alphabet  and  Amazon.com  together plan more than $270 billion of capital spending on data centers this year, according to a Citigroup estimate.  Before the past few days, this had lifted Nvidia\u2019s shares to unprecedented heights; it was briefly the largest listed company in the world.  Sustaining the boom hinges on the tech companies\u2019 willingness to stick with current and future spending against a backdrop where recession appears increasingly likely.",
+            "date": "2025-04-09T09:30:00Z",
+            "sentiment-score": 0.8819751720875502
+        },
+        {
+            "id": "7edf1d88-a4bc-3dc2-90ca-da67aafe59e5",
+            "summary": "With valuations lower, it can be a cheaper time to load up on quality stocks.  Three companies that are no-brainer investments when looking at the long term are Microsoft (NASDAQ: MSFT), Eli Lilly (NYSE: LLY), and Walmart (NYSE: WMT).  Microsoft was a top name in its industry decades ago, and it wouldn't be surprising if it remains so decades from now.",
+            "date": "2025-04-09T09:15:00Z",
+            "sentiment-score": 0.02330146264284849
+        },
+        {
+            "id": "596bfc64-a8a4-3bb6-9fed-629480a4382f",
+            "summary": "Last week marked a sell-off not seen since the pandemic-induced market crash of 2020.  In just two days (Thursday and Friday), the Nasdaq Composite (NASDAQINDEX: ^IXIC) fell 10.7%, the S&P 500 (SNPINDEX: ^GSPC) tumbled 9.9%, and the Dow Jones Industrial Average (DJINDICES: ^DJI) slipped 8.8%.  The sell-off pushed the Dow into a correction, the S&P 500 went back into a correction, and the Nasdaq moved from a correction into a bear market.",
+            "date": "2025-04-09T08:40:00Z",
+            "sentiment-score": -0.9472782779484987
+        },
+        {
+            "id": "e5bbfbef-5be3-3037-8653-20963c68b5a9",
+            "summary": "The Vanguard S&P 500 Growth ETF (NYSEMKT: VOOG) is an exchange-traded fund (ETF) that tracks the performance of the S&P 500 Growth index.  The Vanguard S&P 500 Growth ETF soared by 35.8% in 2024, crushing the 25% gain in the S&P 500.  It marked the continuation of a long-term trend, because the ETF has averaged a higher return than the S&P 500 since it launched in 2010.",
+            "date": "2025-04-09T08:19:00Z",
+            "sentiment-score": 0.8963031293824315
+        },
+        {
+            "id": "b48f914b-7e99-3f3b-81d7-5e0f519e3778",
+            "summary": "Microsoft Corp. (NASDAQ:MSFT) has reportedly fired two employees who disrupted the tech giant's 50th-anniversary event on Friday after protesting the company's contracts with Israel and accusing its AI CEO of war profiteering. What Happened: Ibtihal Aboussad and Vaniya Agrawal, both Microsoft employees, staged protests during the company's high-profile 50th-anniversary event in Redmond, Washington. Don\u2019t Miss: Inspired by Uber and Airbnb \u2013 Deloitte's fastest-growing software company is transform",
+            "date": "2025-04-09T00:30:42Z",
+            "sentiment-score": -0.8719723783433437
+        },
+        {
+            "id": "bd3ae19c-8cf2-3220-ac28-a3aa5bbaba73",
+            "summary": "Apple's Decline Pushes Microsoft Back to Top as Market Leader",
+            "date": "2025-04-09T12:42:36Z",
+            "sentiment-score": -0.5153991468250751
+        },
+        {
+            "id": "d966e017-6920-32ad-aedf-bc7c174d45c6",
+            "summary": "News of the day for April 9, 2025",
+            "date": "2025-04-09T11:54:16Z",
+            "sentiment-score": -0.009677157737314701
+        },
+        {
+            "id": "845659fc-601e-3565-a0fd-a06d2a35786a",
+            "summary": "Microsoft's short-term spending flexibility may ease concerns over AI capex cuts, KeyBanc says in investor note",
+            "date": "2025-04-09T13:55:54Z",
+            "sentiment-score": 0.888127057813108
+        },
+        {
+            "id": "11ce573d-05e1-37bb-be9e-217812dfdb22",
+            "summary": "Well, it's official: The Nasdaq Composite has entered bear territory.  A bear market occurs when a major index drops over 20% from recent highs, and that's precisely what has happened with the Nasdaq Composite, which is down around 24% from its Dec. 16 high.  The new tariffs, which affect imports from around 180 countries, will raise costs on lots of goods, including key products from countries that top companies in the tech-heavy Nasdaq Composite rely on.",
+            "date": "2025-04-09T13:54:00Z",
+            "sentiment-score": -0.949364684522152
+        },
+        {
+            "id": "d511be81-e5bb-36d0-a2a2-0683bd1427de",
+            "summary": "(Bloomberg) -- Short sellers, or traders who wager on share price declines, are up $159 billion in paper profits over just six trading days after an escalating trade war sent the US stock market plummeting down more than 10%. The biggest market drawdown since 2022 on President Donald Trump\u2019s pronouncement of sweeping worldwide tariffs made bets against an exchange traded fund tracking the S&P 500 Index, known as SPY, the most profitable short bet in that timeframe, according to data from S3 Part",
+            "date": "2025-04-09T13:11:31Z",
+            "sentiment-score": -0.8850987674668431
+        },
+        {
+            "id": "233f786a-8240-3517-9fd0-55b07b395248",
+            "summary": "Billionaire backers of President Donald Trump are watching their fortunes tumble as tariffs take a toll on Big Tech.",
+            "date": "2025-04-09T11:00:25Z",
+            "sentiment-score": -0.9189884318038821
+        },
+        {
+            "id": "dbfe55e0-8eba-35e7-b7ed-81342be693b6",
+            "summary": "We recently published a list of 13 Best Big Data Stocks to Buy According to Analysts. In this article, we are going to take a look at where Microsoft Corporation (NASDAQ:MSFT) stands against other best big data stocks to buy according to analysts. The big data companies focus on collecting, storing, and analyzing huge amounts [\u2026]",
+            "date": "2025-04-09T14:13:41Z",
+            "sentiment-score": 0.005035966634750366
+        },
+        {
+            "id": "61e570df-96d2-322e-a80a-cbbe6ff30fc4",
+            "summary": "Few companies have capitalized on a globalized economy better than Apple. So the end of the globalized economy has painful implications for the iPhone maker. That helps explain why Apple\u2019s stock price has fared the worst among megacap techs since President Trump\u2019s announcement last week of shockingly high tariffs.",
+            "date": "2025-04-09T13:59:33Z",
+            "sentiment-score": -0.9332829965278506
+        },
+        {
+            "id": "3780fabb-30f0-35d2-acbc-fc761d98220e",
+            "summary": "Legal tech has come a long way, but the bulk of an intellectual property or patent lawyer's work today is still done with spreadsheets, word processors, and PDFs. A startup out of Delaware, Solve Intelligence, is using generative AI to speed up that work, believing its tech is uniquely suited to the needs of patent attorneys who need both domain expertise and legal knowledge to do their work. Solve offers an in-browser document editor that works like Google Docs but is powered by an AI model to",
+            "date": "2025-04-09T14:00:00Z",
+            "sentiment-score": 0.05403534648939967
+        },
+        {
+            "id": "1f7e5c74-0e4e-34a3-8a99-57c6e40478a3",
+            "summary": "Apple Leads Tech Rebound After Steep Selloff",
+            "date": "2025-04-09T18:00:53Z",
+            "sentiment-score": 0.614535890519619
+        },
+        {
+            "id": "e5af1c98-cb1a-3422-9107-79bf443a8346",
+            "summary": "Microsoft said it is \u201cslowing or pausing\u201d some of its data center construction, including a $1 billion project in Ohio, the latest sign that the demand for artificial intelligence technology that drove a massive infrastructure expansion might not need quite as many powerful computers as expected.  The tech giant confirmed this week that it is halting early-stage projects on rural land it owns in central Ohio's Licking County, outside of Columbus, and will reserve two of the three sites for farmland.  \u201cIn recent years, demand for our cloud and AI services grew more than we could have ever anticipated and to meet this opportunity, we began executing the largest and most ambitious infrastructure scaling project in our history,\u201d said Noelle Walsh, the president of Microsoft's cloud operations, in a post on LinkedIn.",
+            "date": "2025-04-09T17:44:13Z",
+            "sentiment-score": -0.3589309900999069
+        },
+        {
+            "id": "4205eaa9-f620-3a0b-a81a-0e82c7c9fd0b",
+            "summary": "Dubbed the Magnificent Seven stocks, Apple, Microsoft, Google parent Alphabet, Amazon.com, Nvidia, Meta Platforms and Tesla lived up to their name in 2024 with solid gains. Through the first three months of 2025, however, performance for these mega-cap stocks has been negative thus far.",
+            "date": "2025-04-09T17:25:42Z",
+            "sentiment-score": -0.9503666665405035
+        }
+    ]
+}

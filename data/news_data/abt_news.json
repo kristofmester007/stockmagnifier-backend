@@ -1,0 +1,113 @@
+{
+    "ticker": "ABT",
+    "total_news": 16,
+    "average_sentiment": 0.1141561417025514,
+    "weighted_average_sentiment": 0.14405699834932348,
+    "average_daily_sentiments": [
+        0.2979590726317838,
+        0.1099544030148536,
+        0.01791551406495273,
+        0.06379026966169477,
+        0.022610489279031754,
+        -0.2411570716649294,
+        0.6285748351365328
+    ],
+    "news": [
+        {
+            "id": "f315dbc0-6cc6-3e69-a9be-0cec5a6dd0e3",
+            "summary": "Abbott's Diabetes Care business continues to benefit from the growing sales of its flagship, sensor-based continuous glucose monitoring system, FreeStyle Libre.",
+            "date": "2025-04-03T17:25:00Z",
+            "sentiment-score": 0.8697984917089343
+        },
+        {
+            "id": "79761036-59f8-325f-9b3c-fe7d58f9edc5",
+            "summary": "The latest trading day saw Abbott (ABT) settling at $131.63, representing a -0.23% change from its previous close.",
+            "date": "2025-04-03T21:50:09Z",
+            "sentiment-score": 0.38735117856413126
+        },
+        {
+            "id": "1b9d09ee-1609-3db2-83ac-d8cc5c6d4040",
+            "summary": "According to the average brokerage recommendation (ABR), one should invest in Abbott (ABT). It is debatable whether this highly sought-after metric is effective because Wall Street analysts' recommendations tend to be overly optimistic. Would it be worth investing in the stock?",
+            "date": "2025-04-04T13:30:10Z",
+            "sentiment-score": 0.016332153230905533
+        },
+        {
+            "id": "ce9a4499-4470-3295-ab80-9288cdd5ab3e",
+            "summary": "Investors feel optimistic about Abbott's robust strength in the EPD, Diabetes and Nutrition businesses. However, unfavorable forex impacts are concerning.",
+            "date": "2025-04-04T12:09:00Z",
+            "sentiment-score": -0.1462939828634262
+        },
+        {
+            "id": "96378713-8d14-3114-9a8d-14b703f2b3bd",
+            "summary": "Let\u2019s dig into the relative performance of Abbott Laboratories (NYSE:ABT) and its peers as we unravel the now-completed Q4 medical devices & supplies - diversified earnings season.",
+            "date": "2025-04-04T09:01:27Z",
+            "sentiment-score": 0.06261161714792252
+        },
+        {
+            "id": "d877e149-487f-30a0-b760-8e64a44ff96b",
+            "summary": "The Dow Jones Industrial Average has lagged behind its flashier cousin, the S&P 500 index, in recent years, James Glassman writes in a guest commentary.",
+            "date": "2025-04-04T16:42:00Z",
+            "sentiment-score": -0.8972780741751194
+        },
+        {
+            "id": "382eebf0-4b1e-39d5-8f97-743e30645e7c",
+            "summary": "It is hard to get excited after looking at Abbott Laboratories' (NYSE:ABT) recent performance, when its stock has...",
+            "date": "2025-04-05T11:00:18Z",
+            "sentiment-score": 0.022610489279031754
+        },
+        {
+            "id": "1a7852d3-3157-34f2-91ff-0eb17a3dfd17",
+            "summary": "We recently published a list of the 12 Best Dividend Kings to Buy For Safe Dividend Growth. In this article, we are going to take a look at where Abbott Laboratories (NYSE:ABT) stands against other best dividend kings. The importance of dividend stocks cannot be denied, even in today\u2019s market environment, which is dominated by [\u2026]",
+            "date": "2025-04-06T12:54:42Z",
+            "sentiment-score": 0.06379026966169477
+        },
+        {
+            "id": "6b67a85f-66eb-351e-b0bb-0a760614fc68",
+            "summary": "Five defensive stocks to buy at this soaring volatility are TAP, CNP, WEC, BSX, HCA.",
+            "date": "2025-04-07T12:14:00Z",
+            "sentiment-score": 0.02519644284620881
+        },
+        {
+            "id": "3aaff054-e302-37b8-a9fa-474268bb8f00",
+            "summary": "We recently published a list of the 8 Most Profitable Dividend Stocks to Buy Now. In this article, we are going to take a look at where Abbott Laboratories (NYSE:ABT) stands against other profitable dividend stocks. When it comes to profits, dividend investing is the first thing that springs to mind. Dividends represent a portion of [\u2026]",
+            "date": "2025-04-07T18:24:43Z",
+            "sentiment-score": 0.010634585283696651
+        },
+        {
+            "id": "521f33e9-bb7e-3606-bb7d-2a6fedeb5b43",
+            "summary": "Molson Coors, CenterPoint Energy, WEC Energy, Abbott Laboratories and HCA Healthcare are included in this Analyst Blog.",
+            "date": "2025-04-08T10:13:00Z",
+            "sentiment-score": 0.0006861714646220207
+        },
+        {
+            "id": "be1fcb7f-0e2c-3b2d-9dbf-511516d7e5b6",
+            "summary": "ICU Medical aims to enable healthcare systems to customize infusion setups, optimizing device footprint without compromising performance or safety.",
+            "date": "2025-04-08T16:04:00Z",
+            "sentiment-score": 0.21922263456508517
+        },
+        {
+            "id": "fd2e06df-00a7-32e9-8cf9-0533cfc66dac",
+            "summary": "Key Insights Institutions' substantial holdings in Abbott Laboratories implies that they have significant influence...",
+            "date": "2025-04-09T12:00:31Z",
+            "sentiment-score": 0.10702952975407243
+        },
+        {
+            "id": "b2ee27fa-c8b1-3f43-a642-a8917826fc2d",
+            "summary": "Recently, Zacks.com users have been paying close attention to Abbott (ABT). This makes it worthwhile to examine what the stock has in store.",
+            "date": "2025-04-09T13:00:09Z",
+            "sentiment-score": 0.05415926268324256
+        },
+        {
+            "id": "74a18f11-3be4-3ffb-ab84-1f2969809fc0",
+            "summary": "TriSalus Life Sciences, Inc. (TLSI) witnessed a jump in share price last session on above-average trading volume. The latest trend in earnings estimate revisions for the stock doesn't suggest further strength down the road.",
+            "date": "2025-04-09T12:47:00Z",
+            "sentiment-score": 0.9120989041402936
+        },
+        {
+            "id": "b40335ae-6798-319a-943f-2cc8248e4339",
+            "summary": "Abbott (ABT) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+            "date": "2025-04-09T14:00:17Z",
+            "sentiment-score": 0.11854859394952655
+        }
+    ]
+}

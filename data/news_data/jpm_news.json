@@ -1,0 +1,443 @@
+{
+    "ticker": "JPM",
+    "total_news": 71,
+    "average_sentiment": -0.2609536174658528,
+    "weighted_average_sentiment": -0.28756036139845526,
+    "average_daily_sentiments": [
+        -0.5123838135041296,
+        -0.15777169753398215,
+        -0.10980675561243997,
+        -0.29491068484882516,
+        -0.17225243942812085,
+        -0.30900079365819694,
+        -0.20332868076446983
+    ],
+    "news": [
+        {
+            "id": "80617cf2-faf9-3d06-bd5f-0316aaadc92f",
+            "summary": "(Bloomberg) -- Some of the world\u2019s biggest money managers say Chinese stocks have the means to weather the tariff blitz unleashed by US President Donald Trump on the economy.Most Read from BloombergMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLondon Clears Final Hurdle for More High-Speed Trains to EuropeLocal Governments Vie for Fired Federal WorkersWhat Frank Lloyd Wright Learned From the DesertChicago School District Agrees to Minimum 16% Teacher Pay RaiseFund m",
+            "date": "2025-04-03T07:09:43Z",
+            "sentiment-score": 0.7427312005311251
+        },
+        {
+            "id": "25a9d7d3-44a0-46f1-a693-b82867059bdd",
+            "summary": "Stocks of the biggest banks and private-equity firms plunged Thursday as concerns mounted about how Wall Street giants and their customers might be affected by heightened odds of a US recession.",
+            "date": "2025-04-03T19:04:55Z",
+            "sentiment-score": -0.9409531420096755
+        },
+        {
+            "id": "d3101ff7-6a42-3302-ae2c-2337b51a7afd",
+            "summary": "Valuations are looking more appealing in the financial sector (XLF), particularly with banks trading at about half the valuation of the broader market. Zacks Investment Management client portfolio manager Brian Mulberry joins Market Domination to discuss how financial stocks like JPMorgan (JPM) and BNY Mellon (BK) stand out. To watch more expert insights and analysis on the latest market action, check out more Market Domination&nbsp;here.",
+            "date": "2025-04-03T11:30:18Z",
+            "sentiment-score": 0.048363082110881805
+        },
+        {
+            "id": "eaa51833-dc95-3e9b-92fa-96209222504f",
+            "summary": "(Bloomberg) -- The retail traders who have stormed the markets in recent years were among the only investors buying on Thursday as US stocks had their worst day since June 2020.Most Read from BloombergMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeHousing Agency Aims to Relocate Its DC HeadquartersWhat Would \u2018Transportation Abundance\u2019 Look Like?Small investor",
+            "date": "2025-04-03T20:38:38Z",
+            "sentiment-score": 0.033882804214954376
+        },
+        {
+            "id": "4ff15940-99b3-37f4-98db-0bf8708d066d",
+            "summary": "(Bloomberg) -- The yield on benchmark Treasuries fell briefly below 4% for the first time since October as Wall Street fretted that the US economy will end up worse off from President Donald Trump\u2019s trade war.Most Read from BloombergMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeHousing Agency Aims to Relocate Its DC HeadquartersWhat Would \u2018Transportation Abu",
+            "date": "2025-04-03T18:00:58Z",
+            "sentiment-score": -0.8738576769828796
+        },
+        {
+            "id": "9eb556fe-e0a5-378c-8137-572e97f58126",
+            "summary": "JPMorgan Chase (NYSE:JPM) recently announced the appointment of Carl Torrillo to its Industrials Mid-Cap Banking division, a move that aligns with the company\u2019s ongoing executive and board changes. Despite this transition, JPM's share price saw a modest increase of 2.42% over the last quarter. This gain occurred amidst broader market turmoil, including new tariffs announced by President Trump, which led to declines in many sectors. While the Dow and S&P 500 faced significant pressure due to...",
+            "date": "2025-04-03T17:31:23Z",
+            "sentiment-score": 0.7609025230631232
+        },
+        {
+            "id": "369e3355-5f2e-3c4c-b6c7-f6542873b5ab",
+            "summary": "For many investors, dividend-focused stocks and funds provide a way to generate passive income, whether to supplement retirement, cover day-to-day expenses, or even finance small luxuries like annual vacations. While some aim for significant dividend payouts to replace their salary, others are happy with modest but constant returns that offer a little extra financial freedom. Don't Miss: Deloitte's fastest-growing software company partners with Amazon, Walmart & Target \u2013 Many are rushing to grab",
+            "date": "2025-04-03T14:15:22Z",
+            "sentiment-score": 0.22216029092669487
+        },
+        {
+            "id": "c7d99537-989d-3fee-b498-ab52b8971796",
+            "summary": "Bank stocks fell sharply after President Trump unveiled sweeping tariffs that some feared would hurt loan growth and quality.  JPMorgan Chase and Bank of America dropped, as did U.S. Bancorp, PNC Financial Services, Truist Financial and Fifth Third.  Higher prices from tariffs could weigh on loan growth at banks and cause borrowers to fall behind on payments.",
+            "date": "2025-04-03T13:36:41Z",
+            "sentiment-score": -0.9546013297513127
+        },
+        {
+            "id": "be6b0971-2fe3-34f2-bcb7-a5c270bfe9cb",
+            "summary": "(Bloomberg) -- Roughly $2.5 trillion was erased from the S&P 500 Index on Thursday amid worries that President Donald Trump\u2019s sweeping new round of tariffs could plunge the economy into a recession.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018Transportation Abundance\u2019 Loo",
+            "date": "2025-04-03T20:13:46Z",
+            "sentiment-score": -0.86858587898314
+        },
+        {
+            "id": "316e28f0-1644-3565-9342-3097c5d3b26f",
+            "summary": "Sellers dictated the action in the stock market today after China retaliated with a 34% tariff on all imported goods from the U.S.",
+            "date": "2025-04-04T14:36:26Z",
+            "sentiment-score": -0.7797423116862774
+        },
+        {
+            "id": "94b5a421-629c-33c5-b6e1-36da74c3e551",
+            "summary": "(Bloomberg) -- The dollar has wiped out all of its gains since Donald Trump won the presidency in November as his aggressive tariffs upend global markets. Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018Transportation Abundance\u2019 Look Like?The Bloomberg Dollar Spot Index is h",
+            "date": "2025-04-04T14:26:14Z",
+            "sentiment-score": 0.020656634122133255
+        },
+        {
+            "id": "bdb81bfc-c1b7-3cd6-b072-7215ff0696a8",
+            "summary": "Retail investors bought $4.7 billion in stocks on Thursday, the highest level over the past decade, JPMorgan said in a note on Friday.  The historic \"buy-to-dip\" move by retail investors included names such as Nvidia, Amazon and S&P exchange-traded funds, but they sold Tesla.  Small-cap technology was one of individuals' favorite sector picks amid the meltdown, while institutional investors have increased their bets against the sector.",
+            "date": "2025-04-04T13:58:26Z",
+            "sentiment-score": 0.16879971325397491
+        },
+        {
+            "id": "74f6d528-ea21-3521-93b0-44dc8c13004a",
+            "summary": "(Bloomberg) -- One of Wall Street\u2019s most bearish Tesla Inc. analysts further reduced estimates for the company\u2019s earnings, citing the magnitude of car-buyer backlash against Elon Musk.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018Transportation Abundance\u2019 Look Like?Tesla\u2019s",
+            "date": "2025-04-04T13:33:49Z",
+            "sentiment-score": -0.9431030731648207
+        },
+        {
+            "id": "b7a6b14d-de71-404b-a36e-d172d59c957b",
+            "summary": "Earnings preview of key companies reporting next week and what to look out for.",
+            "date": "2025-04-04T12:54:59Z",
+            "sentiment-score": -0.010118871927261353
+        },
+        {
+            "id": "215ef5e2-d9c0-33f9-a5f0-a2011587c8c8",
+            "summary": "President Trump\u2019s trade levies spell trouble for bank stocks even though they aren\u2019t in the direct line of fire.",
+            "date": "2025-04-04T12:00:00Z",
+            "sentiment-score": -0.9009103160351515
+        },
+        {
+            "id": "e092415b-74ea-3a9c-a676-407d1073e5b3",
+            "summary": "Banks are set to kick off first quarter earnings season next week. Bloomberg Intelligence director of research global strategy team Alison Williams joins Catalyst with host Madison Mills to discuss what investors can expect from bank earnings. To watch more expert insights and analysis on the latest market action, check out more Catalysts here.",
+            "date": "2025-04-04T15:23:14Z",
+            "sentiment-score": 0.026636815164238214
+        },
+        {
+            "id": "ec037164-34ff-3ead-a632-8833427a8e2b",
+            "summary": "(Bloomberg) -- European stocks plunged toward a correction as China retaliated against US tariffs, escalating the global trade war.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018Transportation Abundance\u2019 Look Like?The Stoxx Europe 600 Index slid as much as 5.9%, with the be",
+            "date": "2025-04-04T15:11:45Z",
+            "sentiment-score": -0.9421041393652558
+        },
+        {
+            "id": "550c9d86-6722-328a-863d-1276c57ef89b",
+            "summary": "JPMorgan Chase, Bank of America, Morgan Stanley and Goldman Sachs sold off Friday morning, after sliding Thursday.  So did shares of Citigroup, whose specialty in moving money between continents leaves it exposed to a shock to global trade.  Citi's 12% slump Thursday was its biggest since 2020.",
+            "date": "2025-04-04T14:35:35Z",
+            "sentiment-score": -0.924889377783984
+        },
+        {
+            "id": "c5971c95-4c0a-36da-8058-ea8a43e513de",
+            "summary": "JPMorgan Chase & Co. (JPM) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+            "date": "2025-04-04T14:00:05Z",
+            "sentiment-score": 0.10118256881833076
+        },
+        {
+            "id": "4892d533-4415-33ff-befc-f060bfe606bc",
+            "summary": "JPM will release Q1 earnings next week. Here, we explore the factors influencing its performance and check whether the stock merits a place in your portfolio.",
+            "date": "2025-04-04T14:45:00Z",
+            "sentiment-score": 0.028491959907114506
+        },
+        {
+            "id": "c29e7bf7-1b9f-3c5e-98c6-d3d05222f56a",
+            "summary": "How Has JP Morgan's Acquisition of First Republic Bank Impacted Growth",
+            "date": "2025-04-04T18:41:21Z",
+            "sentiment-score": -0.07208574004471302
+        },
+        {
+            "id": "047ae1ea-061f-346a-8c81-4abb781133b0",
+            "summary": "Big bank stocks, including JPMorgan (JPM), Citigroup (C), and Goldman Sachs (GS), have tumbled in the wake of President Trump's tariff announcements. Yahoo Finance Banking Reporter David Hollerith joins Market Domination with Yahoo Finance Head of News Myles Udland, RSM chief economist Joe Brusuelas, and Epistrophy Capital Research's chief market strategist and host of \"The Drill Down Podcast\" Cory Johnson to discuss the details. To watch more expert insights and analysis on the latest market action, check out more Market Domination here.",
+            "date": "2025-04-04T20:21:38Z",
+            "sentiment-score": -0.25267938897013664
+        },
+        {
+            "id": "5bbf9fba-0cf8-37a2-826c-e06e32acb485",
+            "summary": "Yahoo Finance Head of News Myles Udland breaks down the top stories to watch this weekend and next week. President Trump's baseline 10% tariffs are set to take effect Saturday, April 5, and reciprocal tariffs will take effect Wednesday, April 9. Big banks will kick off earnings season next week, with JPMorgan (JPM), Wells Fargo (WFC), and Bank of New York Mellon (BK) to release earnings on Friday, April 11. Other companies will also be releasing earnings throughout the week, including Levi Strauss (LEVI), Tilray (TLRY), and Delta (DAL). Fresh inflation data will be coming out next week, including the Consumer Price Index (CPI) on Thursday, April 10 and the Producer Price Index (PPI) on Friday, April 11. Finally, on Wednesday, April 9, the Federal Reserve will release the meeting minutes for its most recent FOMC meeting. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime here.",
+            "date": "2025-04-04T23:00:00Z",
+            "sentiment-score": -0.009770574048161507
+        },
+        {
+            "id": "b9359db1-4128-3b50-86ea-83d13a240915",
+            "summary": "The JPMorgan Nasdaq Equity Premium Income ETF pays a reliable 10% yield.",
+            "date": "2025-04-05T07:55:00Z",
+            "sentiment-score": 0.6988815572112799
+        },
+        {
+            "id": "dc936388-8192-3c88-a915-47c8efebfa53",
+            "summary": "We all know that the banking business isn't subject to tariffs. But as cyclical operators, their business is heavily exposed to trends in the broader economy, which in turn is seen as weighed down by the ongoing tariffs uncertainty.",
+            "date": "2025-04-05T00:48:00Z",
+            "sentiment-score": -0.8535434752702713
+        },
+        {
+            "id": "a63ea2f2-dc32-357a-9ec4-9e9728b7e73d",
+            "summary": "Investors are fearing the worst, but bargain-hunters should consider well-regarded stocks that have been hit hard in recent weeks.",
+            "date": "2025-04-04T22:25:00Z",
+            "sentiment-score": -0.1453758031129837
+        },
+        {
+            "id": "8d411305-26f6-4d2f-83f4-7be87da0262c",
+            "summary": "A dealmaking freeze and the biggest rout in financial stocks since 2023 are raising the stakes for the start of Wall Street\u2019s earnings season this coming week.",
+            "date": "2025-04-05T11:55:43Z",
+            "sentiment-score": 0.1390712782740593
+        },
+        {
+            "id": "b694fe0c-6fe2-318f-b0d2-aa9bc43f4db2",
+            "summary": "Coming up: US and China tariffs set to take effect, March inflation data, Big Bank earnings, consumer sentiment, Fed meeting minutes, consumer credit data",
+            "date": "2025-04-06T10:00:00Z",
+            "sentiment-score": 0.005216325633227825
+        },
+        {
+            "id": "62cfb531-52a7-3a6c-86dc-2f8d1f8204a9",
+            "summary": "(Bloomberg) -- Deals in leveraged finance have stalled, and markets have been upended, raising the possibility that banks might once again get stuck with debt they\u2019ve committed for acquisitions.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersLocal Governments Vie for Fired Federal WorkersThis Skinny Mexico City Tower Is Just 14 Feet Wide on One SideBoston Mayor Wu Embraces Trump Resistance as Campaign Heats UpMetro-North Is Faster Than Acela on NYC-New Haven Route Afte",
+            "date": "2025-04-05T19:00:00Z",
+            "sentiment-score": -0.13008758798241615
+        },
+        {
+            "id": "37b475d7-a13f-3221-ac4a-e9256051121c",
+            "summary": "(Bloomberg) -- Supply Lines is a daily newsletter that tracks global trade. Sign up here.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersLocal Governments Vie for Fired Federal WorkersThis Skinny Mexico City Tower Is Just 14 Feet Wide on One SideBoston Mayor Wu Embraces Trump Resistance as Campaign Heats UpMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesFrom the moment President Donald Trump unveiled his sweeping tariffs Wednesday through th",
+            "date": "2025-04-05T18:51:52Z",
+            "sentiment-score": 0.0490133510902524
+        },
+        {
+            "id": "e65432ee-c258-3e75-a967-ebbad1753344",
+            "summary": "JPMorgan Chase (NYSE:JPM) recently experienced a 13% price decline amid a turbulent week for global markets. While initiatives such as launching the Money Smart Financial Coaching Program and appointing Carl Torrillo as Managing Director underline its strategic focus on expansion and leadership, the broader market's response to escalating trade tensions played a pivotal role in this downturn. With major indices like the S&P 500 and Nasdaq dropping significantly due to tariff concerns, JPM's...",
+            "date": "2025-04-05T18:10:32Z",
+            "sentiment-score": -0.9368497598916292
+        },
+        {
+            "id": "0acbf8de-1736-347c-a18c-8821ff856675",
+            "summary": "(Bloomberg) -- US Treasury Secretary Scott Bessent on Sunday struck a defiant tone in the face of global financial markets selling off sharply in response to new US tariffs, arguing the new duties were necessary and rejecting the idea that they would cause a US recession.",
+            "date": "2025-04-06T13:59:16Z",
+            "sentiment-score": -0.8913758927956223
+        },
+        {
+            "id": "e1840d61-f600-348a-9100-31a048ab5233",
+            "summary": "(Bloomberg) -- President Donald Trump\u2019s top economic officials dismissed investors\u2019 fears of inflation and recession, offering no apologies for the market turmoil sparked by sweeping global tariffs and defiantly insisting a boom is on the horizon. Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersBoston Mayor Wu Embraces Trump Resistance as Campaign Heats UpThis Skinny Mexico City Tower Is Just 14 Feet Wide on One SideThe Irish Hot Press Is the Low-Tech Laundry Trick the",
+            "date": "2025-04-06T20:07:29Z",
+            "sentiment-score": 0.0014275126159191132
+        },
+        {
+            "id": "26b4856a-9fa5-4001-99d5-39c873ba6131",
+            "summary": "Trump urges the Fed to lower rates, giving no indication he will back down from his sweeping tariff policy.",
+            "date": "2025-04-07T12:27:55Z",
+            "sentiment-score": -0.5697861909866333
+        },
+        {
+            "id": "982b6f97-832e-4912-ac7e-163b9bc071fc",
+            "summary": "JPMorgan CEO Jamie Dimon and other big names on Wall Street are issuing new warnings about the impact of President Trump's tariffs as markets continue to plunge.",
+            "date": "2025-04-07T10:17:43Z",
+            "sentiment-score": -0.9279226548969746
+        },
+        {
+            "id": "67715f18-b72b-3b91-b612-ae04419ec556",
+            "summary": "In the JPMorgan CEO\u2019s annual letter, he says he hopes for long-term benefits but that many uncertainties exist.",
+            "date": "2025-04-07T11:07:00Z",
+            "sentiment-score": -0.19123435020446777
+        },
+        {
+            "id": "3d0ebe43-1d0c-344c-9bb3-7cf6b3c741c0",
+            "summary": "Style Box ETF report for BBMC",
+            "date": "2025-04-07T10:20:04Z",
+            "sentiment-score": -0.0072733694687485695
+        },
+        {
+            "id": "692dbcdd-10da-3ab5-ad8b-f93b3f6fb91f",
+            "summary": "(Bloomberg) -- Supply Lines is a daily newsletter that tracks global trade. Sign up here.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersBoston Mayor Wu Embraces Trump Resistance as Campaign Heats UpThis Skinny Mexico City Tower Is Just 14 Feet Wide on One SideThe Irish Hot Press Is the Low-Tech Laundry Trick the World NeedsWhat Would \u2018Transportation Abundance\u2019 Look Like?JPMorgan Chase & Co. Chief Executive Officer Jamie Dimon urged a quick resolution to the uncertaint",
+            "date": "2025-04-07T10:15:00Z",
+            "sentiment-score": 0.018405177630484104
+        },
+        {
+            "id": "b084849b-e49e-3bb5-a3b4-05368aaf441b",
+            "summary": "JPMorgan, Wells Fargo, Bank of America and Morgan Stanely are part of Zacks Earnings Preview.",
+            "date": "2025-04-07T09:19:00Z",
+            "sentiment-score": 0.004779371432960033
+        },
+        {
+            "id": "5645002f-bef1-4478-9988-95fd21ef3b2d",
+            "summary": "A 360-degree turnaround is rapidly consigning work from home culture to the past as sticks replace carrots to herd workers back into offices",
+            "date": "2025-04-07T05:00:17Z",
+            "sentiment-score": 0.06678773183375597
+        },
+        {
+            "id": "c43ae83e-aae6-345a-a153-eb230b8be6f9",
+            "summary": "(Bloomberg) -- With panic spreading in markets across the globe, world leaders raced over the weekend to make offers to US President Donald Trump to lower tariffs across the board. Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersBoston Mayor Wu Embraces Trump Resistance as Campaign Heats UpThis Skinny Mexico City Tower Is Just 14 Feet Wide on One SideThe Irish Hot Press Is the Low-Tech Laundry Trick the World NeedsWhat Would \u2018Transportation Abundance\u2019 Look Like?The pro",
+            "date": "2025-04-07T13:16:12Z",
+            "sentiment-score": -0.020276475697755814
+        },
+        {
+            "id": "1f6f0dd9-c295-47f3-8bc1-13da4e12bd8a",
+            "summary": "$9.5tn has been wiped off global share prices since the US president announced new trade levies.",
+            "date": "2025-04-07T13:02:30Z",
+            "sentiment-score": -0.9378651101142168
+        },
+        {
+            "id": "2bfd5409-d150-3ba0-b7b1-6a8624079f85",
+            "summary": "Madison Mills takes a closer look at the top stories as part of today's Market Minute. Big bank stocks, including JPMorgan (JPM) and Wells Fargo (WFC), are moving higher after an initial fall as analysts recalibrate their outlooks to account for mounting recession fears. Bitcoin (BTC-USD) is selling off as other crypto-related names, including Robinhood (HOOD), Strategy (MSTR), and Coinbase (COIN), are mixed today. Spirit Airlines (SAVEQ) stock is in focus after CEO Ted Christie stepped down. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
+            "date": "2025-04-07T15:22:35Z",
+            "sentiment-score": 0.02369101718068123
+        },
+        {
+            "id": "60e0493e-897d-39f1-b6e6-324bd34f8e0b",
+            "summary": "(Bloomberg) -- Bill Ackman said the US is \u201cheading for a self-induced, economic nuclear winter.\u201d Boaz Weinstein predicted the \u201cavalanche has really just started.\u201d And Jamie Dimon warned it \u201cmay be disastrous in the long run.\u201dMost Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersBoston Mayor Wu Embraces Trump Resistance as Campaign Heats UpThis Skinny Mexico City Tower Is Just 14 Feet Wide on One SideThe Irish Hot Press Is the Low-Tech Laundry Trick the World NeedsWhat Would",
+            "date": "2025-04-07T14:37:09Z",
+            "sentiment-score": -0.019846586510539055
+        },
+        {
+            "id": "e2c6e143-427e-3ba3-b56d-5c01bae545db",
+            "summary": "(Bloomberg) -- The market chaos unleashed by Donald Trump\u2019s trade war continued for a third day as stocks, bonds and commodities all swung wildly, buffeted by both fears of a recession and speculation the financial damage will drive him to change course. Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersBoston Mayor Wu Embraces Trump Resistance as Campaign Heats UpThis Skinny Mexico City Tower Is Just 14 Feet Wide on One SideThe Irish Hot Press Is the Low-Tech Laundry Tr",
+            "date": "2025-04-07T16:20:12Z",
+            "sentiment-score": -0.033771105110645294
+        },
+        {
+            "id": "31bdb2f2-c7a8-3eba-a9e6-2d1cba8842f5",
+            "summary": "(Bloomberg) -- Signs of exhaustion are emerging in the US bond market after its biggest weekly rally since August.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersBoston Mayor Wu Embraces Trump Resistance as Campaign Heats UpThis Skinny Mexico City Tower Is Just 14 Feet Wide on One SideThe Irish Hot Press Is the Low-Tech Laundry Trick the World NeedsTrump Order on CDFI Fund Risks Aid for Small Businesses, HousingUS Treasuries weakened in a volatile trading session on Mo",
+            "date": "2025-04-07T14:49:43Z",
+            "sentiment-score": -0.19451847672462463
+        },
+        {
+            "id": "6332cd35-98de-364b-944f-dfa8b371d3bd",
+            "summary": "JPMorgan Chase's CEO emphasized his concerns about geopolitical conflict and brought up recent culture shifts at the bank in his annual letter to shareholders.",
+            "date": "2025-04-07T18:01:54Z",
+            "sentiment-score": 0.0706881619989872
+        },
+        {
+            "id": "d419d0f4-cd47-33da-baf5-2e667605f46a",
+            "summary": "Financial stocks, like Goldman Sachs (GS), Jefferies (JEF), and Evercore (EVR), are in focus after Morgan Stanley downgraded its outlook for several names in the sector. Yahoo Finance Banking Reporter David Hollerith sits down with Julie Hyman and Trader Talk podcast host Kenny Polcari to check in on the financial sector ahead of earnings. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime here.",
+            "date": "2025-04-07T21:05:21Z",
+            "sentiment-score": -0.05908446945250034
+        },
+        {
+            "id": "c86d555a-fa69-321b-8e9e-557e571c1e1d",
+            "summary": "JPMorgan Chase CEO Jamie Dimon urged executives to embrace discomfort, stay curious, study competitors, and lead with humility in his latest shareholder letter.",
+            "date": "2025-04-07T18:55:51Z",
+            "sentiment-score": 0.039879072457551956
+        },
+        {
+            "id": "5c044606-b8d6-37af-afbb-23270a2c15aa",
+            "summary": "(Bloomberg) -- US equity rebounded from a three-day selloff as dip buyers emerged after fears of a trade-war induced recession wiped out more than $5 trillion of stock-market value.Most Read from BloombergThe Irish Hot Press Is the Low-Tech Laundry Trick the World NeedsThis Skinny Mexico City Tower Is Just 14 Feet Wide on One SideHousing Agency Aims to Relocate Its DC HeadquartersTrump Order on CDFI Fund Risks Aid for Small Businesses, HousingBoston Mayor Wu Embraces Trump Resistance as Campaign",
+            "date": "2025-04-08T13:31:10Z",
+            "sentiment-score": 0.17353442683815956
+        },
+        {
+            "id": "a8493653-6b8e-3929-b9c0-2c72f8f7c739",
+            "summary": "(Bloomberg) -- US stocks soared Tuesday after the biggest three-day rout in five years, fueled by the most oversold conditions since the depths of the pandemic and optimism the Trump administration will water down its harsh tariff regime.Most Read from BloombergThe Irish Hot Press Is the Low-Tech Laundry Trick the World NeedsThis Skinny Mexico City Tower Is Just 14 Feet Wide on One SideHousing Agency Aims to Relocate Its DC HeadquartersTrump Order on CDFI Fund Risks Aid for Small Businesses, Hou",
+            "date": "2025-04-08T13:31:08Z",
+            "sentiment-score": 0.2751981485635042
+        },
+        {
+            "id": "71b0c0db-e3c9-34b7-9878-3cd0d70ec421",
+            "summary": "JPMorgan Chase & Co. (JPM) concluded the recent trading session at $214.05, signifying a +1.79% move from its prior day's close.",
+            "date": "2025-04-07T21:45:15Z",
+            "sentiment-score": 0.8706334112212062
+        },
+        {
+            "id": "17943da4-12a9-3c66-8e30-c97dc7bb0b51",
+            "summary": "We recently published a list of Jim Cramer\u2019s Game Plan: 10 Stocks in Focus. In this article, we are going to take a look at where JPMorgan Chase & Co. (NYSE:JPM) stands against other stocks in Jim Cramer\u2019s focus. On Friday, Jim Cramer, the host of Mad Money, commented on the current state of the [\u2026]",
+            "date": "2025-04-08T14:29:15Z",
+            "sentiment-score": -0.01568695530295372
+        },
+        {
+            "id": "fbe15d41-c691-474d-b721-a4d742e7226b",
+            "summary": "The Trump tariff turmoil triggered new signs of stress on Wall Street, from a freeze in IPOs to a pause in bond sales to a widening of credit spreads.",
+            "date": "2025-04-08T16:08:57Z",
+            "sentiment-score": -0.8903488982468843
+        },
+        {
+            "id": "6a158617-b48a-3d9e-b9be-a00b68ccd155",
+            "summary": "(Bloomberg) -- Stocks headed toward their biggest gain since November and bonds fell after Treasury Secretary Scott Bessent fueled hopes of trade deals, marking a dramatic shift in Wall Street sentiment following a selloff that chopped trillions of dollars off global markets.Most Read from BloombergThe Irish Hot Press Is the Low-Tech Laundry Trick the World NeedsThis Skinny Mexico City Tower Is Just 14 Feet Wide on One SideTrump Order on CDFI Fund Risks Aid for Small Businesses, HousingBoston Ma",
+            "date": "2025-04-08T16:28:45Z",
+            "sentiment-score": -0.07079562544822693
+        },
+        {
+            "id": "121c3291-34a2-33b8-9503-2fd4293affab",
+            "summary": "Among them are several longtime hedge-fund managers such as Stan Druckenmiller.  \u201cI do not support tariffs exceeding 10%,\u201d he posted on X.  Also on X, Dan Loeb praised an analysis by the American Enterprise Institute that said Trump\u2019s tariff formula \u201cmakes no economic sense.\u201d",
+            "date": "2025-04-08T15:43:51Z",
+            "sentiment-score": 0.0758126750588417
+        },
+        {
+            "id": "3825f423-5808-4675-8786-4ec91582951b",
+            "summary": "Bill Ackman\u2019s public campaign to slow down the rollout of President Trump\u2019s tariffs continued Tuesday as the billionaire again took to social media to advocate for a pause.",
+            "date": "2025-04-08T19:12:06Z",
+            "sentiment-score": -0.6521156542003155
+        },
+        {
+            "id": "95f263c0-c363-3ad6-98bc-41cc880c9666",
+            "summary": "JPMorgan Chase (NYSE: JPM) Chief Executive Officer Jamie Dimon is one of the most respected voices on Wall Street.  Dimon leads the nation's largest bank by assets, and he successfully steered JPMorgan Chase through the great financial crisis without needing a bailout.  The company and Wall Street analysts often refer to the company's \"fortress\" balance sheet, a nod to Dimon's canny risk management.",
+            "date": "2025-04-09T09:59:00Z",
+            "sentiment-score": 0.043138415552675724
+        },
+        {
+            "id": "71f662b1-b197-34be-9189-079192f24064",
+            "summary": "JPMorgan Chase CEO Jamie Dimon said on Wednesday that sweeping tariffs imposed by U.S. President Donald Trump will probably lead to a recession and defaults by borrowers, he told Fox Business' Mornings with Maria. \"So long as you have rates going up... inflation is sticky and credit spreads are gapping out, which they're going to, I think you'll see more credit problems,\" Dimon said.",
+            "date": "2025-04-09T12:50:51Z",
+            "sentiment-score": -0.9226776892319322
+        },
+        {
+            "id": "1fdf675e-3702-325c-8bbc-c13a8d7ccc0b",
+            "summary": "(Bloomberg) -- Supply Lines is a daily newsletter that tracks global trade. Sign up here.President Donald Trump\u2019s so-called reciprocal tariffs are now in place, dealing a thunderous blow to the world economy as he pushes forward efforts to drastically reorder global trade.Trump\u2019s latest tariffs push levies imposed on China this year to as high as 104%, along with import taxes on roughly 60 trading partners that run trade surpluses with the US. That comes after a 10% baseline tariff for most US t",
+            "date": "2025-04-09T11:27:35Z",
+            "sentiment-score": 0.24776166677474976
+        },
+        {
+            "id": "30d6b22f-cc5a-46f1-bb75-1144bfd8798a",
+            "summary": "Opposing views on president Trump's tariffs persist, even among his supporters.",
+            "date": "2025-04-09T13:19:16Z",
+            "sentiment-score": -0.7930512800812721
+        },
+        {
+            "id": "a3b4073e-cf6b-3c9f-8915-5acaa3968de0",
+            "summary": "Trump tariff news: President Trump's latest tariffs took effect Wednesday while China stepped up retaliation. Treasury yields are worrisome. Walmart and Delta Air pulled some guidance, citing tariff uncertainty.",
+            "date": "2025-04-09T13:31:49Z",
+            "sentiment-score": -0.931397270411253
+        },
+        {
+            "id": "5df42bde-0549-3ff3-a426-79929dd953bb",
+            "summary": "Nvidia (NVDA) stock \u201cis pretty underappreciated now,\u201d Tom Plumb, the president of Plumb Funds, told Schwab Network recently. Plumb also noted that he had recently bought JPMorgan (JPM) stock. NVDA Is Key to \u201cthe Digital Revolution,\u201d Plumb Says NVDA is \u201creally fueling all aspects of the digital revolution,\u201d the investor stated. It\u2019s involved in AI [\u2026]",
+            "date": "2025-04-09T13:28:18Z",
+            "sentiment-score": -0.11321691051125526
+        },
+        {
+            "id": "fa30940b-b863-4f0e-9815-4e93d35592b5",
+            "summary": "JPMorgan Chase CEO Jamie Dimon called a US recession a 'likely outcome' and warned that a negative market reaction to Trump trade policies 'could get worse if we don't make some progress.'",
+            "date": "2025-04-09T14:40:55Z",
+            "sentiment-score": -0.9428852126002312
+        },
+        {
+            "id": "91a336f8-0602-349d-a516-3399c545a65b",
+            "summary": "(Bloomberg) -- An exchange-traded product tied to declines in the oil market just saw its biggest outflow of funds since 2020. With crude prices crashing to a four-year low, some investors pulled out of the fund to cash in on profits.Oil has been hit by the one-two punch of OPEC+ choosing to ramp up output hours after US President Donald Trump last week unveiled a spate of trade policies that were especially punishing to major crude-importing economies, including China and India. Futures in New",
+            "date": "2025-04-09T14:18:49Z",
+            "sentiment-score": -0.9096813136711717
+        },
+        {
+            "id": "43e679f2-f2d5-38eb-bee2-320adcb6a15d",
+            "summary": "JPMorgan Chase CEO Jamie Dimon said Wednesday that a recession is a \u201clikely outcome\u201d from Trump\u2019s tariffs policy and the ensuing market fallout. \u201cI am going to defer to my economists at this point but I think probably,\u201d Dimon said during an appearance on Fox Business.",
+            "date": "2025-04-09T13:04:44Z",
+            "sentiment-score": -0.6660460084676743
+        },
+        {
+            "id": "df30e966-ca6c-3f74-af84-163bb0669ddb",
+            "summary": "JPMorgan Chase Chief Executive Jamie Dimon said he thinks a recession is a likely outcome from President Trump\u2019s tariffs. Asked on Fox Business Wednesday morning if he expects a recession, he said, \u201cI am going to defer to my economists at this point but I think probably.",
+            "date": "2025-04-09T12:48:05Z",
+            "sentiment-score": -0.7004564888775349
+        },
+        {
+            "id": "7f6a5da2-39f1-311c-9a83-82fabf96c95e",
+            "summary": "Dow Jones and other indexes were mixed amid intensifying trade wars between the U.S. and China. Nvidia and Tesla jumped.",
+            "date": "2025-04-09T14:59:08Z",
+            "sentiment-score": -0.8368391990661621
+        },
+        {
+            "id": "93d8baf2-aa25-3b1b-abe4-8c6a60a77359",
+            "summary": "Josh Lipton goes over some of the top trending stories on this segment of Market Minute. Apple (AAPL) stock rebounds after previous losses, though shares are down over 20% over the past five days. Oil futures (CL=F) are sliding due to the escalating trade war as China announced retaliatory tariffs of 84% on US goods, effective April 10th. Bank stocks, including JPMorgan (JPM), Wells Fargo (WFC), and Citigroup (C) are under pressure after JPMorgan Chase CEO Jamie Dimon warned that a US recession is likely. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
+            "date": "2025-04-09T17:19:38Z",
+            "sentiment-score": -0.939682612195611
+        },
+        {
+            "id": "75ab3683-e9fb-3cf6-bd66-a2e6aff75722",
+            "summary": "(Bloomberg) -- At Nike Inc. headquarters in Beaverton, Oregon, executives are trying to figure out how to best spread the pain of new tariffs.Nike, the factories that produce its goods, the wholesalers that sell the goods and ultimately shoppers will all likely share portions of the cost, according to a person familiar with the matter who asked not to be named discussing private conversations.The backbone of Nike\u2019s supply chain is being threatened by President Donald Trump\u2019s global tariff campai",
+            "date": "2025-04-09T17:41:39Z",
+            "sentiment-score": -0.5162789113819599
+        },
+        {
+            "id": "b943e33a-d6c5-377e-8b64-9c87823a965c",
+            "summary": "JPMorgan Chase CEO Jamie Dimon said on Fox Business that he thinks the markets are \u201cright\u201d in pricing in the uncertainty caused by President Trump\u2019s tariffs.",
+            "date": "2025-04-09T15:47:00Z",
+            "sentiment-score": 0.807939425110817
+        }
+    ]
+}

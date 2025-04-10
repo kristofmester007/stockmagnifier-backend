@@ -1,0 +1,281 @@
+{
+    "ticker": "LLY",
+    "total_news": 44,
+    "average_sentiment": -0.18501493990929288,
+    "weighted_average_sentiment": -0.16255846502567742,
+    "average_daily_sentiments": [
+        -0.20481397110658386,
+        0.2139750786850022,
+        -0.41679793656803665,
+        -0.2579472364547352,
+        -0.9563461020588875,
+        -0.40256297669839114,
+        0.44330055359750986
+    ],
+    "news": [
+        {
+            "id": "09309e26-47af-3e9a-ac9d-36affb94a4d8",
+            "summary": "Primary care company knownwell said on Wednesday it will provide health and weight-management services on Eli Lilly's direct-to-consumer online healthcare platform, LillyDirect. Patients on LillyDirect will have access to physicians from knownwell for personalized services, knownwell said. The company offers in-person and virtual primary care, nutrition counseling and behavioral health services, covered through patients' insurance.",
+            "date": "2025-04-02T19:21:47Z",
+            "sentiment-score": 0.030991705134510994
+        },
+        {
+            "id": "caacde38-5d79-37a3-9125-aadf11329a06",
+            "summary": "Investors worry patients won\u2019t make that price leap and that Hims, which has built its business on affordable healthcare, will struggle to meet its revenue goal.",
+            "date": "2025-04-02T18:12:00Z",
+            "sentiment-score": -0.9140910264104605
+        },
+        {
+            "id": "06d142db-a905-336a-a0df-f505312c37de",
+            "summary": "Drugmakers breathed a sigh of relief Wednesday after President Trump didn\u2019t announce pharmaceutical tariffs.  Plus, language in the executive order indicated medicines were exempted from the reciprocal tariffs that Trump did announce.  Drugmakers were combing over the executive order to clarify the exemption language in the executive order and to make sure they won\u2019t be hit by any other tariff provisions, such as the 10% \u201cbaseline\u201d tariff.",
+            "date": "2025-04-02T22:03:35Z",
+            "sentiment-score": -0.10374811291694641
+        },
+        {
+            "id": "1b8c581b-3697-3b39-81a9-637a9c07f22a",
+            "summary": "The FDA's fast track designation will facilitate rapid development and expedited review of Biogen's Alzheimer's disease candidate.",
+            "date": "2025-04-03T14:48:00Z",
+            "sentiment-score": 0.7863353556022048
+        },
+        {
+            "id": "8a106b11-4326-3a9f-a9a4-790291a5962b",
+            "summary": "Finding stocks expected to beat quarterly earnings estimates becomes an easier task with our Zacks Earnings ESP.",
+            "date": "2025-04-03T13:00:09Z",
+            "sentiment-score": 0.10026575159281492
+        },
+        {
+            "id": "b1e67398-bf0c-3648-b3a6-6e3eab5cedd1",
+            "summary": "We recently published a list of Jim Cramer Was Talking About These 10 Stocks Amid Trump\u2019s Trade Wars. In this article, we are going to take a look at where Eli Lilly (NYSE:LLY) stands against other stocks that Jim Cramer was talking about amid Trump\u2019s trade wars. Jim Cramer in a latest program on CNBC [\u2026]",
+            "date": "2025-04-04T13:40:57Z",
+            "sentiment-score": 0.005908832885324955
+        },
+        {
+            "id": "277c4015-1d40-3c87-9bd9-7aad5803d418",
+            "summary": "The Trump administration has decided not to back a Biden administration plan that would have allowed Medicare to pay for obesity drugs, according to a report from Bloomberg. Shares of both Eli Lilly (LLY) and Novo Nordisk (NVO) traded lower on the news. Learn more in the video above. To watch more expert insights and analysis on the latest market action, check out more Asking for a Trend here.",
+            "date": "2025-04-04T21:17:17Z",
+            "sentiment-score": -0.5580649897456169
+        },
+        {
+            "id": "6276abb5-892d-34ad-bd69-384498b138a5",
+            "summary": "The Trump administration finalized new Medicare and Medicaid policies late Friday, but left out weight-loss drugs. Eli Lilly stock skidded.",
+            "date": "2025-04-04T21:55:08Z",
+            "sentiment-score": -0.9477055300958455
+        },
+        {
+            "id": "b56dc09c-ec86-3b6d-a02a-27e7277dc974",
+            "summary": "We recently published a list of Jim Cramer\u2019s Take on These 10 Stocks. In this article, we are going to take a look at where Eli Lilly and Company (NYSE:LLY) stands against other stocks that Jim Cramer discusses. On Wednesday, Jim Cramer, the host of Mad Money, shared his concerns about President Donald Trump\u2019s approach [\u2026]",
+            "date": "2025-04-04T21:54:48Z",
+            "sentiment-score": -0.11039021983742714
+        },
+        {
+            "id": "868183b1-c359-3a35-b5cc-6734aa1e04fe",
+            "summary": "What should investors do when stocks are tanking over the short term?  Three Motley Fool contributors think they've found great dividend stocks to own for the long term that pay you to wait for better days.  Here's why they picked AbbVie (NYSE: ABBV), Amgen (NASDAQ: AMGN), and Eli Lilly (NYSE: LLY).",
+            "date": "2025-04-06T10:44:00Z",
+            "sentiment-score": 0.032782373018562794
+        },
+        {
+            "id": "180c5fa5-496d-3661-bcc4-ad01e498ddc9",
+            "summary": "Eli Lilly (NYSE:LLY) has recently announced several developments, including positive Phase 2 results for their siRNA therapy lepodisiran and the expansion of their digital healthcare platform, LillyDirect, to support Alzheimer's patients. Despite these advancements, Eli Lilly's stock fell 6% in the last quarter. This movement came amid a broader market downturn, with substantial declines in major indices such as the Dow and S&P 500 due to escalating tariff issues and growing economic...",
+            "date": "2025-04-05T17:52:25Z",
+            "sentiment-score": -0.9563461020588875
+        },
+        {
+            "id": "02ed7735-a687-3625-a501-cd67887cdc2b",
+            "summary": "Let's consider two great examples: Eli Lilly (NYSE: LLY) and Veeva Systems (NYSE: VEEV).  Here's what investors need to know about these market leaders that could deliver outsized returns in the next two decades.  Eli Lilly is grabbing headlines thanks to medicines like Mounjaro for diabetes and Zepbound for weight management.",
+            "date": "2025-04-06T12:00:00Z",
+            "sentiment-score": 0.10886254580691457
+        },
+        {
+            "id": "de2540a5-d984-3f2a-944b-fcd94a6b3c25",
+            "summary": "We recently published a list of Starter Stock Portfolio 12 Safe Stocks to Buy. In this article, we are going to take a look at where Eli Lilly and Company (NYSE:LLY) stands against other best beginner stocks. The US stock market has experienced a turbulent first quarter of 2025, marked by increased volatility and negative [\u2026]",
+            "date": "2025-04-06T20:51:11Z",
+            "sentiment-score": -0.915486628189683
+        },
+        {
+            "id": "cfa254ec-7a7f-3c89-8d3d-a4607cd5afec",
+            "summary": "This decision is a blow for Eli Lilly and Novo Nordisk, who had both previously endorsed the proposed expansion.",
+            "date": "2025-04-07T11:13:30Z",
+            "sentiment-score": -0.9203970609232783
+        },
+        {
+            "id": "b28183b5-2041-3afb-b4a9-dc6c73696674",
+            "summary": "Shares of Apple and Tesla tumble as both get their price targets cut by a longtime Wall Street bull, while bank stocks such as JPMorgan Chase fall on fears of a global recession.",
+            "date": "2025-04-07T10:28:00Z",
+            "sentiment-score": -0.9197296658530831
+        },
+        {
+            "id": "7af41d38-8967-3849-b4f5-4c9ca053baa0",
+            "summary": "The FDA is much more flexible in approving first-in-class drugs compared to European regulators.",
+            "date": "2025-04-07T08:00:00Z",
+            "sentiment-score": 0.047488866839557886
+        },
+        {
+            "id": "776b4687-e57d-3e01-bb8c-b56ce78bc81c",
+            "summary": "About a quarter of people risk heart attacks and strokes because they inherited a kind of cholesterol that statin drugs can\u2019t treat.",
+            "date": "2025-04-07T05:00:00Z",
+            "sentiment-score": -0.6695549301803112
+        },
+        {
+            "id": "c0840690-527a-3d81-a0c8-6ddd89da9cbe",
+            "summary": "Danish drugmaker Novo Nordisk is looking at an early launch of its blockbuster weight-loss drug Wegovy in India to better compete with rival Eli Lilly in the populous nation, two sources familiar with the plans told Reuters.  Novo, which had earlier planned for a 2026 launch of the drug, is now looking to begin selling Wegovy in India \"this year, probably in the next few months,\" sources told Reuters on condition of anonymity as they were not authorized to talk to the media.",
+            "date": "2025-04-07T15:29:52Z",
+            "sentiment-score": 0.06638453062623739
+        },
+        {
+            "id": "e38e7d3c-b5b9-3c59-a9e0-7faf76635279",
+            "summary": "CMS keeps out LLY and NVO's obesity drugs from Medicare coverage. Medicare, at present, does not cover obesity drugs if they are solely prescribed for weight loss.",
+            "date": "2025-04-07T13:14:00Z",
+            "sentiment-score": -0.08765638992190361
+        },
+        {
+            "id": "105943ac-3bd3-36d0-9dad-5984161cad64",
+            "summary": "Shares of pharma giants like PFE, J&J, AZN, MRK and ABBV decline on investor concerns that retaliatory tariffs could drive up drug prices for U.S. consumers.",
+            "date": "2025-04-07T12:37:00Z",
+            "sentiment-score": -0.9417527234181762
+        },
+        {
+            "id": "dc689a19-5d9b-3eb1-8e8f-31e709a711a7",
+            "summary": "The decision is a setback for GLP-1 drugmakers, though it's not entirely surprising given the Trump administration\u2019s focus on curbing government spending.",
+            "date": "2025-04-07T09:55:00Z",
+            "sentiment-score": -0.9172196472063661
+        },
+        {
+            "id": "6a5bbfbe-ed22-30b7-adf4-f1cc0c9b46ff",
+            "summary": "The Trump administration did away with a Biden-era proposal to allow Medicare to start paying for weight loss drugs such as Eli Lilly\u2019s Zepbound.",
+            "date": "2025-04-07T17:43:00Z",
+            "sentiment-score": 0.16756423562765121
+        },
+        {
+            "id": "2d94feaf-6f15-3947-a643-73eb6d608197",
+            "summary": "(Bloomberg) -- Drug manufacturers are rushing to reshape their supply chains amid President Donald Trump\u2019s escalating tariff threats, leading to a potential windfall for contractors that make medications in the US.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersThis Skinny Mexico City Tower Is Just 14 Feet Wide on One SideThe Irish Hot Press Is the Low-Tech Laundry Trick the World NeedsBoston Mayor Wu Embraces Trump Resistance as Campaign Heats UpTrump Order on CDFI Fu",
+            "date": "2025-04-07T19:18:12Z",
+            "sentiment-score": 0.006893418729305267
+        },
+        {
+            "id": "d17ed308-767e-3b8c-8cea-9c5ccb103d9e",
+            "summary": "Investing.com -- Goldman Sachs initiated coverage on several large-cap pharmaceutical companies, taking a cautious stance on Bristol-Myers Squibb (NYSE:BMY), Pfizer (NYSE:PFE), and AbbVie (NYSE:ABBV), while upgrading Eli Lilly (NYSE:LLY) to a Buy on strong growth prospects in obesity treatments.",
+            "date": "2025-04-08T13:08:17Z",
+            "sentiment-score": 0.7730456702411175
+        },
+        {
+            "id": "a4b082d4-d3e5-3d1d-8c66-df0c01b86afc",
+            "summary": "Walgreens (WBA) stock is rising after the company reported better-than-expected second quarter earnings while preparing for privatization. Yahoo Finance Senior Health Reporter Anjalee Khemlani highlights the company's cost management strategy, CVS's (CVS) leadership changes amid similar challenges in the retail drug sector, and moves by US drug makers, like Merck (MRK), Johnson & Johnson (JNJ), and Eli Lilly (LLY), as they prepare for incoming tariffs. To watch more expert insights and analysis on the latest market action, check out more Morning Brief here.",
+            "date": "2025-04-08T14:03:18Z",
+            "sentiment-score": 0.4182991795241833
+        },
+        {
+            "id": "28227079-ab70-3c38-9f3d-57dcd02e20b1",
+            "summary": "Catch up on the top industries and stocks that were impacted, or were predicted to be impacted, by the comments, actions and policies of President Donald Trump with this daily recap compiled by The Fly: TRUMP SAYS NO INFLATION: President Trump said via Truth Social, \u201cOil prices are down, interest rates are down (the slow moving Fed should cut rates!), food prices are down, there is NO INFLATION, and the long time abused USA is bringing in Billions of Dollars a week from the abusing countries on",
+            "date": "2025-04-08T14:27:55Z",
+            "sentiment-score": -0.7522430457174778
+        },
+        {
+            "id": "c6185916-db43-3aab-80ed-5a38a6dc5b76",
+            "summary": "Recently, Zacks.com users have been paying close attention to Lilly (LLY). This makes it worthwhile to examine what the stock has in store.",
+            "date": "2025-04-08T13:00:14Z",
+            "sentiment-score": 0.062443030532449484
+        },
+        {
+            "id": "e7899a45-f159-3f1d-a3ef-98b1f461f69c",
+            "summary": "Both LLY and NVO are leading pharmaceutical companies specializing in diabetes and obesity treatments.",
+            "date": "2025-04-08T14:09:00Z",
+            "sentiment-score": 0.09413645230233669
+        },
+        {
+            "id": "fade22d1-4b04-3a73-ba26-cc11ec4c724b",
+            "summary": "Goldman updates coverage across major U.S. drugmakers, citing exclusivity risks, pricing power, and pipeline outlooks",
+            "date": "2025-04-08T17:58:13Z",
+            "sentiment-score": 0.05184461548924446
+        },
+        {
+            "id": "2d6e2ef5-ff33-3e50-8f13-914b494dec54",
+            "summary": "Eli Lilly Rises on Goldman Upgrade, Orforglipron Forecast Topped Street",
+            "date": "2025-04-08T17:17:16Z",
+            "sentiment-score": 0.8139976635575294
+        },
+        {
+            "id": "79c92aaf-126e-3355-bfde-0929e1d0d7fc",
+            "summary": "We recently published a list of Jim Cramer Nailed These 11 Stock Picks. In this article, we are going to take a look at where Eli Lilly and Company (NYSE:LLY) stands against other stocks that Jim Cramer discusses. On Thursday, April 3rd, the host of Mad Money opened the most recent show by addressing the growing [\u2026]",
+            "date": "2025-04-08T18:41:31Z",
+            "sentiment-score": 0.02479069121181965
+        },
+        {
+            "id": "842c6155-35c7-30f1-8fd3-e324a28dc6f9",
+            "summary": "In the closing of the recent trading day, Eli Lilly (LLY) stood at $726.14, denoting a +0.33% change from the preceding trading day.",
+            "date": "2025-04-08T21:45:16Z",
+            "sentiment-score": 0.43946145102381706
+        },
+        {
+            "id": "9eeeb70a-4a36-3460-aa56-174cd3b4e291",
+            "summary": "The most talked about and market moving research calls around Wall Street are now in one place. Here are today\u2019s research calls that investors need to know, as compiled by The Fly. Top 5 Upgrades: Melius Research upgraded Dollar General (DG) to Buy from Hold with a $110 price target. While the company had its own \u201cself-inflicted\u201d challenges and competitive challenges over the last 12 months, the firm believes it likely will benefit from a worsening macro environment and a lack of tariff exposure",
+            "date": "2025-04-09T13:35:20Z",
+            "sentiment-score": 0.8677340056747198
+        },
+        {
+            "id": "a3b4073e-cf6b-3c9f-8915-5acaa3968de0",
+            "summary": "Trump tariff news: President Trump's latest tariffs took effect Wednesday while China stepped up retaliation. Treasury yields are worrisome. Walmart and Delta Air pulled some guidance, citing tariff uncertainty.",
+            "date": "2025-04-09T13:31:49Z",
+            "sentiment-score": -0.931397270411253
+        },
+        {
+            "id": "be7d1b24-7c1e-38ff-91b2-281ea7807568",
+            "summary": "Big pharmaceutical names plowed lower Wednesday after Trump on Tuesday said that tariffs would take direct aim at drug imports.",
+            "date": "2025-04-09T13:08:24Z",
+            "sentiment-score": -0.9341345755383372
+        },
+        {
+            "id": "22407950-a8f9-3d18-b6ce-42a8911228cd",
+            "summary": "Catalysts host Madison Mills and Trader Talk podcast host Kenny Polcari take a look at some of the day's top trending stocks. Apple (AAPL) is in focus after Microsoft (MSFT) replaced Apple as the most valuable company. Alibaba (BABA) reverses earlier gains after US tariffs went into effect. Drugmaker stocks, including Pfizer (PFE), Merck (MRK), and Eli Lilly (LLY), are falling after President Trump announced that pharmaceutical tariffs may be on the way. To watch more expert insights and analysis on the latest market action, check out more Catalysts here.",
+            "date": "2025-04-09T14:43:22Z",
+            "sentiment-score": -0.6112148426473141
+        },
+        {
+            "id": "42788375-b286-39dd-b048-683f4aab07b7",
+            "summary": "Drugmaker stocks, including Eli Lilly (LLY), Johnson & Johnson (JNJ), Merck (MRK), and Pfizer (PFE), are under pressure on Wednesday after President Trump announced that he may impose tariffs on pharmaceutical imports. Yahoo Finance Senior Health Reporter Anjalee Khemlani joins Morning Brief to break down the details. To watch more expert insights and analysis on the latest market action, check out more Morning Brief here.",
+            "date": "2025-04-09T14:11:57Z",
+            "sentiment-score": -0.07719903066754341
+        },
+        {
+            "id": "3574f80a-7896-3130-a9dd-532b14a72923",
+            "summary": "We recently published a list of 10 Defensive Stocks Billionaire Ken Fisher is Betting On. In this article, we are going to take a look at where Eli Lilly & Company (NYSE:LLY) stands against other defensive stocks Billionaire Ken Fisher is betting on. Ken Fisher, an American billionaire investor, author, and financial analyst, founded and runs Fisher [\u2026]",
+            "date": "2025-04-09T14:29:00Z",
+            "sentiment-score": 0.008036376908421516
+        },
+        {
+            "id": "1977698c-64f2-3d65-9eae-d62889dad328",
+            "summary": "As everyone who follows equity markets knows, stocks are feeling the heat from President Donald Trump's macroeconomic policies.  On April 3, the president announced sweeping tariffs on goods imported into the U.S. from basically every country on planet Earth.  One of them is the pharmaceutical industry.",
+            "date": "2025-04-09T14:15:00Z",
+            "sentiment-score": 0.02654102072119713
+        },
+        {
+            "id": "735b4031-6b8f-38a3-a331-5a45d6ec0c93",
+            "summary": "Equity markets may be struggling because of President Donald Trump's current economic policies, but that doesn't mean investors should avoid buying stocks right now -- quite the contrary.  History tells us that equities tend to experience strong runs following downturns, so it's worth putting money into excellent companies that are being dragged down with along with the broader market.  To that end, let's consider five excellent growth-oriented companies to invest in on the dip: Novo Nordisk (NYSE: NVO), Eli Lilly (NYSE: LLY), Vertex Pharmaceuticals (NASDAQ: VRTX), Intuitive Surgical (NASDAQ: ISRG), and Shopify (NASDAQ: SHOP).",
+            "date": "2025-04-09T14:00:00Z",
+            "sentiment-score": 0.016165612265467644
+        },
+        {
+            "id": "f171bfb7-94e2-3b98-bde2-9d5add357a5c",
+            "summary": "Stocks in drugmakers sold off globally after President Trump said tariffs on pharmaceutical imports will be unveiled shortly, signaling the industry could be next in line amid a trade war that is causing market turmoil.  AbbVie, Eli Lilly, Johnson & Johnson, Merck and Pfizer all fell at least 2% Wednesday morning.  Denmark's Novo Nordisk, Switzerland's Novartis and the U.K.'s AstraZeneca and GSK also fell 2% or more in the U.S.",
+            "date": "2025-04-09T13:51:17Z",
+            "sentiment-score": -0.9492702353745699
+        },
+        {
+            "id": "fb43c27f-3602-3568-a9b8-b31013b367c9",
+            "summary": "Catalysts host Madison Mills goes over some of the top stories of the day on this segment of Market Minute. Delta Air Lines (DAL) cut its full-year guidance as uncertainty around tariffs weighs on bookings. Walmart (WMT) walks back its first quarter profit guidance, citing tariff risks. Pharmaceutical stocks, including Pfizer (PFE), Novo Nordisk (NVO), and Eli Lilly (LLY), are under pressure after President Trump announced that there may be pharmaceutical tariffs underway. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
+            "date": "2025-04-09T15:15:38Z",
+            "sentiment-score": -0.8319629775360227
+        },
+        {
+            "id": "d3d8407e-731f-3d7c-993f-2c4a62d1b525",
+            "summary": "Might the tariff risk for pharmaceutical stocks be less than you think?",
+            "date": "2025-04-09T15:11:21Z",
+            "sentiment-score": 0.04283985495567322
+        },
+        {
+            "id": "2b47c372-177e-3051-aa01-406a8d82b220",
+            "summary": "Netflix and DoorDash are two of the seven best stocks where investors can find magnificent profit growth prospects.  More than 70% of analysts covering Netflix have buy or overweight ratings on the video streaming service.  The consensus estimate for 2025 earnings is $24.69, a 25% increase from last year.",
+            "date": "2025-04-09T17:36:21Z",
+            "sentiment-score": 0.9160944083705544
+        }
+    ]
+}

@@ -1,0 +1,155 @@
+{
+    "ticker": "PEP",
+    "total_news": 23,
+    "average_sentiment": -0.13323866883697716,
+    "weighted_average_sentiment": -0.06308256002021549,
+    "average_daily_sentiments": [
+        0.0038709091022610664,
+        -0.032794756907969715,
+        0.013124494813382626,
+        0.13759199483320117,
+        -0.5522455594812831,
+        -0.17942462454084307,
+        -0.008038557134568691
+    ],
+    "news": [
+        {
+            "id": "6a2fac1c-a5cb-3f95-b733-e11659df548c",
+            "summary": "After its cola dropped to No. 3, PepsiCo is trying to win back soda drinkers; \u201cmaybe we lost the focus.\u201d",
+            "date": "2025-04-03T01:00:00Z",
+            "sentiment-score": -0.808110024780035
+        },
+        {
+            "id": "b9b14ae9-a270-3498-97a4-3f960d7d6685",
+            "summary": "The Trump Administration said it would impose a 25% tariff on imported beer cans and empty aluminum cans, a move that could affect U.S. production of soft drinks, beer, canned wine and cocktails.  A Commerce Department notice said the products would be added, starting Friday, to a previously announced aluminum tariff.  Shares of Constellation Brands, which imports Modelo and Corona beer from Mexico, dropped 1% on Wednesday.",
+            "date": "2025-04-02T21:59:52Z",
+            "sentiment-score": -0.9579851287417114
+        },
+        {
+            "id": "890640cd-a73a-3e3c-8364-deaad7df1bf0",
+            "summary": "We recently published a list of Top 10 Stocks on Jim Cramer\u2019s Radar as Trump Tariffs Wreak Havoc Across Global Markets. In this article, we are going to take a look at where PepsiCo Inc (NASDAQ:PEP) stands against other top stocks on Jim Cramer\u2019s radar as Trump tariffs wreak havoc across global markets. Jim Cramer [\u2026]",
+            "date": "2025-04-03T18:43:04Z",
+            "sentiment-score": 0.005009989254176617
+        },
+        {
+            "id": "e83490e8-3002-3fcf-bf86-31bc168e6d3c",
+            "summary": "PepsiCo (PEP) closed the most recent trading day at $151.39, moving +1.52% from the previous trading session.",
+            "date": "2025-04-03T21:45:14Z",
+            "sentiment-score": 0.7789843641221523
+        },
+        {
+            "id": "e283c18c-c042-391b-808a-b715ada6117e",
+            "summary": "In times of economic downturns, with much uncertainty surrounding the U.S. economy and Trump\u2019s infamous import tariffs, a strong portfolio needs some defensive picks to weather the storm. Historically, PepsiCo (PEP) has been a reliable defensive dividend stock that many investors have turned to for diversification. I like to think of PepsiCo as a giant ocean liner\u2014it moves slowly but reaches its destination unscathed, keeping the passengers happy through service and price. However, at the moment",
+            "date": "2025-04-04T11:22:44Z",
+            "sentiment-score": 0.2745673907920718
+        },
+        {
+            "id": "b2c88bfd-577a-3c9f-894c-8d87b517bcbf",
+            "summary": "Quarterly earnings results are a good time to check in on a company\u2019s progress, especially compared to its peers in the same sector. Today we are looking at PepsiCo (NASDAQ:PEP) and the best and worst performers in the beverages, alcohol, and tobacco industry.",
+            "date": "2025-04-04T09:11:00Z",
+            "sentiment-score": -0.1950436383485794
+        },
+        {
+            "id": "d2ae9983-79df-3657-b8b1-549dd0ab17af",
+            "summary": "Celsius Holdings stock is making a comeback. Find out what's driving the energy drink maker's recent gains after a painful 2024.",
+            "date": "2025-04-04T18:42:29Z",
+            "sentiment-score": 0.04721979470923543
+        },
+        {
+            "id": "c1964427-8c64-37f6-b122-eb2a791ad239",
+            "summary": "Like an open can of soda left out overnight, PepsiCo (NASDAQ: PEP) stock has lost its fizz lately -- it's down by about 15% over the past year at the time of this writing.  Does the stock's current weakness point to more downside ahead, or are there good reasons for investors to stay optimistic?  A reality of investing is that even the best companies sometimes get caught up in stock market volatility.",
+            "date": "2025-04-05T07:24:00Z",
+            "sentiment-score": -0.9032116243615746
+        },
+        {
+            "id": "598501f5-1723-30c7-890b-ad921840252b",
+            "summary": "The Rev. Al Sharpton is giving PepsiCo three weeks to meet with him \u2014 or suffer a boycott \u2014 to discuss reversing the company\u2019s recent move to do away with its diversity, equity and inclusion initiatives, according to a letter shared with The Associated Press.  On Friday, Sharpton wrote to PepsiCo CEO Ramon Laguarta expressing his \u201cprofound disappointment\u201d that the company would end inclusion commitments that both helped build its brand and fostered trust with millions of its customers.  \u201cYou have walked away from equity,\u201d Sharpton wrote in the letter, adding that removing DEI hiring and retention goals and dismantling community partnerships with minority organizations \u201care clear signals that political pressure has outweighed principle.\u201d",
+            "date": "2025-04-04T21:45:02Z",
+            "sentiment-score": -0.8444420453161001
+        },
+        {
+            "id": "ebf30df4-4964-3c7d-abb4-d5a36e3f0d7d",
+            "summary": "Try not to let market volatility bring you down. Instead, let dividend stocks make you happy. These high-yield dividend stocks will pay you between 3% and 7% to hold them.",
+            "date": "2025-04-05T12:15:00Z",
+            "sentiment-score": 0.01954355649650097
+        },
+        {
+            "id": "e0777baa-dfcc-3fb6-b56b-d53a635bc0cd",
+            "summary": "Dividend King Coca-Cola (NYSE: KO) is a consumer staples giant that fits that bill.  Coca-Cola owns one of the most recognized brands in the world, with lots going for it.  There's a reason why Warren Buffett has owned Coca-Cola within Berkshire Hathaway for decades.",
+            "date": "2025-04-06T08:05:00Z",
+            "sentiment-score": 0.07874560775235295
+        },
+        {
+            "id": "96ff940f-ad4b-310a-8e5f-745b52c10567",
+            "summary": "Sharpton's letter sets forth his belief that the company has betrayed guiding principles because of political pressure",
+            "date": "2025-04-05T21:30:00Z",
+            "sentiment-score": -0.7730686105787754
+        },
+        {
+            "id": "c4d565ac-fc75-37d0-9c84-b00e978c4098",
+            "summary": "Coca-Cola (NYSE: KO) and PepsiCo (NASDAQ: PEP) have a long-standing rivalry as each has battled for the hearts, minds, and wallets of consumers.  Stock analysis may not have the entertainment value of the companies' commercials, but which one, Coca-Cola or PepsiCo, deserves your investment dollars?  Coca-Cola started selling its namesake brand in 1886, and it remains a pure beverage company.",
+            "date": "2025-04-06T16:35:00Z",
+            "sentiment-score": 0.029210410080850124
+        },
+        {
+            "id": "bbdbc18a-a9a1-3a18-9cd4-bbd85b47f9a5",
+            "summary": "We recently published a list of 11 Best Counter Cyclical Stocks to Buy According to Analysts. In this article, we are going to take a look at where PepsiCo, Inc. (NASDAQ:PEP) stands against other best counter cyclical stocks to buy according to analysts. Counter cyclical stocks stand out because they tend to perform well during [\u2026]",
+            "date": "2025-04-06T21:08:12Z",
+            "sentiment-score": 0.30481996666640043
+        },
+        {
+            "id": "9c13626a-dd8b-3c32-9449-e4c49cc321b0",
+            "summary": "Coca-Cola, Hyatt, Sealed Air,\u00a0Starbucks and Wyndham\u00a0recently reached agreements with shareholder advocates. Proposals remain pending at Amazon, Home Depot, Kraft Heinz, Mondelez, PepsiCo and\u00a0Wendy\u2019s.",
+            "date": "2025-04-07T10:48:00Z",
+            "sentiment-score": 0.06590215675532818
+        },
+        {
+            "id": "22d303a3-0154-3752-91fe-ea3fd0e06a61",
+            "summary": "The debut of the healthier offering, which targets building immunity and healthy bones, comes as the category continues to lose sales.",
+            "date": "2025-04-07T09:00:00Z",
+            "sentiment-score": -0.8796823937445879
+        },
+        {
+            "id": "bc5f7cf2-3a6a-3050-9a6f-a5511cb16737",
+            "summary": "Coca-Cola (KO) stock hit a 52-week peak of $73 a share last Thursday and is sitting on +9% gains this year compared to the S&P 500's 14% decline.",
+            "date": "2025-04-07T19:25:00Z",
+            "sentiment-score": 0.8531537214294076
+        },
+        {
+            "id": "b89e252a-705c-3384-8d07-b485c34ff42a",
+            "summary": "CVS Health Inc (NYSE:CVS) on Tuesday named Brian Newman as executive vice president and chief financial officer designate, effective April 21. He will succeed current chief financial officer Tom Cowhey, who will transition as a strategic advisor to president and chief executive officer David Joyner, effective May 12. Newman was most recently executive vice president and chief financial officer of United Parcel Service Inc (NYSE:UPS). Also Read: FTC Pauses Lawsuit Against CVS, Cigna, UnitedHealth",
+            "date": "2025-04-08T12:24:11Z",
+            "sentiment-score": -0.01149020716547966
+        },
+        {
+            "id": "1c643ac0-14c8-34ee-b340-add3e551c41a",
+            "summary": "Pre-game concerts are coming to the biggest stages in European women\u2019s soccer from next season as part of a Pepsi sponsorship announced on Tuesday.  UEFA said a five-year renewal with PepsiCo will see kickoff shows at each final in the Women\u2019s Champions League through 2030 and at the 2029 European Championship.  The men\u2019s Champions League final has had concerts since Alicia Keys performed before the 2016 final at San Siro in Milan.",
+            "date": "2025-04-08T10:58:03Z",
+            "sentiment-score": 0.0783292162232101
+        },
+        {
+            "id": "7687faed-9dd8-3941-b83d-3ed6bd8cca21",
+            "summary": "Coca-Cola, PepsiCo, Berkshire Hathaway and Blackrock have been highlighted in this Investment Ideas article.",
+            "date": "2025-04-08T08:42:00Z",
+            "sentiment-score": 0.006119249388575554
+        },
+        {
+            "id": "05baf09e-6a08-375a-88c9-4877ec9db8a4",
+            "summary": "Stock market sell-offs can be challenging for investors.  Market volatility can make it tough to make new investments and keep the ones you already have due to the fear that they could lose value.  One dividend stock I've been buying during the current market sell-off is PepsiCo (NASDAQ: PEP).",
+            "date": "2025-04-08T08:14:00Z",
+            "sentiment-score": -0.24375481344759464
+        },
+        {
+            "id": "36c8a342-e01d-3498-b0d5-4cb2ea71eccb",
+            "summary": "We recently published a list of 10 Defensive Stocks Billionaire Ken Fisher is Betting On. In this article, we are going to take a look at where PepsiCo, Inc. (NASDAQ:PEP) stands against other defensive stocks billionaire Ken Fisher is betting on. Ken Fisher, an American billionaire investor, author, and financial analyst, founded and runs Fisher Asset Management. [\u2026]",
+            "date": "2025-04-08T22:14:42Z",
+            "sentiment-score": 0.006822770461440086
+        },
+        {
+            "id": "0e5a5fb9-62f0-303a-937a-c60398a77f8a",
+            "summary": "Greg Lyons, who left the beverage giant late last month, will join the sandwich chain on the tail of a recent creative agency switch-up.",
+            "date": "2025-04-09T10:15:00Z",
+            "sentiment-score": 0.0038709091022610664
+        }
+    ]
+}

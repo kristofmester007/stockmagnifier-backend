@@ -1,0 +1,839 @@
+{
+    "ticker": "AMZN",
+    "total_news": 137,
+    "average_sentiment": -0.24977659199210087,
+    "weighted_average_sentiment": -0.24645282876189148,
+    "average_daily_sentiments": [
+        -0.31258068019119295,
+        -0.2505818950677557,
+        -0.08068314982721439,
+        -0.2600580216385424,
+        -0.1896580759073711,
+        -0.2613180825190449,
+        -0.3442142557845834
+    ],
+    "news": [
+        {
+            "id": "24690258-1a56-3945-adc1-393f4fa90d97",
+            "summary": "President Trump reportedly has a TikTok deal proposal that would prevent the social media platform from being banned in the US. Yahoo Finance Tech Editor Dan Howley sits down with Josh Lipton and Investopedia editor in chief Caleb Silver to discuss the latest TikTok news. To watch more expert insights and analysis on the latest market action, check out more Market Domination here.",
+            "date": "2025-04-02T21:19:01Z",
+            "sentiment-score": -0.00036939699202775955
+        },
+        {
+            "id": "bd041819-4022-3a96-a3ad-e40693d74f05",
+            "summary": "The White House is reportedly close to approving a TikTok deal that would bring in new U.S.-based investors.",
+            "date": "2025-04-02T21:03:53Z",
+            "sentiment-score": 0.5744222598150373
+        },
+        {
+            "id": "19f9417c-736b-3f0f-9f16-6cc91818380b",
+            "summary": "Shares in some of the biggest U.S. technology and consumer firms fell late Wednesday following President Trump's announcement of significant tariffs, including 34% on China and 46% on Vietnam, nations that export large amounts of goods to America.",
+            "date": "2025-04-02T20:49:45Z",
+            "sentiment-score": -0.9558802112005651
+        },
+        {
+            "id": "c0f87eb6-3cd1-3ea6-925f-0d1fe7540de6",
+            "summary": "President Trump is expected to be briefed Wednesday on a framework to keep the video-sharing app operational.",
+            "date": "2025-04-02T20:11:00Z",
+            "sentiment-score": 0.13699807226657867
+        },
+        {
+            "id": "1aece5f9-a5cf-3d3a-bc37-4d53fbf7bac8",
+            "summary": "Amazon and AppLovin reportedly submitted bids to acquire TikTok, ahead of a U.S. ban set to go into effect Saturday if no deal is reached with the app's Chinese parent company.",
+            "date": "2025-04-02T20:03:45Z",
+            "sentiment-score": -0.5048812814056873
+        },
+        {
+            "id": "58d1c6f4-2aa5-31c1-b7f1-afc4b3e9f91e",
+            "summary": "Tech stocks rose late Wednesday afternoon, with the Technology Select Sector SPDR Fund (XLK) up 0.9%",
+            "date": "2025-04-02T19:53:55Z",
+            "sentiment-score": 0.9139252724125981
+        },
+        {
+            "id": "efa10ff7-d7ec-3716-86bf-c4a889815ad1",
+            "summary": "With days left before the TikTok sale deadline, Amazon joins a crowded field of bidders amid national security scrutiny",
+            "date": "2025-04-02T19:42:47Z",
+            "sentiment-score": 0.04440505616366863
+        },
+        {
+            "id": "9044f44c-af1a-3435-870a-1acef58a9d4c",
+            "summary": "Amazon has placed a bid on TikTok, as the April 5 deadline nears for a potential sale of the social media company. If a deal does not emerge, the popular app could face a nationwide ban.",
+            "date": "2025-04-02T19:25:32Z",
+            "sentiment-score": -0.8702771821990609
+        },
+        {
+            "id": "1ac583ed-c5b1-3566-9f99-2cfe0a0f2958",
+            "summary": "TikTok Sale Deadline Ignites Surprise Bid by Amazon",
+            "date": "2025-04-02T18:48:12Z",
+            "sentiment-score": 0.10069004073739052
+        },
+        {
+            "id": "88299bf8-d350-409e-b271-3be28d8c7732",
+            "summary": "Stocks sold off late Wednesday as President Trump's reciprocal tariffs proved to be harsher than many on Wall Street had expected.",
+            "date": "2025-04-02T22:23:45Z",
+            "sentiment-score": -0.8128671087324619
+        },
+        {
+            "id": "7881c65b-bea9-3c2d-be21-9f008d8201e0",
+            "summary": "Amazon criticised a book delivery fee imposed by France two years ago, telling Europe's top court on Thursday the measure was discriminatory, protectionist and a breach of European Union law.  France's efforts to protect its cultural heritage and traditions have frequently put it at odds with tech and online companies, notably one of the biggest Amazon.  Paris introduced the three euro ($3.31) fee in October 2023 to help local independent bookstores counter competition from Amazon, which had until then charged a euro cent on book deliveries in France.",
+            "date": "2025-04-03T09:50:05Z",
+            "sentiment-score": -0.16576901078224182
+        },
+        {
+            "id": "0ea4fb2b-ee9f-3bca-a1d2-443e66ae2f59",
+            "summary": "Generating $638 billion in revenue last year, Amazon is now one of the largest companies in the world in terms of sales, and close to the top in terms of market capitalization.  Let's dive into the numbers and figure out where Amazon stock may trade five years from now.  Since its founding around 30 years ago, Amazon has become the dominant player within e-commerce in the United States.",
+            "date": "2025-04-02T22:22:00Z",
+            "sentiment-score": 0.08655022829771042
+        },
+        {
+            "id": "05f11024-33b0-35d2-98f8-f5f9577573dc",
+            "summary": "Shares of big U.S. retailers sold off on Trump\u2019s plan to add tariffs ranging from at least 10% to as much as 49% on imports depending on the country of origin. Walmart, Amazon, Best Buy and Target were lower following the initial announcement.",
+            "date": "2025-04-02T21:31:33Z",
+            "sentiment-score": -0.9233268415555358
+        },
+        {
+            "id": "57f18b91-5603-3d77-8365-b2a2a10f3e84",
+            "summary": "Apple (NASDAQ: AAPL) is the world's largest company -- by about half a trillion dollars as I write this.  In fact, considering the current state of Apple's business and the growth trajectories of some of its competitors, I think it's highly likely that Apple will lose its title of the world's largest company within the next few years.  There are four companies that could pass Apple in that time frame.",
+            "date": "2025-04-03T10:15:00Z",
+            "sentiment-score": -0.86153912730515
+        },
+        {
+            "id": "613adab6-bd8c-3324-a5a7-147f79b47d5b",
+            "summary": "At a February event,  Amazon  announced Alexa+, a more conversational, generative-AI version of its famous assistant.  During onstage demos, Alexa+ handled a complicated Uber order, answered questions about a user\u2019s email and calendars\u2014and even sifted through hours of Ring camera footage to find a cute dog.  The company said Alexa+ would begin rolling out in March.",
+            "date": "2025-04-03T09:30:00Z",
+            "sentiment-score": 0.010495425201952457
+        },
+        {
+            "id": "c713c3e3-68ee-4cc6-bbf7-b6a230f1388b",
+            "summary": "The tariff-fueled sell-off has erased over $900 billion from Magnificent Seven stocks.",
+            "date": "2025-04-03T20:27:10Z",
+            "sentiment-score": -0.9356228290125728
+        },
+        {
+            "id": "eadab927-c5b1-4459-a8e5-5b8fc833d214",
+            "summary": "GoodRx is trying to help pharmacies compete in a digital age, where they already face pressure on their margins.",
+            "date": "2025-04-03T13:00:44Z",
+            "sentiment-score": 0.12654427997767925
+        },
+        {
+            "id": "0b02de47-8506-322e-9a0c-a625e199da53",
+            "summary": "Retail stocks are taking a hit in after-hours trading, with Walmart (WMT) and Amazon (AMZN) seeing significant drops. Yahoo Finance Executive Editor Brian Sozzi joins Asking for a Trend host Josh Lipton to explain how tariffs on imports from China and the European Union could hurt retailers like Walmart, Amazon, and Nike (NKE). To watch more expert insights and analysis on the latest market action, check out more Asking for a Trend&nbsp;here.",
+            "date": "2025-04-02T21:36:24Z",
+            "sentiment-score": -0.8932598754763603
+        },
+        {
+            "id": "be6b0971-2fe3-34f2-bcb7-a5c270bfe9cb",
+            "summary": "(Bloomberg) -- Roughly $1.7 trillion was erased from the S&P 500 Index at the start of trading on Thursday amid worries that President Donald Trump\u2019s sweeping new round of tariffs could plunge the economy into a recession.Most Read from BloombergMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLondon Clears Final Hurdle for More High-Speed Trains to EuropeLocal Governments Vie for Fired Federal WorkersChicago School District Agrees to Minimum 16% Teacher Pay RaiseThe d",
+            "date": "2025-04-03T20:48:37Z",
+            "sentiment-score": -0.7952549308538437
+        },
+        {
+            "id": "ebb425b6-35f4-38bd-9f5e-bc35ca9d9af9",
+            "summary": "We recently published a list of Top 10 Stocks to Watch as Investors Brace for Potential Recession. In this article, we are going to take a look at where Amazon.com, Inc. (NASDAQ:AMZN) stands against other top stocks to watch as investors brace for potential recession. President Donald Trump\u2019s new reciprocal tariff announcement is hammering stock [\u2026]",
+            "date": "2025-04-03T20:47:47Z",
+            "sentiment-score": -0.04306255467236042
+        },
+        {
+            "id": "eaa51833-dc95-3e9b-92fa-96209222504f",
+            "summary": "(Bloomberg) -- The retail traders who have stormed the markets in recent years were among the only investors buying on Thursday as US stocks had their worst day since June 2020.Most Read from BloombergMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeHousing Agency Aims to Relocate Its DC HeadquartersWhat Would \u2018Transportation Abundance\u2019 Look Like?Small investor",
+            "date": "2025-04-03T20:38:38Z",
+            "sentiment-score": 0.033882804214954376
+        },
+        {
+            "id": "f47780fc-f087-3387-a76d-91b30cd18e19",
+            "summary": "Amazon stock and other e-commerce players slid Thursday morning amid a market rout on President Trump's tariff plan.",
+            "date": "2025-04-03T20:26:00Z",
+            "sentiment-score": -0.9529962292872369
+        },
+        {
+            "id": "02820d9d-3ce2-36eb-b479-2994ef2de1b3",
+            "summary": "Tariffs crushed Amazon's stock price on Thursday. Here's why you should see this discount as a wide-open buying window for this resilient tech stock.",
+            "date": "2025-04-03T20:04:18Z",
+            "sentiment-score": 0.07006223499774933
+        },
+        {
+            "id": "f334089c-2fa7-3758-86cc-7da6263372fe",
+            "summary": "Chinese e-commerce merchants are going to have a much harder time selling their products in the U.S. - at least at cut-rate prices.  Among megacap tech stocks, Amazon and Meta were the hardest hit in Thursday\u2019s tariff-sparked selloff, save for Apple.  The two stocks closed down 9% on Thursday, with Meta losing twice as much on a percent basis as Google-parent Alphabet, which is its largest rival in online advertising.",
+            "date": "2025-04-03T20:04:10Z",
+            "sentiment-score": -0.9570728722028434
+        },
+        {
+            "id": "1cbebbb7-c760-35b5-b716-0dc6459d0632",
+            "summary": "Amazon is starting to test a new AI shopping agent, a feature it calls \"Buy for Me,\" with a subset users, the company announced in a blog post Thursday. If Amazon doesn't sell something that users are searching for, the Buy for Me feature will display products to users that other websites are selling. Then, users can select and request to purchase one of these products without ever leaving the Amazon Shopping app. Amazon is the latest company to unveil an AI shopping agent, joining firms such as",
+            "date": "2025-04-04T00:35:40Z",
+            "sentiment-score": 0.05546399159356952
+        },
+        {
+            "id": "53c90790-a31f-315d-84a4-190d19041419",
+            "summary": "President Trump's tariffs have sent the markets (^DJI, ^GSPC, ^IXIC) plunging, especially the tech-heavy Nasdaq. Apple (AAPL) and Amazon (AMZN) were hit particularly hard among Big Tech. Tom Forte, Maxim Group managing director and senior consumer internet analyst, joins Market Domination to discuss Apple's stock movement. To watch more expert insights and analysis on the latest market action, check out more Market Domination here.",
+            "date": "2025-04-03T20:12:39Z",
+            "sentiment-score": -0.5003013387322426
+        },
+        {
+            "id": "82070b66-f0c3-3bba-9c53-daabde3dc1e5",
+            "summary": "With regulators watching closely, the outcome of this high-stakes deal could have far-reaching consequences for the tech industry and its users.",
+            "date": "2025-04-04T00:29:51Z",
+            "sentiment-score": -0.6038081981241703
+        },
+        {
+            "id": "84aca5dd-9860-36a0-83b7-77c5531f24b4",
+            "summary": "(Bloomberg) -- The world\u2019s 500 richest people saw their combined wealth plunge by $208 billion Thursday as broad tariffs announced by President Donald Trump sent global markets into a tailspin. Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018Transportation Abundance\u2019 Look Li",
+            "date": "2025-04-03T21:22:23Z",
+            "sentiment-score": -0.5442853644490242
+        },
+        {
+            "id": "dcbd223c-82fe-3fcd-ad69-f14c98627351",
+            "summary": "(Bloomberg) -- President Donald Trump said the US was close to unveiling a plan that would spare the Chinese-owned social media app TikTok from a US ban, with multiple investors involved in discussions for a deal.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018Transportation",
+            "date": "2025-04-03T21:21:07Z",
+            "sentiment-score": 0.66741793602705
+        },
+        {
+            "id": "c5aa1a9a-4eba-38b3-8a56-4be9e3037d1a",
+            "summary": "U.S. stock indexes saw their biggest drop in value since March 2020, one day after President Trump announced a 10% across-the-board tariff for all foreign imports, and higher rates for other countries.",
+            "date": "2025-04-03T21:04:00Z",
+            "sentiment-score": -0.9573400118388236
+        },
+        {
+            "id": "d05ae130-187f-37d6-b409-47f0fede3d3f",
+            "summary": "Tech stocks were pummeled Thursday following President Trump\u2019s earlier tariff announcement, a sign of how vulnerable the sector is to a possible recession as well as to higher prices on everything from consumer goods to hardware.  The six tech companies with trillion-dollar market capitalizations (Apple, Nvidia, Microsoft, Amazon, Alphabet and Meta Platforms) lost a combined $985 billion in stock market value today.",
+            "date": "2025-04-03T20:59:43Z",
+            "sentiment-score": -0.9472819371148944
+        },
+        {
+            "id": "9ab8e6d0-1dc5-37de-ad47-db841426b2ca",
+            "summary": "David Tepper didn't amass a net worth of $21.3 billion by thinking conventionally.  If you look at the top holdings in Tepper's Appaloosa Management portfolio, you'll probably quickly see that the billionaire seems to like artificial intelligence (AI) stocks.  Amazon (NASDAQ: AMZN) has been an AI leader for years.",
+            "date": "2025-04-04T08:47:00Z",
+            "sentiment-score": 0.028229260351508856
+        },
+        {
+            "id": "0d37d9f2-4e8b-42e2-83cf-766b030afdb0",
+            "summary": "Wall Street is wasting no time adjusting their views on certain stocks in the wake of bruising Trump tariffs.",
+            "date": "2025-04-04T13:54:45Z",
+            "sentiment-score": -0.5803381092846394
+        },
+        {
+            "id": "d08bba81-8aba-4cc7-97e3-b711e1520b6a",
+            "summary": "President Trump promised big tariffs, and he didn't disappoint. Here's what sources are telling Yahoo Finance's newsroom about the tariff impact to certain sectors and asset classes.",
+            "date": "2025-04-04T10:00:56Z",
+            "sentiment-score": -0.005832385271787643
+        },
+        {
+            "id": "084f0bdc-a80d-4338-ac0b-eaabb0b8a6ea",
+            "summary": "Intel and TSMC have reached a tentative agreement to shore up Intel's foundry business, according to The Information.",
+            "date": "2025-04-03T20:24:17Z",
+            "sentiment-score": 0.9004811774939299
+        },
+        {
+            "id": "a0440ff3-27f7-367f-9477-66d008d76569",
+            "summary": "The stock market has taken a steep downturn after President Donald Trump's tariff announcements.  As of this writing, the S&P 500 is firmly in correction territory, and the Nasdaq Composite is just a couple percentage points away from officially being in a bear market.  In general, the megacap tech stocks have not performed well in 2025, and Amazon\u00a0(NASDAQ: AMZN) is no exception.",
+            "date": "2025-04-04T14:54:37Z",
+            "sentiment-score": -0.9257261250168085
+        },
+        {
+            "id": "2e3e61be-e9b1-3fe9-9262-0e283ca3d0f7",
+            "summary": "Not great. Here's their combined loss of market value Thursday, according to Dow Jones Market Data\u2014a record one-day wipeout: $1.03 trillion lost market value Given their size, those moves translated into huge market-value drops: Apple alone lost $311 billion.",
+            "date": "2025-04-04T13:41:56Z",
+            "sentiment-score": -0.9421958513557911
+        },
+        {
+            "id": "b0cd5422-7919-3966-b5eb-a36dcf293500",
+            "summary": "(Bloomberg) -- There\u2019s virtually nowhere to hide for many US technology companies under President Donald Trump\u2019s new tariff regime, the harshest in a century.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018Transportation Abundance\u2019 Look Like?After Thursday\u2019s slump wiped $1.4",
+            "date": "2025-04-04T13:34:17Z",
+            "sentiment-score": 0.059058938175439835
+        },
+        {
+            "id": "2c3d14ee-484a-3af3-bee5-761e8ae11c5b",
+            "summary": "BofA notes that President Trump\u2019s newly announced tariffs were larger than anticipated and are \u201ca direct negative\u201d for discretionary retail sales and advertising. In addition, the potential for increasing recession fears fueled by the tariffs are \u201ca relative negative for the entire Internet sector,\u201d which the analyst notes underperformed in 2008 and 2022 as fears of a recession grew. The \u201conly potential silver lining\u201d is that proposed rates could be viewed as a negotiation tool that may not be f",
+            "date": "2025-04-04T13:16:20Z",
+            "sentiment-score": -0.8933798782527447
+        },
+        {
+            "id": "65135eeb-8d6a-3f53-a146-fffa3f3f7dee",
+            "summary": "There's a lot of uncertainty in the stock market right now, and it's causing many investors to reconsider some of their stocks and look at which ones might offer good opportunities to buy.  With U.S. President Donald Trump's ongoing tariff actions against trade partners and some economists increasing their estimates of a potential recession, it's no surprise that investors are taking a more skeptical approach to each stock they buy.  When considering two leading consumer goods companies, Amazon (NASDAQ: AMZN) and Home Depot (NYSE: HD), which looks like the best stock to buy right now?",
+            "date": "2025-04-04T12:45:00Z",
+            "sentiment-score": -0.005157269537448883
+        },
+        {
+            "id": "9d05e40d-fd50-3a01-b217-ba0caeb48bbb",
+            "summary": "Tariff Impact Lose Billions in Tech Sector Market Value",
+            "date": "2025-04-04T12:10:08Z",
+            "sentiment-score": -0.8031620448455215
+        },
+        {
+            "id": "b0c5659d-a1ab-37a9-91f1-1bc9b9b03778",
+            "summary": "All \"Magnificent Seven\" names \u2014 Nvidia (NVDA), Alphabet (GOOG, GOOGL), Tesla (TSLA), Microsoft (MSFT), Amazon (AMZN), Meta (META), and Apple (AAPL) \u2014 are in the red under Trump's second administration. Yahoo Finance podcast Stocks in Translation host Jared Blikre takes a closer look at the group's moves. Catch more Stocks in Translation here, with new episodes every Tuesday and Thursday. To watch more expert insights and analysis on the latest market action, check out more Catalysts here.",
+            "date": "2025-04-04T15:56:11Z",
+            "sentiment-score": 0.02140659186989069
+        },
+        {
+            "id": "684344af-57a3-4971-b34a-746b23b33930",
+            "summary": "The hunt for cheap stocks begins.",
+            "date": "2025-04-04T12:42:55Z",
+            "sentiment-score": -0.004880731925368309
+        },
+        {
+            "id": "8086ff82-c355-3d2e-a090-da26b6288d56",
+            "summary": "\u2198\ufe0f Glencore (UK:GLEN): Fears of a global recession hit mining companies. Shares of Glencore, one of the world's biggest copper suppliers, fell more than 10% in London. \u2198\ufe0f Apple (APPL); Meta Platforms (META): The two \"Magnificent 7\" stocks that saw the steepest falls Thursday both dropped at least 3% Friday.",
+            "date": "2025-04-04T14:28:53Z",
+            "sentiment-score": -0.9548236103728414
+        },
+        {
+            "id": "78d49b45-37f3-36c0-8527-f7846dc2a370",
+            "summary": "Amazon.com (NasdaqGS:AMZN) recently made headlines with a last-minute bid for TikTok, amidst a turbulent market backdrop that saw the Dow and Nasdaq entering correction and bear market territories, respectively. Over the past week, Amazon's share price fell 11%, coinciding with widespread declines among technology stocks due to escalating trade tensions. The company's collaboration with AWS to enhance AI-driven services and the potential spin-off of its India operations demonstrates efforts...",
+            "date": "2025-04-04T17:30:15Z",
+            "sentiment-score": -0.8874923936091363
+        },
+        {
+            "id": "c5c85a5b-bd7d-37cb-9ac7-02907cecdaa1",
+            "summary": "The TikTok ban got another extension from President Trump, who said his administration is making progress on arranging a deal.",
+            "date": "2025-04-04T18:42:49Z",
+            "sentiment-score": 0.8917679395526648
+        },
+        {
+            "id": "88267714-66b7-4b8d-ada5-e3a1222ba4bb",
+            "summary": "Amazon is caught in the Trump tariff crosshairs.",
+            "date": "2025-04-04T19:30:59Z",
+            "sentiment-score": 0.011437403038144112
+        },
+        {
+            "id": "2a4a303e-674d-43f1-b50d-9e3a749fa634",
+            "summary": "Apple might be having a tough time rolling out its new AI systems, but don't count it out as an investment just yet.",
+            "date": "2025-04-04T13:30:27Z",
+            "sentiment-score": 0.00816696509718895
+        },
+        {
+            "id": "84df4353-c2b4-37d0-b013-6e290ed4027e",
+            "summary": "President Donald Trump's \"Liberation Day\" tariff program set off a string of worries and sent the markets tumbling on Thursday and Friday.  New fears about how the tariffs could trigger a recession sent investors running toward safer instruments like U.S. Treasury bills.  Amazon (NASDAQ: AMZN) stock is one of those stocks and it dropped 12.8% since the tariffs were announced, and it's lost all its gains from the past year.",
+            "date": "2025-04-04T20:46:48Z",
+            "sentiment-score": -0.9568675253540277
+        },
+        {
+            "id": "fe40c370-034c-3c54-9321-c93dce59e94d",
+            "summary": "We recently published a list of Jim Cramer\u2019s Thoughts on Liberation Day, Tariffs, and 17 Stocks to Watch Right Now. In this article, we are going to take a look at where Amazon.com, Inc. (NASDAQ:AMZN) stands against other stocks that Jim Cramer discusses. On Tuesday, April 1st, the host of Mad Money opened the show [\u2026]",
+            "date": "2025-04-04T22:08:19Z",
+            "sentiment-score": 0.00724727101624012
+        },
+        {
+            "id": "0909ff11-9ac5-3c49-a885-2a90e32feb8c",
+            "summary": "The idea of an import tax started weighing on investor sentiment in March, when President Trump laid out his initial plan to target Canada, Mexico, and China.  Stocks tumbled, with the S&P 500 (SNPINDEX: ^GSPC) and Nasdaq Composite (NASDAQINDEX: ^IXIC) both temporarily slipping into correction territory.  The S&P 500 and the Nasdaq Composite each fell the most since 2020 in the trading session following the news, as investors worried about the impact of the tariffs on U.S. corporate earnings and the economy.",
+            "date": "2025-04-05T07:40:00Z",
+            "sentiment-score": -0.9554515462368727
+        },
+        {
+            "id": "5da82499-1e06-36c1-a9be-d22508bcd347",
+            "summary": "The resilient retailer might be priced for perfection right now.",
+            "date": "2025-04-05T07:25:00Z",
+            "sentiment-score": 0.29704487696290016
+        },
+        {
+            "id": "1386a036-2c6f-37a3-b161-6d46c06154a5",
+            "summary": "We recently published a list of Top 10 Stocks to Buy According to Think Investments. In this article, we are going to take a look at where Amazon.com, Inc. (NASDAQ:AMZN) stands against other top stocks to buy according to Think Investments. Think Investments is an investment firm based in San Francisco, with additional offices in Singapore [\u2026]",
+            "date": "2025-04-04T23:12:53Z",
+            "sentiment-score": 0.014381016604602337
+        },
+        {
+            "id": "34d40282-5d43-32cc-b403-6cdff0bf95f7",
+            "summary": "Higher prices may be in store for a range of materials used to build the data centers that will deliver AI.",
+            "date": "2025-04-04T22:13:00Z",
+            "sentiment-score": 0.717506930232048
+        },
+        {
+            "id": "3bd8b813-e417-3a6c-b398-563a0576df50",
+            "summary": "Don't try to fix something that isn't broken. This stock has plenty more to offer long-term investors.",
+            "date": "2025-04-05T09:23:00Z",
+            "sentiment-score": 0.05891014123335481
+        },
+        {
+            "id": "3d18ecbb-9783-345b-bfba-af3b7b9f88b7",
+            "summary": "The share price of Arm Holdings (NASDAQ: ARM) rocketed higher in the first month of 2025, but the British technology company saw a significant pullback since hitting a 2025 high on Jan. 22.  Arm stock has traded down 44% since then as investors pressed the panic button over multiple headwinds.  Does the sharp pullback that Arm saw in the past couple of months present a buying opportunity for long-term investors?",
+            "date": "2025-04-05T09:20:00Z",
+            "sentiment-score": -0.9497489668428898
+        },
+        {
+            "id": "dae97bc5-b28f-3900-8a81-072394bfaf91",
+            "summary": "When in doubt about your next best bet, consider poaching an idea (or three) from the world's most proven stock picker.",
+            "date": "2025-04-05T09:07:00Z",
+            "sentiment-score": 0.018651445396244526
+        },
+        {
+            "id": "975433bc-fcf0-3a99-925f-5a6b845680b3",
+            "summary": "Recent volatility hasn't altered the compelling long-term growth opportunities ahead of these \"Magnificent\" stocks.",
+            "date": "2025-04-05T08:35:00Z",
+            "sentiment-score": 0.11911740899085999
+        },
+        {
+            "id": "58a3eef3-3980-370e-944e-9efac5ab52b3",
+            "summary": "\u201cNow Streaming\u201d is The Fly\u2019s weekly recap of the stories surrounding the biggest content streamers. PLAYING THIS WEEKEND: Among this weekend\u2019s now streaming content is Hulu\u2019s comedy drama miniseries \u201cDying for Sex,\u201d starring Michelle Williams and Jenny Slate. Meanwhile, Netflix (NFLX) subscribers can watch medical drama \u201cThe Pulse\u201d as well as animated series \u201cDevil May Cry,\u201d which is based on the Capcom (CCOEY) series of video games. Additionally, Amazon Prime Video (AMZN) users can watch action",
+            "date": "2025-04-05T16:20:23Z",
+            "sentiment-score": 0.010445280000567436
+        },
+        {
+            "id": "142b2ba2-4e88-35a5-baf9-898576d4b4b1",
+            "summary": "We recently published a list of Mag7 and Beyond: Top 10 AI News Updates and Ratings. In this article, we are going to take a look at where Amazon.com, Inc. (NASDAQ:AMZN) stands against other top AI news updates and ratings. According to a study presented at a European Central Bank conference, companies that manage to [\u2026]",
+            "date": "2025-04-05T15:01:28Z",
+            "sentiment-score": 0.036974599584937096
+        },
+        {
+            "id": "a7685de0-9aca-3be6-875c-ba65b09b8f32",
+            "summary": "Foreign stocks and bond funds are winning the race so far in 2025.. Plus: A Financial Flashback to 25 years ago, the AT&T Wireless IPO.",
+            "date": "2025-04-05T15:00:00Z",
+            "sentiment-score": 0.19201647117733955
+        },
+        {
+            "id": "c7c1ee7a-cc0b-3b51-9478-18221f52d490",
+            "summary": "It's time to expect a little less from enormous Amazon. Here's a closer look at three new leading growth prospects for your portfolio.",
+            "date": "2025-04-05T14:00:00Z",
+            "sentiment-score": 0.08564204722642899
+        },
+        {
+            "id": "df2ee29d-8fa8-32ef-978c-accf355df5d8",
+            "summary": "(Bloomberg) -- Hon Hai Precision Industry Co.\u2019s first-quarter sales rose at their fastest clip since 2022 on resilient data center demand, a bright sign for the artificial intelligence sector amid tariff-induced fears.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersLocal Governments Vie for Fired Federal WorkersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesWhat Would \u2018Transportation Abundance\u2019 Look Like?Hochul Says Trump\u2019s Tariffs Are Alre",
+            "date": "2025-04-05T13:03:02Z",
+            "sentiment-score": 0.7547125546261668
+        },
+        {
+            "id": "d5340078-d710-3d34-8e5d-fdf4282a49ba",
+            "summary": "Nvidia (NVDA) fell with other Magnificent 7 stocks on Thursday as the market reacted to new tariffs \u2014 but the company also may\u2019ve slipped because a major bank downgraded it for unrelated reasons.",
+            "date": "2025-04-05T13:00:00Z",
+            "sentiment-score": -0.9561457755044103
+        },
+        {
+            "id": "3258f7c5-df2f-3e40-99e4-a5b15327e110",
+            "summary": "Paul Tudor Jones is betting on these two turnaround stocks over Nvidia.",
+            "date": "2025-04-05T12:53:00Z",
+            "sentiment-score": 0.18929120292887092
+        },
+        {
+            "id": "95d29d7b-ebd4-34d3-ad7f-059c4f682e8c",
+            "summary": "To make more money, United Launch Alliance must launch more rockets. And now it can.",
+            "date": "2025-04-05T11:07:00Z",
+            "sentiment-score": 0.17692100908607244
+        },
+        {
+            "id": "db861d86-c4bf-3aa8-81ea-ebd3cb1d7b28",
+            "summary": "Robust fundamentals and AWS growth set the stage for long-term upside",
+            "date": "2025-04-06T10:50:49Z",
+            "sentiment-score": 0.8298536818474531
+        },
+        {
+            "id": "f03a4ecc-72b0-3cf5-919f-ecf3ef8ff1c6",
+            "summary": "Investing.com -- Here are the biggest analyst moves in the area of artificial intelligence (AI) for this week.",
+            "date": "2025-04-06T10:30:06Z",
+            "sentiment-score": -0.013598552905023098
+        },
+        {
+            "id": "474116d6-1404-3cf8-91ce-fc93c1c0448e",
+            "summary": "Most people don't think of these companies as AI businesses, but when you dig deeper, few companies stand to benefit as much from the AI revolution as these two Buffett stocks.  Few companies are as directly exposed to rising demand for AI than Amazon (NASDAQ: AMZN).  To understand why this is, zoom out and look at how the AI industry functions.",
+            "date": "2025-04-06T10:25:00Z",
+            "sentiment-score": 0.015640107914805412
+        },
+        {
+            "id": "44cd9282-3f0a-37f2-aff1-c5c37f68f775",
+            "summary": "Amazon and Costco could still beat the market over the next two decades.",
+            "date": "2025-04-06T09:25:00Z",
+            "sentiment-score": 0.7810969608835876
+        },
+        {
+            "id": "b24842dd-be18-3a4e-8878-cf154e864d0a",
+            "summary": "The markets were already on edge with concerns regarding tariffs, and President Donald Trump's \"Liberation Day\" tariff announcement sent them over the edge.  While there could be some continued market pain, the sell-off has also brought some top growth stocks down to attractive levels.  One growth stock now down 25% to start buying right now is Amazon (NASDAQ: AMZN).",
+            "date": "2025-04-06T08:19:00Z",
+            "sentiment-score": -0.9527965737506747
+        },
+        {
+            "id": "0b48cb58-f3be-3ed6-b7e2-bad8bdbe9fcf",
+            "summary": "Stocks plunged on Thursday in response to President Donald Trump's \"reciprocal tariffs.\"  While the president had telegraphed his desire for punitive tariffs to try to balance the trade deficit the U.S. has with much of the world, investors were taken aback by their size.  China has long served as a scapegoat for Trump so perhaps it's not a surprise that goods imported from China will now face a 54% tariff, which includes a 20% rate the president imposed earlier.",
+            "date": "2025-04-05T22:51:00Z",
+            "sentiment-score": -0.9037384567782283
+        },
+        {
+            "id": "060632b2-3236-3c79-a547-55d6f37f04f8",
+            "summary": "The recent market sell-off has opened the door for some good buying opportunities in growth stocks.  Down just over 20% from its highs, Amazon (NASDAQ: AMZN) is trading at one of its lowest valuations in its history with a trailing price-to-earnings ratio (P/E) of around 34.  The company's cloud computing business, Amazon Web Services (AWS), has been its biggest growth driver, as the company helps customers create and deploy their own artificial intelligence (AI) models and apps on its platform through the help of its Bedrock and SageMaker services.",
+            "date": "2025-04-05T22:14:00Z",
+            "sentiment-score": -0.6977205984294415
+        },
+        {
+            "id": "84205b4e-13e8-3e63-9c5a-5121379e3472",
+            "summary": "Warren Buffett has built a fortune for Berkshire Hathaway shareholders.  Buffett's success at buying stocks of great businesses and holding them for the long term has inspired many investors to follow his style.  Berkshire held a stock portfolio worth $271 billion at the end of 2024.",
+            "date": "2025-04-05T22:03:00Z",
+            "sentiment-score": 0.06053810706362128
+        },
+        {
+            "id": "8e581860-ab99-3dc6-beb5-8ca6788bcbc5",
+            "summary": "Amazon.com (NasdaqGS:AMZN) recently captured headlines with a controversial bid to acquire TikTok amid heightened scrutiny from U.S. regulators, reflecting its push for strategic growth. Meanwhile, significant market turmoil marked by a 9% weekly plunge in the Nasdaq was influenced by a global trade war spurred by newly announced tariffs by the U.S. administration. The simultaneous bid and market instability provided a backdrop for Amazon's share price drop of 11% this past week, as investors...",
+            "date": "2025-04-05T17:26:11Z",
+            "sentiment-score": -0.9513051668182015
+        },
+        {
+            "id": "67128573-4a47-3672-a647-d96d0c9139f3",
+            "summary": "Following President Donald Trump's \"Liberation Day\" tariff announcement, stocks plummeted as fears escalated regarding a potential global trade war and how it could impact the global economy.  While there certainly could be more pressure on stocks in the coming weeks depending on how this all plays out, it also has created some solid entry points for several top tech stocks where investors can start to at least dip their toes into the stocks.  Let's look at three bargain tech stocks investors can consider buying now.",
+            "date": "2025-04-06T14:15:00Z",
+            "sentiment-score": 0.11708620563149452
+        },
+        {
+            "id": "51dec9ad-1fda-30e7-bb95-d2a9ed173118",
+            "summary": "Amazon.com (NasdaqGS:AMZN) saw a significant share price decline of 11% over the past week, amidst a turbulent market roiled by intensified tariff concerns initiated by President Trump's recent announcements. Despite Amazon's bid to acquire TikTok grabbing headlines, market dynamics were largely overshadowed by broader economic fears as the Nasdaq entered bear market territory. The market plunged by 9.4% with tariffs contributing substantially to investors' unease, affecting various sectors...",
+            "date": "2025-04-06T17:15:59Z",
+            "sentiment-score": -0.9506238275207579
+        },
+        {
+            "id": "48083cd1-adf0-35b7-b204-8522863eabfe",
+            "summary": "President Donald Trump's trade wars are creating significant uncertainty, while many fear that a recession might be coming -- something else that could send the stock market in the wrong direction.  The Nasdaq Composite and S&P 500 have both recently hit correction territory -- defined as a 10% drop from their most recent highs.  Predicting these things is hard, but a bear market is a real possibility.",
+            "date": "2025-04-06T19:15:00Z",
+            "sentiment-score": -0.9493129979819059
+        },
+        {
+            "id": "271ab754-5aaf-3c9f-bd1b-8332e8b81dce",
+            "summary": "This past week, President Donald Trump announced his full plan for tariffs on imports -- a list of duties varying by country that could make a wide range of goods pricier for U.S. companies and consumers.  The concern for investors is that these higher prices will weigh on corporate earnings in two ways.  First, higher prices will hurt consumers' buying power, leaving them with less to spend on discretionary items.",
+            "date": "2025-04-06T21:15:00Z",
+            "sentiment-score": -0.9057961963117123
+        },
+        {
+            "id": "36e4b58b-1540-3185-bd15-80246e6bab5d",
+            "summary": "Growth-driven exchange-traded funds (ETFs) -- like the Vanguard Growth ETF (NYSEMKT: VUG) -- have significantly outperformed the S&P 500.  With just a 0.04% expense ratio, the Vanguard Growth ETF is a great way to achieve exposure without racking up high fees.  The Vanguard Growth ETF made an all-time high in December and nearly broke through to a new high in February.",
+            "date": "2025-04-07T12:30:00Z",
+            "sentiment-score": 0.8830670528113842
+        },
+        {
+            "id": "f37cb019-8d31-3cae-a73f-1cd0ef4aa1b0",
+            "summary": "The iconic growth investor made some interesting moves during Friday's market pullback.",
+            "date": "2025-04-07T11:30:00Z",
+            "sentiment-score": 0.5003594290465117
+        },
+        {
+            "id": "34e9a6c4-79f2-3066-9a00-88981d7cb99a",
+            "summary": "Amazon (NASDAQ: AMZN) hasn't been immune to the marketwide sell-off seen lately.  To add another layer of complexity, Amazon management also launched a bid to buy TikTok from ByteDance.  There are lots of moving pieces with Amazon stock, making it an incredibly complex investment.",
+            "date": "2025-04-07T10:30:00Z",
+            "sentiment-score": -0.009365681558847427
+        },
+        {
+            "id": "e2c6e143-427e-3ba3-b56d-5c01bae545db",
+            "summary": "(Bloomberg) -- The carnage in financial markets worsened on Monday with stressed-out investors abandoning hopes that President Donald Trump would change his tariff policy.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersBoston Mayor Wu Embraces Trump Resistance as Campaign Heats UpThis Skinny Mexico City Tower Is Just 14 Feet Wide on One SideThe Irish Hot Press Is the Low-Tech Laundry Trick the World NeedsWhat Would \u2018Transportation Abundance\u2019 Look Like?Stocks tumbled, t",
+            "date": "2025-04-07T10:10:44Z",
+            "sentiment-score": -0.6143666282296181
+        },
+        {
+            "id": "5645002f-bef1-4478-9988-95fd21ef3b2d",
+            "summary": "A 360-degree turnaround is rapidly consigning work from home culture to the past as sticks replace carrots to herd workers back into offices",
+            "date": "2025-04-07T05:00:17Z",
+            "sentiment-score": 0.06678773183375597
+        },
+        {
+            "id": "7368c7f4-382f-3698-aba8-6872427c8b53",
+            "summary": "Wood said Trump\u2019s tariff \"doesn't make sense.\"",
+            "date": "2025-04-06T23:54:21Z",
+            "sentiment-score": -0.5721290241926908
+        },
+        {
+            "id": "528b2673-ea25-431e-a234-6fc71598aa09",
+            "summary": "The Magnificent 7 tech stocks continued their sell off Monday as the Trump administration\u2019s global tariff plan rocked markets.",
+            "date": "2025-04-07T13:39:20Z",
+            "sentiment-score": -0.8942932719364762
+        },
+        {
+            "id": "9d6ecca8-6f75-4702-a975-b7076f03fa32",
+            "summary": "The markets are undergoing one of the worst stretches in recent memory as Trump tariff fears take hold. Here is what is top of mind with the Yahoo Finance community.",
+            "date": "2025-04-07T12:54:01Z",
+            "sentiment-score": -0.13367204554378986
+        },
+        {
+            "id": "44af9acf-9f03-386a-95ad-dc116a6045b7",
+            "summary": "Amazon has restructured its air network to accommodate the need for fewer short-haul package flights and a new clientele of shippers with heavy freight. The post Amazon airline prioritizes bigger aircraft to handle third-party cargo appeared first on FreightWaves.",
+            "date": "2025-04-07T13:00:00Z",
+            "sentiment-score": 0.40911852568387985
+        },
+        {
+            "id": "829f6128-de4b-3026-9d20-28fc8d035ac4",
+            "summary": "Buy for Me can purchase eligible products from third-party sites without customers leaving the Amazon Shopping app.",
+            "date": "2025-04-07T10:35:00Z",
+            "sentiment-score": 0.00943190511316061
+        },
+        {
+            "id": "0ce11993-edf6-349c-9a5e-6e1510602c2a",
+            "summary": "Meat department sales hit record highs in 2024, but there\u2019s room for more innovation and personalized messaging from grocers to continue motivating shoppers, according to a report from FMI.",
+            "date": "2025-04-07T10:00:22Z",
+            "sentiment-score": 0.8895331425592303
+        },
+        {
+            "id": "1937f0ab-0762-3733-877e-4fd0ba7e4daf",
+            "summary": "President Donald Trump announced a new batch of tariffs on April 2, and let's just say investors haven't been jumping with joy since then.  Tech stocks experienced some of the harshest drops.  One tech stock that has been hit fairly hard because of the new tariffs is Amazon (NASDAQ: AMZN).",
+            "date": "2025-04-07T16:00:00Z",
+            "sentiment-score": -0.8362429961562157
+        },
+        {
+            "id": "359d8ff9-7dea-3eae-8f73-6e61ca3f025a",
+            "summary": "We recently published a list of Tariff Hits and More: 10 AI Stocks in the Spotlight. In this article, we are going to take a look at where Amazon.com Inc. (NASDAQ:AMZN) stands against other AI stocks in the spotlight. The newly announced tariffs by U.S. President Donald Trump could have serious consequences for many stocks. [\u2026]",
+            "date": "2025-04-07T18:22:58Z",
+            "sentiment-score": -0.3711920902132988
+        },
+        {
+            "id": "77f458fd-a0cd-3600-8314-309e63e9ac92",
+            "summary": "Amazon.com\u2019s shares rose about 3% Monday, outperforming the Nasdaq Composite index and reversing a rout late last week as investors feared consumers would reduce online spending.  Investment bank Oppenheimer & Co estimated Amazon\u2019s revenue could decline by about 8% due to tariffs, as opposed to 16% for Meta Platforms and 15% for Google.  American shopping habits have increasingly tilted toward online shopping, and e-commerce has grown more entrenched.",
+            "date": "2025-04-07T18:18:44Z",
+            "sentiment-score": -0.9480460211634636
+        },
+        {
+            "id": "039ecda3-4fef-43c7-82a1-91e57d6642a4",
+            "summary": "Trump's tariffs have sent shockwaves through markets amid one of the largest three-day crashes since World War II.",
+            "date": "2025-04-08T08:00:53Z",
+            "sentiment-score": -0.8629733622074127
+        },
+        {
+            "id": "2fa495b0-f9da-3501-8a79-1b1fd3324212",
+            "summary": "Cathie Wood is still pushing millions of dollars into the stock market despite trading volatility brought on by the Trump tariffs.",
+            "date": "2025-04-08T13:47:50Z",
+            "sentiment-score": 0.14692117366939783
+        },
+        {
+            "id": "0efd8c19-0a8c-3538-b673-edfe1e10ef11",
+            "summary": "Due to his success -- both personally and through his company, Berkshire Hathaway -- Warren Buffett draws a lot of attention when he speaks and makes investing moves.  With Buffett's net worth of over $150 billion and Berkshire Hathaway's market cap of over $1 trillion (as of April 7), it's easy to see why.  People often look to Berkshire Hathaway's stock portfolio to get inspiration for investments they may want to consider, especially during turbulent market times like we're witnessing now.",
+            "date": "2025-04-08T11:38:00Z",
+            "sentiment-score": 0.012662852182984352
+        },
+        {
+            "id": "28863af7-adf2-345b-8b0d-727e8acfe999",
+            "summary": "Last week, Donald Trump announced \"reciprocal\" tariffs that have caused significant turbulence in global markets, with the stock prices of major U.S. tech companies, known as the \u201cMagnificent 7,\u201d plummeting and wiping out nearly $1.8 trillion in ...",
+            "date": "2025-04-08T10:45:18Z",
+            "sentiment-score": -0.9105431251227856
+        },
+        {
+            "id": "cd55a526-621f-318d-8284-54e2bb9de172",
+            "summary": "The next breakthrough technology to follow artificial intelligence (AI) could be quantum computing.  In February, Amazon joined other big tech firms, such as Google parent Alphabet, in touting investments in the field.  Now may be a good time to invest in one of this nascent industry's hot stocks, IonQ (NYSE: IONQ).",
+            "date": "2025-04-08T10:30:00Z",
+            "sentiment-score": 0.1717611225321889
+        },
+        {
+            "id": "d04c8aa2-b455-3e19-bfa9-c625fc917b3e",
+            "summary": "To say that the stock market has been volatile lately doesn't do the situation justice.  The S&P 500 (SNPINDEX: ^GSPC) and several other major market indexes recently fell by more than 10% over a two-day period in response to President Trump's surprisingly high tariff rates.  The S&P 500 is now 18% below its February high, and with a 23% drop, the Nasdaq Composite (NASDAQINDEX: ^IXIC) is now firmly in bear market territory.",
+            "date": "2025-04-08T09:41:00Z",
+            "sentiment-score": -0.9554864298552275
+        },
+        {
+            "id": "3e96208b-fc13-3029-aff3-d06f2607e93b",
+            "summary": "Amazon recently closed its TikTok Shop clone. Buying TikTok would give the company\u2019s social-commerce business a shot in the arm.",
+            "date": "2025-04-08T07:00:00Z",
+            "sentiment-score": 0.06744823418557644
+        },
+        {
+            "id": "4e533441-f9b9-47ea-bf80-e22da3646462",
+            "summary": "Output per worker fell by 0.5% between 2019 and 2024, according to the Resolution Foundation.",
+            "date": "2025-04-08T05:00:15Z",
+            "sentiment-score": -0.9579885229468346
+        },
+        {
+            "id": "adabd60d-de04-4899-9bc1-1b19f5fa9686",
+            "summary": "March was another month marked by volatility, as US president Donald Trump pressed ahead with his tariff agenda.",
+            "date": "2025-04-08T05:00:09Z",
+            "sentiment-score": -0.3880235254764557
+        },
+        {
+            "id": "a705c1a6-3948-337d-bad7-802c1b12ca5c",
+            "summary": "We recently published a list of 10 Best Fundamental Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Amazon.com, Inc. (NASDAQ:AMZN) stands against other best fundamental stocks to buy according to billionaires. As per Fitch Ratings, the US tariffs are now at levels that continue to [\u2026]",
+            "date": "2025-04-08T02:36:13Z",
+            "sentiment-score": 0.06572685576975346
+        },
+        {
+            "id": "1a804fb4-262a-300a-8843-da5ccb008bf7",
+            "summary": "The futures of Amazon (AMZN) and Tesla (TSLA) are \u201cincredibly bright,\u201d Dan Crowley, the Portfolio Manager of Nightview Capital told Schwab Network recently. Crowley also believes that \u201copportunities are developing\u201d for investors to buy top-notch companies. He suggested that the Trump administration will have to meaningfully reduce tariffs once consumers begin paying higher prices as [\u2026]",
+            "date": "2025-04-08T14:08:42Z",
+            "sentiment-score": 0.8180424012243748
+        },
+        {
+            "id": "3f822b44-2071-3a20-a488-37b728a5016f",
+            "summary": "Prominent investor Josh Brown, the co-founder of Ritholtz Wealth Management, recently told CNBC why he decided to add to his positions in Amazon (AMZN) and Uber (UBER). Brown also explained his rationale for buying shares of mortgage provider Rocket Companies (RKT) for the first time. Why Brown Added to His AMZN, UBER Holdings Describing both [\u2026]",
+            "date": "2025-04-08T15:48:11Z",
+            "sentiment-score": 0.0413392367772758
+        },
+        {
+            "id": "5eeaf32c-1adf-40bd-a5ca-31d24b0b82cd",
+            "summary": "Nvidia and its \"Magnificent Seven\" peers had shed $1.8 trillion in value last week",
+            "date": "2025-04-08T12:54:02Z",
+            "sentiment-score": -0.9507620232179761
+        },
+        {
+            "id": "feffc5e3-273a-39cd-823a-92f13fb55327",
+            "summary": "JPMorgan slashed its price targets on 25 companies in the internet space, citing macroeconomic issues, Schwab Network recently reported. Among the most prominent names whose price targets were slashed by the bank are Meta (META), Amazon (AMZN), Alphabet (GOOG), and Netflix (NFLX). Some of the Highest-Profile Target Cuts The bank reduced its price target on [\u2026]",
+            "date": "2025-04-08T16:30:10Z",
+            "sentiment-score": -0.9281390681862831
+        },
+        {
+            "id": "83a02036-0abb-3c72-b4e3-41e5c7dbfef9",
+            "summary": "IBM's stock defied market trends with a 13% gain in Q1 2025. Here's how Big Blue pulled off this impressive feat while the S&P 500 struggled.",
+            "date": "2025-04-08T17:31:56Z",
+            "sentiment-score": 0.2530146539211273
+        },
+        {
+            "id": "1b570e8c-73b5-3834-8543-ae33296257a2",
+            "summary": "The market is wobbling again, and the Magnificent Seven tech stocks are being swept along.    In recent trading, the stocks varied from a 1.3% loss for Apple to a near-2% gain for Nvidia.   The septet had added nearly $500 billion in market cap, according to Dow Jones Market Data, only for a large chunk of those gains to evaporate.",
+            "date": "2025-04-08T16:27:16Z",
+            "sentiment-score": -0.9164056982845068
+        },
+        {
+            "id": "0d170e44-211e-3574-9ade-21270262e2bd",
+            "summary": "JPMorgan cut its price targets for Amazon stock and Meta Tuesday along with a list of internet stocks, citing recession risk.",
+            "date": "2025-04-08T18:08:24Z",
+            "sentiment-score": -0.9294581776484847
+        },
+        {
+            "id": "99b0821d-d9d3-3207-910c-6adb28be25c6",
+            "summary": "We recently published a list of 13 Best Big Data Stocks to Buy According to Analysts. In this article, we are going to take a look at where Amazon.com, Inc. (NASDAQ:AMZN) stands against other best big data stocks to buy according to analysts. The big data companies focus on collecting, storing, and analyzing huge amounts [\u2026]",
+            "date": "2025-04-08T18:05:52Z",
+            "sentiment-score": 0.005678920075297356
+        },
+        {
+            "id": "5c711514-78a6-327a-8b93-1f0cf9d305d0",
+            "summary": "BABA outshines AMZN with stronger growth, lower valuation and massive AI investments. BABA's 45.2% stock surge signals superior upside in the e-commerce race.",
+            "date": "2025-04-08T19:00:00Z",
+            "sentiment-score": 0.8896191781386733
+        },
+        {
+            "id": "1e6e0fca-e6c3-3dca-ace1-b013c80305a5",
+            "summary": "We recently published a list of 10 Best Stocks to Buy According to Billionaire Steve Cohen. In this article, we are going to take a look at where Amazon.com, Inc. (NASDAQ:AMZN) stands against other best stocks to buy according to billionaire Steve Cohen. Steve Cohen, a prominent figure in the world of hedge funds, is [\u2026]",
+            "date": "2025-04-08T22:11:46Z",
+            "sentiment-score": 0.017960323952138424
+        },
+        {
+            "id": "3872870d-cfed-3a0b-9618-bb7bcd72df50",
+            "summary": "Tariffs are once again flooding the headlines. They're in your newsfeed, your inbox, and probably your group chat. The Trump administration's sweeping new import taxes\u2014set to hit everything from electronics to apparel\u2014are back in the spotlight, and of course, billionaire entrepreneur Mark Cuban has thoughts. Spoiler: he's not shy about sharing them. \"If these tariffs stick, it's going to be ugly for Amazon, but incredible for all the American sellers,\" Cuban posted on Bluesky. That post lit a fu",
+            "date": "2025-04-08T22:30:38Z",
+            "sentiment-score": 0.04738518409430981
+        },
+        {
+            "id": "6605e722-5597-3a31-a906-6fcb8f125add",
+            "summary": "A small collective of unlikely candidates is emerging as the most popular opportunities in the quantum computing industry.",
+            "date": "2025-04-09T10:45:00Z",
+            "sentiment-score": 0.060491140466183424
+        },
+        {
+            "id": "cefac904-e3bc-35d3-9581-d0d6fc0ac388",
+            "summary": "Real estate investment trusts, or REITs, aren't well known for their volatility, and as a group, they tend to be more resilient than the typical S&P 500 company during tough times.  The S&P 500 is down by roughly 12% as of this writing, since President Trump's tariff plan was announced, but the real estate sector is down by less than 10%.  Industrial real estate giant Prologis (NYSE: PLD) has fallen by 17% since the tariffs were announced, and although there are certainly some valid concerns, the fact remains that this is a rock-solid REIT with a bright future, currently trading at a discount.",
+            "date": "2025-04-09T10:32:00Z",
+            "sentiment-score": -0.9441448980942369
+        },
+        {
+            "id": "2c626bc3-27d3-4133-9b14-718a74840084",
+            "summary": "Discover the best credit cards to save money, earn rewards and travel smarter.",
+            "date": "2025-04-09T10:14:28Z",
+            "sentiment-score": 0.09530814550817013
+        },
+        {
+            "id": "1e102a2b-4c14-3453-bcf4-5b9dddb1557c",
+            "summary": "Now is not the time to panic. Now is the time to make rational decisions for your stock portfolio.",
+            "date": "2025-04-09T09:40:00Z",
+            "sentiment-score": -0.004362383857369423
+        },
+        {
+            "id": "24eb806e-1e5d-3b58-917b-390720595b5d",
+            "summary": "The big-tech companies have largely bankrolled AI\u2019s growth, after all:  Microsoft Meta Alphabet  and  Amazon.com  together plan more than $270 billion of capital spending on data centers this year, according to a Citigroup estimate.  Before the past few days, this had lifted Nvidia\u2019s shares to unprecedented heights; it was briefly the largest listed company in the world.  Sustaining the boom hinges on the tech companies\u2019 willingness to stick with current and future spending against a backdrop where recession appears increasingly likely.",
+            "date": "2025-04-09T09:30:00Z",
+            "sentiment-score": 0.8819751720875502
+        },
+        {
+            "id": "1363f6ed-ff6a-31af-b4cb-d6e62b9d8beb",
+            "summary": "While Amazon has slipped 6.8% to $172.50 per share over the past six months, it\u2019s still beating the S&P 500 by 6.9 percentage points.",
+            "date": "2025-04-09T09:10:21Z",
+            "sentiment-score": -0.9145663767121732
+        },
+        {
+            "id": "159408fc-097d-30bd-9d00-f75e2bc90b61",
+            "summary": "Retail investors have a great opportunity to join the smart money right now.",
+            "date": "2025-04-09T08:30:00Z",
+            "sentiment-score": 0.09296447737142444
+        },
+        {
+            "id": "9f320cc6-2968-39d5-8861-e1ede4b21b6a",
+            "summary": "The giant of a company clearly can't live up to the incredibly high standard of its impressive past, but...",
+            "date": "2025-04-09T08:15:00Z",
+            "sentiment-score": 0.024989042431116104
+        },
+        {
+            "id": "491cd193-7223-34f5-8785-f67b446eae4e",
+            "summary": "Lakehouse Capital, a Sydney-based investment manager, released its \u201cLakehouse Global Growth Fund\u201d February 2025 investor letter. A copy of the letter can be downloaded here. February was a volatile month for global equities due to the deluge of Trump headlines. However, the portfolio\u2019s holding companies continue to press their advantages and execute on their growth [\u2026]",
+            "date": "2025-04-09T11:32:36Z",
+            "sentiment-score": -0.2513347417116165
+        },
+        {
+            "id": "972eefb0-74ca-3e68-b938-741e2b68248d",
+            "summary": "Cathie Wood pushed around $40 million into two Dow giants this week prior to Trump's tariffs taking effect.",
+            "date": "2025-04-09T13:33:06Z",
+            "sentiment-score": 0.1187355238944292
+        },
+        {
+            "id": "d511be81-e5bb-36d0-a2a2-0683bd1427de",
+            "summary": "(Bloomberg) -- Short sellers, or traders who wager on share price declines, are up $159 billion in paper profits over just six trading days after an escalating trade war sent the US stock market plummeting down more than 10%. The biggest market drawdown since 2022 on President Donald Trump\u2019s pronouncement of sweeping worldwide tariffs made bets against an exchange traded fund tracking the S&P 500 Index, known as SPY, the most profitable short bet in that timeframe, according to data from S3 Part",
+            "date": "2025-04-09T13:11:31Z",
+            "sentiment-score": -0.8850987674668431
+        },
+        {
+            "id": "233f786a-8240-3517-9fd0-55b07b395248",
+            "summary": "Billionaire backers of President Donald Trump are watching their fortunes tumble as tariffs take a toll on Big Tech.",
+            "date": "2025-04-09T11:00:25Z",
+            "sentiment-score": -0.9189884318038821
+        },
+        {
+            "id": "bec81bb8-71ce-3730-ad66-cba54930b681",
+            "summary": "(Bloomberg) -- Supply Lines is a daily newsletter that tracks global trade. Sign up here.Amazon.com Inc. has canceled orders for multiple products made in China and other Asian countries, according to a document reviewed by Bloomberg and people familiar with the matter, suggesting the company is reducing its exposure to tariffs imposed by President Donald Trump.The orders for beach chairs, scooters, air conditioners and other merchandise from multiple Amazon vendors were halted after Trump\u2019s Apr",
+            "date": "2025-04-09T14:28:49Z",
+            "sentiment-score": -0.9256295990198851
+        },
+        {
+            "id": "2a74fe33-ad95-39e8-8919-9e6c117df2d4",
+            "summary": "The market is suffering under the weight of President Donald Trump's tariffs on trading partners, as investors try to understand how they'll affect companies.  One growth stock that's fallen hard this year is Amazon (NASDAQ: AMZN), which is down 20% year to date, as of this writing.  Here's why I think now could be a good time to buy Amazon stock.",
+            "date": "2025-04-09T14:11:00Z",
+            "sentiment-score": -0.9281388176605105
+        },
+        {
+            "id": "9ad28c7c-d248-3837-8762-91bb473da674",
+            "summary": "The company is asking potential capital partners to submit proposals, according to the report, which said the facilities are expected to be mostly delivery hubs, but some of the properties would also include large fulfillment centers packed with robots.  Amazon did not immediately respond to a Reuters request for comment.  The e-commerce company's request for information from financing partners predated U.S. President Donald Trump's tariff announcement from last week, Bloomberg said, adding it was unclear how the shift in trade policy would impact Amazon's plans.",
+            "date": "2025-04-09T14:09:15Z",
+            "sentiment-score": -0.02305765450000763
+        },
+        {
+            "id": "2d59de91-e1e7-3c60-8a4a-62632898045f",
+            "summary": "ARK Invest Takes Bold Position in NVIDIA, Cuts Exposure to UiPath",
+            "date": "2025-04-09T15:07:17Z",
+            "sentiment-score": 0.35839705169200897
+        },
+        {
+            "id": "d90d33ef-1725-3606-8964-3607cb59d917",
+            "summary": "A quiet move after Trump's tariff bombshell is exposing Amazon's suppliers--and investors--to a whole new level of risk.",
+            "date": "2025-04-09T17:48:54Z",
+            "sentiment-score": -0.11431080102920532
+        },
+        {
+            "id": "27a5f2f1-7e6c-30d1-a171-88a12d81ee05",
+            "summary": "Amazon.com (NasdaqGS:AMZN) unveiled its innovative Nova Sonic AI model designed to improve AI-driven conversations, which combines speech understanding and generation. Despite these advancements, the company's shares declined 11% last week, even as broader market turmoil unfolded with a 12% drop in the S&P 500 following the implementation of new tariffs by the U.S. and retaliatory measures from China. While technology stocks, including Apple and Tesla, rallied in volatile trading, Amazon's...",
+            "date": "2025-04-09T17:42:06Z",
+            "sentiment-score": -0.9454574473202229
+        },
+        {
+            "id": "c9b1a0e4-249c-3ae6-8877-242500d75b1b",
+            "summary": "Amazon.com  e-commerce business faces the danger that consumers could pull back as tariffs hit the economy, but its cloud business may be hit as well, some analysts say.  Amazon Web Services is a closely watched segment of the company due to its growth.  Fourth-quarter revenue at AWS increased 19% from the previous year to $28.8 billion, while sales at the online store increased 7% to $75.6 billion.",
+            "date": "2025-04-09T17:36:00Z",
+            "sentiment-score": 0.9166837073862553
+        },
+        {
+            "id": "0b5cbc24-d166-3fba-ae03-c01c702ebc9f",
+            "summary": "Amazon Halts Chinese Inventory Orders, Sets Sights on $15B U.S. Facilities",
+            "date": "2025-04-09T17:27:32Z",
+            "sentiment-score": -0.11545000970363617
+        },
+        {
+            "id": "b25c4bf4-adb6-3bef-bb60-c1dccc124bea",
+            "summary": "Amazon (AMZN) is canceling some wholesale orders from Asia that it directly imports and ships to its warehouses as it begins to respond to President Donald Trump\u2019s trade war, according to a new report.",
+            "date": "2025-04-09T17:11:00Z",
+            "sentiment-score": -0.9454187569208443
+        },
+        {
+            "id": "8ef18045-1f98-3286-874e-7c996f9a3bbd",
+            "summary": "Two major banks recently slashed their price targets on Amazon (AMZN) stock, but both banks remain bullish on the tech giant\u2019s overall outlook, Schwab Network reported. Mizuho\u2019s Take on AMZN Stock The Japanese bank lowered its price target on AMZN to $255 from $285 but kept an Outperform rating on the shares. About 50% of [\u2026]",
+            "date": "2025-04-09T15:43:28Z",
+            "sentiment-score": -0.8940702453255653
+        },
+        {
+            "id": "fc1365ee-9192-31e0-b41d-c97ee786ba47",
+            "summary": "The three major US stock indexes were mixed in late-morning trading Wednesday following recent annou",
+            "date": "2025-04-09T15:42:54Z",
+            "sentiment-score": -0.9288709741085768
+        }
+    ]
+}

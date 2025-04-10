@@ -1,0 +1,155 @@
+{
+    "ticker": "MA",
+    "total_news": 23,
+    "average_sentiment": 0.23115779156796634,
+    "weighted_average_sentiment": 0.20791031464805684,
+    "average_daily_sentiments": [
+        0.03694241199021538,
+        0.20466832667589188,
+        0.5019108122680336,
+        0.01720148976892233,
+        0,
+        0.49368501687422395,
+        0.13937687897123396
+    ],
+    "news": [
+        {
+            "id": "13c55529-1a14-35a0-89e1-dd3970e0423d",
+            "summary": "President Donald Trump\u2019s \u201cLiberation Day\u201d could make it worse.  Shares of Venmo owner  PayPal  online personal loan companies  SoFi  and  Upstart  and \u201cbuy now, pay later\u201d lender  Affirm  are all down more than 20% this year.  Renewed worries about inflation due to tariffs and growing fears of an increasingly sluggish U.S. economy (some say recession while others call it a mere \u201cgrowth scare\u201d) could reduce demand for consumer loans.",
+            "date": "2025-04-03T07:00:00Z",
+            "sentiment-score": -0.9566452405415475
+        },
+        {
+            "id": "a0f1a514-a16b-376e-9943-4b4c25ae365d",
+            "summary": "MA partners with MoneyGram to enhance digital payments, driving revenue growth, financial inclusion, and seamless cross-border transactions.",
+            "date": "2025-04-03T17:11:00Z",
+            "sentiment-score": 0.646166788879782
+        },
+        {
+            "id": "09e20ce0-88c0-35f6-b6f2-f19d1091d06c",
+            "summary": "MoneyGram customers can now send funds internationally to 38 eligible receiving markets using any US-issued Mastercard card.",
+            "date": "2025-04-03T11:43:12Z",
+            "sentiment-score": 0.09492342732846737
+        },
+        {
+            "id": "3b3ef3c1-d815-302f-8018-1b75a540921e",
+            "summary": "As companies joust to become the tech giant\u2019s card network, some analysts give Visa and Mastercard an advantage over American Express.",
+            "date": "2025-04-03T10:47:00Z",
+            "sentiment-score": 0.7730625402182341
+        },
+        {
+            "id": "37c16fe8-1393-3476-b30a-dac0960c7880",
+            "summary": "New contracts, global expansion and disciplined execution benefit GRRR's results.",
+            "date": "2025-04-04T16:45:00Z",
+            "sentiment-score": 0.928566631861031
+        },
+        {
+            "id": "e3d40c8d-a767-36bb-b946-8a5a6af96ba7",
+            "summary": "Compared to MA's more globally diversified business, AXP remains more exposed to domestic economic shifts.",
+            "date": "2025-04-04T16:07:00Z",
+            "sentiment-score": 0.05880340188741684
+        },
+        {
+            "id": "75aa9fab-30bc-31cf-8814-8e883581c779",
+            "summary": "The Mastercard (NYSE: MA) logo is pretty ubiquitous in the United States.  It adorns credit cards, debit cards, store windows, websites, and credit card processing machines.  If you are thinking of buying, or you already own, Mastercard, however, there's another facet to its business that is even more exciting.",
+            "date": "2025-04-06T13:05:00Z",
+            "sentiment-score": 0.01720148976892233
+        },
+        {
+            "id": "07e73f4c-bad3-3943-a7d2-93d4db7180fb",
+            "summary": "The integration will support various payment methods, including international cards and QR codes in the checkout process.",
+            "date": "2025-04-07T11:20:33Z",
+            "sentiment-score": 0.11760437884368002
+        },
+        {
+            "id": "f8ce7577-e807-362e-9e16-a560b124c9a8",
+            "summary": "AXP's clients typically have higher incomes and strong credit scores, which helps minimize credit risks.",
+            "date": "2025-04-07T15:53:00Z",
+            "sentiment-score": 0.6514649018645287
+        },
+        {
+            "id": "56449239-92fb-3470-b6c8-ef95812fc134",
+            "summary": "MA unveils a bold 2030 vision featuring biometrics, contactless cards, and real-time payments to enhance security, convenience, and growth.",
+            "date": "2025-04-07T15:12:00Z",
+            "sentiment-score": 0.6162129873409867
+        },
+        {
+            "id": "36b4fad4-3004-3505-8ef6-b7b1ee9fdbe9",
+            "summary": "MasterCard (MA) has an impressive earnings surprise history and currently possesses the right combination of the two key ingredients for a likely beat in its next quarterly report.",
+            "date": "2025-04-07T16:10:10Z",
+            "sentiment-score": 0.8692757990211248
+        },
+        {
+            "id": "4241f7b1-2d36-33ff-8ab7-07dfb3d0e494",
+            "summary": "Equity markets are struggling due to President Donald Trump's decision to impose tariffs on imported goods from every country.  What stocks does Buffett own that are worth holding onto through market volatility and beyond?  Let's consider two prime candidates: Apple (NASDAQ: AAPL) and Mastercard (NYSE: MA).",
+            "date": "2025-04-08T11:54:00Z",
+            "sentiment-score": -0.03435746394097805
+        },
+        {
+            "id": "2fb2ede0-77c2-3fa6-b1f4-c65dc9038211",
+            "summary": "PayTabs will tap Mastercard's global network and digital payment capabilities to offer a \u201cwhite-labelled\u201d payments platform.",
+            "date": "2025-04-08T11:30:09Z",
+            "sentiment-score": 0.2146869795396924
+        },
+        {
+            "id": "7301a5da-667b-3865-ab09-f722bb4dae87",
+            "summary": "In the most recent trading session, MasterCard (MA) closed at $485.52, indicating a -0.87% shift from the previous trading day.",
+            "date": "2025-04-07T21:50:16Z",
+            "sentiment-score": 0.25499599426984787
+        },
+        {
+            "id": "6bd04d95-792f-3449-a04b-ce02df06b146",
+            "summary": "PYPL is doubling down on digital assets with the addition of Chainlink and Solana to its crypto suite.",
+            "date": "2025-04-08T14:49:00Z",
+            "sentiment-score": -0.10864471644163132
+        },
+        {
+            "id": "ea5f9ad0-a75c-3056-bb2a-9edbc70eb709",
+            "summary": "We recently published a list of 10 Best Fundamental Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Mastercard Incorporated (NYSE:MA) stands against other best fundamental stocks to buy according to billionaires. As per Fitch Ratings, the US tariffs are now at levels that continue to [\u2026]",
+            "date": "2025-04-08T18:22:19Z",
+            "sentiment-score": 0.04490070231258869
+        },
+        {
+            "id": "6a905bf9-c438-3921-ad3e-6cf137eb165c",
+            "summary": "MA partners with PayTabs to unveil a white-labeled digital payments platform to improve payment experiences for SMEs in Egypt, thereby bolstering MA's nationwide presence.",
+            "date": "2025-04-08T17:48:00Z",
+            "sentiment-score": 0.9067561319097877
+        },
+        {
+            "id": "eefc9284-1795-3dbe-b771-4b32e26fc64e",
+            "summary": "The partnership will see the crypto exchange introduce physical and digital debit cards users will be able to use to spend their cryptocurrency throughout the world.",
+            "date": "2025-04-09T10:02:01Z",
+            "sentiment-score": 0.5963488230481744
+        },
+        {
+            "id": "d3c0aee8-a94c-382b-81fe-70d4d2e835be",
+            "summary": "Investing.com -- Monness, Crespi, Hardt downgraded shares of Fiserv (NYSE:FI) to Sell from Neutral and Mastercard (NYSE:MA) to Neutral from Buy on concerns over rich valuations, potential multiple contraction, and increasing sensitivity to slowing payment volume growth. Analyst sees rising risks to multiples as macro uncertainty grows.",
+            "date": "2025-04-09T13:44:45Z",
+            "sentiment-score": -0.9270024476572871
+        },
+        {
+            "id": "cdd5b38f-f7f0-3326-bece-010563461f88",
+            "summary": "Investing.com --Evercore ISI initiated coverage on Visa Inc (NYSE:V), Mastercard Inc (NYSE:MA), and PayPal Holdings Inc (NASDAQ:PYPL) with In Line ratings, viewing the payments leaders as defensive plays in a volatile macro environment but noting valuation sensitivities and execution risks.Evercore sees Visa as a defensive stalwart, Mastercard is preferred on valuation while PayPal\u2019s turnaround depends on execution.",
+            "date": "2025-04-09T14:23:22Z",
+            "sentiment-score": 0.3138529881834984
+        },
+        {
+            "id": "ba07d7ad-54fc-3d4a-9ffb-dc922d63559c",
+            "summary": "If you opt for cards over cash when abroad then always ensure you\u2019re not charged a fee",
+            "date": "2025-04-09T14:18:17Z",
+            "sentiment-score": 0.012128978036344051
+        },
+        {
+            "id": "b0faeb2b-2bb4-338f-b2d6-3221f63a7620",
+            "summary": "Apple, Starbucks upgraded: Wall Street's top analyst calls",
+            "date": "2025-04-09T13:46:51Z",
+            "sentiment-score": 0.15495318919420242
+        },
+        {
+            "id": "f6635f71-a3f2-3646-a83a-568336bd0e8a",
+            "summary": "Why investors should use the Zacks Earnings ESP tool to help find stocks that are poised to top quarterly earnings estimates.",
+            "date": "2025-04-09T13:00:07Z",
+            "sentiment-score": 0.07137294113636017
+        }
+    ]
+}

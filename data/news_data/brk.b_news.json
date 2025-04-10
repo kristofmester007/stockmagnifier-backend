@@ -1,0 +1,16 @@
+{
+    "ticker": "BRK.B",
+    "total_news": 0,
+    "average_sentiment": 0,
+    "weighted_average_sentiment": 0,
+    "average_daily_sentiments": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "news": []
+}

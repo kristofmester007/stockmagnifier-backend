@@ -1,0 +1,41 @@
+{
+    "ticker": "PG",
+    "total_news": 4,
+    "average_sentiment": 0.07196325156837702,
+    "weighted_average_sentiment": 0.07464660900943684,
+    "average_daily_sentiments": [
+        0,
+        -0.011744758114218712,
+        0.1465957541950047,
+        0,
+        0.0064062559977173805,
+        0,
+        0
+    ],
+    "news": [
+        {
+            "id": "62b0449b-e7cb-31db-bdcf-1fdacd3fdb87",
+            "summary": "We recently published a list of Jim Cramer Reveals What\u2019s Next After Tariffs & Discusses These 10 Stocks. In this article, we are going to take a look at where The Procter & Gamble Company (NYSE:PG) stands against other stocks that Jim Cramer discusses. In his appearance on CNBC\u2019s Squawk on the Street on Thursday, [\u2026]",
+            "date": "2025-04-05T21:19:38Z",
+            "sentiment-score": 0.0064062559977173805
+        },
+        {
+            "id": "5d159c05-1f4e-3570-8567-443f3654795c",
+            "summary": "Zacks.com users have recently been watching P&G (PG) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
+            "date": "2025-04-07T13:00:12Z",
+            "sentiment-score": 0.014893569983541965
+        },
+        {
+            "id": "b8b9264f-d1d5-351b-8c33-e75e0e8155ec",
+            "summary": "PG's global reach and brand strength support long-term growth, but valuation, China headwinds and macro risks warrant a cautious, hold-worthy outlook.",
+            "date": "2025-04-07T15:20:00Z",
+            "sentiment-score": 0.27829793840646744
+        },
+        {
+            "id": "a60f49d1-9820-3487-beac-96c4d6405fae",
+            "summary": "In the closing of the recent trading day, Procter & Gamble (PG) stood at $158.26, denoting a -1.23% change from the preceding trading day.",
+            "date": "2025-04-08T21:50:16Z",
+            "sentiment-score": -0.011744758114218712
+        }
+    ]
+}

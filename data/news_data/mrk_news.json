@@ -1,0 +1,71 @@
+{
+    "ticker": "MRK",
+    "total_news": 9,
+    "average_sentiment": -0.2826254971118437,
+    "weighted_average_sentiment": -0.41625424918598264,
+    "average_daily_sentiments": [
+        -0.6384864298161119,
+        0.029778591357171535,
+        -0.9559274455532432,
+        0,
+        0,
+        0,
+        0.876907916739583
+    ],
+    "news": [
+        {
+            "id": "4d202ae2-292d-33fc-b5df-f9468db0055c",
+            "summary": "Big pharmaceutical stocks mostly rose after President Trump\u2019s executive order exempted medicines from new tariffs. Merck, Bristol-Myers Squibb, and Johnson & Johnson were among the top performers in the S&P 500, with the sector also benefiting from its status as a defensive play.",
+            "date": "2025-04-03T14:30:22Z",
+            "sentiment-score": 0.876907916739583
+        },
+        {
+            "id": "f4d6079f-f84f-3c01-bfbd-4dbb8d14b6a4",
+            "summary": "The past six months haven\u2019t been great for Merck. It just made a new 52-week low of $79.69, and shareholders have lost 26.6% of their capital. This was partly due to its softer quarterly results and might have investors contemplating their next move.",
+            "date": "2025-04-07T09:10:45Z",
+            "sentiment-score": -0.9559274455532432
+        },
+        {
+            "id": "cdc5860f-4d10-3f55-9797-9bc389b535f2",
+            "summary": "Quarterly earnings results are a good time to check in on a company\u2019s progress, especially compared to its peers in the same sector. Today we are looking at Organon (NYSE:OGN) and the best and worst performers in the branded pharmaceuticals industry.",
+            "date": "2025-04-08T09:07:18Z",
+            "sentiment-score": -0.336032435297966
+        },
+        {
+            "id": "a4b082d4-d3e5-3d1d-8c66-df0c01b86afc",
+            "summary": "Walgreens (WBA) stock is rising after the company reported better-than-expected second quarter earnings while preparing for privatization. Yahoo Finance Senior Health Reporter Anjalee Khemlani highlights the company's cost management strategy, CVS's (CVS) leadership changes amid similar challenges in the retail drug sector, and moves by US drug makers, like Merck (MRK), Johnson & Johnson (JNJ), and Eli Lilly (LLY), as they prepare for incoming tariffs. To watch more expert insights and analysis on the latest market action, check out more Morning Brief here.",
+            "date": "2025-04-08T14:03:18Z",
+            "sentiment-score": 0.4182991795241833
+        },
+        {
+            "id": "5992a3b0-052f-3a00-9b42-f2b413b30595",
+            "summary": "We recently published a list of 10 Defensive Stocks Billionaire Ken Fisher is Betting On. In this article, we are going to take a look at where Merck & Co., Inc. (NYSE:MRK) stands against other defensive stocks billionaire Ken Fisher is betting on. Ken Fisher, an American billionaire investor, author, and financial analyst, founded and runs Fisher [\u2026]",
+            "date": "2025-04-08T22:15:07Z",
+            "sentiment-score": 0.007069029845297337
+        },
+        {
+            "id": "a3b4073e-cf6b-3c9f-8915-5acaa3968de0",
+            "summary": "Trump tariff news: President Trump's latest tariffs took effect Wednesday while China stepped up retaliation. Treasury yields are worrisome. Walmart and Delta Air pulled some guidance, citing tariff uncertainty.",
+            "date": "2025-04-09T13:31:49Z",
+            "sentiment-score": -0.931397270411253
+        },
+        {
+            "id": "be7d1b24-7c1e-38ff-91b2-281ea7807568",
+            "summary": "Big pharmaceutical names plowed lower Wednesday after Trump on Tuesday said that tariffs would take direct aim at drug imports.",
+            "date": "2025-04-09T13:08:24Z",
+            "sentiment-score": -0.9341345755383372
+        },
+        {
+            "id": "22407950-a8f9-3d18-b6ce-42a8911228cd",
+            "summary": "Catalysts host Madison Mills and Trader Talk podcast host Kenny Polcari take a look at some of the day's top trending stocks. Apple (AAPL) is in focus after Microsoft (MSFT) replaced Apple as the most valuable company. Alibaba (BABA) reverses earlier gains after US tariffs went into effect. Drugmaker stocks, including Pfizer (PFE), Merck (MRK), and Eli Lilly (LLY), are falling after President Trump announced that pharmaceutical tariffs may be on the way. To watch more expert insights and analysis on the latest market action, check out more Catalysts here.",
+            "date": "2025-04-09T14:43:22Z",
+            "sentiment-score": -0.6112148426473141
+        },
+        {
+            "id": "42788375-b286-39dd-b048-683f4aab07b7",
+            "summary": "Drugmaker stocks, including Eli Lilly (LLY), Johnson & Johnson (JNJ), Merck (MRK), and Pfizer (PFE), are under pressure on Wednesday after President Trump announced that he may impose tariffs on pharmaceutical imports. Yahoo Finance Senior Health Reporter Anjalee Khemlani joins Morning Brief to break down the details. To watch more expert insights and analysis on the latest market action, check out more Morning Brief here.",
+            "date": "2025-04-09T14:11:57Z",
+            "sentiment-score": -0.07719903066754341
+        }
+    ]
+}

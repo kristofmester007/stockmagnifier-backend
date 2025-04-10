@@ -1,0 +1,77 @@
+{
+    "ticker": "PM",
+    "total_news": 10,
+    "average_sentiment": 0.30172575088217857,
+    "weighted_average_sentiment": 0.24970032150546703,
+    "average_daily_sentiments": [
+        0.44757487438619137,
+        0.014377608895301819,
+        0.15965279005467892,
+        0,
+        0,
+        0.3487485097721219,
+        0.5120076639577746
+    ],
+    "news": [
+        {
+            "id": "113a7b24-867a-3b73-9fb6-f18fd3fbe473",
+            "summary": "President Trump's tariffs and trade threats are roiling the markets, sending the S&P 500 into a correction for the first time since 2022.  Today, that divide remains, though Philip Morris has gained modest exposure to the U.S. through its acquisition of ZYN parent Swedish Match, and it recently began selling IQOS, a heat-not-burn tobacco product, in the U.S. The company does nearly all of its business outside of the U.S., and it's well-insulated from American import tariffs or even a U.S.-driven trade war.",
+            "date": "2025-04-02T22:39:00Z",
+            "sentiment-score": 0.0024794340133666992
+        },
+        {
+            "id": "c198c5ae-05be-3137-a740-ce48c4fcb704",
+            "summary": "Shares of consumer staples giants Lamb Weston (NYSE: LW), Conagra (NYSE: CAG), and Philip Morris International (NYSE: PM) all rallied today, up 9.7%, 1.5%, and 4%, respectively.  Lamb Weston is a large producer and distributor of frozen potato products to restaurants and supermarkets -- essentially, french fries.  Conagra sells branded food products under various familiar brands like Slim Jim, Healthy Choice, Bird's Eye, Duncan Hines, and others.",
+            "date": "2025-04-03T20:33:58Z",
+            "sentiment-score": 0.6166121251881123
+        },
+        {
+            "id": "786264a5-f7e3-3ded-a084-76885b4f71b9",
+            "summary": "Philip Morris International soared nearly 20% in February and now finds itself among the year's best performing S&P 500 stocks.  The tobacco giant is betting on its smoke-free offerings, with the popular Zyn nicotine pouch leading the way, to boost revenue through the end of the decade.  Last year, Philip Morris stock gained 28%.",
+            "date": "2025-04-03T20:01:50Z",
+            "sentiment-score": 0.9050332708284259
+        },
+        {
+            "id": "4664357e-c13d-3352-80ea-8167e47be3ed",
+            "summary": "Wondering how to pick strong, market-beating stocks for your investment portfolio? Look no further than the Zacks Style Scores.",
+            "date": "2025-04-03T13:45:08Z",
+            "sentiment-score": 0.014377595856785774
+        },
+        {
+            "id": "b2c88bfd-577a-3c9f-894c-8d87b517bcbf",
+            "summary": "Quarterly earnings results are a good time to check in on a company\u2019s progress, especially compared to its peers in the same sector. Today we are looking at PepsiCo (NASDAQ:PEP) and the best and worst performers in the beverages, alcohol, and tobacco industry.",
+            "date": "2025-04-04T09:11:00Z",
+            "sentiment-score": -0.1950436383485794
+        },
+        {
+            "id": "276d0a55-5238-36f9-b0dc-841d2a56df23",
+            "summary": "The S&P 500\u2019s three top performers in 2025 boast characteristics that could help them weather a further sell off.",
+            "date": "2025-04-04T17:46:00Z",
+            "sentiment-score": 0.8925406578928232
+        },
+        {
+            "id": "d73585a5-cb01-351c-a5f0-507785553abf",
+            "summary": "We recently published a list of Jim Cramer Reveals Stocks Benefiting From Tariff Selloff & Discusses These 8 Stocks. In this article, we are going to take a look at where Philip Morris International Inc. (NYSE:PM) stands against other stocks that Jim Cramer discusses. In his appearance on CNBC\u2019s Squawk on the Street on Thursday, [\u2026]",
+            "date": "2025-04-07T18:40:22Z",
+            "sentiment-score": 0.003952357918024063
+        },
+        {
+            "id": "91762df4-54b3-30d7-b1b6-c71f3b1ed194",
+            "summary": "Funds are buying Netflix and Philip Morris amid the Trump tariff stock market meltdown. Both stocks are near all-time highs.",
+            "date": "2025-04-07T18:56:42Z",
+            "sentiment-score": 0.31535322219133377
+        },
+        {
+            "id": "a626b1fc-f2d7-3cb9-8ad4-648e98d1d652",
+            "summary": "Wondering how to pick strong, market-beating stocks for your investment portfolio? Look no further than the Zacks Style Scores.",
+            "date": "2025-04-08T13:50:02Z",
+            "sentiment-score": 0.014377608895301819
+        },
+        {
+            "id": "845073f1-655a-382e-a045-9fc919613de8",
+            "summary": "Philip Morris International, S&P Global, and Walmart are all resilient investments.",
+            "date": "2025-04-09T08:05:00Z",
+            "sentiment-score": 0.44757487438619137
+        }
+    ]
+}

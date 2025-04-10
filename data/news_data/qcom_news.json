@@ -1,0 +1,107 @@
+{
+    "ticker": "QCOM",
+    "total_news": 15,
+    "average_sentiment": 0.11908498099073768,
+    "weighted_average_sentiment": 0.25201667579190445,
+    "average_daily_sentiments": [
+        0.3702101016417146,
+        0.3490801763255149,
+        0.07833097747061402,
+        0,
+        0,
+        -0.9502022853121161,
+        0.40651475288905203
+    ],
+    "news": [
+        {
+            "id": "f3724bff-456f-36dd-b1f8-c12b6385cca3",
+            "summary": "Trump said the import tariff rate for Taiwan will be set at 32%. Initially, that looked like bad news for American chip makers like Nvidia, Advanced Micro Devices, and Qualcomm, which are customers of Taiwan Semiconductor Manufacturing Co.",
+            "date": "2025-04-02T21:51:19Z",
+            "sentiment-score": -0.9390872763469815
+        },
+        {
+            "id": "d6c4b30c-2554-3a29-8ad2-7509f951b37d",
+            "summary": "The chipmaker has until April 29 to either announce a firm intention to make an offer for Alphawave.",
+            "date": "2025-04-03T11:12:09Z",
+            "sentiment-score": 0.020588616840541363
+        },
+        {
+            "id": "3056dad8-30c5-3c7e-a2d9-e42aac814f9b",
+            "summary": "Qualcomm acquires MovianAI to augment its portfolio strength and develop an advanced AI native solution suite for the PC, smartphone and automotive industries.",
+            "date": "2025-04-03T13:34:00Z",
+            "sentiment-score": 0.7924408889375627
+        },
+        {
+            "id": "9267baa7-0504-312e-b1fb-198e19d7731e",
+            "summary": "At QUALCOMM's (NasdaqGS:QCOM) recent annual general meeting, shareholders rejected a proposal aimed at protecting retirement benefits, highlighting ongoing debates around corporate governance. Over the past month, the company's stock saw a price decline of 10%. This move aligns with broader negative sentiment in the market, as the Nasdaq Composite entered bear market territory due to tariff-induced sell-offs. Technology stocks, particularly semiconductor companies, were among the hardest hit,...",
+            "date": "2025-04-04T17:39:09Z",
+            "sentiment-score": -0.9502022853121161
+        },
+        {
+            "id": "6c6d8ba3-c8f8-3387-b7f1-4d079ff77475",
+            "summary": "How To Buy Stocks: Use IBD's Ants indicator to spot the big institutional demand that can result in big stock market gains.",
+            "date": "2025-04-07T12:00:05Z",
+            "sentiment-score": 0.05318482639268041
+        },
+        {
+            "id": "bdad47fb-d95b-3309-8209-d92be1c7d851",
+            "summary": "QCOM appears to be treading in the middle of the road and investors could be better off if they trade with caution.",
+            "date": "2025-04-07T13:52:00Z",
+            "sentiment-score": -0.012560036033391953
+        },
+        {
+            "id": "6ef57b5e-4a7b-3ecd-b7b0-771c5f91ea39",
+            "summary": "As the Q4 earnings season comes to a close, it\u2019s time to take stock of this quarter\u2019s best and worst performers in the processors and graphics chips industry, including Nvidia (NASDAQ:NVDA) and its peers.",
+            "date": "2025-04-07T09:04:09Z",
+            "sentiment-score": -0.5207459516823292
+        },
+        {
+            "id": "4b3df5de-d77c-305e-a2bd-dab03cbae72d",
+            "summary": "Chinese autonomous driving technology developer DeepRoute.ai said on Tuesday it will cooperate with Qualcomm to develop \"cost-effective\" advanced driver assistance solutions based on Snapdragon platforms. The solutions will cover lidar and vision-only systems and support features including urban navigation on autopilot, highway navigation and automated parking, according to a company statement.",
+            "date": "2025-04-08T04:13:12Z",
+            "sentiment-score": 0.6277296426706016
+        },
+        {
+            "id": "2f32a226-8d9d-3d04-a079-4b5bfefe2f34",
+            "summary": "Qualcomm (QCOM) closed the most recent trading day at $129.72, moving +1.77% from the previous trading session.",
+            "date": "2025-04-07T21:45:16Z",
+            "sentiment-score": 0.7934450712054968
+        },
+        {
+            "id": "8ecb4fde-879c-3cb6-9858-8b59a9ade87c",
+            "summary": "The best-performing stocks typically have robust sales growth, increasing margins, and rising returns on capital, and those that can maintain this trifecta year in and year out often become the legends of the investing world.",
+            "date": "2025-04-08T14:28:37Z",
+            "sentiment-score": 0.07043070998042822
+        },
+        {
+            "id": "ba148ac7-e3df-3eff-bd62-f2a29026042a",
+            "summary": "The intelligent driving solutions will be based on the Snapdragon Ride Platforms, specifically the SA8650 model.",
+            "date": "2025-04-09T11:42:57Z",
+            "sentiment-score": 0.03991504339501262
+        },
+        {
+            "id": "6fb97069-775d-3544-849b-4de9fe39c65e",
+            "summary": "Qualcomm (QCOM) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
+            "date": "2025-04-09T13:00:14Z",
+            "sentiment-score": 0.024176449049264193
+        },
+        {
+            "id": "3a3efbfb-b718-3d07-90e2-f29e14caff25",
+            "summary": "Qualcomm (QCOM) has been upgraded to a Zacks Rank #2 (Buy), reflecting growing optimism about the company's earnings prospects. This might drive the stock higher in the near term.",
+            "date": "2025-04-09T16:00:09Z",
+            "sentiment-score": 0.9244721224531531
+        },
+        {
+            "id": "b6ce7002-d053-38cd-8509-2d3a9f4d2837",
+            "summary": "Semiconductor stocks, AVGO, NVDA, MRVY and QCOM, present a buying opportunity as AI fuels record growth despite tariff headwinds. Industry set for $2 trillion boom by 2032.",
+            "date": "2025-04-09T14:08:00Z",
+            "sentiment-score": 0.8237454919144511
+        },
+        {
+            "id": "91bc3c92-805e-37ae-9c4c-f5a01e89deba",
+            "summary": "The Zacks Style Scores offers investors a way to easily find top-rated stocks based on their investing style. Here's why you should take advantage.",
+            "date": "2025-04-09T13:40:10Z",
+            "sentiment-score": 0.0387414013966918
+        }
+    ]
+}

@@ -1,0 +1,221 @@
+{
+    "ticker": "XOM",
+    "total_news": 34,
+    "average_sentiment": -0.13460898822556963,
+    "weighted_average_sentiment": -0.16376886501678733,
+    "average_daily_sentiments": [
+        -0.25209488486871123,
+        -0.12076564678656203,
+        0.4104323792271316,
+        -0.9355728719383478,
+        0.035768096800893545,
+        -0.11734168324619532,
+        -0.05259269281911353
+    ],
+    "news": [
+        {
+            "id": "05a0ef3f-3a4e-3300-ad29-88aba4207891",
+            "summary": "Today's Research Daily features new research reports on 16 major stocks, including Exxon Mobil Corporation (XOM), Bristol-Myers Squibb Company (BMY) and Chubb Limited (CB), as well as a micro-cap stock Hamilton Beach Brands Holding Company (HBB).",
+            "date": "2025-04-02T20:26:00Z",
+            "sentiment-score": 0.014257651753723621
+        },
+        {
+            "id": "fd4f80af-5519-3ab3-90f3-9d5976e9486e",
+            "summary": "Exxon Mobil, Bristol-Myers Squibb, Chubb and Hamilton Beach Brands are part of the Zacks top Analyst Blog.",
+            "date": "2025-04-03T14:50:00Z",
+            "sentiment-score": 0.006501461379230022
+        },
+        {
+            "id": "bc378ba8-0ede-3943-8b4b-233036eb08ac",
+            "summary": "XOM can also lean on its strong balance sheet when its business scenario turns volatile and uncertain.",
+            "date": "2025-04-03T14:46:00Z",
+            "sentiment-score": 0.6775025986135006
+        },
+        {
+            "id": "80eb8633-71ee-3b35-9095-bf8ad4107c71",
+            "summary": "Energy stocks were falling premarket Thursday, with The Energy Select Sector SPDR Fund (XLE) 5% lowe",
+            "date": "2025-04-03T13:23:58Z",
+            "sentiment-score": -0.9602806218899786
+        },
+        {
+            "id": "42e18f60-8ae4-3416-8d2c-0cece6f7bb14",
+            "summary": "The energy sector has climbed year to date, in contrast to the broader market's decline, driven by leaders like ExxonMobil, Chevron and Devon Energy.",
+            "date": "2025-04-03T13:10:00Z",
+            "sentiment-score": 0.9113432299345732
+        },
+        {
+            "id": "f761f595-301a-360b-9076-304a2fa9fd2b",
+            "summary": "Exxon Mobil Corporation (NYSE:XOM) will release its first-quarter financial results after the closing bell on Thursday, April 3. Analysts expect the company to report quarterly earnings at $1.70 per share, down from $2.06 per share in the year-ago period. Exxon Mobil projects quarterly revenue of $86.09 billion, compared to $83.08 billion a year earlier, according to data from Benzinga Pro. On Wednesday, Exxon Mobil disclosed that Karen T. McKee, president of ExxonMobil Product Solutions Company",
+            "date": "2025-04-03T12:33:36Z",
+            "sentiment-score": -0.9578479863703251
+        },
+        {
+            "id": "a16fd131-436f-3458-94f5-9c1cbda93005",
+            "summary": "Crocker currently serves as president of Global Business Solutions and has been with ExxonMobil since 1995.",
+            "date": "2025-04-03T12:07:44Z",
+            "sentiment-score": 0.0072251614183187485
+        },
+        {
+            "id": "a0b0e8da-b196-3cea-a5a3-38ce8dfebd13",
+            "summary": "Stocks may extend their post-tariff sell-off Friday after China retaliated with its own 34% duties on all U.S. goods, restrictions on rare earth exports, and other measures. Futures linked to the S&P 500, Nasdaq 100, and Dow Jones Industrial Average are all pointing to a lower open.",
+            "date": "2025-04-04T12:57:00Z",
+            "sentiment-score": -0.9285214887931943
+        },
+        {
+            "id": "a6c36a14-7db7-32da-b413-35099da1b3d2",
+            "summary": "Alibaba and KB Home are part of the Zacks Bull and Bear of the Day article.",
+            "date": "2025-04-04T12:37:00Z",
+            "sentiment-score": 0.0015064561739563942
+        },
+        {
+            "id": "03d3b93d-e287-311e-8392-48f9019b8aaa",
+            "summary": "Exxon Mobil Corporation (NYSE:XOM) shares are trading lower premarket on Friday. The oil giant anticipates changes in oil prices to add first-quarter Upstream earnings quarter-over-quarter by $0.0 billion to $0.4 billion. Also, changes in gas prices are expected to add to its Upstream results by $0.0 billion and $0.4 billion compared to the fourth quarter. Also, Exxon Mobil projects that variations in industry margins will positively impact Energy Products earnings by $0.3 billion \u2013 $0.7 billion",
+            "date": "2025-04-04T11:29:24Z",
+            "sentiment-score": -0.6931691840291023
+        },
+        {
+            "id": "c5a6a443-e068-3410-acf4-4ded8b501af7",
+            "summary": "Exxon says price shifts and timing effects could boost Q1 profit, but specialty unit may face margin pressure",
+            "date": "2025-04-04T15:26:13Z",
+            "sentiment-score": 0.621401877142489
+        },
+        {
+            "id": "f4eea585-509d-3f33-b891-e459bb8b56e8",
+            "summary": "Oil price could fall as low as $50 as Saudis launch price war. Gasoline prices set to be a bright spot in Trump's trade war.",
+            "date": "2025-04-04T16:26:22Z",
+            "sentiment-score": -0.6759627163410187
+        },
+        {
+            "id": "b50694c0-8a3b-36ad-b234-d039abdbc970",
+            "summary": "What Factors Affect ExxonMobil's Refining Margins?",
+            "date": "2025-04-04T18:59:10Z",
+            "sentiment-score": -0.04462592303752899
+        },
+        {
+            "id": "09cfb77a-c57b-3bfc-af9a-7c63f78543e6",
+            "summary": "XOM expects higher oil and natural gas, and stronger oil refining margins to boost first-quarter earnings by $900 million.",
+            "date": "2025-04-04T16:22:00Z",
+            "sentiment-score": 0.9260133160278201
+        },
+        {
+            "id": "a63ea2f2-dc32-357a-9ec4-9e9728b7e73d",
+            "summary": "Investors are fearing the worst, but bargain-hunters should consider well-regarded stocks that have been hit hard in recent weeks.",
+            "date": "2025-04-04T22:25:00Z",
+            "sentiment-score": -0.1453758031129837
+        },
+        {
+            "id": "0575d4c0-4c09-3cbf-82f2-1676fc0da261",
+            "summary": "The move may come as a surprise, given that the U.S. benchmark oil price, West Texas Intermediate, is $69.36 per barrel compared to an average of $76.63 in 2024.  Here's why ExxonMobil (NYSE: XOM), Chevron (NYSE: CVX), and ConocoPhillips (NYSE: COP) stand out as three balanced dividend stocks to buy now.  ExxonMobil, Chevron, and ConocoPhillips all have clear paths toward delivering strong free cash flow (FCF) even at current oil prices.",
+            "date": "2025-04-05T22:05:00Z",
+            "sentiment-score": 0.8437841180711985
+        },
+        {
+            "id": "0dd14136-1820-32b8-a812-dbe35c5b22a5",
+            "summary": "In recent market turmoil, the Dow fell 2,200 points, the S&P 500 dropped 6%, and the Nasdaq entered a bear market, fueled by new tariffs and economic uncertainty. Amidst this backdrop, energy stocks faced declines, and Exxon Mobil (NYSE:XOM) experienced a flat price move for the month. The tariffs added pressure on oil prices, dragging down West Texas Intermediate futures and affecting the broader energy sector's outlook. Despite these challenges, Exxon's performance aligned with the market's...",
+            "date": "2025-04-05T18:05:01Z",
+            "sentiment-score": -0.7722479244694114
+        },
+        {
+            "id": "da79411c-e3d6-3648-bdbc-5f0d1f6736e1",
+            "summary": "ExxonMobil (NYSE: XOM) recently gave investors a glimpse into its upcoming first-quarter earnings report.  A combination of higher oil and natural gas prices and improving oil refining margins helped fuel the increased profitability.  Crude prices have crumbled due to concerns about how higher tariffs will impact the global economy.",
+            "date": "2025-04-06T16:17:00Z",
+            "sentiment-score": -0.9399335039779544
+        },
+        {
+            "id": "c3090b59-d849-39cd-bf0a-c78b7888c646",
+            "summary": "We recently published a list of Starter Stock Portfolio 12 Safe Stocks to Buy. In this article, we are going to take a look at where Exxon Mobil Corporation (NYSE:XOM) stands against other best beginner stocks. The US stock market has experienced a turbulent first quarter of 2025, marked by increased volatility and negative returns [\u2026]",
+            "date": "2025-04-06T20:54:15Z",
+            "sentiment-score": -0.9312122398987412
+        },
+        {
+            "id": "0f33cee2-e749-3dd5-8f44-88d18b065064",
+            "summary": "Companies in The News Are: BIDU, AVGO, XOM, NKE",
+            "date": "2025-04-07T13:16:00Z",
+            "sentiment-score": -0.005009595304727554
+        },
+        {
+            "id": "b3843604-8935-3c41-bf22-e8277fa27b15",
+            "summary": "UBS analyst Josh Silverstein lowered the firm\u2019s price target on Exxon Mobil (XOM) to $135 from $146 and keeps a Buy rating on the shares. The firm sees Energy viewed as a recession downside play, the analyst tells investors in a research note. UBS lowered its price target reflecting increased uncertainty around economic activity and commodity prices. Published first on TheFly \u2013 the ultimate source for real-time, market-moving breaking financial news. Try Now>> See the top stocks recommended by a",
+            "date": "2025-04-08T13:52:39Z",
+            "sentiment-score": -0.6859756670892239
+        },
+        {
+            "id": "2c86b46e-7850-3a34-baf6-c4bacd6eed97",
+            "summary": "Exxon Mobil (XOM) closed at $102.94 in the latest trading session, marking a -1.34% move from the prior day.",
+            "date": "2025-04-07T21:45:14Z",
+            "sentiment-score": 0.8258743537589908
+        },
+        {
+            "id": "03b4ab0f-8e8f-3f38-b5dc-dd6b537fc27e",
+            "summary": "We recently published a list of 11 Best American Energy Stocks to Buy Now. In this article, we are going to take a look at where Exxon Mobil Corporation (NYSE:XOM) stands against other best American energy stocks to buy now. On Friday, April 4, oil futures reached multiyear lows following China\u2019s response to the tariffs imposed [\u2026]",
+            "date": "2025-04-08T14:23:04Z",
+            "sentiment-score": -0.9361496884375811
+        },
+        {
+            "id": "5932f807-0a14-3157-b92a-acc381ee2a6d",
+            "summary": "Can Chevron and ExxonMobil sail through the current turbulent tariff-induced business environment?",
+            "date": "2025-04-08T13:39:00Z",
+            "sentiment-score": 0.11510265432298183
+        },
+        {
+            "id": "36d11ab2-677a-3e49-88c5-ecf048d22aba",
+            "summary": "ExxonMobil stock's potential cash flow and dividend growth make it a buy.",
+            "date": "2025-04-08T16:24:17Z",
+            "sentiment-score": 0.7189523931592703
+        },
+        {
+            "id": "5ee7161c-84e8-3693-9fc7-74f65138588e",
+            "summary": "CVX is set to begin a seabed survey to link Cyprus' Aphrodite gas field to Egypt, boosting regional energy ties.",
+            "date": "2025-04-08T14:42:00Z",
+            "sentiment-score": 0.8994458597153425
+        },
+        {
+            "id": "e4eadf50-3daa-3028-850e-30361dd3c7cb",
+            "summary": "SSL vs. XOM: Which Stock Is the Better Value Option?",
+            "date": "2025-04-08T15:40:08Z",
+            "sentiment-score": 0.003245837986469269
+        },
+        {
+            "id": "b7fa6848-cba0-3259-8071-6d2fc53b42dc",
+            "summary": "Energy stocks were lower late Tuesday afternoon, with the NYSE Energy Sector Index falling 3% and th",
+            "date": "2025-04-08T19:42:10Z",
+            "sentiment-score": -0.9599809171631932
+        },
+        {
+            "id": "ecda9868-9da8-3747-86ad-5bf93357b6d7",
+            "summary": "AFRM and RH have been highlighted as Zacks Bull and Bear of the Day.",
+            "date": "2025-04-09T08:14:00Z",
+            "sentiment-score": 0.2394199762493372
+        },
+        {
+            "id": "5bae32d9-43f4-3c2f-8ce7-5a437f2fbce0",
+            "summary": "Oil price plunges below $60, dragging oil majors like XOM, CVX, and SHEL lower. Trade war tariffs and OPEC+ supply surge shake up global energy markets.",
+            "date": "2025-04-09T10:33:00Z",
+            "sentiment-score": -0.921746707521379
+        },
+        {
+            "id": "308b2429-f840-35e3-be2e-acd086649016",
+            "summary": "XOM, SHEL, RES, EQNR and MTDR emerge as the energy headline makers during the week.",
+            "date": "2025-04-09T12:09:00Z",
+            "sentiment-score": 0.08093082718551159
+        },
+        {
+            "id": "3ec2c0a2-f6cd-3b90-895a-b2e7635c1ac6",
+            "summary": "(Bloomberg) -- Oil plunged to a four-year low as an intensifying trade war endangered energy demand, with a fresh wave of US and Chinese levies menacing the global economy.Brent futures tumbled below $60 a barrel for the first time since 2021 as natural gas, copper and other commodities also slid. West Texas Intermediate futures traded near $57 a barrel. Shares of BP Plc, Shell Plc, Exxon Mobil Corp. and Chevron Corp. slumped.Crude futures maintained losses as official US data showed domestic in",
+            "date": "2025-04-09T14:40:46Z",
+            "sentiment-score": -0.9479939443990588
+        },
+        {
+            "id": "fec161a4-84b1-3154-abd5-1622bab5a0e6",
+            "summary": "The average brokerage recommendation (ABR) for Exxon (XOM) is equivalent to a Buy. The overly optimistic recommendations of Wall Street analysts make the effectiveness of this highly sought-after metric questionable. So, is it worth buying the stock?",
+            "date": "2025-04-09T13:30:14Z",
+            "sentiment-score": 0.01663944311439991
+        },
+        {
+            "id": "9f964551-ed32-3b24-b9c7-a6d366a91d08",
+            "summary": "Exxon (XOM) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
+            "date": "2025-04-09T13:00:13Z",
+            "sentiment-score": 0.02018109615892172
+        }
+    ]
+}

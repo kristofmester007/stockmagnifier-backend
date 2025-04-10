@@ -1,0 +1,59 @@
+{
+    "ticker": "INTU",
+    "total_news": 7,
+    "average_sentiment": -0.0357992271227496,
+    "weighted_average_sentiment": -0.13948841352875416,
+    "average_daily_sentiments": [
+        -0.5055317869409919,
+        0.016637207008898258,
+        0.019863301888108253,
+        0,
+        0,
+        0.007682789582759142,
+        0.10153555450960994
+    ],
+    "news": [
+        {
+            "id": "cfbdfd77-c9f3-3d0c-97ae-07b32c8a5c20",
+            "summary": "Zacks.com users have recently been watching Intuit (INTU) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
+            "date": "2025-04-03T13:00:12Z",
+            "sentiment-score": 0.014416537247598171
+        },
+        {
+            "id": "695f0f39-7f09-35f4-9dd9-9fd170183472",
+            "summary": "As the U.S. stock market navigates a turbulent phase marked by recent tariff announcements and volatile trading sessions, investors are keenly assessing opportunities that may arise from these fluctuations. In such an environment, identifying stocks potentially undervalued relative to their intrinsic value becomes crucial, as these could offer significant upside potential once market conditions stabilize.",
+            "date": "2025-04-03T11:07:50Z",
+            "sentiment-score": 0.1886545717716217
+        },
+        {
+            "id": "684344af-57a3-4971-b34a-746b23b33930",
+            "summary": "The hunt for cheap stocks begins.",
+            "date": "2025-04-04T12:42:55Z",
+            "sentiment-score": -0.004880731925368309
+        },
+        {
+            "id": "ace20fb2-df62-3c7a-9407-c415de219bfa",
+            "summary": "As the craze of earnings season draws to a close, here\u2019s a look back at some of the most exciting (and some less so) results from Q4. Today, we are looking at finance and HR software stocks, starting with Intuit (NASDAQ:INTU).",
+            "date": "2025-04-04T09:01:24Z",
+            "sentiment-score": 0.020246311090886593
+        },
+        {
+            "id": "8c9d2e14-f664-3674-9046-01a3cbcc2109",
+            "summary": "In the closing of the recent trading day, Intuit (INTU) stood at $556.24, denoting a -0.94% change from the preceding trading day.",
+            "date": "2025-04-07T21:50:16Z",
+            "sentiment-score": 0.019863301888108253
+        },
+        {
+            "id": "9144e76b-2709-391e-a08f-6b22bed84c1f",
+            "summary": "We recently published a list of 10 Best Stocks to Buy According to Billionaire Steve Cohen. In this article, we are going to take a look at where Intuit Inc. (NASDAQ:INTU) stands against other best stocks to buy according to billionaire Steve Cohen. Steve Cohen, a prominent figure in the world of hedge funds, is [\u2026]",
+            "date": "2025-04-08T18:53:33Z",
+            "sentiment-score": 0.016637207008898258
+        },
+        {
+            "id": "8cbc38ae-96d2-39f5-b46f-1464877551a7",
+            "summary": "Intuit (NasdaqGS:INTU) recently launched its Tap to Pay on iPhone feature for QuickBooks Online customers, aiming to enhance in-person payment solutions and financial management for small businesses. This innovation is significant given the company's focus on facilitating cash flow and simplifying transactions. However, Intuit\u2019s share price saw a 10.75% decline in the past month, a move that aligns with broader market volatility driven by tariff concerns. While tech stocks like Apple and...",
+            "date": "2025-04-09T17:45:33Z",
+            "sentiment-score": -0.5055317869409919
+        }
+    ]
+}

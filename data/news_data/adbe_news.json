@@ -1,0 +1,101 @@
+{
+    "ticker": "ADBE",
+    "total_news": 14,
+    "average_sentiment": 0.018308989038424834,
+    "weighted_average_sentiment": -0.13407454329471177,
+    "average_daily_sentiments": [
+        -0.8873764700256288,
+        0.03410588367842138,
+        -0.051058804616332054,
+        -0.14918045746162534,
+        0.021297970786690712,
+        0.16889420120666424,
+        0.3487033839337528
+    ],
+    "news": [
+        {
+            "id": "b676a42b-e0ff-372e-af15-ff3ef54e4757",
+            "summary": "These leading AI companies are some of the best stocks in tech to buy right now.",
+            "date": "2025-04-03T15:37:00Z",
+            "sentiment-score": 0.08163117663934827
+        },
+        {
+            "id": "d0d7d09a-4e48-33f5-8bfa-c5f33f3592a0",
+            "summary": "ADBE shares are benefiting from strong demand for its creative products and expanding clientele amid increasing competition.",
+            "date": "2025-04-03T15:06:00Z",
+            "sentiment-score": 0.9225995168089867
+        },
+        {
+            "id": "344c569a-4206-3683-b1e6-fa265c07d65c",
+            "summary": "Adobe (ADBE) was Smart Insider's stock pick of the week after the company's Chief Financial Officer",
+            "date": "2025-04-03T12:30:36Z",
+            "sentiment-score": 0.04187945835292339
+        },
+        {
+            "id": "684344af-57a3-4971-b34a-746b23b33930",
+            "summary": "The hunt for cheap stocks begins.",
+            "date": "2025-04-04T12:42:55Z",
+            "sentiment-score": -0.004880731925368309
+        },
+        {
+            "id": "b5662b5b-95a7-37d7-972a-24887be45e4c",
+            "summary": "Microsoft marked its 50th anniversary by unveiling major Copilot AI updates, including new developer tools and user features",
+            "date": "2025-04-04T20:15:26Z",
+            "sentiment-score": 0.49974972289055586
+        },
+        {
+            "id": "052e9d14-02b7-3ffd-b60d-37576642fec9",
+            "summary": "We recently published a list of Jim Cramer\u2019s Thoughts on Liberation Day, Tariffs, and 17 Stocks to Watch Right Now. In this article, we are going to take a look at where Adobe Inc. (NASDAQ:ADBE) stands against other stocks that Jim Cramer discusses. On Tuesday, April 1st, the host of Mad Money opened the show [\u2026]",
+            "date": "2025-04-04T22:13:46Z",
+            "sentiment-score": 0.011813612654805183
+        },
+        {
+            "id": "c723385a-fb42-36b4-91d4-38f962d448d9",
+            "summary": "One of the best investors of the past 30 years has been David Tepper of Appaloosa Management.  Between 1993 and 2013, Tepper averaged a whopping 40% annualized return, while more recent estimates put Appaloosa at a low- to mid-20% annualized return through today.  In the fourth quarter, Tepper sold completely out of one artificial intelligence (AI) stock and bought another dividend-paying AI player.",
+            "date": "2025-04-05T08:20:00Z",
+            "sentiment-score": 0.021297970786690712
+        },
+        {
+            "id": "6155b2e5-fb5b-347d-a61a-97fd52eadc6f",
+            "summary": "Investing.com -- The latest wave of U.S. tariffs rattled markets, hitting software stocks with declines ranging from low single digits to more than 10% in smaller-cap names. But according to Bernstein, the reaction may be more panic than substance.",
+            "date": "2025-04-06T10:30:05Z",
+            "sentiment-score": -0.9272495387122035
+        },
+        {
+            "id": "40d659be-6b39-34de-b229-900fd8f92605",
+            "summary": "Key Insights The projected fair value for Adobe is US$620 based on 2 Stage Free Cash Flow to Equity Adobe is estimated...",
+            "date": "2025-04-06T11:00:10Z",
+            "sentiment-score": 0.05495477234944701
+        },
+        {
+            "id": "684c930d-1475-3adc-b013-ae604c056ebc",
+            "summary": "Amid hype over artificial intelligence, the best AI stocks generate revenue or get a strategic edge from the fast evolving technology.",
+            "date": "2025-04-06T13:35:48Z",
+            "sentiment-score": 0.4247533939778805
+        },
+        {
+            "id": "6427c233-bc55-370a-957e-381de51b87e8",
+            "summary": "We recently published a list of 10 Best High-Risk Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Adobe Inc. (NASDAQ:ADBE) stands against other best high-risk stocks to buy according to billionaires. Investors often retreat into safer assets during volatility when the global markets move towards [\u2026]",
+            "date": "2025-04-07T12:04:06Z",
+            "sentiment-score": -0.051058804616332054
+        },
+        {
+            "id": "1bb6dbe8-7110-3f41-bc11-20dea600b102",
+            "summary": "Recently, Zacks.com users have been paying close attention to Adobe (ADBE). This makes it worthwhile to examine what the stock has in store.",
+            "date": "2025-04-08T13:00:13Z",
+            "sentiment-score": 0.050723903346806765
+        },
+        {
+            "id": "319b0951-5e23-3fe6-bf70-9e4d4d447548",
+            "summary": "We recently published a list of 10 Best Stocks to Buy According to Billionaire Steve Cohen. In this article, we are going to take a look at where Adobe Inc. (NASDAQ:ADBE) stands against other best stocks to buy according to billionaire Steve Cohen. Steve Cohen, a prominent figure in the world of hedge funds, is [\u2026]",
+            "date": "2025-04-08T18:52:43Z",
+            "sentiment-score": 0.01748786401003599
+        },
+        {
+            "id": "699896f5-b0f9-37cc-b9bf-86499f18fcf6",
+            "summary": "Adobe (NasdaqGS:ADBE) has extended its partnership with Monotype Imaging Inc., enhancing Adobe Creative Cloud with over 2,800 high-quality fonts, likely boosting user satisfaction and brand consistency. Despite this positive development, Adobe's stock fell 11.27% over the past week, a move that mirrors the broader market downturn amid rising U.S.-China trade tensions and sweeping tariffs announced by the Trump administration. While the integration of new AI tools in Adobe's Premiere Pro and...",
+            "date": "2025-04-09T17:49:04Z",
+            "sentiment-score": -0.8873764700256288
+        }
+    ]
+}

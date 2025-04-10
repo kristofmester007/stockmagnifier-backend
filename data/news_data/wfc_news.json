@@ -1,0 +1,155 @@
+{
+    "ticker": "WFC",
+    "total_news": 23,
+    "average_sentiment": -0.2716366527399615,
+    "weighted_average_sentiment": -0.2242093128135197,
+    "average_daily_sentiments": [
+        -0.2750723312298457,
+        -0.07951153703033924,
+        -0.20610042987391353,
+        0,
+        -0.9044745219871402,
+        -0.16185795376077294,
+        -0.5850134710781276
+    ],
+    "news": [
+        {
+            "id": "4e82dfe3-c358-3fce-a88f-a5f6e8e0f46f",
+            "summary": "(Bloomberg) -- Traders are bracing for more dollar weakness after President Donald Trump\u2019s sweeping trade tariffs weakened the US currency by the most in two and a half years. Most Read from BloombergMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLondon Clears Final Hurdle for More High-Speed Trains to EuropeLocal Governments Vie for Fired Federal WorkersWhat Frank Lloyd Wright Learned From the DesertChicago School District Agrees to Minimum 16% Teacher Pay RaiseInve",
+            "date": "2025-04-03T09:34:46Z",
+            "sentiment-score": -0.22907380014657974
+        },
+        {
+            "id": "25a9d7d3-44a0-46f1-a693-b82867059bdd",
+            "summary": "Stocks of the biggest banks and private-equity firms plunged Thursday as concerns mounted about how Wall Street giants and their customers might be affected by heightened odds of a US recession.",
+            "date": "2025-04-03T19:04:55Z",
+            "sentiment-score": -0.9409531420096755
+        },
+        {
+            "id": "d1c965a4-0c1b-3a54-ac31-fad37458928e",
+            "summary": "We recently published a list of Jim Cramer Highlighted 12 Stocks and Tariff Panic. In this article, we are going to take a look at where Wells Fargo & Company (NYSE:WFC) stands against other stocks that Jim Cramer highlighted. On Monday, Jim Cramer, the host of Mad Money, discussed the current market and he identified [\u2026]",
+            "date": "2025-04-04T14:46:27Z",
+            "sentiment-score": 0.0025383103638887405
+        },
+        {
+            "id": "b7a6b14d-de71-404b-a36e-d172d59c957b",
+            "summary": "Earnings preview of key companies reporting next week and what to look out for.",
+            "date": "2025-04-04T12:54:59Z",
+            "sentiment-score": -0.010118871927261353
+        },
+        {
+            "id": "215ef5e2-d9c0-33f9-a5f0-a2011587c8c8",
+            "summary": "President Trump\u2019s trade levies spell trouble for bank stocks even though they aren\u2019t in the direct line of fire.",
+            "date": "2025-04-04T12:00:00Z",
+            "sentiment-score": -0.9009103160351515
+        },
+        {
+            "id": "c02c10d7-9616-3bf5-b80e-8d77552532d9",
+            "summary": "Wells Fargo (WFC) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+            "date": "2025-04-04T14:00:06Z",
+            "sentiment-score": 0.10897168284282088
+        },
+        {
+            "id": "5bbf9fba-0cf8-37a2-826c-e06e32acb485",
+            "summary": "Yahoo Finance Head of News Myles Udland breaks down the top stories to watch this weekend and next week. President Trump's baseline 10% tariffs are set to take effect Saturday, April 5, and reciprocal tariffs will take effect Wednesday, April 9. Big banks will kick off earnings season next week, with JPMorgan (JPM), Wells Fargo (WFC), and Bank of New York Mellon (BK) to release earnings on Friday, April 11. Other companies will also be releasing earnings throughout the week, including Levi Strauss (LEVI), Tilray (TLRY), and Delta (DAL). Fresh inflation data will be coming out next week, including the Consumer Price Index (CPI) on Thursday, April 10 and the Producer Price Index (PPI) on Friday, April 11. Finally, on Wednesday, April 9, the Federal Reserve will release the meeting minutes for its most recent FOMC meeting. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime here.",
+            "date": "2025-04-04T23:00:00Z",
+            "sentiment-score": -0.009770574048161507
+        },
+        {
+            "id": "dc936388-8192-3c88-a915-47c8efebfa53",
+            "summary": "We all know that the banking business isn't subject to tariffs. But as cyclical operators, their business is heavily exposed to trends in the broader economy, which in turn is seen as weighed down by the ongoing tariffs uncertainty.",
+            "date": "2025-04-05T00:48:00Z",
+            "sentiment-score": -0.8535434752702713
+        },
+        {
+            "id": "10d98d58-a2a9-325c-9176-385ab15234a8",
+            "summary": "The announcement that Wells Fargo (NYSE:WFC) Securities, LLC will lead underwrite the company's upcoming fixed-income offering is significant as it expands its financial services presence. Meanwhile, activist investors have been vocal, with several proposals up for discussion at the annual meeting next month, focusing on sustainability and governance. Amidst this, Wells Fargo's share price fell 14% over the past week, a move that coincided with a turbulent stock market driven by trade war...",
+            "date": "2025-04-05T17:53:37Z",
+            "sentiment-score": -0.9554055687040091
+        },
+        {
+            "id": "b084849b-e49e-3bb5-a3b4-05368aaf441b",
+            "summary": "JPMorgan, Wells Fargo, Bank of America and Morgan Stanely are part of Zacks Earnings Preview.",
+            "date": "2025-04-07T09:19:00Z",
+            "sentiment-score": 0.004779371432960033
+        },
+        {
+            "id": "12e12061-aa7b-382d-9692-67547f65fad1",
+            "summary": "(Bloomberg) -- Chinese shares plunged and sovereign yields neared an all-time low as investors braced themselves for the fall-out of a spiraling trade conflict between the world\u2019s two largest economies.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersBoston Mayor Wu Embraces Trump Resistance as Campaign Heats UpThis Skinny Mexico City Tower Is Just 14 Feet Wide on One SideThe Irish Hot Press Is the Low-Tech Laundry Trick the World NeedsWhat Would \u2018Transportation Abundan",
+            "date": "2025-04-07T08:30:36Z",
+            "sentiment-score": -0.06332938373088837
+        },
+        {
+            "id": "2bfd5409-d150-3ba0-b7b1-6a8624079f85",
+            "summary": "Madison Mills takes a closer look at the top stories as part of today's Market Minute. Big bank stocks, including JPMorgan (JPM) and Wells Fargo (WFC), are moving higher after an initial fall as analysts recalibrate their outlooks to account for mounting recession fears. Bitcoin (BTC-USD) is selling off as other crypto-related names, including Robinhood (HOOD), Strategy (MSTR), and Coinbase (COIN), are mixed today. Spirit Airlines (SAVEQ) stock is in focus after CEO Ted Christie stepped down. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
+            "date": "2025-04-07T15:22:35Z",
+            "sentiment-score": 0.02369101718068123
+        },
+        {
+            "id": "290da19c-ec6d-38b5-b69c-84890756068d",
+            "summary": "The outlook for US banks under the Trump administration was initially fueled by expectations of lighter regulation and increased dealmaking. However, it has since been dampened by recent market realities and recession fears. Yahoo Finance Markets and Data Editor and Stocks in Translation podcast host Jared Blikre appears on Catalysts to discuss how major big banks, including Wells Fargo (WFC) and Goldman Sachs (GS), have lost ground amid rising inflation and recession concerns. Catch more Stocks in Translation here, with new episodes every Tuesday and Thursday. To watch more expert insights and analysis on the latest market action, check out more Catalysts&nbsp;here.",
+            "date": "2025-04-07T17:30:00Z",
+            "sentiment-score": -0.24394161254167557
+        },
+        {
+            "id": "d419d0f4-cd47-33da-baf5-2e667605f46a",
+            "summary": "Financial stocks, like Goldman Sachs (GS), Jefferies (JEF), and Evercore (EVR), are in focus after Morgan Stanley downgraded its outlook for several names in the sector. Yahoo Finance Banking Reporter David Hollerith sits down with Julie Hyman and Trader Talk podcast host Kenny Polcari to check in on the financial sector ahead of earnings. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime here.",
+            "date": "2025-04-07T21:05:21Z",
+            "sentiment-score": -0.05908446945250034
+        },
+        {
+            "id": "df35f89c-f76b-3aa4-91b0-9cccf3b9e279",
+            "summary": "(Bloomberg) -- Emerging-market assets slumped, erasing gains for the year as fallout from President Donald Trump\u2019s trade policies continued to upend global markets on Monday. Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersThis Skinny Mexico City Tower Is Just 14 Feet Wide on One SideThe Irish Hot Press Is the Low-Tech Laundry Trick the World NeedsBoston Mayor Wu Embraces Trump Resistance as Campaign Heats UpTrump Order on CDFI Fund Risks Aid for Small Businesses, Hous",
+            "date": "2025-04-07T20:56:06Z",
+            "sentiment-score": -0.8987175021320581
+        },
+        {
+            "id": "5c044606-b8d6-37af-afbb-23270a2c15aa",
+            "summary": "(Bloomberg) -- US equity rebounded from a three-day selloff as dip buyers emerged after fears of a trade-war induced recession wiped out more than $5 trillion of stock-market value.Most Read from BloombergThe Irish Hot Press Is the Low-Tech Laundry Trick the World NeedsThis Skinny Mexico City Tower Is Just 14 Feet Wide on One SideHousing Agency Aims to Relocate Its DC HeadquartersTrump Order on CDFI Fund Risks Aid for Small Businesses, HousingBoston Mayor Wu Embraces Trump Resistance as Campaign",
+            "date": "2025-04-08T13:31:10Z",
+            "sentiment-score": 0.17353442683815956
+        },
+        {
+            "id": "36ddb57b-e322-3ef6-b98b-f9e4a25746ab",
+            "summary": "We recently published a list of Jim Cramer\u2019s Game Plan: 10 Stocks in Focus. In this article, we are going to take a look at where Wells Fargo & Company (NYSE:WFC) stands against other stocks in Jim Cramer\u2019s focus. On Friday, Jim Cramer, the host of Mad Money, commented on the current state of the [\u2026]",
+            "date": "2025-04-08T14:32:52Z",
+            "sentiment-score": -0.022066851146519184
+        },
+        {
+            "id": "6a158617-b48a-3d9e-b9be-a00b68ccd155",
+            "summary": "(Bloomberg) -- Stocks surged at the fastest pace since 2022 and bonds fell after Treasury Secretary Scott Bessent fueled hopes of trade deals, marking a dramatic shift in Wall Street sentiment following a selloff that chopped trillions of dollars off global markets.Most Read from BloombergThe Irish Hot Press Is the Low-Tech Laundry Trick the World NeedsThis Skinny Mexico City Tower Is Just 14 Feet Wide on One SideHousing Agency Aims to Relocate Its DC HeadquartersTrump Order on CDFI Fund Risks A",
+            "date": "2025-04-08T14:21:24Z",
+            "sentiment-score": -0.0007973313331604004
+        },
+        {
+            "id": "b57bf65b-4de0-326b-b96a-a95bb209ecc6",
+            "summary": "WFC's Q1 results are likely to reflect the benefits of decent loan demand. Yet, weak asset quality and rising costs are expected to have hurt.",
+            "date": "2025-04-08T15:31:00Z",
+            "sentiment-score": -0.9471876015886664
+        },
+        {
+            "id": "92b3e312-2c37-32f7-8f4d-9a7d4688f8e1",
+            "summary": "Market Domination host Julie Hyman goes over the day's trending stories on this segment of Market Minute. Wells Fargo (WFC) stock pops after Piper Sandler upgraded the company to Overweight from Neutral, citing an attractive entry point. Charles Schwab (SCHW) is gaining after Morgan Stanley upgraded the company to Overweight from Equal Weight. Boeing (BA) is in focus after reporting strong first quarter delivery numbers that marked the company's best three months since the fourth quarter of 2023. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
+            "date": "2025-04-08T18:21:15Z",
+            "sentiment-score": 0.39895967207849026
+        },
+        {
+            "id": "220299cc-6c5a-3d39-a26e-23823347d7e6",
+            "summary": "Many Wells Fargo & Company ( NYSE:WFC ) insiders ditched their stock over the past year, which may be of interest to...",
+            "date": "2025-04-09T12:00:23Z",
+            "sentiment-score": -0.7532683871686459
+        },
+        {
+            "id": "9eeeb70a-4a36-3460-aa56-174cd3b4e291",
+            "summary": "The most talked about and market moving research calls around Wall Street are now in one place. Here are today\u2019s research calls that investors need to know, as compiled by The Fly. Top 5 Upgrades: Melius Research upgraded Dollar General (DG) to Buy from Hold with a $110 price target. While the company had its own \u201cself-inflicted\u201d challenges and competitive challenges over the last 12 months, the firm believes it likely will benefit from a worsening macro environment and a lack of tariff exposure",
+            "date": "2025-04-09T13:35:20Z",
+            "sentiment-score": 0.8677340056747198
+        },
+        {
+            "id": "93d8baf2-aa25-3b1b-abe4-8c6a60a77359",
+            "summary": "Josh Lipton goes over some of the top trending stories on this segment of Market Minute. Apple (AAPL) stock rebounds after previous losses, though shares are down over 20% over the past five days. Oil futures (CL=F) are sliding due to the escalating trade war as China announced retaliatory tariffs of 84% on US goods, effective April 10th. Bank stocks, including JPMorgan (JPM), Wells Fargo (WFC), and Citigroup (C) are under pressure after JPMorgan Chase CEO Jamie Dimon warned that a US recession is likely. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
+            "date": "2025-04-09T17:19:38Z",
+            "sentiment-score": -0.939682612195611
+        }
+    ]
+}

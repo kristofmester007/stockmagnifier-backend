@@ -1,0 +1,59 @@
+{
+    "ticker": "ACN",
+    "total_news": 7,
+    "average_sentiment": -0.09892549186146685,
+    "weighted_average_sentiment": 0.03338972599978773,
+    "average_daily_sentiments": [
+        0.15397580713033676,
+        0,
+        0,
+        0.01552165299654007,
+        0.00716910045593977,
+        0,
+        -0.21728625090327114
+    ],
+    "news": [
+        {
+            "id": "e248e2c6-04e9-3d49-bba3-a17c048dde56",
+            "summary": "The Zacks Earnings ESP is a great way to find potential earnings surprises. Why investors should take advantage now.",
+            "date": "2025-04-03T13:00:10Z",
+            "sentiment-score": 0.030967594124376774
+        },
+        {
+            "id": "f1f999ab-e02f-3318-8d76-59414e680607",
+            "summary": "We recently published a list of Jim Cramer Discusses These 8 Stocks & Says Trump\u2019s Focused On His Goals And Not The Market. In this article, we are going to take a look at where Accenture plc (NYSE:ACN) stands against other stocks that Jim Cramer discussed. In a recent appearance on CNBC\u2019s Squawk on the [\u2026]",
+            "date": "2025-04-03T11:39:11Z",
+            "sentiment-score": 0.013324994593858719
+        },
+        {
+            "id": "1c00f724-f800-3faf-98eb-b59e1e5e8ce6",
+            "summary": "Accenture (ACN), Booz Allen Hamilton (BAH) and IBM (IBM), along with the other largest consulting fi",
+            "date": "2025-04-03T11:21:52Z",
+            "sentiment-score": 0.042815187480300665
+        },
+        {
+            "id": "f94221d0-8ea9-3849-8991-50ad50ac5c44",
+            "summary": "Deloitte is one of at least 10 consulting firms with slashed contracts, including Accenture, which has already warned of downstream revenue losses.",
+            "date": "2025-04-03T11:04:00Z",
+            "sentiment-score": -0.9562527798116207
+        },
+        {
+            "id": "bf68c6c9-0320-31b6-9486-35984488dc48",
+            "summary": "We recently published a list of Jim Cramer Raises Big Question About Tariffs & Discusses These 11 Stocks. In this article, we are going to take a look at where Accenture plc (NYSE:ACN) stands against other stocks that Jim Cramer discusses. In a recent appearance on CNBC\u2019s Squawk on the Street, Jim Cramer asked the [\u2026]",
+            "date": "2025-04-05T17:49:03Z",
+            "sentiment-score": 0.00716910045593977
+        },
+        {
+            "id": "0dac86e4-3566-3f53-987e-0b5c2187cea7",
+            "summary": "In today's job market, mastering AI skills might seem like the golden ticket to getting hired. But at tech consultancy Accenture (NYSE:ACN), CEO Julie Sweet relies on a surprisingly simple question to spot top talent. And no, it has nothing to do with AI expertise. The One Question That Separates Hires From Rejects In a recent interview on the \"In Good Company\" podcast with Norges Bank Investment Management CEO Nicolai Tangen, Sweet shared her go-to interview question: \"What have you learned in",
+            "date": "2025-04-06T15:30:21Z",
+            "sentiment-score": 0.01552165299654007
+        },
+        {
+            "id": "bf0638e1-3b0c-341e-ab24-4f312ebc4849",
+            "summary": "The hyperscaler rolled out an agent interoperability protocol that already has buy-in from Accenture, Deloitte and KPMG, Wednesday at Google Cloud Next.",
+            "date": "2025-04-09T08:00:00Z",
+            "sentiment-score": 0.15397580713033676
+        }
+    ]
+}

@@ -1,0 +1,185 @@
+{
+    "ticker": "COST",
+    "total_news": 28,
+    "average_sentiment": 0.05169150858585324,
+    "weighted_average_sentiment": 0.051862867092186564,
+    "average_daily_sentiments": [
+        0.005933814914897084,
+        -0.05214605499058962,
+        0.33893482461571695,
+        -0.22293132112827152,
+        0,
+        0.07123150234110653,
+        0.20687170251039788
+    ],
+    "news": [
+        {
+            "id": "4f505e76-711f-3dd8-8f3c-26dd34480238",
+            "summary": "We recently published a list of Jim Cramer is Discussing These 10 Stocks Ahead of Q1 Earnings Season. In this article, we are going to take a look at where Costco Wholesale Corp (NASDAQ:COST) stands against other stocks that Jim Cramer is discussing ahead of Q1 earnings season. Jim Cramer in a latest program on [\u2026]",
+            "date": "2025-04-02T19:46:53Z",
+            "sentiment-score": 0.00044956058263778687
+        },
+        {
+            "id": "95910b19-55b5-37eb-86ee-d2530564c1c9",
+            "summary": "Costco (NASDAQ: COST) has delivered fantastic growth in recent years thanks to its ability to offer customers bargain prices on everything from food to gas.  The tariffs are a particular worry for retailers like Costco that import certain products -- which soon may be more expensive -- and at the same time promise customers low prices.  Considering these positive and negative points, is Costco a buy, sell, or hold in 2025?",
+            "date": "2025-04-03T08:10:00Z",
+            "sentiment-score": 0.14663773775100708
+        },
+        {
+            "id": "e7478949-6133-346a-8329-509722658dbc",
+            "summary": "TD Cowen senior research analyst Oliver Chen joins Catalysts host Madison Mills and Tematica Research chief investment officer Chris Versace to discuss the strength of retailers with bargaining power, such as Walmart (WMT), Costco (COST), and BJ's (BJ). To watch more expert insights and analysis on the latest market action, check out more Catalysts&nbsp;here.",
+            "date": "2025-04-03T10:00:22Z",
+            "sentiment-score": 0.04402606142684817
+        },
+        {
+            "id": "eadab927-c5b1-4459-a8e5-5b8fc833d214",
+            "summary": "GoodRx is trying to help pharmacies compete in a digital age, where they already face pressure on their margins.",
+            "date": "2025-04-03T13:00:44Z",
+            "sentiment-score": 0.12654427997767925
+        },
+        {
+            "id": "2b82c484-f216-30a7-b98c-c3eb561ecbe9",
+            "summary": "Major grocers and some discount chains have the essentials to draw in consumers and the scale to negotiate with vendors amid new tariffs, analysts at UBS said.",
+            "date": "2025-04-03T17:15:43Z",
+            "sentiment-score": 0.7233407543972135
+        },
+        {
+            "id": "0056d0dc-485e-34ff-9fec-8f0b1f117e9e",
+            "summary": "Investors should consider defensively oriented consumer stocks over disrectionary shares after President Trump's latest tariff announcement, Oppenheimer analysts said Thursday.",
+            "date": "2025-04-03T15:47:47Z",
+            "sentiment-score": 0.08337214589118958
+        },
+        {
+            "id": "184f6806-be83-3275-908d-48bb7a91ed21",
+            "summary": "To navigate the volatility the year may bring, blue-chip retail stocks like WMT, COST and HD offer a blend of stability and growth.",
+            "date": "2025-04-03T12:58:00Z",
+            "sentiment-score": 0.09715296793729067
+        },
+        {
+            "id": "ec2507c5-8e3f-43a0-a012-b6aa49685f7e",
+            "summary": "The latest investor updates on stocks that are trending on Thursday.",
+            "date": "2025-04-03T11:23:46Z",
+            "sentiment-score": -0.024558634497225285
+        },
+        {
+            "id": "8f1bd730-f95e-36eb-97ab-cb85eccc881d",
+            "summary": "Two strategic advantages are building a tariff moat around Walmart and Costco.",
+            "date": "2025-04-03T19:02:31Z",
+            "sentiment-score": 0.4584583071991801
+        },
+        {
+            "id": "b7ff950f-4fab-470c-b848-6a9eaaa9c969",
+            "summary": "Retailers are already facing a cautious consumer.",
+            "date": "2025-04-02T21:33:39Z",
+            "sentiment-score": -0.904610138386488
+        },
+        {
+            "id": "59dcc911-c823-3df4-8b7c-85a430d7c706",
+            "summary": "Walmart, Costco Wholesale and The Home Depot are part of the Zacks top Analyst Blog.",
+            "date": "2025-04-04T13:16:00Z",
+            "sentiment-score": 0.00041139498353004456
+        },
+        {
+            "id": "f60e94e0-584a-49e8-9ab6-2f95c0b2b5d9",
+            "summary": "Groceries and scale are two items that has these retailers positioned to benefit.",
+            "date": "2025-04-04T16:49:49Z",
+            "sentiment-score": 0.14205160969868302
+        },
+        {
+            "id": "44cd9282-3f0a-37f2-aff1-c5c37f68f775",
+            "summary": "Amazon and Costco could still beat the market over the next two decades.",
+            "date": "2025-04-06T09:25:00Z",
+            "sentiment-score": 0.7810969608835876
+        },
+        {
+            "id": "c412e22f-2b7d-3af8-a3da-b315a6dbd9dd",
+            "summary": "It seems no matter what time frame you use, shares of Costco Wholesale (NASDAQ: COST) outperform the broader market.  This top retail stock is now taking a breather along with the rest of the market, trading 10% below its record.  Where will Costco be in one year?",
+            "date": "2025-04-06T09:04:00Z",
+            "sentiment-score": -0.8641170766204596
+        },
+        {
+            "id": "271ab754-5aaf-3c9f-bd1b-8332e8b81dce",
+            "summary": "This past week, President Donald Trump announced his full plan for tariffs on imports -- a list of duties varying by country that could make a wide range of goods pricier for U.S. companies and consumers.  The concern for investors is that these higher prices will weigh on corporate earnings in two ways.  First, higher prices will hurt consumers' buying power, leaving them with less to spend on discretionary items.",
+            "date": "2025-04-06T21:15:00Z",
+            "sentiment-score": -0.9057961963117123
+        },
+        {
+            "id": "0641c0b2-0294-3b5d-9f3a-20494594696a",
+            "summary": "We recently published a list of 11 Best Counter Cyclical Stocks to Buy According to Analysts. In this article, we are going to take a look at where Costco Wholesale Corporation (NASDAQ:COST) stands against other best counter cyclical stocks to buy according to analysts. Counter cyclical stocks stand out because they tend to perform well [\u2026]",
+            "date": "2025-04-06T21:05:19Z",
+            "sentiment-score": 0.09709102753549814
+        },
+        {
+            "id": "c435e0ef-3ba8-33f2-af48-091a0ceca64f",
+            "summary": "It won\u2019t be surprising to see some in-store shakeups.",
+            "date": "2025-04-07T03:03:00Z",
+            "sentiment-score": 0.10726921632885933
+        },
+        {
+            "id": "94037514-481a-39d5-ad6c-29839e4a96e5",
+            "summary": "Costco's stellar run may not be over, but investors must weigh its premium price against long-term growth potential.",
+            "date": "2025-04-07T13:20:00Z",
+            "sentiment-score": 0.6626311000436544
+        },
+        {
+            "id": "85cd167e-471d-4128-81fa-4e1fb9ab5333",
+            "summary": "Discount retailers are positioned to benefit as consumers remain pinched.",
+            "date": "2025-04-07T17:09:56Z",
+            "sentiment-score": 0.9043699130415916
+        },
+        {
+            "id": "3df7ce1e-cc86-318b-a055-cd5fd090c6fc",
+            "summary": "The White House denied reports on Monday of an alleged 90-day pause on reciprocal tariffs, which are still set to take effect Wednesday, April 9. Wedbush Securities managing director of equity research for retail hardlines Seth Basham joins Catalysts to discuss how retailers will absorb tariff-fueled price increases, noting that most retailers will be forced to pass on some of the cost to their consumers. Basham notes that retailers with more pricing power, such as auto parts retailers and mass merchants that sell consumer staples, will be more equipped to withstand the impact of these tariffs. To watch more expert insights and analysis on the latest market action, check out more Catalysts&nbsp;here.",
+            "date": "2025-04-07T18:30:00Z",
+            "sentiment-score": 0.031156348064541817
+        },
+        {
+            "id": "d4573dfc-04c7-336f-9dff-72ff07bb7bbb",
+            "summary": "From Chinese electronics to Canadian yoga wear, shoppers are buying now to avoid paying more later",
+            "date": "2025-04-08T12:00:16Z",
+            "sentiment-score": -0.1755118891596794
+        },
+        {
+            "id": "31c2ee01-a506-361e-a6d0-3ccab6d41d29",
+            "summary": "In the closing of the recent trading day, Costco (COST) stood at $908.13, denoting a -0.91% change from the preceding trading day.",
+            "date": "2025-04-07T21:45:14Z",
+            "sentiment-score": -0.010752454400062561
+        },
+        {
+            "id": "5d1fd367-4827-33f1-9b66-7d4cfaf25e8e",
+            "summary": "We recently published a list of 10 Best Fundamental Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Costco Wholesale Corporation (NASDAQ:COST) stands against other best fundamental stocks to buy according to billionaires. As per Fitch Ratings, the US tariffs are now at levels that continue [\u2026]",
+            "date": "2025-04-08T14:23:23Z",
+            "sentiment-score": 0.03688775189220905
+        },
+        {
+            "id": "3e8fff95-980a-3b8e-947d-f95b65741dbf",
+            "summary": "Investors and other retailers will be looking for clues on how to navigate the new tariff environment.",
+            "date": "2025-04-08T16:33:00Z",
+            "sentiment-score": 0.17275625467300415
+        },
+        {
+            "id": "fd716268-6513-392f-b945-0968e8778447",
+            "summary": "We recently published a list of 10 Defensive Stocks Billionaire Ken Fisher is Betting On. In this article, we are going to take a look at where Costco Wholesale Corporation (NASDAQ:COST) stands against other defensive stocks billionaire Ken Fisher is betting on. Ken Fisher, an American billionaire investor, author, and financial analyst, founded and runs Fisher Asset [\u2026]",
+            "date": "2025-04-08T22:16:01Z",
+            "sentiment-score": 0.003966209478676319
+        },
+        {
+            "id": "e376a17f-70cd-382d-b3be-e04a0bd333c4",
+            "summary": "Experts say tariffs will affect everyday purchases, but as negotiations continue, exact price increases remain unclear.",
+            "date": "2025-04-09T10:00:18Z",
+            "sentiment-score": -0.006561160087585449
+        },
+        {
+            "id": "ec40087e-b28a-3951-b765-8d0e059a426b",
+            "summary": "Costco has had productive discussions with Iowa Attorney General Brenna Bird over the retailer's diversity policies amid a legal onslaught against those programs launched by President Donald Trump, according to Bird's office and another person familiar with the talks.  Bird and 18 other GOP state attorneys general urged Costco Chief Executive Ron Vachris in a letter in January to end what they described as \"unlawful discrimination ... through diversity, equity and inclusion (\"DEI\") policies\".",
+            "date": "2025-04-08T23:21:09Z",
+            "sentiment-score": -0.2988286018371582
+        },
+        {
+            "id": "38a7ca1b-b481-3acd-a00e-7e2c837f71e7",
+            "summary": "Costco (COST) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
+            "date": "2025-04-09T13:00:14Z",
+            "sentiment-score": 0.018428789917379618
+        }
+    ]
+}

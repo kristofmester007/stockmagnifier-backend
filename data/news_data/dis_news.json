@@ -1,0 +1,185 @@
+{
+    "ticker": "DIS",
+    "total_news": 28,
+    "average_sentiment": -0.006699801239717219,
+    "weighted_average_sentiment": 0.053336201839535476,
+    "average_daily_sentiments": [
+        -0.026309939660131933,
+        0.242145168595016,
+        0.1490932619864387,
+        -0.1651404546573758,
+        0.08386167045682669,
+        -0.13051924528554082,
+        -0.9574647499248385
+    ],
+    "news": [
+        {
+            "id": "f0921bb1-5231-3379-bcea-2225c3ac6bd1",
+            "summary": "Most consumer discretionary businesses succeed or fail based on the broader economy. This sensitive demand profile can cause discretionary stocks to plummet when macro uncertainty enters the fray, and over the past six months, the industry has shed 10.7%. This drop was worse than the S&P 500\u2019s 5.2% fall.",
+            "date": "2025-04-03T19:38:08Z",
+            "sentiment-score": -0.9574647499248385
+        },
+        {
+            "id": "7bc468a6-3ca9-3e32-9f8d-3221aebe5215",
+            "summary": "Shares are up 100% so far in 2025.",
+            "date": "2025-04-04T08:05:00Z",
+            "sentiment-score": 0.9151300499215722
+        },
+        {
+            "id": "4bb153ba-8594-3e57-8b38-60d2d54c5865",
+            "summary": "The big gain, however, comes with an even bigger footnote.",
+            "date": "2025-04-04T12:40:08Z",
+            "sentiment-score": 0.11392270028591156
+        },
+        {
+            "id": "65474efb-cf6f-3b16-bad2-6d0033c4f8c9",
+            "summary": "The Walt Disney Company (NYSE:DIS) recently witnessed a share price decline of 12% over the past week, following a turbulent annual general meeting where several shareholder proposals were not approved. Additionally, the broader market saw a substantial downturn, with the Dow Jones Industrial Average dropping 4% amid growing trade concerns from escalated tariffs between the U.S. and China. Despite a new product launch of the Disney Princess Fragrance Collection, the general market downturn...",
+            "date": "2025-04-04T17:47:22Z",
+            "sentiment-score": -0.9532440509647131
+        },
+        {
+            "id": "1e57c813-b331-3eb3-a743-cc3961c2975a",
+            "summary": "Yahoo Finance Head of News Myles Udland, RSM chief economist Joe Brusuelas, and Epistrophy Capital Research's chief market strategist and host of \"The Drill Down\" podcast Cory Johnson take a look at some of the trending tickers of the day. Berkshire Hathaway (BRK-B, BRK-A) stock is under pressure as investors assess whether Warren Buffett is worried about the US economy. Nike (NKE) stock pops after President Donald Trump had a call with a Vietnamese official, fueling hopes that a tariff agreement could be reached. Disney (DIS) stock is sinking on fears of a recession. To watch more expert insights and analysis on the latest market action, check out more Market Domination here.",
+            "date": "2025-04-04T20:33:05Z",
+            "sentiment-score": -0.8848784733563662
+        },
+        {
+            "id": "311f0134-71e5-3c9b-aa51-ecb960894f55",
+            "summary": "One of Disney\u2019s most profitable businesses is also the most vulnerable to President Trump\u2019s new tariff regime.  Disney\u2019s consumer products division is responsible for everything from Elsa dresses and lightsaber toys to Iron Man action figures.  Other entertainment companies also have consumer products businesses, but Disney\u2019s is by far the biggest.",
+            "date": "2025-04-04T20:26:53Z",
+            "sentiment-score": -0.03779982775449753
+        },
+        {
+            "id": "58a3eef3-3980-370e-944e-9efac5ab52b3",
+            "summary": "\u201cNow Streaming\u201d is The Fly\u2019s weekly recap of the stories surrounding the biggest content streamers. PLAYING THIS WEEKEND: Among this weekend\u2019s now streaming content is Hulu\u2019s comedy drama miniseries \u201cDying for Sex,\u201d starring Michelle Williams and Jenny Slate. Meanwhile, Netflix (NFLX) subscribers can watch medical drama \u201cThe Pulse\u201d as well as animated series \u201cDevil May Cry,\u201d which is based on the Capcom (CCOEY) series of video games. Additionally, Amazon Prime Video (AMZN) users can watch action",
+            "date": "2025-04-05T16:20:23Z",
+            "sentiment-score": 0.010445280000567436
+        },
+        {
+            "id": "2783db21-454a-3801-bfe1-98b2a3236ed1",
+            "summary": "FuboTV (NYSE: FUBO), a streaming specialist, knows something about that.  Recent developments arguably justify the massive jump FuboTV has experienced (more on that below), but can the stock still deliver strong returns from here on out?  FuboTV faced many headwinds in the highly competitive streaming industry.",
+            "date": "2025-04-05T10:32:00Z",
+            "sentiment-score": 0.15727806091308594
+        },
+        {
+            "id": "19a48070-e9e4-30df-a170-c4e40cb2f552",
+            "summary": "Bran Ferren\u2019s company Applied Minds is one of the most unusual (and innovative) defense contractors you\u2019ve probably never heard of.",
+            "date": "2025-04-04T10:00:00Z",
+            "sentiment-score": 0.0637541301548481
+        },
+        {
+            "id": "3662cd28-c765-367d-90dd-a882507564d6",
+            "summary": "The film from Warner Bros. Pictures and Universal Pictures dethroned Disney\u2019s \u2018Captain America\u2019 as the biggest domestic opening of 2025.",
+            "date": "2025-04-06T21:03:00Z",
+            "sentiment-score": 0.44406260550022125
+        },
+        {
+            "id": "07164b6e-f776-354a-81b6-c77d8dc20df2",
+            "summary": "We recently published a list of Starter Stock Portfolio 12 Safe Stocks to Buy. In this article, we are going to take a look at where The Walt Disney Company (NYSE:DIS) stands against other best beginner stocks. The US stock market has experienced a turbulent first quarter of 2025, marked by increased volatility and negative [\u2026]",
+            "date": "2025-04-06T20:53:01Z",
+            "sentiment-score": -0.919113309122622
+        },
+        {
+            "id": "b0c5db05-0d1b-3ae0-9d26-f8a1cb7e87e7",
+            "summary": "Whether you're a value, growth, or momentum investor, finding strong stocks becomes easier with the Zacks Style Scores, a top feature of the Zacks Premium research service.",
+            "date": "2025-04-07T13:40:10Z",
+            "sentiment-score": 0.023358063772320747
+        },
+        {
+            "id": "d5990666-8f44-3ad2-80c7-bee5e59ae777",
+            "summary": "Why investors should use the Zacks Earnings ESP tool to help find stocks that are poised to top quarterly earnings estimates.",
+            "date": "2025-04-07T13:00:09Z",
+            "sentiment-score": 0.07137294113636017
+        },
+        {
+            "id": "44b7faa6-f7ae-36bf-ab88-4dbaec157958",
+            "summary": "In Disney World\u2019s Central Shops, electricians, carpenters, and painters construct parts of character costumes and tweak theme-park rides.",
+            "date": "2025-04-06T11:00:00Z",
+            "sentiment-score": -0.020370660349726677
+        },
+        {
+            "id": "43a17eab-7ce0-327d-95d3-15a95a5490da",
+            "summary": "Disney (DIS) has an impressive earnings surprise history and currently possesses the right combination of the two key ingredients for a likely beat in its next quarterly report.",
+            "date": "2025-04-07T16:10:10Z",
+            "sentiment-score": 0.8725993037223816
+        },
+        {
+            "id": "b423b170-5a45-31e5-857a-666372a889c8",
+            "summary": "T-Mobile collaborates with Disney to streamline the movie production process using 5G networks.",
+            "date": "2025-04-07T16:06:00Z",
+            "sentiment-score": 0.2279264791868627
+        },
+        {
+            "id": "4a885c37-4d9e-3f0f-994a-498704115fb8",
+            "summary": "DIS' pipeline signals strong potential but near-term headwinds call for patience, suggesting investors hold the stock or watch for a better entry point in 2025.",
+            "date": "2025-04-07T19:00:00Z",
+            "sentiment-score": -0.17072575725615025
+        },
+        {
+            "id": "2741905e-07c7-3b35-a4e9-bcb9c2cdd269",
+            "summary": "Abigail Disney previously said the need to tax rich people like her \u201chas never been so dire.\u201d",
+            "date": "2025-04-07T17:33:48Z",
+            "sentiment-score": 0.020316369831562042
+        },
+        {
+            "id": "ffd41a25-91d1-3f9c-8466-e85d2db05950",
+            "summary": "Investing.com -- Morgan Stanley has named Netflix (NASDAQ:NFLX) its new Top Pick in the Media & Entertainment sector, replacing Walt Disney (NYSE:DIS).",
+            "date": "2025-04-08T12:28:32Z",
+            "sentiment-score": 0.7957404758781195
+        },
+        {
+            "id": "3353964c-87d9-3cf0-979f-636d0c089bbe",
+            "summary": "In the closing of the recent trading day, Walt Disney (DIS) stood at $83.30, denoting a -0.28% change from the preceding trading day.",
+            "date": "2025-04-07T21:45:15Z",
+            "sentiment-score": -0.0011945664882659912
+        },
+        {
+            "id": "a0cd4eb3-e475-3576-ad3e-e5b83e2e2c00",
+            "summary": "Wondering how to pick strong, market-beating stocks for your investment portfolio? Look no further than the Zacks Style Scores.",
+            "date": "2025-04-08T13:45:07Z",
+            "sentiment-score": 0.014377608895301819
+        },
+        {
+            "id": "921c8417-6704-3207-830e-fcc9d0d66d99",
+            "summary": "We recently published a list of 10 Best Stocks to Buy According to Billionaire Steve Cohen. In this article, we are going to take a look at where The Walt Disney Company (NYSE:DIS) stands against other best stocks to buy according to billionaire Steve Cohen. Steve Cohen, a prominent figure in the world of hedge [\u2026]",
+            "date": "2025-04-08T18:53:17Z",
+            "sentiment-score": 0.03271675296127796
+        },
+        {
+            "id": "7a3ea142-e1f5-366e-b562-0aecffa02f8d",
+            "summary": "Ever since President Donald Trump announced his tariff plan, there's been no shortage of stocks that are trading for a big discount to their previous highs.  Although it's entirely possible for the stock market to remain volatile for a while, it looks like an excellent time to add shares of industry-leading companies like Walt Disney (NYSE: DIS) and Starbucks (NASDAQ: SBUX), and that's exactly what I did recently.  Walt Disney struggled in the post-pandemic years to bring its streaming business to profitability and also may have priced its theme parks and related add-ons a bit too aggressively, without investing nearly enough in improving the customer experience.",
+            "date": "2025-04-09T09:46:00Z",
+            "sentiment-score": 0.6451912932097912
+        },
+        {
+            "id": "f368eb8c-7c5e-3204-a1cd-fb3d9e51581c",
+            "summary": "A tariff-induced tumble for the Dow, S&P 500, and Nasdaq Composite paves the way for opportunistic investors to buy shares of phenomenal businesses at a discount.",
+            "date": "2025-04-09T07:06:00Z",
+            "sentiment-score": -0.10645906627178192
+        },
+        {
+            "id": "2ba393a8-f07b-30b7-aa60-e80d195ca1f0",
+            "summary": "We recently published a list of 12 Best Cruise Stocks to Buy According to Hedge Funds. In this article, we are going to take a look at where The Walt Disney Company (NYSE:DIS) stands against other best cruise stocks to buy according to hedge funds. Overview of the Cruise Line Industry The cruise industry is [\u2026]",
+            "date": "2025-04-09T13:32:22Z",
+            "sentiment-score": 0.002438977360725403
+        },
+        {
+            "id": "7b1bed61-bfdc-3820-bfb7-0ca523c3dc9c",
+            "summary": "ClearBridge Investments, an investment management company, released its \u201cClearBridge Value Strategy\u201d first quarter 2025 investor letter. A copy of the letter can be downloaded here. In the first quarter, the strategy underperformed its Russell 1000 Value benchmark, driven by detractors in the energy and financials, which overcame contributions from overweight to energy and underweight to [\u2026]",
+            "date": "2025-04-09T13:04:32Z",
+            "sentiment-score": -0.688774473965168
+        },
+        {
+            "id": "a98873af-8d31-3181-8c8e-ba0a864f69e8",
+            "summary": "Zacks.com users have recently been watching Disney (DIS) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
+            "date": "2025-04-09T13:00:12Z",
+            "sentiment-score": 0.016053571365773678
+        },
+        {
+            "id": "9e9551ec-4b1d-3800-b47e-8bc1ad3210e7",
+            "summary": "The Big Tech giant is trading instant streams for theatrical prestige, rolling out a studio-size release schedule to win hearts\u2014and maybe Oscars\u2014before views.",
+            "date": "2025-04-08T11:00:00Z",
+            "sentiment-score": 0.12574583664536476
+        }
+    ]
+}

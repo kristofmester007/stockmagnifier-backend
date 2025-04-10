@@ -1,0 +1,35 @@
+{
+    "ticker": "TMO",
+    "total_news": 3,
+    "average_sentiment": 0.3162381798028946,
+    "weighted_average_sentiment": 0.14999488120277724,
+    "average_daily_sentiments": [
+        0,
+        0.04951685480773449,
+        0.006893418729305267,
+        0,
+        0,
+        0.892304265871644,
+        0
+    ],
+    "news": [
+        {
+            "id": "2d10354d-f32a-3d85-abfe-1d801e453e19",
+            "summary": "TMO launches the Krios 5 Cryo-TEM, boosting productivity and performance with enhanced automation.",
+            "date": "2025-04-04T10:51:00Z",
+            "sentiment-score": 0.892304265871644
+        },
+        {
+            "id": "2d94feaf-6f15-3947-a643-73eb6d608197",
+            "summary": "(Bloomberg) -- Drug manufacturers are rushing to reshape their supply chains amid President Donald Trump\u2019s escalating tariff threats, leading to a potential windfall for contractors that make medications in the US.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersThis Skinny Mexico City Tower Is Just 14 Feet Wide on One SideThe Irish Hot Press Is the Low-Tech Laundry Trick the World NeedsBoston Mayor Wu Embraces Trump Resistance as Campaign Heats UpTrump Order on CDFI Fu",
+            "date": "2025-04-07T19:18:12Z",
+            "sentiment-score": 0.006893418729305267
+        },
+        {
+            "id": "8e8d0842-bf6d-3f6d-a998-0d7f3f8080e9",
+            "summary": "Let\u2019s dig into the relative performance of Mettler-Toledo (NYSE:MTD) and its peers as we unravel the now-completed Q4 research tools & consumables earnings season.",
+            "date": "2025-04-08T09:07:58Z",
+            "sentiment-score": 0.04951685480773449
+        }
+    ]
+}

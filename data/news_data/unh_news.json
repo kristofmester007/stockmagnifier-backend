@@ -1,0 +1,173 @@
+{
+    "ticker": "UNH",
+    "total_news": 26,
+    "average_sentiment": 0.12115114295067123,
+    "weighted_average_sentiment": 0.22352894274572038,
+    "average_daily_sentiments": [
+        0.27323644403368236,
+        0.31207757722586393,
+        0.08116425917251036,
+        0.9258504984900355,
+        0,
+        0.006942019176979859,
+        -0.4101209435611963
+    ],
+    "news": [
+        {
+            "id": "b7f75f7d-076a-3aa0-9235-5ebf269f31b2",
+            "summary": "The agency has paused its lawsuit against three pharmacy-benefit managers because no current commissioners can participate in the case.",
+            "date": "2025-04-02T18:20:00Z",
+            "sentiment-score": -0.8644667090848088
+        },
+        {
+            "id": "b682aada-a463-3d81-ba8c-71a96946313c",
+            "summary": "The Medical-HMO industry rides on steady premium flows resulting from a growing customer base and contract wins. However, industry headwinds like elevated technology costs and workforce shortages remain concerns. UNH, HUM and CNC are likely to navigate industry storms.",
+            "date": "2025-04-03T13:44:00Z",
+            "sentiment-score": -0.8336345972493291
+        },
+        {
+            "id": "d209ff3a-976e-3b54-b3df-3258bb9b62a7",
+            "summary": "Zacks.com users have recently been watching UnitedHealth (UNH) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
+            "date": "2025-04-03T13:00:12Z",
+            "sentiment-score": 0.013392710126936436
+        },
+        {
+            "id": "84fc3ba8-7d28-3640-9d85-af3b6f61ca0c",
+            "summary": "UnitedHealth, Humana and Centene are part of the Zacks Industry Outlook article.",
+            "date": "2025-04-04T12:55:00Z",
+            "sentiment-score": 0.005687357857823372
+        },
+        {
+            "id": "d2adf109-edc1-382d-a8ff-12befe58a1ec",
+            "summary": "We recently published a list of Jim Cramer\u2019s Lightning Round: 8 Stocks in Focus. In this article, we are going to take a look at where UnitedHealth Group Incorporated (NYSE:UNH) stands against other stocks that Jim Cramer discusses. Jim Cramer, host of Mad Money, discussed on Monday how investor sentiment surrounding tech stocks has shifted [\u2026]",
+            "date": "2025-04-04T21:28:29Z",
+            "sentiment-score": 0.0020289458334445953
+        },
+        {
+            "id": "4bc056e3-c124-37f9-be1a-337a738baac2",
+            "summary": "Today's Research Daily features new research reports on 16 major stocks, including Broadcom Inc. (AVGO), UnitedHealth Group Incorporated (UNH) and Toyota Motor Corporation (TM), as well as a micro-cap stock Perma-Pipe International Holdings, Inc. (PPIH).",
+            "date": "2025-04-04T20:54:00Z",
+            "sentiment-score": 0.013109753839671612
+        },
+        {
+            "id": "6716eda3-b646-3bc8-9178-b31aa13c2198",
+            "summary": "Most readers would already be aware that UnitedHealth Group's (NYSE:UNH) stock increased significantly by 6.4% over the...",
+            "date": "2025-04-06T12:00:13Z",
+            "sentiment-score": 0.9258504984900355
+        },
+        {
+            "id": "bdd2f53e-7937-3c0a-87c4-34339baee64a",
+            "summary": "Broadcom, UnitedHealth, Toyota Motor and Perma-Pipe International are included in this Analyst Blog.",
+            "date": "2025-04-07T10:20:00Z",
+            "sentiment-score": 0.0007479926571249962
+        },
+        {
+            "id": "7ddf8447-1ac1-3b8f-bbb0-30856df73904",
+            "summary": "Based on the average brokerage recommendation (ABR), UnitedHealth (UNH) should be added to one's portfolio. Wall Street analysts' overly optimistic recommendations cast doubt on the effectiveness of this highly sought-after metric. So, is the stock worth buying?",
+            "date": "2025-04-07T13:30:08Z",
+            "sentiment-score": 0.0298264529556036
+        },
+        {
+            "id": "32544443-8bc1-3f47-93d7-f95e24aff815",
+            "summary": "Finding strong, market-beating stocks with a positive earnings outlook becomes easier with the Focus List, a top feature of the Zacks Premium portfolio service.",
+            "date": "2025-04-07T13:30:02Z",
+            "sentiment-score": 0.06555908359587193
+        },
+        {
+            "id": "d7f498a8-042a-3cd8-9533-881b20727bbd",
+            "summary": "Holding on to popular or trending stocks for the long-term can make your portfolio a winner.",
+            "date": "2025-04-07T12:30:08Z",
+            "sentiment-score": 0.21837390726432204
+        },
+        {
+            "id": "746e3d59-3f5d-376b-b857-d6783f932bb9",
+            "summary": "The faith-based shareholders\u2019 proposal was challenged by UnitedHealth\u00a0twice, thanks to a recent SEC guidance change the shareholders slammed as unfair. They could still reintroduce it next year.",
+            "date": "2025-04-07T09:13:59Z",
+            "sentiment-score": -0.43547212705016136
+        },
+        {
+            "id": "573b4b32-02b5-312d-8675-5f273f4c3a48",
+            "summary": "UnitedHealth (UNH), Humana (HUM), and CVS Health (CVS) rally in extended-hours trading on news that the US government will pay more than previously proposed to Medicare Advantage providers. Julie Hyman breaks down the details on Market Domination Overtime. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime here.",
+            "date": "2025-04-07T21:42:54Z",
+            "sentiment-score": 0.017356195487082005
+        },
+        {
+            "id": "c0ae3304-321f-3d64-a610-93dcbaf795c4",
+            "summary": "Medicare-focused insurer Humana led gains with a 16% jump, while other health insurers including UnitedHealth Group, Centene and CVS Health advanced between 5% and 10%.  The 5.06% average increase, more than double what the government proposed in January, could help profit margins in the sector after a post-COVID surge in demand for medical procedures drove up costs.",
+            "date": "2025-04-08T10:10:46Z",
+            "sentiment-score": 0.9203646061941981
+        },
+        {
+            "id": "08498872-0761-30e1-a437-bd74343dd273",
+            "summary": "UnitedHealth Group (UNH) closed at $524.70 in the latest trading session, marking a -0.07% move from the prior day.",
+            "date": "2025-04-07T21:50:14Z",
+            "sentiment-score": 0.6989829130470753
+        },
+        {
+            "id": "2e997f46-976b-3e64-9860-3155ec255de7",
+            "summary": "Medicare Advantage plans are paid more for sicker members and less for healthier members, which provides an incentive for MA plans to report as many diagnoses as legitimately possible.",
+            "date": "2025-04-07T21:05:00Z",
+            "sentiment-score": 0.05393965542316437
+        },
+        {
+            "id": "4221e906-3a2b-39fb-ae6c-226ba3328ac9",
+            "summary": "Shares of health insurance operators surged Tuesday after the government said it would pay a higher rate to Medicare insurers than previously estimated.",
+            "date": "2025-04-08T15:24:10Z",
+            "sentiment-score": 0.8896982632577419
+        },
+        {
+            "id": "692c3d51-daaa-36ee-95f8-e489135278e8",
+            "summary": "\u2197\ufe0f Nvidia (NVDA), Intel (INTC): Chip stocks rallied midday Tuesday, with Broadcom (AVGO) getting a particular boost after it authorized a $10 billion share repurchase program. TSMC (TSM)'s American depositary receipts gained, though the stock fell in Taiwan.",
+            "date": "2025-04-08T15:18:32Z",
+            "sentiment-score": 0.8124048328027129
+        },
+        {
+            "id": "17831bc5-094a-3d9e-b43e-2029a62b9af4",
+            "summary": "Brad Smith outlines some of the top headlines investors need to know on Market Minute. Healthcare stocks like Humana (HUM), UnitedHealth (UNH), and CVS (CVS) rise after the US boosts Medicare reimbursement rates. Levi Strauss (LEVI) stock is in focus after the company maintained its full-year outlook and said it expects \"minimal impact\" from tariffs in the upcoming quarter. Super Micro Computer (SMCI) extends gains after being the top performer in the S&P 500 (^GSPC) during Monday's session. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
+            "date": "2025-04-08T16:18:50Z",
+            "sentiment-score": 0.18407757580280304
+        },
+        {
+            "id": "2e2cdeda-c3d9-31e2-8088-6c55cf694085",
+            "summary": "The Trump administration just rescued the big health insurers with a $25 billion payout.  For more than a year, the story for these companies has been that the business of privately managing Medicare plans had become a major disappointment.  U.S. seniors were seeking lots of medical care, eating away at insurers\u2019 profits.",
+            "date": "2025-04-08T15:26:00Z",
+            "sentiment-score": -0.939815467223525
+        },
+        {
+            "id": "73951063-17a4-3bdd-b9e2-62d17536485a",
+            "summary": "We recently published a list of 10 Defensive Stocks Billionaire Ken Fisher is Betting On. In this article, we are going to take a look at where UnitedHealth Group Incorporated (NYSE:UNH) stands against other defensive stocks billionaire Ken Fisher is betting on. Ken Fisher, an American billionaire investor, author, and financial analyst, founded and runs Fisher Asset [\u2026]",
+            "date": "2025-04-08T22:15:23Z",
+            "sentiment-score": 0.005735652521252632
+        },
+        {
+            "id": "3f55d0dd-2949-3585-b886-a9209f697f4e",
+            "summary": "We recently published a list of 10 Stocks Lead Rally Amid Market Bloodbath. In this article, we are going to take a look at where UnitedHealth Group Incorporated (NYSE:UNH) stands against other stocks that lead rally amid market bloodbath. The stock market took a battering anew on Tuesday, with all major indices registering steep losses as [\u2026]",
+            "date": "2025-04-09T09:43:09Z",
+            "sentiment-score": -0.9426691178232431
+        },
+        {
+            "id": "b0d213eb-e218-35c4-b3ff-3d6c2a9a557e",
+            "summary": "Despite Extreme volatility, these five stocks have provided more than 4% returns past month. These are: SFM, UNH, SRAD, GME, PODD.",
+            "date": "2025-04-09T12:09:00Z",
+            "sentiment-score": 0.5614928025752306
+        },
+        {
+            "id": "f0931b5c-fff1-3ba1-9967-33b19c0196b2",
+            "summary": "Companies in The News Are: UNH, TSLA, CEG, ALB",
+            "date": "2025-04-09T13:22:00Z",
+            "sentiment-score": -0.004696674644947052
+        },
+        {
+            "id": "9cc22d04-4573-343e-a271-9800fff30276",
+            "summary": "UnitedHealth (UNH) was a big mover last session on higher-than-average trading volume. The latest trend in earnings estimate revisions might not help the stock continue moving higher in the near term.",
+            "date": "2025-04-09T15:11:00Z",
+            "sentiment-score": 0.831972137093544
+        },
+        {
+            "id": "95f2a653-a3d1-34ab-8122-8b0d63aafcc3",
+            "summary": "The CMS announced a hike in MA payments for fiscal year 2026, which will likely deliver a notable boost to UNH & HUM's bottom lines.",
+            "date": "2025-04-09T15:10:00Z",
+            "sentiment-score": 0.9200830729678273
+        }
+    ]
+}

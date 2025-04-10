@@ -1,0 +1,46 @@
+{
+    "top_5_best": [
+        {
+            "ticker": "IBM",
+            "weighted_average": 0.27323367854871794
+        },
+        {
+            "ticker": "QCOM",
+            "weighted_average": 0.25201667579190445
+        },
+        {
+            "ticker": "PM",
+            "weighted_average": 0.24970032150546703
+        },
+        {
+            "ticker": "NOW",
+            "weighted_average": 0.23377102596216995
+        },
+        {
+            "ticker": "UNH",
+            "weighted_average": 0.22352894274572038
+        }
+    ],
+    "top_5_worst": [
+        {
+            "ticker": "AAPL",
+            "weighted_average": -0.2947708344771661
+        },
+        {
+            "ticker": "MRK",
+            "weighted_average": -0.41625424918598264
+        },
+        {
+            "ticker": "GE",
+            "weighted_average": -0.41786421954091035
+        },
+        {
+            "ticker": "TSLA",
+            "weighted_average": -0.45251960251393575
+        },
+        {
+            "ticker": "CAT",
+            "weighted_average": -0.6554422333406714
+        }
+    ]
+}

@@ -1,0 +1,581 @@
+{
+    "ticker": "WMT",
+    "total_news": 94,
+    "average_sentiment": -0.044444669335287935,
+    "weighted_average_sentiment": 0.003313005126442328,
+    "average_daily_sentiments": [
+        -0.0014583749936953668,
+        0.06748396231948088,
+        -0.017826511739538267,
+        0.10442480134467284,
+        0.3329568011686206,
+        -0.22997367489509857,
+        -0.08132034137711994
+    ],
+    "news": [
+        {
+            "id": "3174a50d-c161-3bf1-b9bd-b473ff22eb32",
+            "summary": "Walmart\u2019sbig pay bump for its store managers is paying off, according to U.S. CEO John Furner.",
+            "date": "2025-04-02T18:58:00Z",
+            "sentiment-score": 0.09308401681482792
+        },
+        {
+            "id": "b7ff950f-4fab-470c-b848-6a9eaaa9c969",
+            "summary": "Retailers are already facing a cautious consumer.",
+            "date": "2025-04-02T21:33:39Z",
+            "sentiment-score": -0.9046101653948426
+        },
+        {
+            "id": "74548c80-d3e3-37cc-a1b2-5b9837319a33",
+            "summary": "Walmart (WMT) closed the most recent trading day at $89.76, moving +1.05% from the previous trading session.",
+            "date": "2025-04-02T21:45:16Z",
+            "sentiment-score": 0.7334584230557084
+        },
+        {
+            "id": "05f11024-33b0-35d2-98f8-f5f9577573dc",
+            "summary": "Shares of big U.S. retailers sold off on Trump\u2019s plan to add tariffs ranging from at least 10% to as much as 49% on imports depending on the country of origin. Walmart, Amazon, Best Buy and Target were lower following the initial announcement.",
+            "date": "2025-04-02T21:31:33Z",
+            "sentiment-score": -0.9233268415555358
+        },
+        {
+            "id": "e7478949-6133-346a-8329-509722658dbc",
+            "summary": "TD Cowen senior research analyst Oliver Chen joins Catalysts host Madison Mills and Tematica Research chief investment officer Chris Versace to discuss the strength of retailers with bargaining power, such as Walmart (WMT), Costco (COST), and BJ's (BJ). To watch more expert insights and analysis on the latest market action, check out more Catalysts&nbsp;here.",
+            "date": "2025-04-03T10:00:22Z",
+            "sentiment-score": 0.04402606142684817
+        },
+        {
+            "id": "e7b8cb3c-ca71-4b7f-ac94-49d6d45cfa10",
+            "summary": "Apparel companies brace for a year of profit-busting tariffs.",
+            "date": "2025-04-03T10:19:17Z",
+            "sentiment-score": -0.7409148700535297
+        },
+        {
+            "id": "0b02de47-8506-322e-9a0c-a625e199da53",
+            "summary": "Retail stocks are taking a hit in after-hours trading, with Walmart (WMT) and Amazon (AMZN) seeing significant drops. Yahoo Finance Executive Editor Brian Sozzi joins Asking for a Trend host Josh Lipton to explain how tariffs on imports from China and the European Union could hurt retailers like Walmart, Amazon, and Nike (NKE). To watch more expert insights and analysis on the latest market action, check out more Asking for a Trend&nbsp;here.",
+            "date": "2025-04-02T21:36:24Z",
+            "sentiment-score": -0.8932598754763603
+        },
+        {
+            "id": "eadab927-c5b1-4459-a8e5-5b8fc833d214",
+            "summary": "GoodRx is trying to help pharmacies compete in a digital age, where they already face pressure on their margins.",
+            "date": "2025-04-03T13:00:44Z",
+            "sentiment-score": 0.12654427997767925
+        },
+        {
+            "id": "18efd6ab-e847-3330-8262-fc5b3ad3fb6b",
+            "summary": "At his \"Liberation Day\" spectacle at the White House Wednesday afternoon, Trump revealed a baseline tariff rate of 10% on countries that will go into effect on April 5.Additional tariffs will be added for some countries that the administration considers to be the worst offenders. Some of those alleged worst offenders are important sourcing and business regions for many large US companies such as Apple (AAPL), Nike (NKE), and Walmart (WMT). China, for example, will see an estimated reciprocal tariff of 34%. Vietnam at 32%. Japan is at 24%. The news has hit stocks, with Dow Jones Industrial Average futures down about 1,200 points, or nearly 3% (YM=F). S&P 500 futures are down 3.5% (ES=F), and Nasdaq futures are off by 3.8% (NQ=F). Japan\u2019s Nikkei (^N225) and Hong Kong\u2019s Hang Seng Index (^HSI) have also registered significant losses. Here\u2019s the hot analysis investors need to know right now:First, retail stocks are getting battered. Walmart, Nike, and Under Armour (UAA, UA) are getting slammed as steep tariffs on China could hammer profits. Nike, for example, relies on China and Vietnam for 55% of its sourcing. Stifel analyst Jim Duffy estimates Nike could see $1.69 a share in earnings wiped out this year because of tariffs. Next up, Apple is going to have a rough day: Morgan Stanley estimates that the tariffs on iPhones and other devices from China will increase Apple\u2019s annual costs by a whopping $8.5 billion. That could hit Apple\u2019s profits by 52 cents next year. Brutal. And lastly, the technical takedown: Market technicians are locked in on the S&P 500\u2019s March 13 closing low of 5,527.50. At this moment, the S&P 500 (^GSPC) is poised to test that low. A break through below the March lows intraday coupled with a new closing low could really damage sentiment further pros warn. RBC strategist Lori Calvasina says the S&P 500 has a clear shot to 4,900 if that low is breached. For more expert insight and the latest market action, click here.",
+            "date": "2025-04-03T12:22:17Z",
+            "sentiment-score": -0.9417947856709361
+        },
+        {
+            "id": "be6b0971-2fe3-34f2-bcb7-a5c270bfe9cb",
+            "summary": "(Bloomberg) -- Roughly $1.7 trillion was erased from the S&P 500 Index at the start of trading on Thursday amid worries that President Donald Trump\u2019s sweeping new round of tariffs could plunge the economy into a recession.Most Read from BloombergMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLondon Clears Final Hurdle for More High-Speed Trains to EuropeLocal Governments Vie for Fired Federal WorkersChicago School District Agrees to Minimum 16% Teacher Pay RaiseThe d",
+            "date": "2025-04-03T20:48:37Z",
+            "sentiment-score": -0.7952549308538437
+        },
+        {
+            "id": "2b82c484-f216-30a7-b98c-c3eb561ecbe9",
+            "summary": "Major grocers and some discount chains have the essentials to draw in consumers and the scale to negotiate with vendors amid new tariffs, analysts at UBS said.",
+            "date": "2025-04-03T17:15:43Z",
+            "sentiment-score": 0.7233407543972135
+        },
+        {
+            "id": "0056d0dc-485e-34ff-9fec-8f0b1f117e9e",
+            "summary": "Investors should consider defensively oriented consumer stocks over disrectionary shares after President Trump's latest tariff announcement, Oppenheimer analysts said Thursday.",
+            "date": "2025-04-03T15:47:47Z",
+            "sentiment-score": 0.08337214589118958
+        },
+        {
+            "id": "b8921739-5721-3e0f-b605-91c3c830fbd5",
+            "summary": "Walmart, Best Buy, and other major retailers are already feeling the impact of President Donald Trump\u2019s \u201cLiberation Day\u201d tariffs, which are set to take effect April 9. The initial 10% tariff will kick in this Saturday, April 5.",
+            "date": "2025-04-03T14:35:00Z",
+            "sentiment-score": 0.07491011917591095
+        },
+        {
+            "id": "c62e9c41-40df-38ca-9602-fb9728a49ea5",
+            "summary": "Catch up on the top industries and stocks that were impacted, or were predicted to be impacted, by the comments, actions and policies of President Donald Trump with this daily recap compiled by The Fly: TARIFF PLAN: President Donald Trump\u2019s team is finalizing plans for reciprocal tariffs to be unveiled on Wednesday, with multiple proposals under consideration, including a tiered tariff system and a customized reciprocal plan, Bloomberg\u2019s Josh Wingrove and Jennifer A. Dlouhy report. The tariffs a",
+            "date": "2025-04-03T14:15:58Z",
+            "sentiment-score": 0.046600740402936935
+        },
+        {
+            "id": "184f6806-be83-3275-908d-48bb7a91ed21",
+            "summary": "To navigate the volatility the year may bring, blue-chip retail stocks like WMT, COST and HD offer a blend of stability and growth.",
+            "date": "2025-04-03T12:58:00Z",
+            "sentiment-score": 0.09715296793729067
+        },
+        {
+            "id": "3ea73872-ffd9-3bdc-95d4-5c5b44b6dcb5",
+            "summary": "Walmart, Target, and other retail stocks sank Thursday after the Trump administration announced sweeping reciprocal tariffs against U.S. trading partners.",
+            "date": "2025-04-03T12:45:23Z",
+            "sentiment-score": -0.9476709607988596
+        },
+        {
+            "id": "24467684-e413-3528-8121-e3fed583024d",
+            "summary": "We recently published a list of Jim Cramer Highlighted 12 Stocks and Tariff Panic. In this article, we are going to take a look at where Walmart Inc. (NYSE:WMT) stands against other stocks that Jim Cramer highlighted. On Monday, Jim Cramer, the host of Mad Money, discussed the current market and he identified opportunities for [\u2026]",
+            "date": "2025-04-03T21:51:18Z",
+            "sentiment-score": 0.03198601212352514
+        },
+        {
+            "id": "dc1ea959-6fb0-3b35-afd5-42a30c0f066c",
+            "summary": "New York Governor Kathy Hochul says the Trump administration's tariffs are \"nothing short of the largest tax increase in American history\" on \"Balance of Power.\"",
+            "date": "2025-04-03T21:27:17Z",
+            "sentiment-score": 0.6007593795657158
+        },
+        {
+            "id": "8f1bd730-f95e-36eb-97ab-cb85eccc881d",
+            "summary": "Two strategic advantages are building a tariff moat around Walmart and Costco.",
+            "date": "2025-04-03T19:02:31Z",
+            "sentiment-score": 0.4584583071991801
+        },
+        {
+            "id": "410ffbd5-9d57-3d59-a908-1a3ad29816d5",
+            "summary": "The latest CNBC CFO Council Survey found that 60% of CFOs expect a U.S. recession later in 2025.  Another 15% predict a recession next year.  Ninety percent of the CFOs surveyed believe President Trump's tariffs will cause inflation to rise.",
+            "date": "2025-04-04T08:42:00Z",
+            "sentiment-score": -0.9098312184214592
+        },
+        {
+            "id": "684344af-57a3-4971-b34a-746b23b33930",
+            "summary": "The hunt for cheap stocks begins.",
+            "date": "2025-04-04T12:42:55Z",
+            "sentiment-score": -0.004880731925368309
+        },
+        {
+            "id": "d08bba81-8aba-4cc7-97e3-b711e1520b6a",
+            "summary": "President Trump promised big tariffs, and he didn't disappoint. Here's what sources are telling Yahoo Finance's newsroom about the tariff impact to certain sectors and asset classes.",
+            "date": "2025-04-04T10:00:56Z",
+            "sentiment-score": -0.005832385271787643
+        },
+        {
+            "id": "5acb84c8-e7b7-3fb1-9dda-452152341fd8",
+            "summary": "We recently published a list of 10 Stocks Everyone is Talking About After Trump\u2019s New Tariffs. In this article, we are going to take a look at where Walmart Inc (NYSE:WMT) stands against other stocks everyone is talking about after Trump\u2019s new tariffs. Countries are beginning to react to President Donald Trump\u2019s new reciprocal tariffs [\u2026]",
+            "date": "2025-04-04T14:04:28Z",
+            "sentiment-score": 0.05126040242612362
+        },
+        {
+            "id": "7424d941-0bd6-3ff3-86f6-f83998213bca",
+            "summary": "Even Walmart isn\u2019t safe from President Donald Trump\u2019s tariffs, as new costs from suppliers could lead to higher prices for consumers.",
+            "date": "2025-04-04T15:18:00Z",
+            "sentiment-score": -0.9226686675101519
+        },
+        {
+            "id": "59dcc911-c823-3df4-8b7c-85a430d7c706",
+            "summary": "Walmart, Costco Wholesale and The Home Depot are part of the Zacks top Analyst Blog.",
+            "date": "2025-04-04T13:16:00Z",
+            "sentiment-score": 0.00041139498353004456
+        },
+        {
+            "id": "f60e94e0-584a-49e8-9ab6-2f95c0b2b5d9",
+            "summary": "Groceries and scale are two items that has these retailers positioned to benefit.",
+            "date": "2025-04-04T16:49:49Z",
+            "sentiment-score": 0.14205160969868302
+        },
+        {
+            "id": "bfda7444-d7b6-3533-87c2-907df3db87b8",
+            "summary": "Walmart is considering joining a group of investors to buy short video app TikTok, ABC News reporter Selina Wang said in a post on X on Friday.",
+            "date": "2025-04-04T17:03:41Z",
+            "sentiment-score": 0.12787825288251042
+        },
+        {
+            "id": "6a1784f6-dca9-34df-b6dd-b8b3029f0dd6",
+            "summary": "From Rolls-Royce to Volkswagen, companies are betting big on pay hikes to fix culture\u2014because money still talks.",
+            "date": "2025-04-04T15:50:03Z",
+            "sentiment-score": 0.0669364333152771
+        },
+        {
+            "id": "88267714-66b7-4b8d-ada5-e3a1222ba4bb",
+            "summary": "Amazon is caught in the Trump tariff crosshairs.",
+            "date": "2025-04-04T19:30:59Z",
+            "sentiment-score": 0.011437403038144112
+        },
+        {
+            "id": "1dd27b74-6800-35df-9137-9e7560763c3a",
+            "summary": "Consumer stocks fell late Friday afternoon with the Consumer Staples Select Sector SPDR Fund (XLP) d",
+            "date": "2025-04-04T19:46:43Z",
+            "sentiment-score": -0.9544946644455194
+        },
+        {
+            "id": "4ea04586-56cc-3b69-a90f-9563ee80c445",
+            "summary": "America's largest retailer could see costs rise on many of its products.",
+            "date": "2025-04-04T21:10:00Z",
+            "sentiment-score": 0.3649419229477644
+        },
+        {
+            "id": "84df4353-c2b4-37d0-b013-6e290ed4027e",
+            "summary": "President Donald Trump's \"Liberation Day\" tariff program set off a string of worries and sent the markets tumbling on Thursday and Friday.  New fears about how the tariffs could trigger a recession sent investors running toward safer instruments like U.S. Treasury bills.  Amazon (NASDAQ: AMZN) stock is one of those stocks and it dropped 12.8% since the tariffs were announced, and it's lost all its gains from the past year.",
+            "date": "2025-04-04T20:46:48Z",
+            "sentiment-score": -0.9568675253540277
+        },
+        {
+            "id": "5da82499-1e06-36c1-a9be-d22508bcd347",
+            "summary": "The resilient retailer might be priced for perfection right now.",
+            "date": "2025-04-05T07:25:00Z",
+            "sentiment-score": 0.29704487696290016
+        },
+        {
+            "id": "fbb9d072-34e1-3d86-94d0-c442485eaba6",
+            "summary": "Walmart\u2019s big pay bump for its store managers is paying off, according to U.S. CEO John Furner.",
+            "date": "2025-04-05T13:00:00Z",
+            "sentiment-score": 0.6987544996663928
+        },
+        {
+            "id": "3eeecb10-f43f-3896-845a-939713b8e174",
+            "summary": "We recently published a list of Jim Cramer Raises Big Question About Tariffs & Discusses These 11 Stocks. In this article, we are going to take a look at where Walmart Inc. (NYSE:WMT) stands against other stocks that Jim Cramer discusses. In a recent appearance on CNBC\u2019s Squawk on the Street, Jim Cramer asked the [\u2026]",
+            "date": "2025-04-05T17:43:32Z",
+            "sentiment-score": 0.0030710268765687943
+        },
+        {
+            "id": "592223d8-3e5a-46a1-bad8-90132d8fb72e",
+            "summary": "Having trouble picking a stock post Liberation Day carnage? You aren't alone.",
+            "date": "2025-04-06T12:30:33Z",
+            "sentiment-score": -0.042528241872787476
+        },
+        {
+            "id": "9e51ec5b-7801-390c-8624-99d994b355e6",
+            "summary": "Walmart (NYSE: WMT) is one of the largest retailers in the world.  The company's recent $2.3 billion investment in Vizio is one endeavor that investors will want to monitor closely.  One of the most notable acquisitions that retailer Walmart has made in recent years was Jet.com.",
+            "date": "2025-04-06T22:14:00Z",
+            "sentiment-score": 0.13913333415985107
+        },
+        {
+            "id": "baccc29c-6085-3010-987a-5b3e900e1595",
+            "summary": "We recently published a list of 11 Best Counter Cyclical Stocks to Buy According to Analysts. In this article, we are going to take a look at where Walmart Inc. (NYSE:WMT) stands against other best counter cyclical stocks to buy according to analysts. Counter cyclical stocks stand out because they tend to perform well during economic [\u2026]",
+            "date": "2025-04-06T23:05:12Z",
+            "sentiment-score": 0.21666931174695492
+        },
+        {
+            "id": "dbf89f49-4b98-3269-b0fb-efa924349379",
+            "summary": "Walmart (NYSE: WMT) investors have had an incredible run since the pandemic started roughly five years ago.  Toss in reinvested dividends, and the total return from holding Walmart stock over the past five years was 125%.  Walmart is no longer just a retailer that uses its scale to deliver ultra-low prices to value-seeking shoppers.",
+            "date": "2025-04-07T08:25:00Z",
+            "sentiment-score": 0.06929886946454644
+        },
+        {
+            "id": "9d6ecca8-6f75-4702-a975-b7076f03fa32",
+            "summary": "The markets are undergoing one of the worst stretches in recent memory as Trump tariff fears take hold. Here is what is top of mind with the Yahoo Finance community.",
+            "date": "2025-04-07T12:54:01Z",
+            "sentiment-score": -0.13367204554378986
+        },
+        {
+            "id": "f6c8b01e-05bb-361a-aaaa-e955ed9c0fb8",
+            "summary": "Investing.com -- Citi upgraded Dollar General (NYSE:DG) to Neutral from Sell saying the discount retailer is better positioned than peers to weather the new tariff environment and a potential consumer slowdown.",
+            "date": "2025-04-07T13:32:35Z",
+            "sentiment-score": 0.9063318138942122
+        },
+        {
+            "id": "6f2d1349-f48c-37e9-8683-c1c42c270962",
+            "summary": "Dollar General should be able to navigate a weak consumer environment, say Citi Research analysts say.",
+            "date": "2025-04-07T11:59:00Z",
+            "sentiment-score": 0.7956526894122362
+        },
+        {
+            "id": "bd1c05b0-13f1-3446-b658-94be3943d7d4",
+            "summary": "Walmart (WMT) could withdraw its fiscal 2026 guidance due to volatility linked to President Donald T",
+            "date": "2025-04-07T14:52:11Z",
+            "sentiment-score": -0.9291711105033755
+        },
+        {
+            "id": "e3ae0b46-5e27-3f04-bd79-41bee3906bf9",
+            "summary": "The retailer is also highlighting seasonal dessert options and deals on select items like private label treats.",
+            "date": "2025-04-07T10:38:00Z",
+            "sentiment-score": 0.1202914216555655
+        },
+        {
+            "id": "bb179108-a8da-3f94-8e5a-5ec2da24420a",
+            "summary": "Mercer Mass Timber helped erect four CLT and glulam buildings, alongside additional offices with full frames made of the material.",
+            "date": "2025-04-07T10:37:00Z",
+            "sentiment-score": 0.14443603809922934
+        },
+        {
+            "id": "76f20b80-367c-3a0d-94cd-d367d3bf1ab8",
+            "summary": "Oppenheimer cuts Walmart target due to anticipated impact of tariffs and the negative effect on discretionary spending later in the year.",
+            "date": "2025-04-07T16:04:37Z",
+            "sentiment-score": -0.9228261895477772
+        },
+        {
+            "id": "e11d2fdd-5e7c-32ef-a541-8315fc00b5c9",
+            "summary": "Walmart (WMT) is still likely to deliver its earnings per share guidance for Q1 but could scrap its",
+            "date": "2025-04-07T15:09:15Z",
+            "sentiment-score": -0.1938258297741413
+        },
+        {
+            "id": "bd84067c-22af-3cb7-aa99-aba2a3a73b76",
+            "summary": "Walmart's (WMT) advertising business is likely to drive growth in the next five years, with the pote",
+            "date": "2025-04-07T16:04:52Z",
+            "sentiment-score": 0.8438461916521192
+        },
+        {
+            "id": "3df7ce1e-cc86-318b-a055-cd5fd090c6fc",
+            "summary": "The White House denied reports on Monday of an alleged 90-day pause on reciprocal tariffs, which are still set to take effect Wednesday, April 9. Wedbush Securities managing director of equity research for retail hardlines Seth Basham joins Catalysts to discuss how retailers will absorb tariff-fueled price increases, noting that most retailers will be forced to pass on some of the cost to their consumers. Basham notes that retailers with more pricing power, such as auto parts retailers and mass merchants that sell consumer staples, will be more equipped to withstand the impact of these tariffs. To watch more expert insights and analysis on the latest market action, check out more Catalysts&nbsp;here.",
+            "date": "2025-04-07T18:30:00Z",
+            "sentiment-score": 0.031156348064541817
+        },
+        {
+            "id": "a0f0c50a-af13-3e93-8358-5c342f97b08d",
+            "summary": "Walmart's Financial Landscape: Challenges and Opportunities",
+            "date": "2025-04-07T19:35:14Z",
+            "sentiment-score": -0.0100622046738863
+        },
+        {
+            "id": "7df4d713-9e40-3831-b506-b77b8f928c26",
+            "summary": "Consumer stocks were lower late Monday afternoon, with the Consumer Staples Select Sector SPDR Fund",
+            "date": "2025-04-07T19:59:41Z",
+            "sentiment-score": -0.953200644813478
+        },
+        {
+            "id": "ce81215d-76ca-423d-89b6-3fdf50e70c7d",
+            "summary": "Walmart could be walloped in a worst-case tariff scenario.",
+            "date": "2025-04-08T12:34:19Z",
+            "sentiment-score": -0.8180700438097119
+        },
+        {
+            "id": "9d988fd7-fd37-336f-b27b-545cae41ee6f",
+            "summary": "Pushing a shopping cart down the aisle of a Walmart Supercenter, Thomas Jennings, 53, loaded up on juices, condiments and whatever he could think of.  Earlier at Costco , Jennings bought flour, sugar and water in bulk.  Like a growing number of U.S. shoppers, Jennings believes retail prices will soon rise because of Trump's tariffs.",
+            "date": "2025-04-08T10:02:30Z",
+            "sentiment-score": 0.22498468589037657
+        },
+        {
+            "id": "38ba2218-8bdb-31c8-9b39-aa2da9907ccb",
+            "summary": "Most of Walmart's growth is coming from more affluent shoppers it is trying to lure with more fashion.",
+            "date": "2025-04-08T10:00:00Z",
+            "sentiment-score": 0.1784462663345039
+        },
+        {
+            "id": "52e8ade1-d290-3f9b-a5d9-773d96ff69b5",
+            "summary": "In a 1997 speech, famed investor Peter Lynch imparted his investment wisdom, emphasizing the significance of comprehending the business behind the stock and the ineffectiveness of economic forecasting. What Happened: Lynch, celebrated for his ...",
+            "date": "2025-04-08T00:30:40Z",
+            "sentiment-score": 0.004264097660779953
+        },
+        {
+            "id": "befdead2-4f1a-3e91-9284-5a9137df9638",
+            "summary": "Kroger\u2019s meal for the holiday costs less than $6 per person while the discounter is serving up spiral ham for 80 cents less than last year.",
+            "date": "2025-04-08T10:50:00Z",
+            "sentiment-score": -0.026958657428622246
+        },
+        {
+            "id": "f1bbac28-4f53-3b6e-a452-a02d52cafe44",
+            "summary": "Despite macroeconomic challenges, WMT's strategic investments in e-commerce and delivery support its long-term growth outlook.",
+            "date": "2025-04-08T14:07:00Z",
+            "sentiment-score": 0.8737603612244129
+        },
+        {
+            "id": "b1c2c8bf-4529-3da1-a303-0589d605105b",
+            "summary": "It could be Turnaround Tuesday for stocks after a bruising three-day stretch. Futures on the Dow Jones Industrial Average are jumping, as traders focus on the Trump administration reportedly beginning trade discussions with Japan. The S&P 500 and Nasdaq Composite are also set to open higher. President Trump's broad tariffs are set to kick in tomorrow, with many now seeing them as a negotiating tactic. China, however, vowed today to quote \u201cfight to the end\u201d on the tariff front.Here is what you need to know about the markets today:Levi\u2019s puts investors through the spin cycle: Shares of&nbsp; the jeans maker surged 10% in early trading following better than expected quarterly earnings. The company maintained its full year profit outlook. Walmart is in focus: While Wall Street tries to estimate what tariffs could mean for companies, veteran retail analyst Greg Melich of EvercoreISI is estimating a worst-case scenario of tariffs on Walmart. Melich said, \"If 50% incremental [tariffs] on China and 20% rest of the world [tariffs] are maintained, AND no carrots of tax cuts or deregulation are implemented, we estimate the EPS pressure for Walmart of 2% could grow 3x higher.\" BrIIt could be the year of lost profits for companies due to tariffs: The bottom up consensus earnings per share expectation for the S&P 500 assumes 9.6% growth. Some of the biggest EPS gains are seen in tech darlings Nvidia, Broadcom, Netflix and Microsoft. But long-time strategist Adam Parker at Trivariate Research says investors no longer believe those numbers. Parker thinks the tariffs are such a headwind, investors may see NO earnings growth for the S&P 500.",
+            "date": "2025-04-08T11:37:55Z",
+            "sentiment-score": 0.20111581683158875
+        },
+        {
+            "id": "3e8fff95-980a-3b8e-947d-f95b65741dbf",
+            "summary": "Investors and other retailers will be looking for clues on how to navigate the new tariff environment.",
+            "date": "2025-04-08T16:33:00Z",
+            "sentiment-score": 0.17275625467300415
+        },
+        {
+            "id": "3b07cc88-a735-32af-80d3-b99a4b5dc2c8",
+            "summary": "Expensive stocks typically earn their valuations through superior growth rates that other companies simply can\u2019t match. The flip side though is that these lofty expectations make them particularly susceptible to drawdowns when market sentiment shifts.",
+            "date": "2025-04-08T14:24:30Z",
+            "sentiment-score": -0.8446915373206139
+        },
+        {
+            "id": "13987d26-ab3e-3322-bea7-63bb0f2be956",
+            "summary": "Walmart Chief Executive Doug McMillon offered a reassuring message to investors Tuesday, and described President Trump\u2019s sweeping new tariffs as \u201ca fluid environment.\" \u201cWe\u2019ve learned how to manage through turbulent periods,\u201d McMillon said, welcoming investors arriving in Dallas Tuesday for a two-day meeting with Walmart executives.",
+            "date": "2025-04-08T19:41:45Z",
+            "sentiment-score": 0.8308897688984871
+        },
+        {
+            "id": "3e7a39cc-3da3-3f49-b49d-e71cc4c7cd2c",
+            "summary": "We recently published a list of 10 Defensive Stocks Billionaire Ken Fisher is Betting On. In this article, we are going to take a look at where Walmart Inc. (NYSE:WMT) stands against other defensive stocks billionaire Ken Fisher is betting on. Ken Fisher, an American billionaire investor, author, and financial analyst, founded and runs Fisher Asset Management. [\u2026]",
+            "date": "2025-04-08T22:16:38Z",
+            "sentiment-score": 0.004703255370259285
+        },
+        {
+            "id": "1bbc894c-6864-3966-9b1b-1fbfb23a4223",
+            "summary": "Today's Research Daily features new research reports on 16 major stocks, including Walmart Inc. (WMT), The Coca-Cola Company (KO) and HSBC Holdings plc (HSBC), as well a micro-cap stock Friedman Industries Inc. Common Stock (FRD).",
+            "date": "2025-04-08T20:31:00Z",
+            "sentiment-score": 0.008607279509305954
+        },
+        {
+            "id": "d9613e02-0851-4075-9830-ac577e5dff95",
+            "summary": "Walmart maintains its outlook despite Trump tariffs taking hold.",
+            "date": "2025-04-09T11:12:12Z",
+            "sentiment-score": 0.7319719642400742
+        },
+        {
+            "id": "5117ad6d-21aa-3542-9dcf-e95f18e37514",
+            "summary": "Walmart is sticking to its annual sales and operating income growth forecast, the retailer said ahead of its investor day on Wednesday. The retailer had in February forecast annual sales to rise between 3% and 4% and adjusted operating income to increase between 3.5% and 5.5%. The unchanged forecasts comes amid uncertainty regarding the impact of Trump's slew of tariffs mainly on Asian countries that supply everything from clothing to toys to Walmart.",
+            "date": "2025-04-09T11:02:58Z",
+            "sentiment-score": -0.09629771485924721
+        },
+        {
+            "id": "a0d94ff8-2beb-3dbd-8eb3-a2454e41d3cc",
+            "summary": "The trade war raises GOP\u2019s stakes in its budget battle, Walmart and Costco will offer insight into consumer spending, and more news to start your day.",
+            "date": "2025-04-09T10:51:00Z",
+            "sentiment-score": 0.10089331027120352
+        },
+        {
+            "id": "7edf1d88-a4bc-3dc2-90ca-da67aafe59e5",
+            "summary": "With valuations lower, it can be a cheaper time to load up on quality stocks.  Three companies that are no-brainer investments when looking at the long term are Microsoft (NASDAQ: MSFT), Eli Lilly (NYSE: LLY), and Walmart (NYSE: WMT).  Microsoft was a top name in its industry decades ago, and it wouldn't be surprising if it remains so decades from now.",
+            "date": "2025-04-09T09:15:00Z",
+            "sentiment-score": 0.02330146264284849
+        },
+        {
+            "id": "845073f1-655a-382e-a045-9fc919613de8",
+            "summary": "Philip Morris International, S&P Global, and Walmart are all resilient investments.",
+            "date": "2025-04-09T08:05:00Z",
+            "sentiment-score": 0.44757487438619137
+        },
+        {
+            "id": "6a70ecbe-f838-38e0-a696-2af10d221c18",
+            "summary": "Futures are again under pressure this morning as President Trump's reciprocal tariffs go into effect. China further escalated tensions this morning and retaliated by slapping an 84% tariff on US goods. Wall Street has been under intense pressure since the White House announced the tariff plan last week, with the S&P 500 sinking nearly 12%. Major companies are scrambling in the wake of the tariffs. Delta Air Lines (DAL) pulled its guidance, citing uncertainty. Walmart (WMT) also pulled its quarterly operating income forecast. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
+            "date": "2025-04-09T12:03:34Z",
+            "sentiment-score": -0.9143880167976022
+        },
+        {
+            "id": "cb4e558b-622c-3f59-926d-63d87fe57b99",
+            "summary": "Walmart says the \u2018range of outcomes\u2019 for operating income growth has widened. The company expresses \u2018the desire to maintain flexibility to invest in price as tariffs are implemented.\u201d",
+            "date": "2025-04-09T12:19:00Z",
+            "sentiment-score": 0.8615561705082655
+        },
+        {
+            "id": "84915f77-2ef6-3000-9fad-066f68cd0d35",
+            "summary": "Walmart reaffirmed its sales forecast but warned tariffs could put profits under pressure as it battles to keep prices low. The world's largest retailer by sales said it still expect sales to grow between 3% and 4% in the first quarter but that the range of outcomes for operating income growth has widened.",
+            "date": "2025-04-09T12:06:24Z",
+            "sentiment-score": 0.8481144849210978
+        },
+        {
+            "id": "48ffd1a6-eeca-3f27-ac6c-a54ab1719a31",
+            "summary": "Walmart reaffirmed its first-quarter sales guidance and widened its range for operating income growth to stay flexible on pricing as tariffs go into effect.",
+            "date": "2025-04-09T11:41:00Z",
+            "sentiment-score": 0.8827690780162811
+        },
+        {
+            "id": "cc9c84eb-0edf-300d-a59e-9b3e157e3bd3",
+            "summary": "Walmart, Coca-Cola, HSBC and Friedman Industries are included in this Analyst Blog.",
+            "date": "2025-04-09T10:59:00Z",
+            "sentiment-score": -0.0031904885545372963
+        },
+        {
+            "id": "bce57d73-4be9-3895-8a5c-b922cb502dbd",
+            "summary": "Investors gear up for another volatile trading day fueled by tariffs from US President Trump. US stock futures (ES=F, NQ=F, YM=F) are in the red ahead of the opening bell. Trump's 104% tariffs on imports from China take effect. China has retaliated with an 84% tariff rate on all imports from the US, effective on Thursday. Delta Air Lines (DAL) pulled its full-year outlook, citing uncertainty fueled by the global trade war, while Walmart (WMT) is maintaining its forecast for the year. To watch more expert insights and analysis on the latest market action, check out more Morning Brief here.",
+            "date": "2025-04-09T13:19:01Z",
+            "sentiment-score": -0.5820132084190845
+        },
+        {
+            "id": "95c89766-d48b-37df-ba03-e5d537f49904",
+            "summary": "And we take a look at Texas Instruments and Taiwan Semiconductor.",
+            "date": "2025-04-09T13:46:00Z",
+            "sentiment-score": 0.018895171117037535
+        },
+        {
+            "id": "0442e7f2-926d-3493-bfef-465e242c2cc3",
+            "summary": "Walmart Inc. (NYSE:WMT) stock traded higher on Wednesday after the company disclosed that it was hosting its Investment Community Meeting and reaffirmed first-quarter guidance. The retail giant continues to see first-quarter FY26 sales growth of 3% \u2013 4% in the constant currencies. Walmart stated that its FY26 sales and operating income growth guidance remains unchanged. However, the range for first-quarter operating income growth has widened due to a less favorable category mix, and higher casua",
+            "date": "2025-04-09T13:42:21Z",
+            "sentiment-score": 0.9151349691674113
+        },
+        {
+            "id": "5ebd694a-ced9-37c6-ab0e-b49a12fa8649",
+            "summary": "Walmart maintains Q1 outlook despite pricing pressures, tariff risks, and broader economic uncertainty",
+            "date": "2025-04-09T13:33:30Z",
+            "sentiment-score": 0.8950960263609886
+        },
+        {
+            "id": "a3b4073e-cf6b-3c9f-8915-5acaa3968de0",
+            "summary": "Trump tariff news: President Trump's latest tariffs took effect Wednesday while China stepped up retaliation. Treasury yields are worrisome. Walmart and Delta Air pulled some guidance, citing tariff uncertainty.",
+            "date": "2025-04-09T13:31:49Z",
+            "sentiment-score": -0.931397270411253
+        },
+        {
+            "id": "2feb8f47-0ef2-3416-949c-cb88feea66d1",
+            "summary": "Walmart, the nation's largest retailer, is standing behind its full-year sales and operating income outlook even as President Donald Trump has launched tariff wars with China and nearly every trading partner that have brought a wave of economic uncertainty.  Walmart said in a release the range of outcomes has \u201cwidened due to less favorable category mix\" and \"the desire to maintain flexibility to invest in price as tariffs are implemented.\u201d",
+            "date": "2025-04-09T13:03:41Z",
+            "sentiment-score": -0.3643052466213703
+        },
+        {
+            "id": "091df34a-e929-36e0-8af5-2d40a67ffc04",
+            "summary": "Investors were digesting the latest volley in the U.S.-China trade fight early Wednesday, with a 104% tariff on Chinese electric vehicles and other tech goods taking effect overnight.",
+            "date": "2025-04-09T13:00:00Z",
+            "sentiment-score": 0.02214314043521881
+        },
+        {
+            "id": "993211e1-c039-3531-9017-0e8d9b4e3566",
+            "summary": "MUSA has demonstrated a commitment to enhancing shareholder value through a robust share buyback program.",
+            "date": "2025-04-09T12:31:00Z",
+            "sentiment-score": 0.8946523498743773
+        },
+        {
+            "id": "14848cfd-758e-3b34-b5b3-e32f2d40bbf1",
+            "summary": "We recently published a list of Jim Cramer Warns of a 36% Market Drop & Reviews These 9 Key Stocks. In this article, we are going to take a look at where Walmart Inc. (NYSE:WMT) stands against other stocks Jim Cramer discusses. In his appearance on CNBC\u2019s Squawk on the Street on Monday, Jim Cramer [\u2026]",
+            "date": "2025-04-09T14:20:05Z",
+            "sentiment-score": -0.8561434848234057
+        },
+        {
+            "id": "b6aa989e-e5c8-308a-86f7-1d3668345045",
+            "summary": "Walmart, the largest retailer in the world, pulled its financial guidance for the quarter because of uncertainty over the impact of sweeping tariffs on China, Vietnam and other global sources of goods.",
+            "date": "2025-04-09T14:12:35Z",
+            "sentiment-score": -0.9500602316111326
+        },
+        {
+            "id": "7db225ac-e371-348a-a23b-a5d0a545c6aa",
+            "summary": "Walmart sees an opportunity to grab market share in the turmoil created by the tariff war. The retail giant kept financial expectations for this quarter unchanged, but said the range of possibilities for operating-income growth have widened.",
+            "date": "2025-04-09T13:59:25Z",
+            "sentiment-score": 0.894625729881227
+        },
+        {
+            "id": "ea51c4a4-9bb6-3e47-9ac5-8c37949215c8",
+            "summary": "Walmart on Wednesday said its forecast for operating income is less certain as the Trump administration's tariffs go into effect.",
+            "date": "2025-04-09T13:43:51Z",
+            "sentiment-score": 0.12078408896923065
+        },
+        {
+            "id": "fb43c27f-3602-3568-a9b8-b31013b367c9",
+            "summary": "Catalysts host Madison Mills goes over some of the top stories of the day on this segment of Market Minute. Delta Air Lines (DAL) cut its full-year guidance as uncertainty around tariffs weighs on bookings. Walmart (WMT) walks back its first quarter profit guidance, citing tariff risks. Pharmaceutical stocks, including Pfizer (PFE), Novo Nordisk (NVO), and Eli Lilly (LLY), are under pressure after President Trump announced that there may be pharmaceutical tariffs underway. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
+            "date": "2025-04-09T15:15:38Z",
+            "sentiment-score": -0.8319629775360227
+        },
+        {
+            "id": "7f6a5da2-39f1-311c-9a83-82fabf96c95e",
+            "summary": "Dow Jones and other indexes were mixed amid intensifying trade wars between the U.S. and China. Nvidia and Tesla jumped.",
+            "date": "2025-04-09T14:59:08Z",
+            "sentiment-score": -0.8368391990661621
+        },
+        {
+            "id": "052e231c-e7e1-3707-be9f-caf872f4eaf8",
+            "summary": "Uncertainty surrounding President Donald Trump\u2019s tariffs caused Walmart (WMT) to scrap its first-quarter operating income guidance Wednesday.",
+            "date": "2025-04-09T14:32:47Z",
+            "sentiment-score": -0.9366627908311784
+        },
+        {
+            "id": "289a26cd-7e36-4774-a502-5e3a1d531506",
+            "summary": "Michael Kantrowitz, Piper Sandler's chief investment officer, said more companies are likely to revise their guidance amid tariff uncertainty or even pull it altogether.",
+            "date": "2025-04-09T17:41:34Z",
+            "sentiment-score": -0.7780969347804785
+        },
+        {
+            "id": "6fe5282c-4761-3f95-a664-2b5addb5e18c",
+            "summary": "Walmart benefits if the tariffs cut out Temu and Shein. The post Walmart pulls full-year guidance, insists it will gain share appeared first on FreightWaves.",
+            "date": "2025-04-09T17:29:57Z",
+            "sentiment-score": 0.7464418821036816
+        },
+        {
+            "id": "a8305dc6-b708-3b84-8921-8f102aeafaee",
+            "summary": "Shares of Walmart (NYSE: WMT) are climbing on Wednesday.  The rise comes as the S&P 500 (SNPINDEX: ^GSPC) and the Nasdaq Composite (NASDAQINDEX: ^IXIC) continued to see heightened volatility.  Walmart announced today that it was lowering income expectations for the current quarter.",
+            "date": "2025-04-09T17:23:59Z",
+            "sentiment-score": -0.9123833011835814
+        },
+        {
+            "id": "979dd5da-d1c5-34bf-87dd-73dfd01158da",
+            "summary": "\u2197\ufe0f Apple (AAPL): Shares rose over 4% Wednesday afternoon. The stock had dropped Tuesday, helping Microsoft (MSFT) overtake Apple as the world's most valuable company, after the White House said President Trump wants iPhones to be made in the U.",
+            "date": "2025-04-09T16:06:40Z",
+            "sentiment-score": 0.26550800539553165
+        },
+        {
+            "id": "1adbd3f2-e9fc-390e-9a69-8dcaa2cb20a1",
+            "summary": "CEO Doug McMillon told investors \"nothing about the current environment impacts our confidence in our business or strategy.\"",
+            "date": "2025-04-09T15:57:03Z",
+            "sentiment-score": -0.1177446823567152
+        },
+        {
+            "id": "b016fbd1-622d-3b81-8937-0640118f5402",
+            "summary": "Walmart is bringing back Walmart+ Week with exclusive member perks, including fuel savings, streaming bonuses, fast-food deals, free delivery and Walmart Cash.",
+            "date": "2025-04-09T15:36:00Z",
+            "sentiment-score": 0.3968132147565484
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "ticker": "CSCO",
+    "total_news": 11,
+    "average_sentiment": -0.20637776190415025,
+    "weighted_average_sentiment": -0.07890136697096758,
+    "average_daily_sentiments": [
+        0.004656132310628891,
+        0.0589906363748014,
+        0,
+        0,
+        0,
+        0.006954353302717209,
+        -0.39637227010514053
+    ],
+    "news": [
+        {
+            "id": "f83cc944-7a32-3ef9-9af1-021ccf7f2c42",
+            "summary": "The latest trading day saw Cisco Systems (CSCO) settling at $61.82, representing a +0.03% change from its previous close.",
+            "date": "2025-04-02T21:45:17Z",
+            "sentiment-score": 0.43384938780218363
+        },
+        {
+            "id": "a25a267e-e206-3324-ab59-c88534dfe1b2",
+            "summary": "Let\u2019s dig into the relative performance of Cisco (NASDAQ:CSCO) and its peers as we unravel the now-completed Q4 it services & other tech earnings season.",
+            "date": "2025-04-03T09:13:49Z",
+            "sentiment-score": 0.05061950907111168
+        },
+        {
+            "id": "93a40da6-b75c-3dac-beb6-3b9bd5895540",
+            "summary": "Shares of networking technology giant Cisco (NASDAQ:CSCO) fell 6.6% in the afternoon session after President Trump announced \"reciprocal tariffs\" on all US imports, set at a minimum rate of 10%. Markets reacted negatively to the announcement, reflecting deep concerns among investors about the broader economic implications. The tariffs were likely seen as a significant threat to global trade flows, with the potential to slow economic growth, drive up consumer prices, and spark retaliatory measure",
+            "date": "2025-04-03T19:58:56Z",
+            "sentiment-score": -0.955440416932106
+        },
+        {
+            "id": "fbebc7e1-a433-30e3-aef2-2ef3ae1f6f08",
+            "summary": "The Trump tariffs fallout sent down shares of Arista Networking, Coherent, Fortinet, Cisco, HPE and many other tech stocks.",
+            "date": "2025-04-03T17:00:01Z",
+            "sentiment-score": -0.9281135015189648
+        },
+        {
+            "id": "1d84a363-bec0-313f-ac0b-bcc4a27c5c12",
+            "summary": "Hewlett Packard Enterprise faces challenges related to rising costs due to tariff hikes and the delayed Juniper acquisition, making the stock a risky bet.",
+            "date": "2025-04-03T14:35:00Z",
+            "sentiment-score": -0.9269707249477506
+        },
+        {
+            "id": "bb83c8d8-0fd3-39ea-81e5-c4fe9288fbfe",
+            "summary": "Artificial intelligence is writing code faster than humans ever could, and one big question looms: Should people still bother learning to code? Cisco\u2019s (NASDAQ:CSCO) executive vice president and chief customer experience officer, Liz Centoni, has a firm answer\u2014yes, but with a twist. The Unexpected Value of \u201cBoring Problems\u201d Centoni, who started as a software engineer and has spent nearly 25 years at Cisco, insists coding is still essential. \u201cI want someone in there sitting with the subject matte",
+            "date": "2025-04-03T13:45:20Z",
+            "sentiment-score": -0.02093915082514286
+        },
+        {
+            "id": "d9836e48-06c1-35d0-be77-b969ea8509da",
+            "summary": "CISA earlier this week added CVE-2024-20439, a static credential vulnerability in the license management app, to its known exploited vulnerabilities catalog.",
+            "date": "2025-04-03T11:23:00Z",
+            "sentiment-score": -0.0015043187886476517
+        },
+        {
+            "id": "a48eb362-49a8-34a1-8ed5-c88c8457818d",
+            "summary": "Today's Research Daily features new research reports on 16 major stocks, including Cisco Systems, Inc. (CSCO), Caterpillar Inc. (CAT) and CME Group Inc. (CME), as well as two micro-cap stocks EVI Industries, Inc. (EVI) and Franklin Financial Services Corp. (FRAF).",
+            "date": "2025-04-03T20:35:00Z",
+            "sentiment-score": 0.007742713205516338
+        },
+        {
+            "id": "bcb6bfaa-6b13-35bc-9f6a-737ae3b69072",
+            "summary": "Cisco Systems, Caterpillar, CME, EVI and Franklin Financial are part of the Zacks top Analyst Blog.",
+            "date": "2025-04-04T13:08:00Z",
+            "sentiment-score": 0.006954353302717209
+        },
+        {
+            "id": "bf8ab655-7cd8-3703-9896-cfb3c6860a96",
+            "summary": "Recently, Zacks.com users have been paying close attention to Cisco (CSCO). This makes it worthwhile to examine what the stock has in store.",
+            "date": "2025-04-08T13:00:13Z",
+            "sentiment-score": 0.0589906363748014
+        },
+        {
+            "id": "caa5086e-1496-3c01-b8b7-588f43d6739e",
+            "summary": "DGII vs. CSCO: Which Stock Is the Better Value Option?",
+            "date": "2025-04-09T15:40:08Z",
+            "sentiment-score": 0.004656132310628891
+        }
+    ]
+}

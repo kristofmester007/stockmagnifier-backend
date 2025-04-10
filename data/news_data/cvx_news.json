@@ -1,0 +1,179 @@
+{
+    "ticker": "CVX",
+    "total_news": 27,
+    "average_sentiment": -0.10090733785182238,
+    "weighted_average_sentiment": -0.14549293279685455,
+    "average_daily_sentiments": [
+        -0.2528577860444784,
+        0.038352653943002225,
+        -0.5814458066597581,
+        0,
+        0.40642707888036966,
+        -0.37243633065372705,
+        0.1753186567220837
+    ],
+    "news": [
+        {
+            "id": "bc378ba8-0ede-3943-8b4b-233036eb08ac",
+            "summary": "XOM can also lean on its strong balance sheet when its business scenario turns volatile and uncertain.",
+            "date": "2025-04-03T14:46:00Z",
+            "sentiment-score": 0.6775025986135006
+        },
+        {
+            "id": "42e18f60-8ae4-3416-8d2c-0cece6f7bb14",
+            "summary": "The energy sector has climbed year to date, in contrast to the broader market's decline, driven by leaders like ExxonMobil, Chevron and Devon Energy.",
+            "date": "2025-04-03T13:10:00Z",
+            "sentiment-score": 0.9113432299345732
+        },
+        {
+            "id": "93a9254e-a12c-3d10-9e69-47b6c1129fc5",
+            "summary": "Warren Buffett-led Berkshire Hathaway is reaching new all-time highs despite a year-to-date sell-off in major indexes like the S&P 500 and Nasdaq Composite.  The simplest way to invest in Buffett's top ideas is to buy Berkshire stock directly.  Another option is to scan Berkshire's public equity holdings for investment ideas.",
+            "date": "2025-04-03T11:30:00Z",
+            "sentiment-score": 0.023166682571172714
+        },
+        {
+            "id": "8af27873-bbb0-38d9-a0b4-d38687ca3058",
+            "summary": "(Bloomberg) -- Berkshire Hathaway Inc.\u2019s stock sailed through a turbulent trading session Thursday, falling only slightly while indexes across the globe plummeted on President Donald Trump\u2019s sweeping tariff plans.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018Transportation",
+            "date": "2025-04-03T21:24:49Z",
+            "sentiment-score": -0.9107378842309117
+        },
+        {
+            "id": "c3bd210a-f708-3182-8b35-0c0c9ad08371",
+            "summary": "We recently published a list of 10 Stocks Everyone is Talking About After Trump\u2019s New Tariffs. In this article, we are going to take a look at where Chevron Corp (NYSE:CVX) stands against other stocks everyone is talking about after Trump\u2019s new tariffs. Countries are beginning to react to President Donald Trump\u2019s new reciprocal tariffs [\u2026]",
+            "date": "2025-04-04T13:38:13Z",
+            "sentiment-score": 0.0490975696593523
+        },
+        {
+            "id": "a6c36a14-7db7-32da-b413-35099da1b3d2",
+            "summary": "Alibaba and KB Home are part of the Zacks Bull and Bear of the Day article.",
+            "date": "2025-04-04T12:37:00Z",
+            "sentiment-score": 0.0015064561739563942
+        },
+        {
+            "id": "63c426f6-2711-39f4-b61a-38f893f601dc",
+            "summary": "COP's upstream operations, like EOG and CVX, are highly exposed to the volatility in oil and gas prices, considering the very nature of its business model.",
+            "date": "2025-04-04T12:35:00Z",
+            "sentiment-score": -0.026625117287039757
+        },
+        {
+            "id": "54941d0b-9a71-34d9-ad19-6bd4e3c62c47",
+            "summary": "CVX announces 600 job cuts at former San Ramon headquarters, aiming to streamline operations and reduce costs as part of its broader restructuring strategy.",
+            "date": "2025-04-04T10:15:00Z",
+            "sentiment-score": -0.9254958992823958
+        },
+        {
+            "id": "f4eea585-509d-3f33-b891-e459bb8b56e8",
+            "summary": "Oil price could fall as low as $50 as Saudis launch price war. Gasoline prices set to be a bright spot in Trump's trade war.",
+            "date": "2025-04-04T16:26:22Z",
+            "sentiment-score": -0.6759627163410187
+        },
+        {
+            "id": "9584d9aa-06d1-3a6c-8681-9fc0e48eabb6",
+            "summary": "POINTE \u00c0 LA HACHE, La. (AP) \u2014 Oil company Chevron must pay at least $740 million to restore damage it caused to southeast Louisiana's coastal wetlands, a jury ruled on Friday following a landmark trial more than a decade in the making.  The case was the first of dozens of pending lawsuits to reach trial in Louisiana against the world\u2019s leading oil companies for their role in accelerating land loss along the state\u2019s rapidly disappearing coast.  The verdict \u2013 likely to be appealed \u2013 could set a precedent leaving other oil and gas firms on the hook for billions of dollars in damages tied to land loss and environmental degradation.  What did Chevron do wrong?",
+            "date": "2025-04-04T19:03:50Z",
+            "sentiment-score": -0.6571382768452168
+        },
+        {
+            "id": "dae97bc5-b28f-3900-8a81-072394bfaf91",
+            "summary": "When in doubt about your next best bet, consider poaching an idea (or three) from the world's most proven stock picker.",
+            "date": "2025-04-05T09:07:00Z",
+            "sentiment-score": 0.018651445396244526
+        },
+        {
+            "id": "9ae94c7c-a546-3b74-a4ec-8ec01572c88b",
+            "summary": "Many oil and gas industry executives enthusiastically supported President Donald Trump's bid for a second term as U.S. president.  The first Trump administration was distinctly pro-energy.  It wasn't surprising, therefore, that energy stocks soared immediately following Trump's victory in the November 2024 election.",
+            "date": "2025-04-05T08:45:00Z",
+            "sentiment-score": 0.7612338364124298
+        },
+        {
+            "id": "0575d4c0-4c09-3cbf-82f2-1676fc0da261",
+            "summary": "The move may come as a surprise, given that the U.S. benchmark oil price, West Texas Intermediate, is $69.36 per barrel compared to an average of $76.63 in 2024.  Here's why ExxonMobil (NYSE: XOM), Chevron (NYSE: CVX), and ConocoPhillips (NYSE: COP) stand out as three balanced dividend stocks to buy now.  ExxonMobil, Chevron, and ConocoPhillips all have clear paths toward delivering strong free cash flow (FCF) even at current oil prices.",
+            "date": "2025-04-05T22:05:00Z",
+            "sentiment-score": 0.8437841180711985
+        },
+        {
+            "id": "376a1d32-d007-3830-8201-3eeb4c702e91",
+            "summary": "We recently published a list of Jim Cramer Raises Big Question About Tariffs & Discusses These 11 Stocks. In this article, we are going to take a look at where Chevron Corporation (NYSE:CVX) stands against other stocks that Jim Cramer discusses. In a recent appearance on CNBC\u2019s Squawk on the Street, Jim Cramer asked the [\u2026]",
+            "date": "2025-04-05T17:48:57Z",
+            "sentiment-score": 0.002038915641605854
+        },
+        {
+            "id": "b16ef76e-d21a-3091-bbf9-2a95dc901311",
+            "summary": "CVX to pay $740 million fine to restore Louisiana wetlands after Texaco's mishandling of drilling waste and failure to follow environmental laws.",
+            "date": "2025-04-07T10:29:00Z",
+            "sentiment-score": -0.915802763774991
+        },
+        {
+            "id": "fd275d04-0d7f-31d5-b241-c7901894c90c",
+            "summary": "Investors looking for stable, income-generating assets for their portfolios may focus on large-cap energy stocks like WMB, CVX and KMI.",
+            "date": "2025-04-08T11:23:00Z",
+            "sentiment-score": 0.05431017093360424
+        },
+        {
+            "id": "9dd54e80-0f62-3204-855b-09b686e642ae",
+            "summary": "Energy company Chevron will begin a survey of the east Mediterranean seabed early this summer to prepare for a pipeline connecting a sizable natural gas deposit in Cyprus waters with processing facilities in Egypt, Cypriot officials said Monday.  Chevron CEO Mike Wirth told Cypriot President Nikos Christodoulides in a meeting at Chevron headquarters in Houston the survey will proceed according to a set timetable.",
+            "date": "2025-04-07T22:16:36Z",
+            "sentiment-score": 0.09477147366851568
+        },
+        {
+            "id": "c70b0629-b359-346d-8c16-3a30c48ed82d",
+            "summary": "The job cuts, which are estimated to impact roughly 9,000 employees, mirror staff reductions planned by rival BP to trim costs and boost efficiency.",
+            "date": "2025-04-07T15:07:54Z",
+            "sentiment-score": -0.9233061298727989
+        },
+        {
+            "id": "a2b674a3-a983-39e7-aec0-b79251c8bc77",
+            "summary": "We recently published a list of 11 Best American Energy Stocks to Buy Now. In this article, we are going to take a look at where Chevron Corporation (NYSE:CVX) stands against other best American energy stocks to buy now. On Friday, April 4, oil futures reached multiyear lows following China\u2019s response to the tariffs imposed by [\u2026]",
+            "date": "2025-04-08T14:21:19Z",
+            "sentiment-score": -0.9374594762921333
+        },
+        {
+            "id": "a07475b2-f684-3509-af0f-90b23c917a29",
+            "summary": "The oil stock beat the market in Q1. Here's why it remains a buy on any dip.",
+            "date": "2025-04-08T15:50:20Z",
+            "sentiment-score": 0.060364061035215855
+        },
+        {
+            "id": "5932f807-0a14-3157-b92a-acc381ee2a6d",
+            "summary": "Can Chevron and ExxonMobil sail through the current turbulent tariff-induced business environment?",
+            "date": "2025-04-08T13:39:00Z",
+            "sentiment-score": 0.11510265432298183
+        },
+        {
+            "id": "5ee7161c-84e8-3693-9fc7-74f65138588e",
+            "summary": "CVX is set to begin a seabed survey to link Cyprus' Aphrodite gas field to Egypt, boosting regional energy ties.",
+            "date": "2025-04-08T14:42:00Z",
+            "sentiment-score": 0.8994458597153425
+        },
+        {
+            "id": "ebc9b234-e28b-3499-8790-4892f2df5fc6",
+            "summary": "U.S. oil major Chevron plans to increase the use of a technique that allows it to fracture subterranean rock in three wells at a time in the Permian basin, the company told Reuters, in an effort to cut the time and cost of producing oil.  Chevron's expansion of the technique, known as triple-frac, comes as the second-largest U.S. oil producer expects to continue growing output in the Permian, the biggest U.S. oilfield, even as it begins to slow spending in the basin.  The shale oil revolution in the United States has been driven by technological advancement.",
+            "date": "2025-04-09T10:09:28Z",
+            "sentiment-score": 0.3631624784320593
+        },
+        {
+            "id": "ecda9868-9da8-3747-86ad-5bf93357b6d7",
+            "summary": "AFRM and RH have been highlighted as Zacks Bull and Bear of the Day.",
+            "date": "2025-04-09T08:14:00Z",
+            "sentiment-score": 0.2394199762493372
+        },
+        {
+            "id": "eee11b7f-d931-3eb8-9ee4-feb54607514a",
+            "summary": "The Dow Jones Industrial Average (DJINDICES: ^DJI) fell sharply after the U.S. released a new tariff program.  A quick look at the three highest-paying dividend stocks on the index -- Merck (NYSE: MRK), Chevron (NYSE: CVX), and Verizon (NYSE: VZ)\u00a0-- is a good place to start if you want to find out.  Merck's 4% dividend yield is near the highest levels of the past decade, though it's been much higher in the past.",
+            "date": "2025-04-09T07:15:00Z",
+            "sentiment-score": 0.002869267016649246
+        },
+        {
+            "id": "5bae32d9-43f4-3c2f-8ce7-5a437f2fbce0",
+            "summary": "Oil price plunges below $60, dragging oil majors like XOM, CVX, and SHEL lower. Trade war tariffs and OPEC+ supply surge shake up global energy markets.",
+            "date": "2025-04-09T10:33:00Z",
+            "sentiment-score": -0.921746707521379
+        },
+        {
+            "id": "3ec2c0a2-f6cd-3b90-895a-b2e7635c1ac6",
+            "summary": "(Bloomberg) -- Oil plunged to a four-year low as an intensifying trade war endangered energy demand, with a fresh wave of US and Chinese levies menacing the global economy.Brent futures tumbled below $60 a barrel for the first time since 2021 as natural gas, copper and other commodities also slid. West Texas Intermediate futures traded near $57 a barrel. Shares of BP Plc, Shell Plc, Exxon Mobil Corp. and Chevron Corp. slumped.Crude futures maintained losses as official US data showed domestic in",
+            "date": "2025-04-09T14:40:46Z",
+            "sentiment-score": -0.9479939443990588
+        }
+    ]
+}

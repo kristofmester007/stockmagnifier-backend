@@ -1,0 +1,233 @@
+{
+    "ticker": "AMD",
+    "total_news": 36,
+    "average_sentiment": -0.2067912601115596,
+    "weighted_average_sentiment": -0.2924848159994273,
+    "average_daily_sentiments": [
+        0.025223687873221934,
+        -0.8216633654923903,
+        0.10991550935432315,
+        -0.35135877784341574,
+        0.09224811429157853,
+        -0.20923754014074802,
+        0.7610110465902835
+    ],
+    "news": [
+        {
+            "id": "d05a5504-688e-3fad-912d-e0a40654521c",
+            "summary": "Nvidia's Blackwell computing platform set performance records in artificial intelligence inferencing tests. But Nvidia stock wavered on the news.",
+            "date": "2025-04-02T20:49:06Z",
+            "sentiment-score": -0.8946940526366234
+        },
+        {
+            "id": "f3724bff-456f-36dd-b1f8-c12b6385cca3",
+            "summary": "Trump said the import tariff rate for Taiwan will be set at 32%. Initially, that looked like bad news for American chip makers like Nvidia, Advanced Micro Devices, and Qualcomm, which are customers of Taiwan Semiconductor Manufacturing Co.",
+            "date": "2025-04-02T21:51:19Z",
+            "sentiment-score": -0.9390872763469815
+        },
+        {
+            "id": "084f0bdc-a80d-4338-ac0b-eaabb0b8a6ea",
+            "summary": "Intel and TSMC have reached a tentative agreement to shore up Intel's foundry business, according to The Information.",
+            "date": "2025-04-03T20:24:17Z",
+            "sentiment-score": 0.9004811774939299
+        },
+        {
+            "id": "ee0bf1a8-5f3e-371d-a677-2556c1d27c1a",
+            "summary": "AMD competes with NVIDIA in the GPU market and has gained some of the latter's key clients. Can AMD stock surpass NVIDIA?",
+            "date": "2025-04-03T19:05:00Z",
+            "sentiment-score": 0.6046336339786649
+        },
+        {
+            "id": "7ae75147-90dd-356e-971e-b2db4d197636",
+            "summary": "Artisan Partners, an investment management company, released its \u201cArtisan Global Opportunities Fund\u201d fourth quarter 2024 investor letter. A copy of the letter can be downloaded here. US equities experienced significant gains in Q4, showcasing a strong year. The portfolio showed slight weakness in Q4 but posted a strong absolute return in 2024. In the fourth [\u2026]",
+            "date": "2025-04-03T11:38:37Z",
+            "sentiment-score": 0.8627727068960667
+        },
+        {
+            "id": "3966fac4-7c86-3359-834e-0f073458e3f4",
+            "summary": "Super Micro Computer (SMCI) might have the word \u201cmicro\u201d in its name, but make no mistake\u2014this Silicon Valley-based server and storage powerhouse has been delivering mighty growth over the past three years. With the boom in AI training, cloud data centers, and enterprise IT, Super Micro has surged 829%, alongside some of the hottest trends in technology. While the company\u2019s most explosive alpha years\u20142023 and 2024\u2014are now behind us, I believe the runway is far from finished. Based on projected ea",
+            "date": "2025-04-03T11:28:27Z",
+            "sentiment-score": 0.6761566679924726
+        },
+        {
+            "id": "764a3fdc-503a-3dfd-8cd2-d527a568a9c1",
+            "summary": "AMD, NVIDIA, Microsoft, Meta and Oracle are part of the Zacks top Analyst Blog.",
+            "date": "2025-04-04T13:00:00Z",
+            "sentiment-score": 0.004079347476363182
+        },
+        {
+            "id": "5e70306a-b6ae-31cd-9b6c-b68921a10ee2",
+            "summary": "There's no hiding it: Graphics processing unit (GPU) leader Nvidia is eating rival Advanced Micro Devices' (NASDAQ: AMD) lunch in the data center space.  A rising tide really can lift all boats, and that holds especially true with Nvidia and AMD, as large data center operators don't want to get locked into one GPU provider.  Nvidia recently made a bold prediction about where data center infrastructure spending is going -- spending that will benefit both Nvidia and AMD.",
+            "date": "2025-04-04T11:15:00Z",
+            "sentiment-score": 0.6598278935998678
+        },
+        {
+            "id": "07a0898b-9877-310c-aa25-6b1fc2aff3ca",
+            "summary": "In a strategic partnership, Navitas Semiconductor and Great Wall have developed a next-generation 400V-DC power architecture specifically designed for AI data centers. Leveraging Navitas\u2019 GaNSense technology, the collaboration has resulted in an ultra-high power density DC-DC converter delivering 2.5kW of power\u2014marking a significant leap in power efficiency and density. This innovative power solution supports evolving data center requirements by accommodating more GPUs while promoting energy...",
+            "date": "2025-04-04T11:07:30Z",
+            "sentiment-score": 0.8357444554567337
+        },
+        {
+            "id": "56abbbe4-6b05-3b57-832c-d0a964bd9a51",
+            "summary": "Advanced Micro Devices (NasdaqGS:AMD) experienced a 7% decline over the past month. Despite announcing their 5th Gen AMD EPYC processors to power Oracle Cloud, and expanding their x86 embedded processor portfolio, AMD\u2019s share price nonetheless trended downward. This aligns with a broader sell-off affecting tech stocks amid escalating global trade tensions and a downtrend in major indices, including the Nasdaq, which entered bear market territory. Investor concerns over trade-related impacts...",
+            "date": "2025-04-04T17:43:35Z",
+            "sentiment-score": -0.9512237859889865
+        },
+        {
+            "id": "3d7506c1-9d69-31a5-9fdb-e4e78da7d3a3",
+            "summary": "Chips were never safe from tariff pain despite their initial exclusion from President Donald Trump\u2019s new levies on Wednesday. His announcement aboard Air Force One yesterday that the sector was in his crosshairs for direct tariffs has rightly rattled investors further.",
+            "date": "2025-04-04T17:57:35Z",
+            "sentiment-score": -0.8482248447835445
+        },
+        {
+            "id": "cd81db4b-d04d-360d-b802-b6bdae0516c3",
+            "summary": "Shares of computer processor maker AMD (NASDAQ:AMD) fell 8.4% in the morning session after China imposed a 34% tariff on all U.S. imports amid escalating trade war tensions. This was especially rough for the US chipmakers because a big chunk of their business leans on demand out of China. The new tariffs not only threaten to erode profit margins but also risk reducing market share. Adding to the uncertainty, the Trump administration signaled the possibility of further regulatory action against t",
+            "date": "2025-04-04T19:14:05Z",
+            "sentiment-score": -0.9556283066049218
+        },
+        {
+            "id": "fb682716-b935-336d-a380-bff8a222b52d",
+            "summary": "The recent market sell-off has created some nice opportunities in the market for long-term investors, particularly among artificial intelligence (AI) stocks.  This includes several AI semiconductor stocks besides Nvidia, which has also seen its stock come under pressure.  Let's look at two AI chip stocks that investors can look to buy ahead of the next AI stock bull run.",
+            "date": "2025-04-05T09:33:00Z",
+            "sentiment-score": 0.08072189893573523
+        },
+        {
+            "id": "f92195bc-fe71-3f84-b5d3-f65c75a0a234",
+            "summary": "We recently published a list of 10 Stocks That Will Profit From AI. In this article, we are going to take a look at where Advanced Micro Devices, Inc. (NASDAQ:AMD) stands against other stocks that will profit from AI. Artificial Intelligence (AI) is no longer a concept of the future but a real economic force [\u2026]",
+            "date": "2025-04-05T15:18:11Z",
+            "sentiment-score": 0.006731241010129452
+        },
+        {
+            "id": "3258f7c5-df2f-3e40-99e4-a5b15327e110",
+            "summary": "Paul Tudor Jones is betting on these two turnaround stocks over Nvidia.",
+            "date": "2025-04-05T12:53:00Z",
+            "sentiment-score": 0.18929120292887092
+        },
+        {
+            "id": "1e01e888-b205-3de4-98db-fe1e0efd3042",
+            "summary": "Although recent\u00a0stock market volatility has pushed down prices for many stocks, the artificial intelligence (AI) sector remains a compelling investment, with the tremendous transformative potential it brings to many industries.  A newcomer to the AI space is the recent initial public offering (IPO)\u00a0CoreWeave (NASDAQ: CRWV).  The company went public on March 28, and AI semiconductor powerhouse Nvidia was among those that bought shares.",
+            "date": "2025-04-06T13:13:00Z",
+            "sentiment-score": 0.12456437107175589
+        },
+        {
+            "id": "e6bd04b1-f4b1-3c93-9a7d-4850b52b0d3b",
+            "summary": "Advanced Micro Devices (NasdaqGS:AMD) recently unveiled its 5th Gen AMD EPYC\u2122 processors, significantly boosting Oracle Cloud Infrastructure's performance, as well as expanding its x86 embedded processor portfolio. Despite these announcements, the company's share price decreased by 15% over the past month. This decline occurs amid a broader tech sector downturn, with the Nasdaq entering bear market territory following heightened volatility due to a trade war with China. The tech-heavy index...",
+            "date": "2025-04-06T17:24:34Z",
+            "sentiment-score": -0.8272819267585874
+        },
+        {
+            "id": "05065dcb-6562-36d2-9987-68d74a60ecee",
+            "summary": "We recently published a list of 10 Best High-Risk Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Advanced Micro Devices, Inc. (NASDAQ:AMD) stands against other best high-risk stocks to buy according to billionaires. Investors often retreat into safer assets during volatility when the global markets [\u2026]",
+            "date": "2025-04-07T12:04:58Z",
+            "sentiment-score": -0.02286102995276451
+        },
+        {
+            "id": "1fbda66c-00fe-3414-9a89-9721e1e5b9c2",
+            "summary": "Articul8 has introduced A8-SupplyChain, a groundbreaking domain-specific Generative AI model designed to optimize supply chain, manufacturing, and industrial process operations. Leveraging autonomous reasoning and real-time decision-making capabilities, A8-SupplyChain surpasses the limitations of general-purpose language models by effectively handling complex industrial systems and translating technical documentation into actionable procedures. This innovation is incorporated into Articul8's...",
+            "date": "2025-04-07T11:07:32Z",
+            "sentiment-score": 0.2426920486614108
+        },
+        {
+            "id": "d3008a37-3c76-3952-ac04-7cdf1319a657",
+            "summary": "AMD Downgraded After 50% Drop, Analysts Cite Intense Intel Competition",
+            "date": "2025-04-08T13:41:02Z",
+            "sentiment-score": -0.9340506624430418
+        },
+        {
+            "id": "0ba88920-9a0b-3cc5-ae1f-e782d6edf1ec",
+            "summary": "Advanced Micro Devices risks falling behind as competition in the server and PC markets ramps up, say analysts at KeyBanc.",
+            "date": "2025-04-08T11:58:00Z",
+            "sentiment-score": -0.9214718919247389
+        },
+        {
+            "id": "d04c8aa2-b455-3e19-bfa9-c625fc917b3e",
+            "summary": "To say that the stock market has been volatile lately doesn't do the situation justice.  The S&P 500 (SNPINDEX: ^GSPC) and several other major market indexes recently fell by more than 10% over a two-day period in response to President Trump's surprisingly high tariff rates.  The S&P 500 is now 18% below its February high, and with a 23% drop, the Nasdaq Composite (NASDAQINDEX: ^IXIC) is now firmly in bear market territory.",
+            "date": "2025-04-08T09:41:00Z",
+            "sentiment-score": -0.9554864298552275
+        },
+        {
+            "id": "a0916ed0-a4d0-499c-bc29-27930b793194",
+            "summary": "AMD stock catches a downgrade as Trump tariff fears spread throughout markets.",
+            "date": "2025-04-08T15:01:08Z",
+            "sentiment-score": -0.9439758956432343
+        },
+        {
+            "id": "7da8a01d-fad2-32fd-882c-1c7d3318df35",
+            "summary": "Advanced Micro (AMD) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
+            "date": "2025-04-08T13:00:11Z",
+            "sentiment-score": 0.01741153746843338
+        },
+        {
+            "id": "6bc90c4b-d3c0-3e1c-a612-2ab8136478e2",
+            "summary": "Advanced Micro Devices (AMD) is facing concerns over the sustainability of its China artificial inte",
+            "date": "2025-04-08T15:09:27Z",
+            "sentiment-score": -0.8696793001145124
+        },
+        {
+            "id": "528648df-73c9-3624-bf89-a42b5ef83245",
+            "summary": "Despite opening the day solidly in the green, Advanced Micro Devices (NASDAQ: AMD) stock is now moving lower in Tuesday's trading.  In addition to fading recovery momentum, AMD stock is getting dragged lower by an analyst rating downgrade.",
+            "date": "2025-04-08T17:55:55Z",
+            "sentiment-score": -0.9566718246787786
+        },
+        {
+            "id": "a1dc4441-e837-3e78-9d7d-262de6f777d3",
+            "summary": "Semiconductor stocks face diverging paths as AI, tariffs, and China shape short-term risks and opportunities",
+            "date": "2025-04-08T18:43:30Z",
+            "sentiment-score": -0.8781515061855316
+        },
+        {
+            "id": "1bfd73b6-bde4-3e87-80ce-3da7710533a3",
+            "summary": "Tech stocks were lower late Tuesday afternoon, with the Technology Select Sector SPDR Fund (XLK) fal",
+            "date": "2025-04-08T19:56:43Z",
+            "sentiment-score": -0.9528943160548806
+        },
+        {
+            "id": "11698a51-725b-4821-a4b0-4a131cc5bafe",
+            "summary": "The latest investor updates on stocks that are trending on Wednesday.",
+            "date": "2025-04-09T09:32:54Z",
+            "sentiment-score": -0.023303923197090626
+        },
+        {
+            "id": "24fd0879-2406-35f7-8780-40c845c906ba",
+            "summary": "Nvidia has been an incredible growth stock, and it's been a bit of an anomaly -- no other stock within the index has come close to generating the same types of returns over the past decade.  Below, I'll look at who is in the second spot, and how close its returns are to Nvidia's.  The second-best-performing stock on the S&P 500 over the past decade is none other than Nvidia's rival Advanced Micro Devices (NASDAQ: AMD), more commonly referred to as AMD.",
+            "date": "2025-04-09T09:25:00Z",
+            "sentiment-score": 0.07315155118703842
+        },
+        {
+            "id": "594a6375-5af9-3f8e-a1c2-b504c8b50221",
+            "summary": "Nvidia has emerged as one of the most valuable companies in the world thanks to the AI movement, but the company's long-term growth looks questionable.",
+            "date": "2025-04-09T01:00:00Z",
+            "sentiment-score": 0.36346644535660744
+        },
+        {
+            "id": "d8d8a4ac-f969-3810-ac4c-7197a2af8828",
+            "summary": "LPL Financial Holdings Inc. has appointed Vaughn Harvey as the executive vice president and chief data and artificial intelligence (AI) officer, marking a significant move in its AI strategy. With over 25 years of experience in AI-driven digital transformations, Harvey will spearhead LPL\u2019s data and AI initiatives, enhancing digital transformation across the organization. This appointment comes as LPL Financial aims to advance its offerings in artificial intelligence through programs like AI...",
+            "date": "2025-04-09T11:38:02Z",
+            "sentiment-score": 0.23279514256864786
+        },
+        {
+            "id": "9eeeb70a-4a36-3460-aa56-174cd3b4e291",
+            "summary": "The most talked about and market moving research calls around Wall Street are now in one place. Here are today\u2019s research calls that investors need to know, as compiled by The Fly. Top 5 Upgrades: Melius Research upgraded Dollar General (DG) to Buy from Hold with a $110 price target. While the company had its own \u201cself-inflicted\u201d challenges and competitive challenges over the last 12 months, the firm believes it likely will benefit from a worsening macro environment and a lack of tariff exposure",
+            "date": "2025-04-09T13:35:20Z",
+            "sentiment-score": 0.8677340056747198
+        },
+        {
+            "id": "d511be81-e5bb-36d0-a2a2-0683bd1427de",
+            "summary": "(Bloomberg) -- Short sellers, or traders who wager on share price declines, are up $159 billion in paper profits over just six trading days after an escalating trade war sent the US stock market plummeting down more than 10%. The biggest market drawdown since 2022 on President Donald Trump\u2019s pronouncement of sweeping worldwide tariffs made bets against an exchange traded fund tracking the S&P 500 Index, known as SPY, the most profitable short bet in that timeframe, according to data from S3 Part",
+            "date": "2025-04-09T13:11:31Z",
+            "sentiment-score": -0.8850987674668431
+        },
+        {
+            "id": "38332cb6-375c-3d3f-866e-110979b991dc",
+            "summary": "Wall Street is overwhelmingly bullish on the stocks in this article, with price targets suggesting significant upside potential. However, it\u2019s worth remembering that analysts rarely issue sell ratings, partly because their firms often seek other business from the same companies they cover.",
+            "date": "2025-04-09T13:03:04Z",
+            "sentiment-score": 0.023989226669073105
+        },
+        {
+            "id": "25f664d0-33d6-38be-a87e-e6fb4f506fb3",
+            "summary": "Brad Smith takes a closer look at the top stories as part of today's Market Minute. Trump Media & Technology Group (DJT) stock gains as US President Trump tells markets to \"be cool,\" saying it's \"a great time to buy.\" Advanced Micro Devices (AMD) gains amid a broader tech rally despite TD Cowen analysts cutting the company's price target to $100 from $135. Bernstein analysts downgrade Ford (F) to Sell from Hold, citing the impact of tariffs. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
+            "date": "2025-04-09T16:25:19Z",
+            "sentiment-score": -0.4509441778063774
+        }
+    ]
+}

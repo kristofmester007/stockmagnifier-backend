@@ -1,0 +1,197 @@
+{
+    "ticker": "NFLX",
+    "total_news": 30,
+    "average_sentiment": 0.05839977132466932,
+    "weighted_average_sentiment": 0.07734171830863776,
+    "average_daily_sentiments": [
+        -0.007246575318276882,
+        0.2646232153702941,
+        0.003477210711155619,
+        -0.07863620482385159,
+        -0.4619459453970194,
+        -0.005827659120162328,
+        0.005033727735280991
+    ],
+    "news": [
+        {
+            "id": "b1b6a751-5d89-3e84-a595-eccfcd2ef9c7",
+            "summary": "In the latest trading session, Netflix (NFLX) closed at $935.52, marking a +0.77% move from the previous day.",
+            "date": "2025-04-02T21:45:15Z",
+            "sentiment-score": 0.8346392875537276
+        },
+        {
+            "id": "96a7134f-1925-3248-be1c-c151a7ba9bdd",
+            "summary": "Netflix, Comcast, IBM, and two others look like good bets in the market downturn, according to these analysts.",
+            "date": "2025-04-03T17:33:00Z",
+            "sentiment-score": -0.012695126235485077
+        },
+        {
+            "id": "79154fe3-78ad-32aa-9214-6eb6ab26a568",
+            "summary": "We recently published a list of Top 10 Stocks to Watch as AI Trade Dynamics Change. In this article, we are going to take a look at where Netflix, Inc. (NASDAQ:NFLX) stands against other top stocks to watch as AI trade dynamics change. Aswath Damodaran from NYU Stern School of Business said in a recent [\u2026]",
+            "date": "2025-04-03T16:39:57Z",
+            "sentiment-score": 0.024258073419332504
+        },
+        {
+            "id": "94ea71d1-008b-32ba-aee4-7256e2a87e6d",
+            "summary": "FOXA vs. NFLX: Which Stock Is the Better Value Option?",
+            "date": "2025-04-03T15:40:05Z",
+            "sentiment-score": 0.0035382360219955444
+        },
+        {
+            "id": "02904185-c128-3cbd-8516-7de9a888798a",
+            "summary": "We recently published a list of Jim Cramer\u2019s Lightning Round: 8 Stocks in Focus. In this article, we are going to take a look at where Netflix, Inc. (NASDAQ:NFLX) stands against other stocks that Jim Cramer discusses. Jim Cramer, host of Mad Money, discussed on Monday how investor sentiment surrounding tech stocks has shifted over [\u2026]",
+            "date": "2025-04-04T14:44:56Z",
+            "sentiment-score": 0.00205051526427269
+        },
+        {
+            "id": "6eddcaec-6022-3272-a840-6d5130b59df6",
+            "summary": "NFLX's 50% climb over the last year is even more impressive since it wasn't fueled by artificial intelligence hype.",
+            "date": "2025-04-04T12:00:00Z",
+            "sentiment-score": 0.903524486348033
+        },
+        {
+            "id": "c0b01f06-89aa-3709-a310-7368e72e6514",
+            "summary": "Harding Loevner, an asset management company, released its \u201cGlobal Developed Markets Equity Strategy\u201d fourth-quarter 2024 investor letter. A copy of the letter can be downloaded here. International stock markets concluded the last quarter of 2024 on a negative note, although US stocks significantly surpassed the rest of the world, during the year and the quarter. [\u2026]",
+            "date": "2025-04-04T11:43:19Z",
+            "sentiment-score": -0.9230579789727926
+        },
+        {
+            "id": "58a3eef3-3980-370e-944e-9efac5ab52b3",
+            "summary": "\u201cNow Streaming\u201d is The Fly\u2019s weekly recap of the stories surrounding the biggest content streamers. PLAYING THIS WEEKEND: Among this weekend\u2019s now streaming content is Hulu\u2019s comedy drama miniseries \u201cDying for Sex,\u201d starring Michelle Williams and Jenny Slate. Meanwhile, Netflix (NFLX) subscribers can watch medical drama \u201cThe Pulse\u201d as well as animated series \u201cDevil May Cry,\u201d which is based on the Capcom (CCOEY) series of video games. Additionally, Amazon Prime Video (AMZN) users can watch action",
+            "date": "2025-04-05T16:20:23Z",
+            "sentiment-score": 0.010445280000567436
+        },
+        {
+            "id": "1c4e98b9-8652-3d64-bc43-942999246ca6",
+            "summary": "These proven market-beating stocks have declined between 12% and 64% from their highs. Consider buying the dip.",
+            "date": "2025-04-05T09:40:00Z",
+            "sentiment-score": -0.7436461038887501
+        },
+        {
+            "id": "516d69ec-7f0f-378e-9208-aad16329b587",
+            "summary": "(Bloomberg) -- Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersLocal Governments Vie for Fired Federal WorkersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesWhat Would \u2018Transportation Abundance\u2019 Look Like?Hochul Says Trump\u2019s Tariffs Are Already Hurting New York EconomyWhen US President Donald Trump slapped bigger-than-expected tariffs on imports from around the world, Americans lamented pending prices hikes for Champagne, Parmesan and Ferra",
+            "date": "2025-04-05T04:00:02Z",
+            "sentiment-score": -0.6526370123028755
+        },
+        {
+            "id": "7719641a-d9b0-30fe-abc7-f0bf3f277f93",
+            "summary": "The recent correction in the stock market is making many investors uneasy.  Amid several days of considerable sell-offs, shareholders are likely questioning past investments, and others may ask themselves whether they want to stay in the stock market at all.  Knowing that, three Fool.com contributors have ideas about where tech investors can turn for stability and long-term returns: Netflix (NASDAQ: NFLX), Spotify Technology (NYSE: SPOT), and the VanEck Semiconductor ETF (NASDAQ: SMH).",
+            "date": "2025-04-06T11:45:00Z",
+            "sentiment-score": -0.07863620482385159
+        },
+        {
+            "id": "491ed742-7982-3c9e-b0c3-75073450f0ed",
+            "summary": "Netflix (NASDAQ: NFLX) has been one of the best performing stocks this century.  Netflix deserves credit for completely disrupting the media industry.  By letting viewers select from a huge catalog of shows and movies, with the ability to watch whenever they wanted, Netflix provided a superior experience compared to traditional cable TV.",
+            "date": "2025-04-07T11:15:00Z",
+            "sentiment-score": 0.22161179035902023
+        },
+        {
+            "id": "051c27e9-6150-348a-8ae6-126805678ec8",
+            "summary": "Netflix and NVIDIA have been highlighted in this Investment Ideas article.",
+            "date": "2025-04-07T09:47:00Z",
+            "sentiment-score": 0.017444737255573273
+        },
+        {
+            "id": "b0d4803f-e5d8-3aab-a9d5-e040fc2a0f55",
+            "summary": "Both Netflix stock and Spotify stock are down 13% from their all-time highs amid the volatility in the broader market, but they are actually outperforming the Nasdaq-100 technology index, which has plummeted by almost 17% from its high.  Since it appears likely that trade tensions will persist for the foreseeable future, here's why investors with a spare $1,500 (money they don't need for immediate expenses) might want to buy one share of Netflix and one share of Spotify.  Netflix is the world's largest streaming platform for movies and TV shows, with 301.6 million subscribers as of the end of 2024.",
+            "date": "2025-04-07T09:03:00Z",
+            "sentiment-score": -0.9486311348155141
+        },
+        {
+            "id": "c5225218-b550-462a-b025-be7f38940888",
+            "summary": "The profit outlook for businesses has dimmed considerably post Trump tariff news.",
+            "date": "2025-04-07T14:53:59Z",
+            "sentiment-score": -0.4999271593987942
+        },
+        {
+            "id": "c5b6c566-f5f1-3416-aa3c-73a17406c777",
+            "summary": "Netflix (NFLX) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
+            "date": "2025-04-07T13:00:13Z",
+            "sentiment-score": 0.0199852017685771
+        },
+        {
+            "id": "91762df4-54b3-30d7-b1b6-c71f3b1ed194",
+            "summary": "Funds are buying Netflix and Philip Morris amid the Trump tariff stock market meltdown. Both stocks are near all-time highs.",
+            "date": "2025-04-07T18:56:42Z",
+            "sentiment-score": 0.31535322219133377
+        },
+        {
+            "id": "a49cd7b9-49d8-379a-8fea-0322b450df9d",
+            "summary": "As Disney, Warner Bros. Discovery and plenty of other media companies have seen their stocks get hit hard in the past few days, Spotify and Netflix are emerging relatively unscathed from the recent tariff-driven market mayhem.  Spotify shares closed up 3% Monday.  Netflix shares were up 1.4%.",
+            "date": "2025-04-07T20:53:13Z",
+            "sentiment-score": 0.8985038176178932
+        },
+        {
+            "id": "b1c2c8bf-4529-3da1-a303-0589d605105b",
+            "summary": "It could be Turnaround Tuesday for stocks after a bruising three-day stretch. Futures on the Dow Jones Industrial Average are jumping, as traders focus on the Trump administration reportedly beginning trade discussions with Japan. The S&P 500 and Nasdaq Composite are also set to open higher. President Trump's broad tariffs are set to kick in tomorrow, with many now seeing them as a negotiating tactic. China, however, vowed today to quote \u201cfight to the end\u201d on the tariff front.Here is what you need to know about the markets today:Levi\u2019s puts investors through the spin cycle: Shares of&nbsp; the jeans maker surged 10% in early trading following better than expected quarterly earnings. The company maintained its full year profit outlook. Walmart is in focus: While Wall Street tries to estimate what tariffs could mean for companies, veteran retail analyst Greg Melich of EvercoreISI is estimating a worst-case scenario of tariffs on Walmart. Melich said, \"If 50% incremental [tariffs] on China and 20% rest of the world [tariffs] are maintained, AND no carrots of tax cuts or deregulation are implemented, we estimate the EPS pressure for Walmart of 2% could grow 3x higher.\" BrIIt could be the year of lost profits for companies due to tariffs: The bottom up consensus earnings per share expectation for the S&P 500 assumes 9.6% growth. Some of the biggest EPS gains are seen in tech darlings Nvidia, Broadcom, Netflix and Microsoft. But long-time strategist Adam Parker at Trivariate Research says investors no longer believe those numbers. Parker thinks the tariffs are such a headwind, investors may see NO earnings growth for the S&P 500.",
+            "date": "2025-04-08T11:37:55Z",
+            "sentiment-score": 0.20111581683158875
+        },
+        {
+            "id": "55c9ed02-3f3e-3b8c-b85b-b4982c837a53",
+            "summary": "The cup with handle is a simple base pattern that leads to successful breakouts. Netflix gained 39% after breaking out from a cup with handle's buy point in 2023.",
+            "date": "2025-04-08T13:00:57Z",
+            "sentiment-score": 0.8055367930792272
+        },
+        {
+            "id": "ffd41a25-91d1-3f9c-8466-e85d2db05950",
+            "summary": "Investing.com -- Morgan Stanley has named Netflix (NASDAQ:NFLX) its new Top Pick in the Media & Entertainment sector, replacing Walt Disney (NYSE:DIS).",
+            "date": "2025-04-08T12:28:32Z",
+            "sentiment-score": 0.7957404758781195
+        },
+        {
+            "id": "b8cf4522-8f62-3832-b74a-977925a7f643",
+            "summary": "Meghan, Duchess of Sussex, talks to Fortune about launching consumer brand As Ever and the release of her new podcast, right as tariffs rock the markets.",
+            "date": "2025-04-08T10:30:00Z",
+            "sentiment-score": 0.038057878613471985
+        },
+        {
+            "id": "8a750d51-b800-3f46-b24a-e4c408b80ab5",
+            "summary": "We recently published a list of 10 Best Fundamental Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Netflix, Inc. (NASDAQ:NFLX) stands against other best fundamental stocks to buy according to billionaires. As per Fitch Ratings, the US tariffs are now at levels that continue to transform [\u2026]",
+            "date": "2025-04-08T02:33:31Z",
+            "sentiment-score": 0.06015987414866686
+        },
+        {
+            "id": "feffc5e3-273a-39cd-823a-92f13fb55327",
+            "summary": "JPMorgan slashed its price targets on 25 companies in the internet space, citing macroeconomic issues, Schwab Network recently reported. Among the most prominent names whose price targets were slashed by the bank are Meta (META), Amazon (AMZN), Alphabet (GOOG), and Netflix (NFLX). Some of the Highest-Profile Target Cuts The bank reduced its price target on [\u2026]",
+            "date": "2025-04-08T16:30:10Z",
+            "sentiment-score": -0.9281390681862831
+        },
+        {
+            "id": "ad5de33d-d4b3-385a-aeb4-0129bdf7b423",
+            "summary": "Netflix stock rose Tuesday after Morgan Stanley called the internet television network its \"top pick\" among media and entertainment stocks.",
+            "date": "2025-04-08T17:09:28Z",
+            "sentiment-score": 0.9071639496833086
+        },
+        {
+            "id": "4236a7fc-7821-3700-8f1f-77b3935c7e67",
+            "summary": "Netflix spends significantly in local economies around the world, and its content is closely watched. That makes harsh trade actions a political liability.",
+            "date": "2025-04-08T16:48:00Z",
+            "sentiment-score": -0.32132694125175476
+        },
+        {
+            "id": "558fedce-8541-3133-8073-825f960030ca",
+            "summary": "Earnings results often indicate what direction a company will take in the months ahead. With Q4 behind us, let\u2019s have a look at Booking (NASDAQ:BKNG) and its peers.",
+            "date": "2025-04-09T09:10:07Z",
+            "sentiment-score": 0.013729277066886425
+        },
+        {
+            "id": "bf0eb05f-7ea4-3154-86cb-0fb788cd9ace",
+            "summary": "Netflix (NFLX) closed at $870.40 in the latest trading session, marking a +0.3% move from the prior day.",
+            "date": "2025-04-08T21:45:16Z",
+            "sentiment-score": 0.8233001595363021
+        },
+        {
+            "id": "c3b80c33-7807-3d91-ac47-c3758c04263a",
+            "summary": "Investing.com -- KeyBanc Capital Markets cut price targets across a group of digital advertising and streaming stocks citing worsening ad agency checks and increased macro uncertainty.The firm reduced revenue forecasts and price targets for eight names, including Overweight-rated Alphabet (NASDAQ:GOOGL), Meta Platforms (NASDAQ:META), Netflix (NASDAQ:NFLX), Pinterest (NYSE:PINS), Spotify (NYSE:SPOT), and The Trade Desk (NASDAQ:TTD).Trump tariffs have induced the investments pause until, as compan",
+            "date": "2025-04-09T17:48:06Z",
+            "sentiment-score": -0.9515634113922715
+        },
+        {
+            "id": "2b47c372-177e-3051-aa01-406a8d82b220",
+            "summary": "Netflix and DoorDash are two of the seven best stocks where investors can find magnificent profit growth prospects.  More than 70% of analysts covering Netflix have buy or overweight ratings on the video streaming service.  The consensus estimate for 2025 earnings is $24.69, a 25% increase from last year.",
+            "date": "2025-04-09T17:36:21Z",
+            "sentiment-score": 0.9160944083705544
+        }
+    ]
+}

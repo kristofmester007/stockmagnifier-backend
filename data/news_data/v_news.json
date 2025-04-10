@@ -1,0 +1,113 @@
+{
+    "ticker": "V",
+    "total_news": 16,
+    "average_sentiment": 0.17348973502521403,
+    "weighted_average_sentiment": 0.1068764326345671,
+    "average_daily_sentiments": [
+        0.16669239522889256,
+        -0.1135465355279545,
+        0.446258216475447,
+        -0.9366264557465911,
+        0,
+        0.2940641002729535,
+        0.4553109407424927
+    ],
+    "news": [
+        {
+            "id": "4858335e-d9f9-368d-9fa5-04e970bbbdac",
+            "summary": "Visa (NYSE:V) recently unveiled new payment solutions aimed at simplifying and securing transactions, which appear aligned with its stock's 10% increase last quarter. The company introduced a reimagined Authorize.net, Unified Checkout Experience, and ARIC Risk Hub, enhancing payment acceptance and fraud protection. These launches potentially positioned Visa as an innovator in a complex market, counteracting broader market setbacks like the tariff announcements impacting many sectors. Unlike...",
+            "date": "2025-04-03T17:35:43Z",
+            "sentiment-score": 0.8874551989138126
+        },
+        {
+            "id": "93a9254e-a12c-3d10-9e69-47b6c1129fc5",
+            "summary": "Warren Buffett-led Berkshire Hathaway is reaching new all-time highs despite a year-to-date sell-off in major indexes like the S&P 500 and Nasdaq Composite.  The simplest way to invest in Buffett's top ideas is to buy Berkshire stock directly.  Another option is to scan Berkshire's public equity holdings for investment ideas.",
+            "date": "2025-04-03T11:30:00Z",
+            "sentiment-score": 0.023166682571172714
+        },
+        {
+            "id": "ec8dec89-a67d-3ecf-b109-d628e94f6846",
+            "summary": "Dividend-paying companies tend to be more resilient than their non-paying peers, and the regular payouts can smooth out losses, especially during a bear market, something many investors fear may be on the horizon.  It's no surprise, then, that buying shares in excellent income companies is part of Warren Buffett's strategy -- he's not considered the greatest investor of all time for no reason.  Let's consider two that are worth holding on to forever: Apple (NASDAQ: AAPL) and Visa (NYSE: V).",
+            "date": "2025-04-04T07:55:00Z",
+            "sentiment-score": 0.04048854298889637
+        },
+        {
+            "id": "321277ce-8e3e-3507-ae0f-f36794c43869",
+            "summary": "We recently published a list of Jim Cramer\u2019s Lightning Round: 8 Stocks in Focus. In this article, we are going to take a look at where Visa Inc. (NYSE:V) stands against other stocks that Jim Cramer discusses. Jim Cramer, host of Mad Money, discussed on Monday how investor sentiment surrounding tech stocks has shifted over [\u2026]",
+            "date": "2025-04-04T14:44:42Z",
+            "sentiment-score": 0.002186063677072525
+        },
+        {
+            "id": "2f7ea196-9074-3c30-ade4-1110956edc95",
+            "summary": "Finding strong, market-beating stocks with a positive earnings outlook becomes easier with the Focus List, a top feature of the Zacks Premium portfolio service.",
+            "date": "2025-04-04T13:30:05Z",
+            "sentiment-score": 0.06555908359587193
+        },
+        {
+            "id": "192266f7-f329-3b8a-9a88-6ca2435c2bde",
+            "summary": "V launches a new set of services to empower businesses with innovative financial solutions that focus on boosting payment security and providing AI-driven Insights.",
+            "date": "2025-04-04T16:01:00Z",
+            "sentiment-score": 0.4893860053271055
+        },
+        {
+            "id": "00effaa9-e76b-358a-b3b3-5b5cc66c5b99",
+            "summary": "These new services expand Visa's portfolio, which already includes more than 200 value-added services.",
+            "date": "2025-04-04T18:18:22Z",
+            "sentiment-score": 0.8727008057758212
+        },
+        {
+            "id": "ed6934f6-973e-3800-85a7-cf933913b388",
+            "summary": "We recently published a list of Starter Stock Portfolio 12 Safe Stocks to Buy. In this article, we are going to take a look at where Visa Inc. (NYSE:V) stands against other best beginner stocks. The US stock market has experienced a turbulent first quarter of 2025, marked by increased volatility and negative returns across [\u2026]",
+            "date": "2025-04-06T22:59:13Z",
+            "sentiment-score": -0.9366264557465911
+        },
+        {
+            "id": "f8ce7577-e807-362e-9e16-a560b124c9a8",
+            "summary": "AXP's clients typically have higher incomes and strong credit scores, which helps minimize credit risks.",
+            "date": "2025-04-07T15:53:00Z",
+            "sentiment-score": 0.6514649018645287
+        },
+        {
+            "id": "4c3c633f-1c10-3980-b1f3-c00e2991bf60",
+            "summary": "We recently published a list of the 8 Most Profitable Dividend Stocks to Buy Now. In this article, we are going to take a look at where Visa Inc. (NYSE:V) stands against other profitable dividend stocks. When it comes to profits, dividend investing is the first thing that springs to mind. Dividends represent a portion of [\u2026]",
+            "date": "2025-04-07T18:32:15Z",
+            "sentiment-score": 0.008679594844579697
+        },
+        {
+            "id": "015570bd-74d3-3f81-80e1-c87a3a16ce4e",
+            "summary": "Over the past year, many Visa Inc. ( NYSE:V ) insiders sold a significant stake in the company which may have piqued...",
+            "date": "2025-04-08T13:00:17Z",
+            "sentiment-score": -0.5195826664566994
+        },
+        {
+            "id": "990bc10e-3deb-3aa2-a1d0-5448c9b2185d",
+            "summary": "These companies have the business strength and financials to give you peace of mind in a fearful market.",
+            "date": "2025-04-08T09:23:00Z",
+            "sentiment-score": 0.14101179549470544
+        },
+        {
+            "id": "f1f4dc02-7114-3893-9df1-3bce4a11dfe4",
+            "summary": "We recently published a list of 10 Best Fundamental Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Visa Inc. (NYSE:V) stands against other best fundamental stocks to buy according to billionaires. As per Fitch Ratings, the US tariffs are now at levels that continue to [\u2026]",
+            "date": "2025-04-08T02:34:40Z",
+            "sentiment-score": 0.037931264378130436
+        },
+        {
+            "id": "fa8c3b8a-6a23-32c5-b569-369cd583b46b",
+            "summary": "Visa (V) closed at $311.85 in the latest trading session, marking a -0.41% move from the prior day.",
+            "date": "2025-04-07T21:45:16Z",
+            "sentiment-score": 0.6786301527172327
+        },
+        {
+            "id": "cdd5b38f-f7f0-3326-bece-010563461f88",
+            "summary": "Investing.com --Evercore ISI initiated coverage on Visa Inc (NYSE:V), Mastercard Inc (NYSE:MA), and PayPal Holdings Inc (NASDAQ:PYPL) with In Line ratings, viewing the payments leaders as defensive plays in a volatile macro environment but noting valuation sensitivities and execution risks.Evercore sees Visa as a defensive stalwart, Mastercard is preferred on valuation while PayPal\u2019s turnaround depends on execution.",
+            "date": "2025-04-09T14:23:22Z",
+            "sentiment-score": 0.3138529881834984
+        },
+        {
+            "id": "322e0108-e712-3dca-97de-1e7c591f27b7",
+            "summary": "Zacks.com users have recently been watching Visa (V) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
+            "date": "2025-04-09T13:00:14Z",
+            "sentiment-score": 0.019531802274286747
+        }
+    ]
+}

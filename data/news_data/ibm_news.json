@@ -1,0 +1,131 @@
+{
+    "ticker": "IBM",
+    "total_news": 19,
+    "average_sentiment": 0.21961331010894164,
+    "weighted_average_sentiment": 0.27323367854871794,
+    "average_daily_sentiments": [
+        0.3121938842038314,
+        0.19760154436031976,
+        0.4920395975932479,
+        -0.0053644925355911255,
+        0,
+        0.05724510340951383,
+        -0.012695126235485077
+    ],
+    "news": [
+        {
+            "id": "726d84d1-26fb-3ab9-8373-0ae83b6c6e35",
+            "summary": "In the most recent trading session, IBM (IBM) closed at $249.98, indicating a -0.14% shift from the previous trading day.",
+            "date": "2025-04-02T21:45:14Z",
+            "sentiment-score": -0.07137210853397846
+        },
+        {
+            "id": "96a7134f-1925-3248-be1c-c151a7ba9bdd",
+            "summary": "Netflix, Comcast, IBM, and two others look like good bets in the market downturn, according to these analysts.",
+            "date": "2025-04-03T17:33:00Z",
+            "sentiment-score": -0.012695126235485077
+        },
+        {
+            "id": "03826f37-5adb-38ee-b271-20e6799ab337",
+            "summary": "The companies will explore the development of technology for smaller nodes and chiplet architectures.",
+            "date": "2025-04-04T14:46:06Z",
+            "sentiment-score": 0.13585750223137438
+        },
+        {
+            "id": "eb890132-a0ae-3cba-bb38-a2c13adc4b80",
+            "summary": "The tech-heavy Nasdaq Composite (^IXIC) is set to enter a bear market. Futurum Group CEO Daniel Newman joins Catalysts with Madison Mills and Lumida Wealth Management CEO Ram Ahluwalia to discuss what President Donald Trump's new tariffs mean for tech CEOs and their artificial intelligence (AI) spending. To watch more expert insights and analysis on the latest market action, check out more Catalysts here.",
+            "date": "2025-04-04T17:00:00Z",
+            "sentiment-score": 0.026288065128028393
+        },
+        {
+            "id": "b1499488-e9ec-395a-affc-21e8346af594",
+            "summary": "We recently published a list of Mag7 and Beyond: Top 10 AI News Updates and Ratings. In this article, we are going to take a look at where International Business Machines Corporation (NYSE:IBM) stands against other top AI news updates and ratings. According to a study presented at a European Central Bank conference, companies that [\u2026]",
+            "date": "2025-04-04T23:14:52Z",
+            "sentiment-score": 0.009589742869138718
+        },
+        {
+            "id": "2c282091-6bb1-37c9-8916-bce2ffb0b1ae",
+            "summary": "The mostly forgotten former technology titan may quietly be sitting on the next big thing in AI's ongoing evolution.",
+            "date": "2025-04-06T13:00:00Z",
+            "sentiment-score": -0.0053644925355911255
+        },
+        {
+            "id": "237feeb6-39fc-3322-b868-68fe99858f87",
+            "summary": "IBM on Monday announced that it acquired Hakkoda, a data and AI consultancy based in New York, for an undisclosed amount. Mohamad Ali, SVP and head of IBM's consulting business, said that the acquisition would \"further expand\" IBM's ability to bring consultants and AI to clients, particularly customers in industries like financial services, public sector, and healthcare and life sciences. \"With Hakkoda's data expertise, deep technology partnerships, and asset-centric delivery model,\" Ali said in",
+            "date": "2025-04-07T14:08:02Z",
+            "sentiment-score": 0.8538036290556192
+        },
+        {
+            "id": "b205c470-6f84-3798-a4d9-7364a7384b56",
+            "summary": "IBM (IBM) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
+            "date": "2025-04-07T13:00:17Z",
+            "sentiment-score": -0.011550968512892723
+        },
+        {
+            "id": "404bdf4e-72c5-30e7-97e1-d700109aca83",
+            "summary": "Here, we pick three AI stocks, META, IBM and OKTA, which are well poised to benefit from AI's growing pervasiveness and huge spending by tech giants.",
+            "date": "2025-04-07T15:47:00Z",
+            "sentiment-score": 0.6137034017592669
+        },
+        {
+            "id": "2e016357-331a-3562-9c01-1967da92f7e1",
+            "summary": "IBM watsonx introduces new AI native features in the Master's App and website to ensure an immersive experience for golf fans.",
+            "date": "2025-04-07T16:10:00Z",
+            "sentiment-score": 0.5122023280709982
+        },
+        {
+            "id": "577ba0ed-c42f-4055-963e-05f667bddb5b",
+            "summary": "Wall Street analysts are out defending some stocks amid a brief reprieve in the Trump tariff-related selling.",
+            "date": "2025-04-08T13:07:39Z",
+            "sentiment-score": -0.7377830166369677
+        },
+        {
+            "id": "a656fdf5-bd62-3962-abf6-108e6d891335",
+            "summary": "The product line, designed to handle AI workloads, will begin shipping this summer.",
+            "date": "2025-04-08T00:01:00Z",
+            "sentiment-score": 0.07150600058957934
+        },
+        {
+            "id": "f8aaf0c9-4d5c-3ecd-a864-a125720bf048",
+            "summary": "IBM is releasing the latest version of its mainframe hardware that includes new updates meant to accelerate AI adoption. The hardware and consulting company on Monday announced IBM z17, the latest version of its mainframe computer hardware. This fully encrypted mainframe is powered by an IBM Telum II processor and is designed for more than 250 AI use cases, the company says, including AI agents and generative AI. Mainframes might seem like old hat, but they're used by 71% of Fortune 500 companie",
+            "date": "2025-04-08T04:01:00Z",
+            "sentiment-score": 0.051696831826120615
+        },
+        {
+            "id": "90da2557-1505-3ca3-bdc7-d62a4de33511",
+            "summary": "IBM stock gained in a bounce-back day for tech stocks. The computing giant is launching an AI-focused update to its mainframe.",
+            "date": "2025-04-08T15:06:18Z",
+            "sentiment-score": 0.6445716060698032
+        },
+        {
+            "id": "83a02036-0abb-3c72-b4e3-41e5c7dbfef9",
+            "summary": "IBM's stock defied market trends with a 13% gain in Q1 2025. Here's how Big Blue pulled off this impressive feat while the S&P 500 struggled.",
+            "date": "2025-04-08T17:31:56Z",
+            "sentiment-score": 0.2530146539211273
+        },
+        {
+            "id": "b3974713-463e-3517-a5b7-ca0966879e8b",
+            "summary": "The buyout of data consultancy provider Hakkoda will strengthen IBM's consulting expertise and support its clients' AI transformation initiatives.",
+            "date": "2025-04-08T16:25:00Z",
+            "sentiment-score": 0.9026031903922558
+        },
+        {
+            "id": "8031d85a-245b-3fcc-a4ab-c925c05fe24d",
+            "summary": "IBM's mainframe systems, known for their extreme reliability, remain a workhorse in certain industries.  Of the world's 50 top banks, 43 use IBM's mainframes to handle mission-critical workloads.  Every two to three years, IBM refreshes its mainframe lineup with a new model that brings improved performance and expanded capabilities.",
+            "date": "2025-04-09T09:35:00Z",
+            "sentiment-score": 0.800565586425364
+        },
+        {
+            "id": "b167b5f3-e1ce-36f9-a0b4-bc0414723b4f",
+            "summary": "We recently published a list of 9 AI Stocks In Focus: Tariffs and Key Updates. In this article, we are going to take a look at where International Business Machines Corporation (NYSE:IBM) stands against other AI stocks in focus. President Donald Trump\u2019s new tariff regimes have been introduced under the International Emergency Economic Powers Act. [\u2026]",
+            "date": "2025-04-09T16:25:51Z",
+            "sentiment-score": 0.019844673573970795
+        },
+        {
+            "id": "9293b67b-b617-357c-acf1-51847e8597f3",
+            "summary": "IBM Telum II processor-powered mainframe can process up to 50% more AI inference operations per day than its predecessor.",
+            "date": "2025-04-09T16:06:19Z",
+            "sentiment-score": 0.11617139261215925
+        }
+    ]
+}

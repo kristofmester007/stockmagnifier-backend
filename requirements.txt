@@ -1,0 +1,13 @@
+yfinance
+python-dateutil
+schedule
+pytz
+requests
+beautifulsoup4
+transformers
+torch
+fastapi
+uvicorn
+pydantic
+scipy
+httpx
