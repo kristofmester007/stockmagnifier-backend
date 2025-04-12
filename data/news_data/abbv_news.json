@@ -1,54 +1,18 @@
 {
     "ticker": "ABBV",
-    "total_news": 15,
-    "average_sentiment": -0.10279004617283742,
-    "weighted_average_sentiment": -0.07136115652098451,
+    "total_news": 13,
+    "average_sentiment": -0.04546504446233694,
+    "weighted_average_sentiment": -0.13560127532857397,
     "average_daily_sentiments": [
+        0,
+        -0.01730150682851672,
+        -0.46700031589716673,
         -0.4184277302119881,
         0.3710786293571194,
         0.905250727199018,
-        0.032782373018562794,
-        -0.4399591976155837,
-        0,
-        -0.1998437223955989
+        0.032782373018562794
     ],
     "news": [
-        {
-            "id": "b0cf2081-f718-3185-954d-691dc27fe873",
-            "summary": "AbbVie on Thursday cut its 2025 adjusted profit forecast as the drugmaker expects to incur $248 million in acquisition expenses related to milestone payments as well as research and development costs. The company has been focusing on expanding its pipeline since its blockbuster arthritis drug, Humira, lost patent protection in 2023. To that end, the company bought neuroscience drug developer Cerevel Therapeutics, cancer drug developer ImmunoGen and Alzheimer's therapy developer Aliada in 2024 through deals worth over $20 billion in total.",
-            "date": "2025-04-03T20:34:48Z",
-            "sentiment-score": -0.8636397495865822
-        },
-        {
-            "id": "7ffe3f1a-9127-3a8a-adaf-a7b54ae24a5f",
-            "summary": "\"Buy and hold\" is a simple strategy for investors, but it can be a hard one to stick to in actual practice.  Not every long-term investment will turn out that way, but investing a modest amount of money in growth stocks and letting it sit can be your best financial move.  Retirees on the lookout for some reliable dividend stocks can find plenty of attractive buying opportunities in the markets today.",
-            "date": "2025-04-03T13:00:00Z",
-            "sentiment-score": 0.055264237336814404
-        },
-        {
-            "id": "d3857ca5-41bd-3a65-926d-0f7210842491",
-            "summary": "In the closing of the recent trading day, AbbVie (ABBV) stood at $201.64, denoting a -1.73% change from the preceding trading day.",
-            "date": "2025-04-03T21:45:15Z",
-            "sentiment-score": 0.20884434506297112
-        },
-        {
-            "id": "38e5c5c8-57d9-3b7a-88ec-e4a4c84f7823",
-            "summary": "The major averages were sharply lower again near noon, continuing yesterday\u2019s post-tariff slide. China has retaliated with additional tariffs of 34% on all U.S. goods a day after the Trump administration imposed its own sweeping levies. Meanwhile, the latest U.S. jobs data show that nonfarm payrolls rose by a higher-than-forecast 228,000 jobs, though the unemployment rate has ticked higher. Looking to commodities, oil prices are sharply lower due to a planned output increase promised by OPEC+ as",
-            "date": "2025-04-05T16:10:32Z",
-            "sentiment-score": -0.7312252093106508
-        },
-        {
-            "id": "54620c9e-fe6e-33da-8af1-89e53c20fe49",
-            "summary": "This stands to reason, as nearly every stage of drug development and marketing is resource- and capital-intensive, and as a result, cash can be in short supply.  Let's take a look at two outliers with dividend policies that have looked especially attractive lately -- pharmaceutical companies Amgen (NASDAQ: AMGN) and AbbVie (NYSE: ABBV).  Amgen's involvement in the high-demand obesity drugs race has attracted attention recently, but the pharmaceutical sector star has been on the radar of clever investors for years.",
-            "date": "2025-04-05T12:30:00Z",
-            "sentiment-score": 0.06398462876677513
-        },
-        {
-            "id": "516d69ec-7f0f-378e-9208-aad16329b587",
-            "summary": "(Bloomberg) -- Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersLocal Governments Vie for Fired Federal WorkersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesWhat Would \u2018Transportation Abundance\u2019 Look Like?Hochul Says Trump\u2019s Tariffs Are Already Hurting New York EconomyWhen US President Donald Trump slapped bigger-than-expected tariffs on imports from around the world, Americans lamented pending prices hikes for Champagne, Parmesan and Ferra",
-            "date": "2025-04-05T04:00:02Z",
-            "sentiment-score": -0.6526370123028755
-        },
         {
             "id": "868183b1-c359-3a35-b5cc-6734aa1e04fe",
             "summary": "What should investors do when stocks are tanking over the short term?  Three Motley Fool contributors think they've found great dividend stocks to own for the long term that pay you to wait for better days.  Here's why they picked AbbVie (NYSE: ABBV), Amgen (NASDAQ: AMGN), and Eli Lilly (NYSE: LLY).",
@@ -102,6 +66,30 @@
             "summary": "Stocks in drugmakers sold off globally after President Trump said tariffs on pharmaceutical imports will be unveiled shortly, signaling the industry could be next in line amid a trade war that is causing market turmoil.  AbbVie, Eli Lilly, Johnson & Johnson, Merck and Pfizer all fell at least 2% Wednesday morning.  Denmark's Novo Nordisk, Switzerland's Novartis and the U.K.'s AstraZeneca and GSK also fell 2% or more in the U.S.",
             "date": "2025-04-09T13:51:17Z",
             "sentiment-score": -0.9492702353745699
+        },
+        {
+            "id": "f8fa3801-3898-3a0e-adf5-510b4d831d64",
+            "summary": "EU approves expanded use of ABBV's Rinvoq and AZN's Imfinzi and Enhertu. NVS set to invest $23B to boost U.S. manufacturing.",
+            "date": "2025-04-11T15:47:00Z",
+            "sentiment-score": 0.8833163687959313
+        },
+        {
+            "id": "831eb40b-3af7-3c9a-9946-a44f5602e5e9",
+            "summary": "ClearBridge Investments, an investment management company, released its \u201cClearBridge Growth Strategy\u201d first quarter 2025 investor letter. A copy of the letter can be downloaded here. First quarter of 2025 witnessed sharp equities sell off due to the shift out of mega caps. There was a relative outperformance of mid cap growth stocks over large and [\u2026]",
+            "date": "2025-04-11T14:16:18Z",
+            "sentiment-score": -0.9179193824529648
+        },
+        {
+            "id": "5788e167-ba2e-3f2d-8e9e-4bfb72e0e2c1",
+            "summary": "Pharma stocks tumbled Thursday after the Trump administration said the delay for reciprocal tariffs doesn't apply to sector-specific tariffs.",
+            "date": "2025-04-10T16:58:23Z",
+            "sentiment-score": -0.9471217887476087
+        },
+        {
+            "id": "dd87f1e5-d7ce-308c-95c9-ebad75f67e23",
+            "summary": "Zacks.com users have recently been watching AbbVie (ABBV) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
+            "date": "2025-04-10T13:00:16Z",
+            "sentiment-score": 0.013121156953275204
         }
     ]
 }

@@ -1,72 +1,18 @@
 {
     "ticker": "WFC",
-    "total_news": 23,
-    "average_sentiment": -0.2716366527399615,
-    "weighted_average_sentiment": -0.2242093128135197,
+    "total_news": 25,
+    "average_sentiment": -0.18348638508468867,
+    "weighted_average_sentiment": -0.16617325439143021,
     "average_daily_sentiments": [
+        0.9043130469508469,
+        -0.4373787181037996,
+        0,
         -0.2750723312298457,
         -0.07951153703033924,
         -0.20610042987391353,
-        0,
-        -0.9044745219871402,
-        -0.16185795376077294,
-        -0.5850134710781276
+        0
     ],
     "news": [
-        {
-            "id": "4e82dfe3-c358-3fce-a88f-a5f6e8e0f46f",
-            "summary": "(Bloomberg) -- Traders are bracing for more dollar weakness after President Donald Trump\u2019s sweeping trade tariffs weakened the US currency by the most in two and a half years. Most Read from BloombergMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLondon Clears Final Hurdle for More High-Speed Trains to EuropeLocal Governments Vie for Fired Federal WorkersWhat Frank Lloyd Wright Learned From the DesertChicago School District Agrees to Minimum 16% Teacher Pay RaiseInve",
-            "date": "2025-04-03T09:34:46Z",
-            "sentiment-score": -0.22907380014657974
-        },
-        {
-            "id": "25a9d7d3-44a0-46f1-a693-b82867059bdd",
-            "summary": "Stocks of the biggest banks and private-equity firms plunged Thursday as concerns mounted about how Wall Street giants and their customers might be affected by heightened odds of a US recession.",
-            "date": "2025-04-03T19:04:55Z",
-            "sentiment-score": -0.9409531420096755
-        },
-        {
-            "id": "d1c965a4-0c1b-3a54-ac31-fad37458928e",
-            "summary": "We recently published a list of Jim Cramer Highlighted 12 Stocks and Tariff Panic. In this article, we are going to take a look at where Wells Fargo & Company (NYSE:WFC) stands against other stocks that Jim Cramer highlighted. On Monday, Jim Cramer, the host of Mad Money, discussed the current market and he identified [\u2026]",
-            "date": "2025-04-04T14:46:27Z",
-            "sentiment-score": 0.0025383103638887405
-        },
-        {
-            "id": "b7a6b14d-de71-404b-a36e-d172d59c957b",
-            "summary": "Earnings preview of key companies reporting next week and what to look out for.",
-            "date": "2025-04-04T12:54:59Z",
-            "sentiment-score": -0.010118871927261353
-        },
-        {
-            "id": "215ef5e2-d9c0-33f9-a5f0-a2011587c8c8",
-            "summary": "President Trump\u2019s trade levies spell trouble for bank stocks even though they aren\u2019t in the direct line of fire.",
-            "date": "2025-04-04T12:00:00Z",
-            "sentiment-score": -0.9009103160351515
-        },
-        {
-            "id": "c02c10d7-9616-3bf5-b80e-8d77552532d9",
-            "summary": "Wells Fargo (WFC) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-            "date": "2025-04-04T14:00:06Z",
-            "sentiment-score": 0.10897168284282088
-        },
-        {
-            "id": "5bbf9fba-0cf8-37a2-826c-e06e32acb485",
-            "summary": "Yahoo Finance Head of News Myles Udland breaks down the top stories to watch this weekend and next week. President Trump's baseline 10% tariffs are set to take effect Saturday, April 5, and reciprocal tariffs will take effect Wednesday, April 9. Big banks will kick off earnings season next week, with JPMorgan (JPM), Wells Fargo (WFC), and Bank of New York Mellon (BK) to release earnings on Friday, April 11. Other companies will also be releasing earnings throughout the week, including Levi Strauss (LEVI), Tilray (TLRY), and Delta (DAL). Fresh inflation data will be coming out next week, including the Consumer Price Index (CPI) on Thursday, April 10 and the Producer Price Index (PPI) on Friday, April 11. Finally, on Wednesday, April 9, the Federal Reserve will release the meeting minutes for its most recent FOMC meeting. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime here.",
-            "date": "2025-04-04T23:00:00Z",
-            "sentiment-score": -0.009770574048161507
-        },
-        {
-            "id": "dc936388-8192-3c88-a915-47c8efebfa53",
-            "summary": "We all know that the banking business isn't subject to tariffs. But as cyclical operators, their business is heavily exposed to trends in the broader economy, which in turn is seen as weighed down by the ongoing tariffs uncertainty.",
-            "date": "2025-04-05T00:48:00Z",
-            "sentiment-score": -0.8535434752702713
-        },
-        {
-            "id": "10d98d58-a2a9-325c-9176-385ab15234a8",
-            "summary": "The announcement that Wells Fargo (NYSE:WFC) Securities, LLC will lead underwrite the company's upcoming fixed-income offering is significant as it expands its financial services presence. Meanwhile, activist investors have been vocal, with several proposals up for discussion at the annual meeting next month, focusing on sustainability and governance. Amidst this, Wells Fargo's share price fell 14% over the past week, a move that coincided with a turbulent stock market driven by trade war...",
-            "date": "2025-04-05T17:53:37Z",
-            "sentiment-score": -0.9554055687040091
-        },
         {
             "id": "b084849b-e49e-3bb5-a3b4-05368aaf441b",
             "summary": "JPMorgan, Wells Fargo, Bank of America and Morgan Stanely are part of Zacks Earnings Preview.",
@@ -150,6 +96,72 @@
             "summary": "Josh Lipton goes over some of the top trending stories on this segment of Market Minute. Apple (AAPL) stock rebounds after previous losses, though shares are down over 20% over the past five days. Oil futures (CL=F) are sliding due to the escalating trade war as China announced retaliatory tariffs of 84% on US goods, effective April 10th. Bank stocks, including JPMorgan (JPM), Wells Fargo (WFC), and Citigroup (C) are under pressure after JPMorgan Chase CEO Jamie Dimon warned that a US recession is likely. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
             "date": "2025-04-09T17:19:38Z",
             "sentiment-score": -0.939682612195611
+        },
+        {
+            "id": "f1ebe554-e4eb-32b8-a06d-f84ffea09e23",
+            "summary": "As part of today's Market Minute, Madison Mills recaps the top stories on Wall Street in just 60 seconds. JPMorgan Chase (JPM) earnings beat expectations, but CEO Jamie Dimon says the US economy faces \"considerable turbulence.\" BlackRock's (BLK) net income fell with CEO Larry Fink warning a US recession is \"very close.\" Wells Fargo (WFC) also announced a decline in net income as CEO Charlie Scharf calling for a \"timely\" resolution to the trade war. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
+            "date": "2025-04-11T15:22:48Z",
+            "sentiment-score": -0.9256976619362831
+        },
+        {
+            "id": "1480a2ef-34ec-34cf-a4a3-30c8f552bd8a",
+            "summary": "Despite a decline in net interest income, Wells Fargo & Co (WFC) reports a 16% increase in diluted earnings per share and returns $4.8 billion to shareholders.",
+            "date": "2025-04-12T07:00:42Z",
+            "sentiment-score": 0.8958571134135127
+        },
+        {
+            "id": "4416b0d6-22d5-3af7-bd54-b4142925194e",
+            "summary": "(Bloomberg) -- Wall Street\u2019s gyrations shook markets anew, with stocks erasing losses to notch their best week since 2023. The rally came as a rout in bonds and the dollar abated, following a few chaotic days that underscored fears foreign investors are beating a retreat from American assets.Most Read from BloombergThe Secret Formula for Faster TrainsIn Chicago, a Former Steel Mill Looks to Make a Quantum LeapMidtown Office Building Evacuated on Concerns of Wall CollapseNYC Tourist Helicopter Cr",
+            "date": "2025-04-11T21:27:04Z",
+            "sentiment-score": 0.04850633442401886
+        },
+        {
+            "id": "b099dfb9-9e18-3eb2-86f1-158ba48ebc24",
+            "summary": "We recently published a list of the 11 Cheap NYSE Stocks to Invest in According to Hedge Funds. In this article, we are going to take a look at where Wells Fargo & Company (NYSE:WFC) stands against other cheap NYSE stocks. On March 26, Jack Caffrey of JPMorgan Asset Management provided an analysis of market [\u2026]",
+            "date": "2025-04-11T20:36:35Z",
+            "sentiment-score": 0.0067125968635082245
+        },
+        {
+            "id": "d569afda-6bbf-3713-aceb-176be2a23d69",
+            "summary": "The major indexes made robust progress Friday afternoon following Thursday's big losses. Nvidia climbed as Tesla fell.",
+            "date": "2025-04-11T20:32:32Z",
+            "sentiment-score": 0.7227031132206321
+        },
+        {
+            "id": "3e7f78c2-b027-38c1-959a-52358c9e6d61",
+            "summary": "Shares of Wells Fargo dropped by as much as 3% on Friday after the bank\u2019s net interest income, or NII, declined and fell short of analysts\u2019 expectations.  Wells Fargo\u2019s NII\u2014revenue generated from interest payments, less what customers are paid back\u2014for the first quarter was $11.5 billion, down 6% from a year earlier.  NII is core to Wells Fargo\u2019s business, driving roughly half of its overall revenue last year.",
+            "date": "2025-04-11T17:24:28Z",
+            "sentiment-score": -0.9589273352175951
+        },
+        {
+            "id": "20c725ea-96b9-3ea1-8778-5834ef2fc19c",
+            "summary": "Wells Fargo (NYSE:WFC) recently reported its first quarter 2025 earnings, highlighting a decline in net interest income, yet an increase in net income and improved EPS figures. Despite the company's positive earnings per share results, its stock fell 4% over the past week. This decline contrasts with the broader market, where indexes saw gains amid volatility due to trade tariff developments. Factors such as Wells Fargo's lower interest income might have added weight to the company's stock...",
+            "date": "2025-04-11T17:19:52Z",
+            "sentiment-score": -0.9444607850164175
+        },
+        {
+            "id": "60d123e3-8e6c-3148-8b87-68c00b04f6e9",
+            "summary": "JPMorgan Chase\u2019s Jamie Dimon and BlackRock\u2019s Larry Fink both said the turbulence wasn\u2019t like prior financial crises.",
+            "date": "2025-04-11T16:42:00Z",
+            "sentiment-score": -0.3537067398428917
+        },
+        {
+            "id": "ed8b2741-df20-384b-930e-82ab5d98beab",
+            "summary": "(Bloomberg) -- A struggle by investors to predict President Donald Trump\u2019s mercurial policies set trading records at Wall Street banks in the first quarter. But as industry leaders looked ahead, they had no great answers and scant optimism for what\u2019s to come.Most Read from BloombergThe Secret Formula for Faster TrainsMidtown Office Building Evacuated on Concerns of Wall CollapseIn Chicago, a Former Steel Mill Looks to Make a Quantum LeapNYC Tourist Helicopter Crashes in Hudson River, Killing Six",
+            "date": "2025-04-11T15:58:23Z",
+            "sentiment-score": -0.669733190909028
+        },
+        {
+            "id": "3abb2f2d-70ea-34cb-a0a3-7cb44d9af56b",
+            "summary": "Executives from across the banking industry spoke on Friday about the uncertainty surrounding the Trump administration's tariffs, the stock market, and the possibility of a recession.",
+            "date": "2025-04-11T15:38:03Z",
+            "sentiment-score": -0.8618047945201397
+        },
+        {
+            "id": "bf13c781-e074-3520-839d-2c8a0c3cee55",
+            "summary": "Says had \u2018solid\u2019 Q1 results. Says continued to take \u2018disciplined approach\u2019 to expenses. Says consumer losses were \u2018relatively stable\u2019. Says risk and control work remains top priority. Says \u2018remains confident\u2019 to complete work needed to close other consent orders. Says continues to increase collaboration between bankers, advisors. Says seen more clients investing in alternative products. Says focused on expanding commercial banking business. Says consumers have remained \u2018resilient\u2019. Says overall",
+            "date": "2025-04-12T14:15:28Z",
+            "sentiment-score": 0.9127689804881811
         }
     ]
 }

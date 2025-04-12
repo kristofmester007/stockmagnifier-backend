@@ -1,42 +1,18 @@
 {
     "ticker": "GE",
     "total_news": 8,
-    "average_sentiment": -0.4365923156728968,
-    "weighted_average_sentiment": -0.41786421954091035,
+    "average_sentiment": -0.36063989030662924,
+    "weighted_average_sentiment": -0.35097597429970484,
     "average_daily_sentiments": [
+        0,
+        -0.44114939868450165,
+        -0.30029379731665057,
         0,
         -0.15392596647143364,
         -0.7940870001912117,
-        0,
-        0,
-        -0.7673372947610915,
-        -0.47087695030495524
+        0
     ],
     "news": [
-        {
-            "id": "46190826-a59e-3dad-b175-c0974718e979",
-            "summary": "We recently published a list of Top 10 Stocks on Jim Cramer\u2019s Radar as Trump Tariffs Wreak Havoc Across Global Markets. In this article, we are going to take a look at where GE Aerospace (NYSE:GE) stands against other top stocks on Jim Cramer\u2019s radar as Trump tariffs wreak havoc across global markets. Jim Cramer [\u2026]",
-            "date": "2025-04-03T18:47:42Z",
-            "sentiment-score": 0.0017621805891394615
-        },
-        {
-            "id": "f6103b4b-f460-3038-89cf-3a73aa45f972",
-            "summary": "If any winners emerge from the trade war started by the Trump administration, the aviation industry certainly isn\u2019t going to be among them.  Shares in aerospace manufacturers such as Boeing, Airbus, GE Aerospace and Rolls-Royce plummeted Thursday as a result of Trump's \u201cLiberation Day\u201d announcements.  Airbus\u2019s plant in Alabama would face a cost surge, but so would Boeing\u2019s many U.S. assembly lines.",
-            "date": "2025-04-03T13:55:07Z",
-            "sentiment-score": -0.94351608119905
-        },
-        {
-            "id": "a143c4b8-f3af-3df2-8406-e4bcd6c2d931",
-            "summary": "As the Q4 earnings season wraps, let\u2019s dig into this quarter\u2019s best and worst performers in the medical devices & supplies - imaging, diagnostics industry, including QuidelOrtho (NASDAQ:QDEL) and its peers.",
-            "date": "2025-04-04T09:04:25Z",
-            "sentiment-score": -0.5828553922474384
-        },
-        {
-            "id": "a67e5e6e-3f61-35ee-bff3-0ce6a4e8a369",
-            "summary": "Shares of the companies spun off from the former industrial icon General Electric were all tanking Friday, led by medical device maker GE HealthCare, on investor fears that they would be hurt by Beijing\u2019s retaliatory levies countering President Donald Trump\u2019s tariffs.",
-            "date": "2025-04-04T17:16:48Z",
-            "sentiment-score": -0.9518191972747445
-        },
         {
             "id": "1e771ad3-4d7b-3616-ae54-9c26578d52a6",
             "summary": "As the Q4 earnings season wraps, let\u2019s dig into this quarter\u2019s best and worst performers in the general industrial machinery industry, including John Bean (NYSE:JBTM) and its peers.",
@@ -56,10 +32,34 @@
             "sentiment-score": -0.021862488240003586
         },
         {
-            "id": "acbfe512-dac6-33a9-929e-b872f31c1b0b",
-            "summary": "GE Aerospace separated from GE Vernova on April 2, 2024. The big winners from that breakup were investors.",
-            "date": "2025-04-02T20:16:00Z",
-            "sentiment-score": 0.08562889788299799
+            "id": "6f3fd88d-0b59-39de-b7b1-c5744e8cd071",
+            "summary": "Looking back on general industrial machinery stocks\u2019 Q4 earnings, we examine this quarter\u2019s best and worst performers, including Luxfer (NYSE:LXFR) and its peers.",
+            "date": "2025-04-11T09:17:12Z",
+            "sentiment-score": -0.8995168833062053
+        },
+        {
+            "id": "228aedde-ddac-309e-9130-ddae1f27a415",
+            "summary": "As the craze of earnings season draws to a close, here\u2019s a look back at some of the most exciting (and some less so) results from Q4. Today, we are looking at general industrial machinery stocks, starting with Otis (NYSE:OTIS).",
+            "date": "2025-04-11T09:15:47Z",
+            "sentiment-score": 0.017218085937201977
+        },
+        {
+            "id": "7f0c2a70-248e-3de7-8aa8-8db8d97029ce",
+            "summary": "A number of stocks fell in the afternoon session after stocks gave back some of the gains from the previous day as the White House clarified the tariffs on imports from China would add up to 145%, while the baseline 10% tariffs remained in place for all countries. This reminded markets that the global trade environment remained volatile, limiting the potential for sustained gains.",
+            "date": "2025-04-10T21:08:06Z",
+            "sentiment-score": -0.9405808476731181
+        },
+        {
+            "id": "22f96ff7-02fe-346e-9d22-de71eaf149e4",
+            "summary": "Even amid stock market turmoil, valuations still matter.",
+            "date": "2025-04-10T15:25:46Z",
+            "sentiment-score": 0.01039203442633152
+        },
+        {
+            "id": "62261566-cd43-32e0-93c0-af4193f56e8e",
+            "summary": "The end of the earnings season is always a good time to take a step back and see who shined (and who not so much). Let\u2019s take a look at how medical devices & supplies - imaging, diagnostics stocks fared in Q4, starting with Hologic (NASDAQ:HOLX).",
+            "date": "2025-04-10T09:14:53Z",
+            "sentiment-score": 0.029307421296834946
         }
     ]
 }

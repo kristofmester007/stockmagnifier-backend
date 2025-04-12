@@ -1,24 +1,18 @@
 {
     "ticker": "TMO",
-    "total_news": 3,
-    "average_sentiment": 0.3162381798028946,
-    "weighted_average_sentiment": 0.14999488120277724,
+    "total_news": 7,
+    "average_sentiment": 0.1367992443431701,
+    "weighted_average_sentiment": 0.14919479080844064,
     "average_daily_sentiments": [
         0,
+        0.0002771681174635887,
+        0.41396587574854493,
+        0.07269834913313389,
         0.04951685480773449,
         0.006893418729305267,
-        0,
-        0,
-        0.892304265871644,
         0
     ],
     "news": [
-        {
-            "id": "2d10354d-f32a-3d85-abfe-1d801e453e19",
-            "summary": "TMO launches the Krios 5 Cryo-TEM, boosting productivity and performance with enhanced automation.",
-            "date": "2025-04-04T10:51:00Z",
-            "sentiment-score": 0.892304265871644
-        },
         {
             "id": "2d94feaf-6f15-3947-a643-73eb6d608197",
             "summary": "(Bloomberg) -- Drug manufacturers are rushing to reshape their supply chains amid President Donald Trump\u2019s escalating tariff threats, leading to a potential windfall for contractors that make medications in the US.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersThis Skinny Mexico City Tower Is Just 14 Feet Wide on One SideThe Irish Hot Press Is the Low-Tech Laundry Trick the World NeedsBoston Mayor Wu Embraces Trump Resistance as Campaign Heats UpTrump Order on CDFI Fu",
@@ -30,6 +24,36 @@
             "summary": "Let\u2019s dig into the relative performance of Mettler-Toledo (NYSE:MTD) and its peers as we unravel the now-completed Q4 research tools & consumables earnings season.",
             "date": "2025-04-08T09:07:58Z",
             "sentiment-score": 0.04951685480773449
+        },
+        {
+            "id": "5be0f1cd-ab56-3382-aeac-41e8e0af8d1f",
+            "summary": "We recently published a list of 10 Best Medical Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Thermo Fisher Scientific Inc. (NYSE:TMO) stands against other best medical stocks to buy according to billionaires. Why are Healthcare Stocks Under Pressure? Some experts view medical, healthcare, and [\u2026]",
+            "date": "2025-04-11T19:55:21Z",
+            "sentiment-score": 0.0009317714720964432
+        },
+        {
+            "id": "4ac38fff-46ac-34a8-b27b-f8adbf604532",
+            "summary": "Eli Lilly, American Express, Thermo Fisher, Steel Partners and Oil-Dri are included in this Analyst Blog.",
+            "date": "2025-04-11T10:53:00Z",
+            "sentiment-score": -0.00037743523716926575
+        },
+        {
+            "id": "8e87f07c-be80-34c7-9a61-1ff0309427b9",
+            "summary": "Today's Research Daily features new research reports on 16 major stocks, including Eli Lilly and Company (LLY), American Express Company (AXP) and Thermo Fisher Scientific Inc. (TMO), as well as two micro-cap stocks, Steel Partners Holdings L.P. (SPLP) and Oil-Dri Corporation of America (ODC).",
+            "date": "2025-04-10T21:43:00Z",
+            "sentiment-score": 0.01165681891143322
+        },
+        {
+            "id": "1aadd850-183b-3c65-8710-d10887c19d0e",
+            "summary": "Thermo Fisher (TMO) was a big mover last session on higher-than-average trading volume. The latest trend in earnings estimate revisions might not help the stock continue moving higher in the near term.",
+            "date": "2025-04-10T09:15:00Z",
+            "sentiment-score": 0.8162749325856566
+        },
+        {
+            "id": "f7f48ed3-2c43-3722-ab0e-1cd745fa520c",
+            "summary": "We recently published a list of the 10 High Growth Dividend Paying Stocks to Invest in. In this article, we are going to take a look at where Thermo Fisher Scientific Inc. (NYSE:TMO) stands against other profitable dividend stocks. Amid growing concerns about economic growth and President Trump\u2019s tariffs, investors have been seeking safer investment [\u2026]",
+            "date": "2025-04-09T20:18:20Z",
+            "sentiment-score": 0.07269834913313389
         }
     ]
 }

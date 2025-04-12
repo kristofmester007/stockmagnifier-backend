@@ -1,66 +1,18 @@
 {
     "ticker": "MCD",
-    "total_news": 17,
-    "average_sentiment": 0.11084258359144716,
-    "weighted_average_sentiment": 0.13806584613694828,
+    "total_news": 15,
+    "average_sentiment": 0.07708519181857507,
+    "weighted_average_sentiment": -0.014912748262928457,
     "average_daily_sentiments": [
-        0.8654753379523754,
+        0,
+        -0.20932960545178503,
+        0.028724329080432653,
+        0.645179889164865,
         -0.4702665942410628,
         0.5116449178506931,
-        0.5438454989343882,
-        -0.06288595171645284,
-        0.19559229149793586,
-        -0.027534214430488646
+        0.5438454989343882
     ],
     "news": [
-        {
-            "id": "2e2343ff-f4e3-39e8-b278-ba2b5cb3466f",
-            "summary": "Senior Reporter Brooke DiPalma joins Market Domination to discuss how franchise operators like McDonald's (MCD) and Yum! Brands (YUM) and fast casual restaurants like Chipotle (CMG) and Cava (CAVA) are reacting to tariffs. To watch more expert insights and analysis on the latest market action, check out more Market Domination here.",
-            "date": "2025-04-03T20:51:21Z",
-            "sentiment-score": 0.0327091570943594
-        },
-        {
-            "id": "520c39c4-22f6-30f0-9dfe-3667f9d78638",
-            "summary": "Zacks.com users have recently been watching McDonald's (MCD) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
-            "date": "2025-04-03T13:00:15Z",
-            "sentiment-score": 0.014490244910120964
-        },
-        {
-            "id": "0ef20849-c4db-3d6c-a8e8-0123d8541416",
-            "summary": "Senior Reporter Brooke DiPalma joins Market Domination to discuss how franchise operators like McDonald's (MCD) and Yum! Brands (YUM) and fast casual restaurants like Chipotle (CMG) and Cava (CAVA) are reacting to tariffs. To watch more expert insights and analysis on the latest market action, check out more Market Domination here.",
-            "date": "2025-04-03T22:34:17Z",
-            "sentiment-score": 0.03270912682637572
-        },
-        {
-            "id": "372e93d5-ec64-4c98-80d2-c915e60988e9",
-            "summary": "Fast food restaurants have been mostly spared from the impact of Trump's tariffs.",
-            "date": "2025-04-03T21:44:23Z",
-            "sentiment-score": -0.19004538655281067
-        },
-        {
-            "id": "fa43b531-8811-33c8-b0f5-e51065d55810",
-            "summary": "These companies are on their way to becoming Dividend Kings.",
-            "date": "2025-04-04T11:45:00Z",
-            "sentiment-score": 0.11800421262159944
-        },
-        {
-            "id": "192657a7-af66-3b79-9ac5-2c12ef1c3b7f",
-            "summary": "McDonald's currently trades at $316.29 per share and has shown little upside over the past six months, posting a middling return of 4.1%. However, the stock is beating the S&P 500\u2019s 7% decline during that period.",
-            "date": "2025-04-04T09:07:36Z",
-            "sentiment-score": 0.4488517139106989
-        },
-        {
-            "id": "aae8d5b9-d7aa-3bd1-8504-beb07021aa3e",
-            "summary": "U.S. President Donald Trump's reciprocal tariffs took effect April 2.",
-            "date": "2025-04-04T19:03:58Z",
-            "sentiment-score": 0.019920947961509228
-        },
-        {
-            "id": "63133881-1530-368f-a858-bcfaa8c16a7c",
-            "summary": "Investors weren't exactly wrong to be excited about the companies trying to make meal kits and plant-based meat cool. But they sure haven't made any money from those bets. So...what went wrong?",
-            "date": "2025-04-05T01:26:00Z",
-            "sentiment-score": -0.1323036253452301
-        },
         {
             "id": "00e21820-e4ee-3d65-99ec-2c8c9446b005",
             "summary": "We recently published a list of Jim Cramer Reveals What\u2019s Next After Tariffs & Discusses These 10 Stocks. In this article, we are going to take a look at where McDonald\u2019s Corporation (NYSE:MCD) stands against other stocks that Jim Cramer discusses. In his appearance on CNBC\u2019s Squawk on the Street on Thursday, the day after [\u2026]",
@@ -114,6 +66,42 @@
             "summary": "LOCO's ability to manage costs, adapt to evolving consumer preferences, and maintain a differentiated brand identity should support growth.",
             "date": "2025-04-09T14:04:00Z",
             "sentiment-score": 0.8654753379523754
+        },
+        {
+            "id": "bcbf34d4-e429-3459-8d71-5869e3843bef",
+            "summary": "Madison Mills and Yahoo Finance Executive Editor Brian Sozzi outline what's driving interest in some of the trending tickers on Yahoo Finance's platform. Citi analysts cut their Nvidia (NVDA) price target to $150 per share, citing reduced chip sales in 2025 and 2026 due to the trade war. Jefferies analysts outline their top defensive retail and consumer-facing picks, including Uber (UBER), Exxon (XOM), McDonald's (MCD), and Netflix (NFLX). Logitech (LOGI) withdraws its full-year 2026 guidance, citing tariff uncertainty. To watch more expert insights and analysis on the latest market action, check out more Catalysts here.",
+            "date": "2025-04-11T15:02:02Z",
+            "sentiment-score": -0.9343402707017958
+        },
+        {
+            "id": "1b48f809-bf70-3cdb-8b3c-410fac04c433",
+            "summary": "The National Center for Public Policy Research, a McDonald's shareholder, pushed the fast food giant to consider it, despite a lack of interest.",
+            "date": "2025-04-11T21:26:56Z",
+            "sentiment-score": 0.11524050775915384
+        },
+        {
+            "id": "5233fd82-716a-3341-9823-41e641010a11",
+            "summary": "We recently published a list of 10 Best Food Stocks to Buy According to Billionaires. In this article, we are going to take a look at where McDonald\u2019s Corporation (NYSE:MCD) stands against other best food stocks to buy according to billionaires. A significant contributor to the global economy, the food business has changed over time [\u2026]",
+            "date": "2025-04-11T18:47:39Z",
+            "sentiment-score": 0.021738454699516296
+        },
+        {
+            "id": "a34f98a3-d5f6-4d3b-a0a9-9a3d7940c1d1",
+            "summary": "A bearish call that is staying in place.",
+            "date": "2025-04-11T12:40:02Z",
+            "sentiment-score": -0.039957113564014435
+        },
+        {
+            "id": "e5f4f3bd-878b-3097-b711-79359e8b9e59",
+            "summary": "What trends should we look for it we want to identify stocks that can multiply in value over the long term? Amongst...",
+            "date": "2025-04-10T11:00:11Z",
+            "sentiment-score": 0.028724329080432653
+        },
+        {
+            "id": "2083fd5f-a1c0-3bb7-9b6d-6bc011615890",
+            "summary": "In the closing of the recent trading day, McDonald's (MCD) stood at $303.58, denoting a +1.25% change from the preceding trading day.",
+            "date": "2025-04-09T21:45:05Z",
+            "sentiment-score": 0.4248844403773546
         }
     ]
 }

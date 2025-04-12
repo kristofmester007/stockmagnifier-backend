@@ -1,288 +1,18 @@
 {
     "ticker": "GOOG",
-    "total_news": 118,
-    "average_sentiment": -0.15140572925871712,
-    "weighted_average_sentiment": -0.13214914114908732,
+    "total_news": 85,
+    "average_sentiment": -0.12774950948489064,
+    "weighted_average_sentiment": -0.09246658789364588,
     "average_daily_sentiments": [
+        -0.05023263755720109,
+        0.029221802297979594,
+        0,
         -0.0785419189557433,
         -0.16992254517125813,
         -0.16645755708838503,
-        -0.18961425498127937,
-        -0.18272069573868066,
-        0.006361083080992103,
-        -0.503470116328182
+        -0.18961425498127937
     ],
     "news": [
-        {
-            "id": "e5b182e5-d8e8-3b19-ac58-1960748e0f07",
-            "summary": "Youth-centric gaming and social platform Roblox has earned positive notices from Wall Street analysts for its new advertising initiative. Roblox stock rose on Wednesday.",
-            "date": "2025-04-02T20:43:18Z",
-            "sentiment-score": 0.9158272352069616
-        },
-        {
-            "id": "d951e1ca-41e2-3ced-bc8a-3d2c4d2c61d6",
-            "summary": "We recently published a list of Jim Cramer is Discussing These 10 Stocks Ahead of Q1 Earnings Season. In this article, we are going to take a look at where Alphabet Inc. (NASDAQ:GOOG) stands against other stocks that Jim Cramer is discussing ahead of Q1 earnings season. Jim Cramer in a latest program on CNBC [\u2026]",
-            "date": "2025-04-02T19:47:11Z",
-            "sentiment-score": 0.0008691800758242607
-        },
-        {
-            "id": "3c2a46cb-081d-3efb-b49e-8e3d2f256e2e",
-            "summary": "Epic Games CEO Tim Sweeney, whose company makes Fortnite and tools for other developers, including Unreal Engine, called out Apple and Google as \"gangster-style businesses\" engaged in illegal practices while speaking at a Y Combinator event on Wednesday. The executive also emphasized how the big tech companies' practices directly affected his own business by scaring away users from installing Epic's Games Store software and preventing Epic from attracting developers to its offerings. Notably, Ep",
-            "date": "2025-04-02T20:11:57Z",
-            "sentiment-score": -0.8130766004323959
-        },
-        {
-            "id": "c1d5ed38-f82a-3a4f-8a37-7e0dd3fd15ae",
-            "summary": "The argument for owning a stake in this long-leading technology name is even stronger when you look at less-obvious metrics.",
-            "date": "2025-04-03T09:15:00Z",
-            "sentiment-score": 0.0599874397739768
-        },
-        {
-            "id": "90a4f44f-91f8-30a3-b5ed-131c511488b2",
-            "summary": "The recent market pullback has created some nice bargains in the technology space.  Trading at a forward price-to-earnings ratio (P/E) of 23 times based on this year's analyst estimates and a price/earnings-to-growth (PEG) ratio of near 0.4, Nvidia (NASDAQ: NVDA) finds itself in the bargain bin.  Stocks with PEGs under 1 are typically considered undervalued, and it's difficult to find companies that have been growing as quickly as Nvidia.",
-            "date": "2025-04-03T08:12:00Z",
-            "sentiment-score": -0.44604606181383133
-        },
-        {
-            "id": "8ad873e3-daaf-3137-8e85-4f50a6b750e1",
-            "summary": "The latest trading day saw Alphabet Inc. (GOOG) settling at $158.74, representing a -0.09% change from its previous close.",
-            "date": "2025-04-02T21:45:17Z",
-            "sentiment-score": 0.29630713164806366
-        },
-        {
-            "id": "f193d939-1c93-34e9-9cf3-71cfb7f36f02",
-            "summary": "In the most recent trading session, Alphabet (GOOGL) closed at $157.04, indicating a -0.02% shift from the previous trading day.",
-            "date": "2025-04-02T21:45:14Z",
-            "sentiment-score": 0.022558152675628662
-        },
-        {
-            "id": "57f18b91-5603-3d77-8365-b2a2a10f3e84",
-            "summary": "Apple (NASDAQ: AAPL) is the world's largest company -- by about half a trillion dollars as I write this.  In fact, considering the current state of Apple's business and the growth trajectories of some of its competitors, I think it's highly likely that Apple will lose its title of the world's largest company within the next few years.  There are four companies that could pass Apple in that time frame.",
-            "date": "2025-04-03T10:15:00Z",
-            "sentiment-score": -0.86153912730515
-        },
-        {
-            "id": "c713c3e3-68ee-4cc6-bbf7-b6a230f1388b",
-            "summary": "The tariff-fueled sell-off has erased over $900 billion from Magnificent Seven stocks.",
-            "date": "2025-04-03T20:27:10Z",
-            "sentiment-score": -0.9356228290125728
-        },
-        {
-            "id": "99f8432a-c902-3751-8c5d-45c34a172e18",
-            "summary": "More than two years after Google was caught flat-footed by the release of OpenAI's ChatGPT, the company has dramatically picked up the pace. In late March, Google launched an AI reasoning model, Gemini 2.5 Pro, that leads the industry on several benchmarks measuring coding and math capabilities. That launch came just three months after the tech giant debuted another model, Gemini 2.0 Flash, that was state-of-the-art for the time. Google's director and head of product for Gemini, Tulsee Doshi, to",
-            "date": "2025-04-03T16:41:38Z",
-            "sentiment-score": 0.32245026994496584
-        },
-        {
-            "id": "eaa51833-dc95-3e9b-92fa-96209222504f",
-            "summary": "(Bloomberg) -- The retail traders who have stormed the markets in recent years were among the only investors buying on Thursday as US stocks had their worst day since June 2020.Most Read from BloombergMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeHousing Agency Aims to Relocate Its DC HeadquartersWhat Would \u2018Transportation Abundance\u2019 Look Like?Small investor",
-            "date": "2025-04-03T20:38:38Z",
-            "sentiment-score": 0.033882804214954376
-        },
-        {
-            "id": "d2e9572e-1d0b-343d-ab59-65cf4abbf646",
-            "summary": "We recently published a list of Jim Cramer Discusses These 8 Stocks & Says Trump\u2019s Focused On His Goals And Not The Market. In this article, we are going to take a look at where Alphabet Inc. (NASDAQ:GOOGL) stands against other stocks that Jim Cramer discussed. In a recent appearance on CNBC\u2019s Squawk on the Street, [\u2026]",
-            "date": "2025-04-03T20:27:01Z",
-            "sentiment-score": 0.005895155481994152
-        },
-        {
-            "id": "f334089c-2fa7-3758-86cc-7da6263372fe",
-            "summary": "Chinese e-commerce merchants are going to have a much harder time selling their products in the U.S. - at least at cut-rate prices.  Among megacap tech stocks, Amazon and Meta were the hardest hit in Thursday\u2019s tariff-sparked selloff, save for Apple.  The two stocks closed down 9% on Thursday, with Meta losing twice as much on a percent basis as Google-parent Alphabet, which is its largest rival in online advertising.",
-            "date": "2025-04-03T20:04:10Z",
-            "sentiment-score": -0.9570728722028434
-        },
-        {
-            "id": "9a98f06c-16e2-3f5c-8bf4-92c9b6017be9",
-            "summary": "With Gen AI Ads and Spotify Ads Exchange, the platform aims to simplify ad buying and scale creative production",
-            "date": "2025-04-03T19:20:56Z",
-            "sentiment-score": 0.27637662924826145
-        },
-        {
-            "id": "5e477402-2fee-3140-8d36-50b10332eef4",
-            "summary": "President Donald Trump announced widespread tariffs on Wednesday, sending the stock market plunging. One of the more significant of these tariffs is a 20% levy on goods coming from longtime U.S. ally and trade partner the European Union.",
-            "date": "2025-04-03T18:53:00Z",
-            "sentiment-score": -0.8900499474257231
-        },
-        {
-            "id": "46041114-4ba0-37bf-adb7-09bba31b6559",
-            "summary": "The whole U.S. stock market is feeling the pain from the sweeping new tariffs that President Trump announced Wednesday after the market closed.  As of 1:10 p.m. ET Thursday, the blue chip Dow Jones Industrial Average had fallen by over 1,300 points (3.1%), the broad market S&P 500 was off by 3.9%, and the tech-heavy Nasdaq Composite was down by 4.9%.  At that time, shares of Apple (NASDAQ: AAPL) traded more than 8% lower, Meta Platforms (NASDAQ: META) was down more than 6%, and shares of Alphabet (NASDAQ: GOOGL) were off by more than 3%.",
-            "date": "2025-04-03T18:27:12Z",
-            "sentiment-score": -0.9542894400656223
-        },
-        {
-            "id": "4533ea64-4f39-379d-9cfc-e6bb80d51ab9",
-            "summary": "After Meta (META) disclosed that its head of AI Research is leaving, CNBC reported that the tech giant is facing multiple other challenges on the AI front. Has Meta Lost Its AI Momentum? Joelle Pineau, who was the head of Meta\u2019s AI Research department for eight years, is leaving the company, CNBC reporter Deirdre Bosa [\u2026]",
-            "date": "2025-04-03T17:33:04Z",
-            "sentiment-score": -0.8752807732671499
-        },
-        {
-            "id": "042ce53b-3eac-3099-867b-605470212647",
-            "summary": "Lyft\u2019s aspirations in the autonomous vehicle market are challenged by stiff competition, analysts say.",
-            "date": "2025-04-03T17:03:00Z",
-            "sentiment-score": -0.8799909390509129
-        },
-        {
-            "id": "d05ae130-187f-37d6-b409-47f0fede3d3f",
-            "summary": "Tech stocks were pummeled Thursday following President Trump\u2019s earlier tariff announcement, a sign of how vulnerable the sector is to a possible recession as well as to higher prices on everything from consumer goods to hardware.  The six tech companies with trillion-dollar market capitalizations (Apple, Nvidia, Microsoft, Amazon, Alphabet and Meta Platforms) lost a combined $985 billion in stock market value today.",
-            "date": "2025-04-03T20:59:43Z",
-            "sentiment-score": -0.9472819371148944
-        },
-        {
-            "id": "c43ea0ce-ad2e-3672-9c3d-11690727b82f",
-            "summary": "The great news is companies have an easy way of managing the situation, and announcing this particular move usually gets investors pretty pumped up.  A great example is Alphabet (NASDAQ: GOOG) (NASDAQ: GOOGL), which split its stock back in 2022 and has since seen the shares climb more than 40%.  Is the tech powerhouse ripe for another split?",
-            "date": "2025-04-04T08:10:00Z",
-            "sentiment-score": 0.06894091609865427
-        },
-        {
-            "id": "2a4a303e-674d-43f1-b50d-9e3a749fa634",
-            "summary": "Apple might be having a tough time rolling out its new AI systems, but don't count it out as an investment just yet.",
-            "date": "2025-04-04T13:30:27Z",
-            "sentiment-score": 0.00816696509718895
-        },
-        {
-            "id": "2e3e61be-e9b1-3fe9-9262-0e283ca3d0f7",
-            "summary": "Not great. Here's their combined loss of market value Thursday, according to Dow Jones Market Data\u2014a record one-day wipeout: $1.03 trillion lost market value Given their size, those moves translated into huge market-value drops: Apple alone lost $311 billion.",
-            "date": "2025-04-04T13:41:56Z",
-            "sentiment-score": -0.9421958513557911
-        },
-        {
-            "id": "d5e79bd2-b30b-3758-8f06-a45ffee77040",
-            "summary": "Spotify Advertising (SPOT) on Wednesday unveiled \u201chow we\u2019re making it easier than ever for advertisers to buy, create, and measure on and for our platform. We\u2019ve been hard at work investing in our ad platform, modernizing our ad tech, and solidifying industry partnerships to become a platform that delivers results for advertisers of all sizes. During our first Spotify Advance event in New York City, we showcased a suite of new ad solutions that will unlock the full power of Spotify. This next st",
-            "date": "2025-04-04T13:41:02Z",
-            "sentiment-score": 0.4087522551417351
-        },
-        {
-            "id": "2ee04572-ce51-3674-b304-1e6b5fd6539d",
-            "summary": "Recently, Zacks.com users have been paying close attention to Alphabet (GOOGL). This makes it worthwhile to examine what the stock has in store.",
-            "date": "2025-04-04T13:00:15Z",
-            "sentiment-score": 0.04204152571037412
-        },
-        {
-            "id": "7c964636-0483-313d-bff1-fde4368eaf97",
-            "summary": "Alphabet (GOOG) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
-            "date": "2025-04-04T13:00:12Z",
-            "sentiment-score": 0.018301289528608322
-        },
-        {
-            "id": "39a8627e-a73e-342a-aef2-03b3b6e50d8c",
-            "summary": "SandboxAQ, a startup drawing on quantum computing techniques to develop quantitative artificial intelligence models for enterprises, said it has raised $150 million from new investors including Google, Nvidia and BNP Paribas.  The investment has increased SandboxAQ's Series E round to $450 million, valuing the startup at $5.75 billion.  With this, SandboxAQ's total funding has reached $950 million, with T. Rowe Price Associates and Breyer Capital among backers.",
-            "date": "2025-04-04T12:07:50Z",
-            "sentiment-score": 0.861666158773005
-        },
-        {
-            "id": "1da74049-117e-379c-99ad-aa804bd5bfcf",
-            "summary": "Flexera has introduced Cloud License Management, a solution designed to enhance the management of cloud software expenditures, which have become a significant concern for organizations with cloud spend challenges surpassing even security issues. This new tool allows organizations to gain a comprehensive understanding of their cloud software investments across platforms like Amazon Web Services and Microsoft Azure. By providing a unified view of cloud software spend, along with actionable...",
-            "date": "2025-04-04T12:07:44Z",
-            "sentiment-score": 0.48118103574961424
-        },
-        {
-            "id": "11601890-7c43-30c7-91fd-c89b32566409",
-            "summary": "One of these is Alphabet (NASDAQ: GOOG) (NASDAQ: GOOGL), as it reached valuation levels rarely seen over the past few years.  History is pretty clear about what happens over the next few months when Alphabet reaches this valuation, and it gives a strong signal for what investors should do with the stock.  Alphabet is the parent company of Google, YouTube, Android, and other subsidiaries under the Alphabet umbrella.",
-            "date": "2025-04-04T10:30:00Z",
-            "sentiment-score": 0.02888061897829175
-        },
-        {
-            "id": "8367a68b-b1ed-3a18-a293-e094078a0503",
-            "summary": "Richard Gingras is to chair the board of Sault Ste. Marie's Village Media Inc. after serving as global VP of news at the tech giant",
-            "date": "2025-04-04T10:00:08Z",
-            "sentiment-score": 0.0031228940933942795
-        },
-        {
-            "id": "b0c5659d-a1ab-37a9-91f1-1bc9b9b03778",
-            "summary": "All \"Magnificent Seven\" names \u2014 Nvidia (NVDA), Alphabet (GOOG, GOOGL), Tesla (TSLA), Microsoft (MSFT), Amazon (AMZN), Meta (META), and Apple (AAPL) \u2014 are in the red under Trump's second administration. Yahoo Finance podcast Stocks in Translation host Jared Blikre takes a closer look at the group's moves. Catch more Stocks in Translation here, with new episodes every Tuesday and Thursday. To watch more expert insights and analysis on the latest market action, check out more Catalysts here.",
-            "date": "2025-04-04T15:56:11Z",
-            "sentiment-score": 0.02140659186989069
-        },
-        {
-            "id": "d4ed59b9-a1bf-3555-bea0-9de2797fda03",
-            "summary": "Japanese chipmaker Rapidus is negotiating with Apple, Google and dozens of other potential clients to mass-produce advanced chips by 2027, the Nikkei business daily reported on Friday, citing the company's CEO Atsuyoshi Koike. A prototype chip line, which began partial operation on Tuesday at a plant in Hokkaido, is scheduled to be fully up and running within the month, the report said. The CEO did not name any specific customers but said the company is in discussions with Google, Apple, Facebook , Amazon and Microsoft .",
-            "date": "2025-04-04T15:55:04Z",
-            "sentiment-score": 0.07859257375821471
-        },
-        {
-            "id": "26c770ad-a814-3731-b9d1-5c660c3fc239",
-            "summary": "Successful stock investing starts with having rules to handle Nvidia, Palantir and others. Learn how to invest following this three-step routine.",
-            "date": "2025-04-04T15:49:14Z",
-            "sentiment-score": 0.034081035759299994
-        },
-        {
-            "id": "e3004365-c645-41ce-a190-e4dd2914c1e2",
-            "summary": "Microsoft's Copilot is getting a slew of intelligent upgrades, leaving rival Apple further behind in the AI wars.",
-            "date": "2025-04-04T16:31:50Z",
-            "sentiment-score": -0.6320246197283268
-        },
-        {
-            "id": "74f70545-65a1-3a5a-bb27-ceb353953b11",
-            "summary": "(Bloomberg) -- Billions of dollars worth of acquisitions and initial public offerings are on hold as Donald Trump\u2019s trade war upends the global economy, twisting the knife into a dealmaking market that had already struggled to get going this year.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersWhat Would \u2018Transportation Abundance\u2019 Look Like?London",
-            "date": "2025-04-04T18:47:21Z",
-            "sentiment-score": -0.20388555154204369
-        },
-        {
-            "id": "7a5de9ae-5588-34b6-8b44-622723d614b9",
-            "summary": "(Updates with additional details from the second paragraph.) Japanese chipmaker Rapidus is in dis",
-            "date": "2025-04-04T17:22:11Z",
-            "sentiment-score": -0.19791312981396914
-        },
-        {
-            "id": "58820af7-dd72-3cd0-97a1-f60fb9ffff12",
-            "summary": "DeepMind has released a lengthy paper outlining its approach to AI safety as it tries to build advanced systems that could surpass human intelligence.",
-            "date": "2025-04-04T16:07:24Z",
-            "sentiment-score": 0.088560632430017
-        },
-        {
-            "id": "64935ea2-6903-35eb-ae74-6bbd3e3a2108",
-            "summary": "We recently published a list of Jim Cramer\u2019s Thoughts on Liberation Day, Tariffs, and 17 Stocks to Watch Right Now. In this article, we are going to take a look at where Alphabet Inc. (NASDAQ:GOOGL) stands against other stocks that Jim Cramer discusses. On Tuesday, April 1st, the host of Mad Money opened the show [\u2026]",
-            "date": "2025-04-04T22:10:47Z",
-            "sentiment-score": 0.008482019416987896
-        },
-        {
-            "id": "195d2fc3-1cfb-4497-affc-f396f4b6db6b",
-            "summary": "Former Microsoft CEO Steve Ballmer says companies need to continue to invest through tumultuous markets.",
-            "date": "2025-04-04T22:36:22Z",
-            "sentiment-score": -0.06324300169944763
-        },
-        {
-            "id": "11b8cb2a-c2bc-3c92-9535-a8430f4bd001",
-            "summary": "We recently published a list of Mag7 and Beyond: Top 10 AI News Updates and Ratings. In this article, we are going to take a look at where Alphabet Inc. (NASDAQ:GOOGL) stands against other top AI news updates and ratings. According to a study presented at a European Central Bank conference, companies that manage to [\u2026]",
-            "date": "2025-04-05T03:07:12Z",
-            "sentiment-score": 0.033974121324718
-        },
-        {
-            "id": "22a4746c-ac61-3653-a357-221d6a498fbb",
-            "summary": "We recently published a list of 11 Best Innovative Stocks to Buy According to Analysts. In this article, we are going to take a look at where Alphabet Inc. (NASDAQ:GOOGL) stands against other best innovative stocks to buy according to analysts. Innovative stocks are the companies that continuously invest in developing new products, services or [\u2026]",
-            "date": "2025-04-04T22:16:37Z",
-            "sentiment-score": 0.014307303354144096
-        },
-        {
-            "id": "fb682716-b935-336d-a380-bff8a222b52d",
-            "summary": "The recent market sell-off has created some nice opportunities in the market for long-term investors, particularly among artificial intelligence (AI) stocks.  This includes several AI semiconductor stocks besides Nvidia, which has also seen its stock come under pressure.  Let's look at two AI chip stocks that investors can look to buy ahead of the next AI stock bull run.",
-            "date": "2025-04-05T09:33:00Z",
-            "sentiment-score": 0.08072189893573523
-        },
-        {
-            "id": "3d18ecbb-9783-345b-bfba-af3b7b9f88b7",
-            "summary": "The share price of Arm Holdings (NASDAQ: ARM) rocketed higher in the first month of 2025, but the British technology company saw a significant pullback since hitting a 2025 high on Jan. 22.  Arm stock has traded down 44% since then as investors pressed the panic button over multiple headwinds.  Does the sharp pullback that Arm saw in the past couple of months present a buying opportunity for long-term investors?",
-            "date": "2025-04-05T09:20:00Z",
-            "sentiment-score": -0.9497489668428898
-        },
-        {
-            "id": "975433bc-fcf0-3a99-925f-5a6b845680b3",
-            "summary": "Recent volatility hasn't altered the compelling long-term growth opportunities ahead of these \"Magnificent\" stocks.",
-            "date": "2025-04-05T08:35:00Z",
-            "sentiment-score": 0.11911740899085999
-        },
-        {
-            "id": "df2ee29d-8fa8-32ef-978c-accf355df5d8",
-            "summary": "(Bloomberg) -- Hon Hai Precision Industry Co.\u2019s first-quarter sales rose at their fastest clip since 2022 on resilient data center demand, a bright sign for the artificial intelligence sector amid tariff-induced fears.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersLocal Governments Vie for Fired Federal WorkersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesWhat Would \u2018Transportation Abundance\u2019 Look Like?Hochul Says Trump\u2019s Tariffs Are Alre",
-            "date": "2025-04-05T13:03:02Z",
-            "sentiment-score": 0.7547125546261668
-        },
-        {
-            "id": "bb225490-35ac-388d-8655-50c70e4e2e04",
-            "summary": "While the \"Magnificent Seven\" stocks have been some of the best investments over the past few years, they've been poor performers in 2025.  Investors are moving their money from stocks they deem risky to either cash or safer investments, and the Magnificent Seven are some of the stocks they turn to first to raise capital.",
-            "date": "2025-04-05T10:15:00Z",
-            "sentiment-score": -0.8031543847173452
-        },
         {
             "id": "00b652a0-d67f-3701-9e85-0ea4e098678c",
             "summary": "Wall Street analysts are becoming increasingly bearish on Tesla (NASDAQ: TSLA).  Following the car maker's first-quarter deliveries announcement, Wedbush analyst Daniel Ives called the report a \"disaster\" and said CEO Elon Musk needs to \"get his act together.\"  Wells Fargo analyst Colin Langan, meanwhile, has been far more critical of the stock, with an \"underweight\" rating and $130 price target on it.",
@@ -306,12 +36,6 @@
             "summary": "The recent market sell-off has opened the door for some good buying opportunities in growth stocks.  Down just over 20% from its highs, Amazon (NASDAQ: AMZN) is trading at one of its lowest valuations in its history with a trailing price-to-earnings ratio (P/E) of around 34.  The company's cloud computing business, Amazon Web Services (AWS), has been its biggest growth driver, as the company helps customers create and deploy their own artificial intelligence (AI) models and apps on its platform through the help of its Bedrock and SageMaker services.",
             "date": "2025-04-05T22:14:00Z",
             "sentiment-score": -0.6977205984294415
-        },
-        {
-            "id": "2873506c-23b1-32ed-bbbd-5e32b6e84d14",
-            "summary": "We recently published a list of Jim Cramer Raises Big Question About Tariffs & Discusses These 11 Stocks. In this article, we are going to take a look at where Alphabet Inc. (NASDAQ:GOOGL) stands against other stocks that Jim Cramer discusses. In a recent appearance on CNBC\u2019s Squawk on the Street, Jim Cramer asked the [\u2026]",
-            "date": "2025-04-05T17:43:18Z",
-            "sentiment-score": 0.00033240020275115967
         },
         {
             "id": "c71c89f0-dfcd-399c-89bf-eebacba622c5",
@@ -720,6 +444,84 @@
             "summary": "Mid-March checks indicate potential online ad spending risk due to weak economic indicators and the",
             "date": "2025-04-09T16:16:15Z",
             "sentiment-score": -0.9545781528577209
+        },
+        {
+            "id": "2800fc6e-a855-3c64-9523-73a75706900f",
+            "summary": "As Spotify (SPOT) doubles down on its advertising ambitions, the streaming giant has entered 2025 with a renewed focus on monetizing its vast user base beyond subscriptions. The big question remains: can Spotify\u2019s ad business finally hit the right notes in 2025? Here\u2019s what Main Street Data tells us about Spotify. Spotify\u2019s Revenue & Subscriber Growth in Q4 According to Main Street Data, Spotify generated $556 million in ad-supported revenue in Q4 2024, reflecting a 7.2% year-over-year increase.",
+            "date": "2025-04-12T13:03:20Z",
+            "sentiment-score": 0.8648845981806517
+        },
+        {
+            "id": "070e3bb8-96d5-3139-b9be-4a5ce45e9574",
+            "summary": "We recently published a list of the 13 NASDAQ Stocks with the Highest Upside Potential. In this article, we are going to take a look at where Alphabet Inc. (NASDAQ:GOOGL) stands against other NASDAQ stocks with high upside potential. On April 7, Dan Ives of Wedbush Securities joined CNBC\u2019s \u2018Squawk on the Street\u2019 to discuss [\u2026]",
+            "date": "2025-04-12T12:43:51Z",
+            "sentiment-score": 0.01841569785028696
+        },
+        {
+            "id": "1945f868-1ab4-342d-a14b-653ca6c52f79",
+            "summary": "Looking to invest in the future of computing without excessive risk? These three tech powerhouses are building quantum capabilities while generating massive profits from their more well-known core businesses.",
+            "date": "2025-04-12T11:49:00Z",
+            "sentiment-score": 0.6152868838980794
+        },
+        {
+            "id": "5e48dd90-c2f3-35e8-b3cd-a3ac18cddf56",
+            "summary": "Only a few days ago, the Nasdaq was in a bear market (down 20%-plus from recent all-time highs).  What should investors who are experiencing Nasdaq market whiplash do now?  Alphabet is now quite reasonably valued with a price-to-earnings-to-growth (PEG) ratio of 1.04, based on data from LSEG.",
+            "date": "2025-04-12T08:48:00Z",
+            "sentiment-score": -0.929603086784482
+        },
+        {
+            "id": "4b6a5ca1-126a-3956-af99-16dab5b1254b",
+            "summary": "Alphabet and Nvidia have joined prominent venture capital investors to back\u00a0Safe Superintelligence (SSI), a startup co-founded by OpenAI's former chief scientist Ilya Sutskever that has quickly risen to become one of the most valuable artificial intelligence startups months after its launch, a source familiar with the matter said.  The funding illustrates renewed interest from the big tech and infrastructure providers in making strategic investments in the startups developing cutting-edge AI that requires massive amounts of computing power.  Alphabet, which has its own AI models, earlier in the week announced a deal\u00a0by its cloud computing arm to sell SSI access to tensor processing units (TPUs), its in-house AI chips.",
+            "date": "2025-04-12T01:29:45Z",
+            "sentiment-score": 0.7903638491407037
+        },
+        {
+            "id": "502b373b-1d74-3c4d-95ec-56c809a4f6ea",
+            "summary": "South Korean AI hardware startup FuriosaAI has made waves in the global semiconductor industry after reportedly turning down an $800 million acquisition offer from Meta (NASDAQ:META). The decision shows the startup's ambition to remain independent and compete directly in the rapidly evolving AI chip market dominated by NVIDIA (NASDAQ:NVDA) and increasingly encroached on by tech giants like Alphabet (NASDAQ:GOOGL, GOOG)) and Microsoft (NASDAQ:MSFT). Don't Miss: Hasbro, MGM, and Skechers trust thi",
+            "date": "2025-04-11T23:02:22Z",
+            "sentiment-score": 0.09254013001918793
+        },
+        {
+            "id": "c420b88e-def9-31a8-984e-536993926dbe",
+            "summary": "Google\u2019s latest round of layoffs in the unit that houses Android software and Pixel phones highlights its new approach to job cuts: smaller, less public ones that draw less attention.",
+            "date": "2025-04-11T22:27:45Z",
+            "sentiment-score": -0.8982324972748756
+        },
+        {
+            "id": "8c501049-1b2a-36f9-b411-6c2212207f86",
+            "summary": "We recently published a list of 12 Best Tech Stocks to Buy For Long-Term Investment. In this article, we are going to take a look at where Alphabet Inc. (NASDAQ:GOOGL) stands against other tech stocks to buy for long-term investment. On April 1, Chris Verrone, chief market strategist at Strategas Research Partners, appeared on CNBC\u2019s [\u2026]",
+            "date": "2025-04-11T20:47:33Z",
+            "sentiment-score": 0.027696119155734777
+        },
+        {
+            "id": "3d4fda26-2599-3c25-b345-1e4bbc0f1a85",
+            "summary": "Alphabet (NASDAQ: GOOGL)(NASDAQ: GOOG) stock is rising Friday.  The tech giant's share price was up 2.4% as of 3 p.m. ET amid a 1.5% gain for the S&P 500 and a 1.7% a gain for the Nasdaq Composite.  The stock market has seen a historically volatile stretch of trading this week, but it appears to be poised to end the stretch on something of a high note.",
+            "date": "2025-04-11T19:26:57Z",
+            "sentiment-score": 0.9122086940333247
+        },
+        {
+            "id": "49c74234-0371-302c-9abc-4a5c5ab1781e",
+            "summary": "We recently published a list of 10 Best Geothermal Stocks to Buy According to Hedge Funds. In this article, we are going to take a look at where Alphabet Inc. (NASDAQ:GOOGL) stands against other best geothermal stocks to buy according to hedge funds. Geothermal stocks are companies that use heat from the earth to generate [\u2026]",
+            "date": "2025-04-11T18:14:35Z",
+            "sentiment-score": 0.011896565556526184
+        },
+        {
+            "id": "f82646c1-4ee6-4a32-89cc-bda23572ce50",
+            "summary": "Meta is preparing for the start of a courtroom battle Monday with the US government in an antitrust case that could force Mark Zuckerberg to break up his $1.3 trillion empire and sell one of its crown jewels: Instagram.",
+            "date": "2025-04-12T14:00:19Z",
+            "sentiment-score": -0.6371034234762192
+        },
+        {
+            "id": "2f0a71fe-13f5-3d0c-bfcd-7aa5f680cc12",
+            "summary": "We recently published a list of 14 AI Stocks Catching Wall Street\u2019s Attention. In this article, we are going to take a look at where Alphabet Inc. (NASDAQ:GOOG) stands against other AI stocks catching Wall Street\u2019s attention. In the latest development in the feud between OpenAI and Elon Musk, the ChatGPT maker has countersued billionaire [\u2026]",
+            "date": "2025-04-12T16:10:15Z",
+            "sentiment-score": -0.17324898578226566
+        },
+        {
+            "id": "cbba7c48-79e8-36d3-b32f-c7198a30d497",
+            "summary": "Market volatility and concerns over ChatGPT's popularity have caused the stock to tumble almost 25% from its high.",
+            "date": "2025-04-12T13:30:00Z",
+            "sentiment-score": -0.9508566334843636
         }
     ]
 }

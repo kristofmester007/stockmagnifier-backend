@@ -1,54 +1,18 @@
 {
     "ticker": "PM",
     "total_news": 10,
-    "average_sentiment": 0.30172575088217857,
-    "weighted_average_sentiment": 0.24970032150546703,
+    "average_sentiment": 0.14056879952549933,
+    "weighted_average_sentiment": 0.14001551514002877,
     "average_daily_sentiments": [
+        0,
+        0.18944460122535625,
+        0.018698709396024544,
         0.44757487438619137,
         0.014377608895301819,
         0.15965279005467892,
-        0,
-        0,
-        0.3487485097721219,
-        0.5120076639577746
+        0
     ],
     "news": [
-        {
-            "id": "113a7b24-867a-3b73-9fb6-f18fd3fbe473",
-            "summary": "President Trump's tariffs and trade threats are roiling the markets, sending the S&P 500 into a correction for the first time since 2022.  Today, that divide remains, though Philip Morris has gained modest exposure to the U.S. through its acquisition of ZYN parent Swedish Match, and it recently began selling IQOS, a heat-not-burn tobacco product, in the U.S. The company does nearly all of its business outside of the U.S., and it's well-insulated from American import tariffs or even a U.S.-driven trade war.",
-            "date": "2025-04-02T22:39:00Z",
-            "sentiment-score": 0.0024794340133666992
-        },
-        {
-            "id": "c198c5ae-05be-3137-a740-ce48c4fcb704",
-            "summary": "Shares of consumer staples giants Lamb Weston (NYSE: LW), Conagra (NYSE: CAG), and Philip Morris International (NYSE: PM) all rallied today, up 9.7%, 1.5%, and 4%, respectively.  Lamb Weston is a large producer and distributor of frozen potato products to restaurants and supermarkets -- essentially, french fries.  Conagra sells branded food products under various familiar brands like Slim Jim, Healthy Choice, Bird's Eye, Duncan Hines, and others.",
-            "date": "2025-04-03T20:33:58Z",
-            "sentiment-score": 0.6166121251881123
-        },
-        {
-            "id": "786264a5-f7e3-3ded-a084-76885b4f71b9",
-            "summary": "Philip Morris International soared nearly 20% in February and now finds itself among the year's best performing S&P 500 stocks.  The tobacco giant is betting on its smoke-free offerings, with the popular Zyn nicotine pouch leading the way, to boost revenue through the end of the decade.  Last year, Philip Morris stock gained 28%.",
-            "date": "2025-04-03T20:01:50Z",
-            "sentiment-score": 0.9050332708284259
-        },
-        {
-            "id": "4664357e-c13d-3352-80ea-8167e47be3ed",
-            "summary": "Wondering how to pick strong, market-beating stocks for your investment portfolio? Look no further than the Zacks Style Scores.",
-            "date": "2025-04-03T13:45:08Z",
-            "sentiment-score": 0.014377595856785774
-        },
-        {
-            "id": "b2c88bfd-577a-3c9f-894c-8d87b517bcbf",
-            "summary": "Quarterly earnings results are a good time to check in on a company\u2019s progress, especially compared to its peers in the same sector. Today we are looking at PepsiCo (NASDAQ:PEP) and the best and worst performers in the beverages, alcohol, and tobacco industry.",
-            "date": "2025-04-04T09:11:00Z",
-            "sentiment-score": -0.1950436383485794
-        },
-        {
-            "id": "276d0a55-5238-36f9-b0dc-841d2a56df23",
-            "summary": "The S&P 500\u2019s three top performers in 2025 boast characteristics that could help them weather a further sell off.",
-            "date": "2025-04-04T17:46:00Z",
-            "sentiment-score": 0.8925406578928232
-        },
         {
             "id": "d73585a5-cb01-351c-a5f0-507785553abf",
             "summary": "We recently published a list of Jim Cramer Reveals Stocks Benefiting From Tariff Selloff & Discusses These 8 Stocks. In this article, we are going to take a look at where Philip Morris International Inc. (NYSE:PM) stands against other stocks that Jim Cramer discusses. In his appearance on CNBC\u2019s Squawk on the Street on Thursday, [\u2026]",
@@ -72,6 +36,42 @@
             "summary": "Philip Morris International, S&P Global, and Walmart are all resilient investments.",
             "date": "2025-04-09T08:05:00Z",
             "sentiment-score": 0.44757487438619137
+        },
+        {
+            "id": "d5b6933e-ab79-319f-a726-8dc3ca9dc8ed",
+            "summary": "We recently published a list of Jim Cramer Reveals Stocks Benefiting From Tariff Selloff & Discusses These 8 Stocks. In this article, we are going to take a look at where Philip Morris International Inc. (NYSE:PM) stands against other stocks that Jim Cramer discussed. In his appearance on CNBC\u2019s Squawk on the Street on Thursday, [\u2026]",
+            "date": "2025-04-11T19:11:28Z",
+            "sentiment-score": 0.0029271841049194336
+        },
+        {
+            "id": "394d27e3-83c0-3e18-96a1-3556550f6593",
+            "summary": "In a sliding market, Philip Morris has defied the odds, trading up to $152.02 per share. Its 26.6% gain since October 2024 has outpaced the S&P 500\u2019s 9.9% drop. This was partly due to its solid quarterly results, and the performance may have investors wondering how to approach the situation.",
+            "date": "2025-04-11T09:06:45Z",
+            "sentiment-score": 0.75989571493119
+        },
+        {
+            "id": "23981aaa-a0da-363e-8a46-adfab258da0a",
+            "summary": "At the same time, investors might want to be a little cautious given the uncertainty over the effects that the Trump administration's on-again, off-again tariffs might have on the global economy.  As the leading e-commerce retailer in the world, Amazon (NASDAQ: AMZN) will no doubt be affected by tariffs.  In May, the Trump Administration will also close the \"de minimus\" loophole that these companies have used to avoid duties.",
+            "date": "2025-04-11T08:20:00Z",
+            "sentiment-score": -0.19448909536004066
+        },
+        {
+            "id": "90e86694-a478-38cc-b6aa-fc2113235c6f",
+            "summary": "Dividend-paying stocks can allow investors to build a cash pile quickly. After all, isn't payday the best?",
+            "date": "2025-04-10T20:58:00Z",
+            "sentiment-score": 0.04864148888736963
+        },
+        {
+            "id": "8c09a029-1e26-37ae-947e-6e8756283fae",
+            "summary": "Andvari Associates, an investment management firm, released its first-quarter 2025 investor letter. A copy of the letter can be downloaded here. In the first quarter the fund returned 7.2% net of fees compared to the SPDR S&P 500 ETF\u2019s 4.3% decline. In addition, you can check the fund\u2019s top 5 holdings to find out its [\u2026]",
+            "date": "2025-04-10T15:48:20Z",
+            "sentiment-score": 0.004625424742698669
+        },
+        {
+            "id": "05138c7f-a44c-3cd1-97cc-f565445c43f2",
+            "summary": "We came across a bullish thesis on Philip Morris International Inc. (PM) on Substack by Hidden Market Gems. In this article, we will summarize the bulls\u2019 thesis on PM. Philip Morris International Inc. (PM)\u2019s share was trading at $151.80 as of April 9th. PM\u2019s trailing and forward P/E were 25.26 and 21.41 respectively according to Yahoo Finance. [\u2026]",
+            "date": "2025-04-10T13:04:35Z",
+            "sentiment-score": 0.002829214558005333
         }
     ]
 }

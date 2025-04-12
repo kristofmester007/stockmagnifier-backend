@@ -1,101 +1,23 @@
 {
     "ticker": "CVX",
-    "total_news": 27,
-    "average_sentiment": -0.10090733785182238,
-    "weighted_average_sentiment": -0.14549293279685455,
+    "total_news": 24,
+    "average_sentiment": -0.09561157705805574,
+    "weighted_average_sentiment": -0.09365288027506259,
     "average_daily_sentiments": [
+        0.019391711801290512,
+        -0.03788784430879685,
+        0,
         -0.2528577860444784,
         0.038352653943002225,
         -0.5814458066597581,
-        0,
-        0.40642707888036966,
-        -0.37243633065372705,
-        0.1753186567220837
+        0
     ],
     "news": [
-        {
-            "id": "bc378ba8-0ede-3943-8b4b-233036eb08ac",
-            "summary": "XOM can also lean on its strong balance sheet when its business scenario turns volatile and uncertain.",
-            "date": "2025-04-03T14:46:00Z",
-            "sentiment-score": 0.6775025986135006
-        },
-        {
-            "id": "42e18f60-8ae4-3416-8d2c-0cece6f7bb14",
-            "summary": "The energy sector has climbed year to date, in contrast to the broader market's decline, driven by leaders like ExxonMobil, Chevron and Devon Energy.",
-            "date": "2025-04-03T13:10:00Z",
-            "sentiment-score": 0.9113432299345732
-        },
-        {
-            "id": "93a9254e-a12c-3d10-9e69-47b6c1129fc5",
-            "summary": "Warren Buffett-led Berkshire Hathaway is reaching new all-time highs despite a year-to-date sell-off in major indexes like the S&P 500 and Nasdaq Composite.  The simplest way to invest in Buffett's top ideas is to buy Berkshire stock directly.  Another option is to scan Berkshire's public equity holdings for investment ideas.",
-            "date": "2025-04-03T11:30:00Z",
-            "sentiment-score": 0.023166682571172714
-        },
-        {
-            "id": "8af27873-bbb0-38d9-a0b4-d38687ca3058",
-            "summary": "(Bloomberg) -- Berkshire Hathaway Inc.\u2019s stock sailed through a turbulent trading session Thursday, falling only slightly while indexes across the globe plummeted on President Donald Trump\u2019s sweeping tariff plans.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018Transportation",
-            "date": "2025-04-03T21:24:49Z",
-            "sentiment-score": -0.9107378842309117
-        },
-        {
-            "id": "c3bd210a-f708-3182-8b35-0c0c9ad08371",
-            "summary": "We recently published a list of 10 Stocks Everyone is Talking About After Trump\u2019s New Tariffs. In this article, we are going to take a look at where Chevron Corp (NYSE:CVX) stands against other stocks everyone is talking about after Trump\u2019s new tariffs. Countries are beginning to react to President Donald Trump\u2019s new reciprocal tariffs [\u2026]",
-            "date": "2025-04-04T13:38:13Z",
-            "sentiment-score": 0.0490975696593523
-        },
-        {
-            "id": "a6c36a14-7db7-32da-b413-35099da1b3d2",
-            "summary": "Alibaba and KB Home are part of the Zacks Bull and Bear of the Day article.",
-            "date": "2025-04-04T12:37:00Z",
-            "sentiment-score": 0.0015064561739563942
-        },
-        {
-            "id": "63c426f6-2711-39f4-b61a-38f893f601dc",
-            "summary": "COP's upstream operations, like EOG and CVX, are highly exposed to the volatility in oil and gas prices, considering the very nature of its business model.",
-            "date": "2025-04-04T12:35:00Z",
-            "sentiment-score": -0.026625117287039757
-        },
-        {
-            "id": "54941d0b-9a71-34d9-ad19-6bd4e3c62c47",
-            "summary": "CVX announces 600 job cuts at former San Ramon headquarters, aiming to streamline operations and reduce costs as part of its broader restructuring strategy.",
-            "date": "2025-04-04T10:15:00Z",
-            "sentiment-score": -0.9254958992823958
-        },
-        {
-            "id": "f4eea585-509d-3f33-b891-e459bb8b56e8",
-            "summary": "Oil price could fall as low as $50 as Saudis launch price war. Gasoline prices set to be a bright spot in Trump's trade war.",
-            "date": "2025-04-04T16:26:22Z",
-            "sentiment-score": -0.6759627163410187
-        },
-        {
-            "id": "9584d9aa-06d1-3a6c-8681-9fc0e48eabb6",
-            "summary": "POINTE \u00c0 LA HACHE, La. (AP) \u2014 Oil company Chevron must pay at least $740 million to restore damage it caused to southeast Louisiana's coastal wetlands, a jury ruled on Friday following a landmark trial more than a decade in the making.  The case was the first of dozens of pending lawsuits to reach trial in Louisiana against the world\u2019s leading oil companies for their role in accelerating land loss along the state\u2019s rapidly disappearing coast.  The verdict \u2013 likely to be appealed \u2013 could set a precedent leaving other oil and gas firms on the hook for billions of dollars in damages tied to land loss and environmental degradation.  What did Chevron do wrong?",
-            "date": "2025-04-04T19:03:50Z",
-            "sentiment-score": -0.6571382768452168
-        },
-        {
-            "id": "dae97bc5-b28f-3900-8a81-072394bfaf91",
-            "summary": "When in doubt about your next best bet, consider poaching an idea (or three) from the world's most proven stock picker.",
-            "date": "2025-04-05T09:07:00Z",
-            "sentiment-score": 0.018651445396244526
-        },
-        {
-            "id": "9ae94c7c-a546-3b74-a4ec-8ec01572c88b",
-            "summary": "Many oil and gas industry executives enthusiastically supported President Donald Trump's bid for a second term as U.S. president.  The first Trump administration was distinctly pro-energy.  It wasn't surprising, therefore, that energy stocks soared immediately following Trump's victory in the November 2024 election.",
-            "date": "2025-04-05T08:45:00Z",
-            "sentiment-score": 0.7612338364124298
-        },
         {
             "id": "0575d4c0-4c09-3cbf-82f2-1676fc0da261",
             "summary": "The move may come as a surprise, given that the U.S. benchmark oil price, West Texas Intermediate, is $69.36 per barrel compared to an average of $76.63 in 2024.  Here's why ExxonMobil (NYSE: XOM), Chevron (NYSE: CVX), and ConocoPhillips (NYSE: COP) stand out as three balanced dividend stocks to buy now.  ExxonMobil, Chevron, and ConocoPhillips all have clear paths toward delivering strong free cash flow (FCF) even at current oil prices.",
             "date": "2025-04-05T22:05:00Z",
             "sentiment-score": 0.8437841180711985
-        },
-        {
-            "id": "376a1d32-d007-3830-8201-3eeb4c702e91",
-            "summary": "We recently published a list of Jim Cramer Raises Big Question About Tariffs & Discusses These 11 Stocks. In this article, we are going to take a look at where Chevron Corporation (NYSE:CVX) stands against other stocks that Jim Cramer discusses. In a recent appearance on CNBC\u2019s Squawk on the Street, Jim Cramer asked the [\u2026]",
-            "date": "2025-04-05T17:48:57Z",
-            "sentiment-score": 0.002038915641605854
         },
         {
             "id": "b16ef76e-d21a-3091-bbf9-2a95dc901311",
@@ -174,6 +96,66 @@
             "summary": "(Bloomberg) -- Oil plunged to a four-year low as an intensifying trade war endangered energy demand, with a fresh wave of US and Chinese levies menacing the global economy.Brent futures tumbled below $60 a barrel for the first time since 2021 as natural gas, copper and other commodities also slid. West Texas Intermediate futures traded near $57 a barrel. Shares of BP Plc, Shell Plc, Exxon Mobil Corp. and Chevron Corp. slumped.Crude futures maintained losses as official US data showed domestic in",
             "date": "2025-04-09T14:40:46Z",
             "sentiment-score": -0.9479939443990588
+        },
+        {
+            "id": "a296096f-954b-3769-8289-2e8f058766cd",
+            "summary": "Scotiabank downgraded Occidental Petroleum (OXY) and Chevron (CVX) to Sector Perform from Sector Outperform. Market Domination hosts Josh Lipton and Julie Hyman discuss the latest news, highlighting concerns over Occidental's leveraged position following its Crown Rock acquisition and potential buyback reductions at Chevron. To watch more expert insights and analysis on the latest market action, check out more Market Domination&nbsp;here.",
+            "date": "2025-04-11T21:00:15Z",
+            "sentiment-score": -0.15486345626413822
+        },
+        {
+            "id": "04d048a3-6eac-3f03-8bee-319ab259c9d6",
+            "summary": "The stock market has sold off hard this year.  The silver lining to stock market sell-offs is that they enable investors to buy high-quality dividend stocks while they're on sale.  One that I added to during the sell-off was Chevron (NYSE: CVX).",
+            "date": "2025-04-12T07:28:00Z",
+            "sentiment-score": 0.019391711801290512
+        },
+        {
+            "id": "9b997e7b-4184-3a31-9f61-0bc01481336b",
+            "summary": "Chevron (CVX) closed at $135.63 in the latest trading session, marking a +0.48% move from the prior day.",
+            "date": "2025-04-11T21:45:16Z",
+            "sentiment-score": 0.8038385007530451
+        },
+        {
+            "id": "420a0583-cdad-3888-849b-20d618f2d695",
+            "summary": "Analyst sees EOG better positioned amid market uncertainty, while leverage and payout concerns weigh on peers",
+            "date": "2025-04-11T21:30:52Z",
+            "sentiment-score": 0.8425155291333795
+        },
+        {
+            "id": "8ec2085a-71e5-3fa7-9904-0ab78a608800",
+            "summary": "We recently published a list of Jim Cramer Recently Talked About These 9 Stocks. In this article, we are going to take a look at where Chevron Corporation (NYSE:CVX) stands against other stocks that Jim Cramer discussed recently. On Wednesday, Jim Cramer, the host of Mad Money, shared his thoughts on the market turmoil of [\u2026]",
+            "date": "2025-04-11T16:34:00Z",
+            "sentiment-score": -0.0017905347049236298
+        },
+        {
+            "id": "441c8acd-6844-3be8-be65-d15f9eeaab29",
+            "summary": "HOUSTON (Reuters) -At least two vessels carrying Venezuelan crude chartered by Chevron are stalled due to state oil company PDVSA canceling their export authorizations, according to shipping data and sources, as the government had no certainty of payment amid the hardening of U.S. sanctions on the OPEC-member country.  An individual license issued in 2022 by the United States for Chevron to operate in Venezuela was revoked in March by U.S. President Donald Trump's administration with a wind-down period granted until May 27.  The U.S. oil producer awaits customs paperwork to return the cargoes to ports after PDVSA on Thursday canceled set-sail authorizations to two of the Chevron-chartered vessels that had finished loading.",
+            "date": "2025-04-11T15:03:50Z",
+            "sentiment-score": -0.939659146592021
+        },
+        {
+            "id": "64416e40-31d8-38a7-a044-1129c9a8bd6a",
+            "summary": "Energy stocks advanced premarket Friday as the Energy Select Sector SPDR Fund (XLE) rose by 0.3% rec",
+            "date": "2025-04-11T13:27:45Z",
+            "sentiment-score": 0.9088513273745775
+        },
+        {
+            "id": "bf8f89f0-0084-367e-b38e-a36ff5e2d91f",
+            "summary": "Chevron (CVX) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
+            "date": "2025-04-11T13:00:15Z",
+            "sentiment-score": 0.023157368879765272
+        },
+        {
+            "id": "62fd1996-51af-326f-a28b-a1abd3ae7a01",
+            "summary": "The Trump administration has revoked Shell and BP's Venezuela gas licenses, escalating a crackdown that began with Chevron and now threatens Trinidad's energy security.",
+            "date": "2025-04-11T10:46:00Z",
+            "sentiment-score": -0.8734335880726576
+        },
+        {
+            "id": "7d2b5477-0569-37b7-b99d-9762563dc9fc",
+            "summary": "Chevron's (CVX) operations in Venezuela are facing disruptions after state oil company PDVSA cancele",
+            "date": "2025-04-11T10:28:28Z",
+            "sentiment-score": -0.9496065992861986
         }
     ]
 }

@@ -1,66 +1,18 @@
 {
     "ticker": "HD",
-    "total_news": 15,
-    "average_sentiment": 0.12287760861217975,
-    "weighted_average_sentiment": 0.07868894874506323,
+    "total_news": 13,
+    "average_sentiment": 0.07531021657184912,
+    "weighted_average_sentiment": 0.12132858282088169,
     "average_daily_sentiments": [
+        0.037688687443733215,
+        -0.01964995265007019,
+        0.25194737990386784,
         0,
         0.22426674677990377,
         -0.31462080869823694,
-        0,
-        0.46078852424398065,
-        -0.0023729372769594193,
-        0.2432820985559374
+        0
     ],
     "news": [
-        {
-            "id": "c576d5bd-e608-381e-a823-14cd0cfd5edf",
-            "summary": "Home Depot, Lowe\u2019s, and Tractor Supply all sport decent yields that are growing and undergirded by strong cash flow. Dividend yields should help Gap and Hasbro, too, as a volatility buffer.",
-            "date": "2025-04-03T06:00:00Z",
-            "sentiment-score": 0.8744825571775436
-        },
-        {
-            "id": "8e9cfdc4-67dc-3e6d-83dc-e824b62969b1",
-            "summary": "RH's fourth-quarter fiscal 2024 results indicate strong demand despite a challenging housing market.",
-            "date": "2025-04-03T13:13:00Z",
-            "sentiment-score": 0.9192151762545109
-        },
-        {
-            "id": "184f6806-be83-3275-908d-48bb7a91ed21",
-            "summary": "To navigate the volatility the year may bring, blue-chip retail stocks like WMT, COST and HD offer a blend of stability and growth.",
-            "date": "2025-04-03T12:58:00Z",
-            "sentiment-score": 0.09715296793729067
-        },
-        {
-            "id": "65135eeb-8d6a-3f53-a146-fffa3f3f7dee",
-            "summary": "There's a lot of uncertainty in the stock market right now, and it's causing many investors to reconsider some of their stocks and look at which ones might offer good opportunities to buy.  With U.S. President Donald Trump's ongoing tariff actions against trade partners and some economists increasing their estimates of a potential recession, it's no surprise that investors are taking a more skeptical approach to each stock they buy.  When considering two leading consumer goods companies, Amazon (NASDAQ: AMZN) and Home Depot (NYSE: HD), which looks like the best stock to buy right now?",
-            "date": "2025-04-04T12:45:00Z",
-            "sentiment-score": -0.005157269537448883
-        },
-        {
-            "id": "59dcc911-c823-3df4-8b7c-85a430d7c706",
-            "summary": "Walmart, Costco Wholesale and The Home Depot are part of the Zacks top Analyst Blog.",
-            "date": "2025-04-04T13:16:00Z",
-            "sentiment-score": 0.00041139498353004456
-        },
-        {
-            "id": "1033f9aa-43cd-3f52-98d1-19a42b8f0e3f",
-            "summary": "Home Depot (NYSE: HD) is one of just 30 components in the Dow Jones Industrial Average (DJINDICES: ^DJI).  Like the majority of Dow stocks, Home Depot is an industry-leading business that pays a dividend, making it a go-to blue chip stock.  Here's why the sell-off in the dividend stock is a buying opportunity for long-term investors.",
-            "date": "2025-04-05T07:05:00Z",
-            "sentiment-score": 0.015097031369805336
-        },
-        {
-            "id": "53efd516-9013-3a73-a221-d18676ad1735",
-            "summary": "An ill-timed April Fools\u2019 Day joke from a tool review website had customers up in arms, as stock markets crash and the economy looks increasingly dire.",
-            "date": "2025-04-03T21:30:00Z",
-            "sentiment-score": -0.9177223071455956
-        },
-        {
-            "id": "4629aac5-4113-3282-8709-f12fad8ccad6",
-            "summary": "Despite headwinds that have come in the form of economic downturns, a global pandemic, supply chain issues, inflationary pressures, and higher interest rates, nothing has gotten in the way of Home Depot (NYSE: HD) paying a dividend for the past 152 straight quarters -- or 38 straight years.  In its fiscal 2024 alone, Home Depot paid over $8.9 billion in dividends, up from $8.4 billion in the previous fiscal year.  In February of 2023, 2024, and 2025, Home Depot bumped up its quarterly payouts by 10%, 8%, and 2%, respectively.",
-            "date": "2025-04-05T12:05:00Z",
-            "sentiment-score": 0.906480017118156
-        },
         {
             "id": "229adc11-b286-3d16-b1fd-3efd52d85ac1",
             "summary": "Quarterly earnings results are a good time to check in on a company\u2019s progress, especially compared to its peers in the same sector. Today we are looking at Home Depot (NYSE:HD) and the best and worst performers in the home furnishing and improvement retail industry.",
@@ -102,6 +54,42 @@
             "summary": "Home Depot (HD) concluded the recent trading session at $334.81, signifying a -1.96% move from its prior day's close.",
             "date": "2025-04-08T21:45:15Z",
             "sentiment-score": 0.8435092950239778
+        },
+        {
+            "id": "3338e6f7-56be-3dda-ba96-4c6dd88ca1f5",
+            "summary": "Key Insights Significantly high institutional ownership implies Home Depot's stock price is sensitive to their trading...",
+            "date": "2025-04-12T13:00:13Z",
+            "sentiment-score": 0.037688687443733215
+        },
+        {
+            "id": "10b4e96e-b6f8-3a27-ba88-b65d16ed1992",
+            "summary": "The end of the earnings season is always a good time to take a step back and see who shined (and who not so much). Let\u2019s take a look at how home furnishing and improvement retail stocks fared in Q4, starting with Lowe's (NYSE:LOW).",
+            "date": "2025-04-11T09:13:30Z",
+            "sentiment-score": -0.01964995265007019
+        },
+        {
+            "id": "7e9d54a0-336e-3af3-965a-123f58b8c4cf",
+            "summary": "(Bloomberg) -- When President Donald Trump said last week that he was using tariffs to remake American trade policy and bolster domestic manufacturing, entrepreneur Evita Chu started calling around to see if she could source some of the yarn she buys from China and Europe in the US instead.She stumbled upon a yarn mill in Wisconsin. \u201cOh wow, there are these mills and we\u2019d never heard of them,\u201d Chu said. \u201cThat\u2019s the positive side.\u201d The negative? The mill doesn\u2019t have the technology to spin the ya",
+            "date": "2025-04-10T16:38:50Z",
+            "sentiment-score": 0.03328635822981596
+        },
+        {
+            "id": "0d4afc88-e75a-3046-8d64-cfcb7bd2d4bb",
+            "summary": "Williams-Sonoma (WSM) saw its shares surge in the last session with trading volume being higher than average. The latest trend in earnings estimate revisions may not translate into further price increase in the near term.",
+            "date": "2025-04-10T14:35:00Z",
+            "sentiment-score": 0.9169349186122417
+        },
+        {
+            "id": "01f01cea-21d9-32ae-b327-a34451d1cc95",
+            "summary": "Suppose you want an early read on trading conditions at turf and landscape equipment company Toro (NASDAQ: TORO).  Major competitors of Toro include Stanley Black & Decker (MTD Products) in residential lawn care, John Deere in golf/turf maintenance, and Deere in utility equipment.  Meanwhile, Home Depot and Lowe's Companies are major lawn care equipment retailers.",
+            "date": "2025-04-10T12:55:00Z",
+            "sentiment-score": 0.015373233705759048
+        },
+        {
+            "id": "c0eecb7d-f31b-3269-b255-bd60b8de0971",
+            "summary": "The end of an earnings season can be a great time to discover new stocks and assess how companies are handling the current business environment. Let\u2019s take a look at how Floor And Decor (NYSE:FND) and the rest of the home furnishing and improvement retail stocks fared in Q4.",
+            "date": "2025-04-10T09:06:47Z",
+            "sentiment-score": 0.04219500906765461
         }
     ]
 }

@@ -1,84 +1,18 @@
 {
     "ticker": "BAC",
-    "total_news": 22,
-    "average_sentiment": -0.25593604325232183,
-    "weighted_average_sentiment": -0.2300977222226461,
+    "total_news": 21,
+    "average_sentiment": -0.17671916471971644,
+    "weighted_average_sentiment": -0.1632056394496113,
     "average_daily_sentiments": [
+        0,
+        -0.07612546852656774,
+        -0.2566502767925461,
         -0.5837585505408546,
         -0.0007737507112324238,
         0.08620773038516442,
-        -0.9125258857384324,
-        0.1390712782740593,
-        -0.2957660063169897,
-        -0.37651216983795166
+        -0.9125258857384324
     ],
     "news": [
-        {
-            "id": "da38fc1c-8ab3-3e9b-84ab-8e87b0ff8666",
-            "summary": "Bank of America (NYSE: BAC) has been a much better investment than Toronto-Dominion Bank (NYSE: TD) over the past decade.  In fact, Bank of America's stock price return alone is better than TD Bank's total return, which includes reinvested dividends.  Over the past decade, Bank of America has increased its dividend each and every year.",
-            "date": "2025-04-03T08:51:00Z",
-            "sentiment-score": 0.9185837497934699
-        },
-        {
-            "id": "25a9d7d3-44a0-46f1-a693-b82867059bdd",
-            "summary": "Stocks of the biggest banks and private-equity firms plunged Thursday as concerns mounted about how Wall Street giants and their customers might be affected by heightened odds of a US recession.",
-            "date": "2025-04-03T19:04:55Z",
-            "sentiment-score": -0.9409531420096755
-        },
-        {
-            "id": "b0488e2f-dc25-39b0-a030-7e5edc35cced",
-            "summary": "We came across a bullish thesis on Bank of America Corporation (BAC) on Substack by Easy Trader. In this article, we will summarize the bulls\u2019 thesis on BAC. Bank of America Corporation (BAC)\u2019s share was trading at $41.85 as of April 2nd. BAC\u2019s trailing and forward P/E were 13.04 and 11.31 respectively according to Yahoo Finance. Bank [\u2026]",
-            "date": "2025-04-03T13:46:09Z",
-            "sentiment-score": 0.0051477570086717606
-        },
-        {
-            "id": "c7d99537-989d-3fee-b498-ab52b8971796",
-            "summary": "Bank stocks fell sharply after President Trump unveiled sweeping tariffs that some feared would hurt loan growth and quality.  JPMorgan Chase and Bank of America dropped, as did U.S. Bancorp, PNC Financial Services, Truist Financial and Fifth Third.  Higher prices from tariffs could weigh on loan growth at banks and cause borrowers to fall behind on payments.",
-            "date": "2025-04-03T13:36:41Z",
-            "sentiment-score": -0.9546013297513127
-        },
-        {
-            "id": "8af27873-bbb0-38d9-a0b4-d38687ca3058",
-            "summary": "(Bloomberg) -- Berkshire Hathaway Inc.\u2019s stock sailed through a turbulent trading session Thursday, falling only slightly while indexes across the globe plummeted on President Donald Trump\u2019s sweeping tariff plans.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018Transportation",
-            "date": "2025-04-03T21:24:49Z",
-            "sentiment-score": -0.9107378842309117
-        },
-        {
-            "id": "47d44628-d70b-3b8d-ade7-20fed45b3e01",
-            "summary": "(Bloomberg) -- Wall Street forecasters are turning ice cold on US equities, telling investors to refrain from buying the selloff as President Donald Trump\u2019s historic trade war raises the specter of recession.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018Transportation Abun",
-            "date": "2025-04-04T11:55:27Z",
-            "sentiment-score": 0.38996322453022003
-        },
-        {
-            "id": "e092415b-74ea-3a9c-a676-407d1073e5b3",
-            "summary": "Banks are set to kick off first quarter earnings season next week. Bloomberg Intelligence director of research global strategy team Alison Williams joins Catalyst with host Madison Mills to discuss what investors can expect from bank earnings. To watch more expert insights and analysis on the latest market action, check out more Catalysts here.",
-            "date": "2025-04-04T15:23:14Z",
-            "sentiment-score": 0.026636815164238214
-        },
-        {
-            "id": "657b3b94-c029-3692-aebb-ad4ef8ad1724",
-            "summary": "In a tumultuous period marked by a significant market downturn, Bank of America (NYSE:BAC) experienced a share price decline of 13% over the past week. This drop coincides with recent developments, including notable shareholder activism, where the company received several proposals and recommended votes against them, and a leadership change in its India operations. Additionally, the market's overall turbulence, driven by global trade tensions and fears of an economic recession, compounded the...",
-            "date": "2025-04-04T17:32:02Z",
-            "sentiment-score": -0.9544757874682546
-        },
-        {
-            "id": "96eb7fdd-c067-3f02-b8af-2244b0175e6c",
-            "summary": "(Bloomberg) -- The S&P 500 Index declined to the lowest level in 11 months, slashing $5.4 trillion in market value in just two sessions as Federal Reserve Chairman Jerome Powell said the Trump administration\u2019s tariffs \u201ccould have a persistent impact on inflation.\u201dMost Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersWhat Would \u2018Transportation Abundance\u2019",
-            "date": "2025-04-04T20:26:32Z",
-            "sentiment-score": -0.9526765551418066
-        },
-        {
-            "id": "91f2daa9-5c51-3d92-b159-7f9e42ac7f94",
-            "summary": "We recently published a list of Top 10 Stocks to Watch as Investors Brace for Potential Recession. In this article, we are going to take a look at where Bank of America Corporation (NYSE:BAC) stands against other top stocks to watch as investors brace for potential recession. President Donald Trump\u2019s new reciprocal tariff announcement is [\u2026]",
-            "date": "2025-04-04T21:19:17Z",
-            "sentiment-score": 0.011722271330654621
-        },
-        {
-            "id": "8d411305-26f6-4d2f-83f4-7be87da0262c",
-            "summary": "A dealmaking freeze and the biggest rout in financial stocks since 2023 are raising the stakes for the start of Wall Street\u2019s earnings season this coming week.",
-            "date": "2025-04-05T11:55:43Z",
-            "sentiment-score": 0.1390712782740593
-        },
         {
             "id": "3c3da1b1-9612-382a-a11e-72f849709b77",
             "summary": "We recently published a list of Starter Stock Portfolio 12 Safe Stocks to Buy. In this article, we are going to take a look at where Bank of America Corporation (NYSE:BAC) stands against other best beginner stocks. The US stock market has experienced a turbulent first quarter of 2025, marked by increased volatility and negative [\u2026]",
@@ -144,6 +78,66 @@
             "summary": "Bank of America is slated to report Q1 results on April 15. Let's analyze whether the stock is worth betting on despite the recession risk because of tariffs.",
             "date": "2025-04-09T13:42:00Z",
             "sentiment-score": 0.03138025803491473
+        },
+        {
+            "id": "4416b0d6-22d5-3af7-bd54-b4142925194e",
+            "summary": "(Bloomberg) -- Wall Street\u2019s gyrations shook markets anew, with stocks erasing losses to notch their best week since 2023. The rally came as a rout in bonds and the dollar abated, following a few chaotic days that underscored fears foreign investors are beating a retreat from American assets.Most Read from BloombergThe Secret Formula for Faster TrainsIn Chicago, a Former Steel Mill Looks to Make a Quantum LeapMidtown Office Building Evacuated on Concerns of Wall CollapseNYC Tourist Helicopter Cr",
+            "date": "2025-04-11T21:27:04Z",
+            "sentiment-score": 0.04850633442401886
+        },
+        {
+            "id": "d17ae51c-9338-381b-9b46-261be95e045b",
+            "summary": "We recently published a list of the 11 Cheap NYSE Stocks to Invest in According to Hedge Funds. In this article, we are going to take a look at where Bank of America Corporation (NYSE:BAC) stands against other cheap NYSE stocks. On March 26, Jack Caffrey of JPMorgan Asset Management provided an analysis of market [\u2026]",
+            "date": "2025-04-11T20:43:26Z",
+            "sentiment-score": 0.005861702375113964
+        },
+        {
+            "id": "7b9aa6fa-767d-30d8-bb9c-fd00d3c45d21",
+            "summary": "Dividends are one of the best benefits to being a shareholder, but finding a great dividend stock is no easy task. Does Bank of America (BAC) have what it takes? Let's find out.",
+            "date": "2025-04-11T15:45:08Z",
+            "sentiment-score": 0.025889947079122066
+        },
+        {
+            "id": "63b4a4b0-03c0-47f5-8c77-924188fd222e",
+            "summary": "Earnings preview of key companies reporting next week and what to look out for.",
+            "date": "2025-04-11T13:11:11Z",
+            "sentiment-score": -0.010118871927261353
+        },
+        {
+            "id": "0acdce1f-b027-3e85-91ad-beb280ec9299",
+            "summary": "We recently published a list of 11 Best Digital Payments Stocks to Buy According to Analysts. In this article, we are going to take a look at where Bank of America Corporation (NYSE:BAC) stands against other best digital payment stocks. Digital payment stocks are companies that specialize in designing, developing, or administering digital payment solutions. [\u2026]",
+            "date": "2025-04-11T12:17:00Z",
+            "sentiment-score": 0.015311462804675102
+        },
+        {
+            "id": "2c9268e1-ac8f-4d5a-944a-16ea348683cd",
+            "summary": "Earnings mean less, and old outlooks mean nothing when tariff policy is all Wall Street cares about.",
+            "date": "2025-04-11T10:00:25Z",
+            "sentiment-score": -0.1273922510445118
+        },
+        {
+            "id": "91fe9956-4be8-3072-af4e-09d9a6800c6c",
+            "summary": "(Bloomberg) -- Investors should sell any rallies in the S&P 500 Index until the Federal Reserve steps in and the US and China de-escalate the global trade war, according to Bank of America Corp.\u2019s Michael Hartnett.Most Read from BloombergMidtown Office Building Evacuated on Concerns of Wall CollapseThe Secret Formula for Faster TrainsIn Chicago, a Former Steel Mill Looks to Make a Quantum LeapNYC Tourist Helicopter Crashes in Hudson River, Killing SixInside the Quiet, Extravagant Expansion of th",
+            "date": "2025-04-11T08:42:40Z",
+            "sentiment-score": -0.49093660339713097
+        },
+        {
+            "id": "122dffe2-c769-3ba6-ad53-4a16270cf703",
+            "summary": "After a rip-roaring rally yesterday, stocks resumed their sell-off today, as unrest about tariffs and U.S.-Chinese relations once again found the spotlight.  Shares of JPMorgan Chase (NYSE: JPM) traded roughly 4% lower.  Shares of Bank of America (NYSE: BAC) and Wells Fargo (NYSE: WFC) had fallen roughly 4.6% and 5.7%, respectively.",
+            "date": "2025-04-10T20:12:06Z",
+            "sentiment-score": -0.9553400529548526
+        },
+        {
+            "id": "49133a84-7fa4-35b8-9d46-92ee1938fcfa",
+            "summary": "(Bloomberg) -- The Canadian government has invited representatives from US banks including JPMorgan Chase & Co. for a meeting, according to people with knowledge of the matter, after US President Donald Trump complained that American banks have trouble doing business in Canada.Most Read from BloombergMidtown Office Building Evacuated on Concerns of Wall CollapseIn Chicago, a Former Steel Mill Looks to Make a Quantum LeapThe Secret Formula for Faster TrainsHelicopter Crashes Into Hudson River Wit",
+            "date": "2025-04-10T16:54:09Z",
+            "sentiment-score": -0.6157281324267387
+        },
+        {
+            "id": "071b29d3-ce31-39d4-a9e6-bee65ac6be52",
+            "summary": "Bank of America (BAC) was a big mover last session on higher-than-average trading volume. The latest trend in earnings estimate revisions might not help the stock continue moving higher in the near term.",
+            "date": "2025-04-10T13:42:00Z",
+            "sentiment-score": 0.801117355003953
         }
     ]
 }

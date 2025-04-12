@@ -1,24 +1,18 @@
 {
     "ticker": "MRK",
-    "total_news": 9,
-    "average_sentiment": -0.2826254971118437,
-    "weighted_average_sentiment": -0.41625424918598264,
+    "total_news": 12,
+    "average_sentiment": -0.4424858431642254,
+    "weighted_average_sentiment": -0.4439786948955082,
     "average_daily_sentiments": [
+        0,
+        0.0010881340131163597,
+        -0.6301269537458817,
         -0.6384864298161119,
         0.029778591357171535,
         -0.9559274455532432,
-        0,
-        0,
-        0,
-        0.876907916739583
+        0
     ],
     "news": [
-        {
-            "id": "4d202ae2-292d-33fc-b5df-f9468db0055c",
-            "summary": "Big pharmaceutical stocks mostly rose after President Trump\u2019s executive order exempted medicines from new tariffs. Merck, Bristol-Myers Squibb, and Johnson & Johnson were among the top performers in the S&P 500, with the sector also benefiting from its status as a defensive play.",
-            "date": "2025-04-03T14:30:22Z",
-            "sentiment-score": 0.876907916739583
-        },
         {
             "id": "f4d6079f-f84f-3c01-bfbd-4dbb8d14b6a4",
             "summary": "The past six months haven\u2019t been great for Merck. It just made a new 52-week low of $79.69, and shareholders have lost 26.6% of their capital. This was partly due to its softer quarterly results and might have investors contemplating their next move.",
@@ -66,6 +60,30 @@
             "summary": "Drugmaker stocks, including Eli Lilly (LLY), Johnson & Johnson (JNJ), Merck (MRK), and Pfizer (PFE), are under pressure on Wednesday after President Trump announced that he may impose tariffs on pharmaceutical imports. Yahoo Finance Senior Health Reporter Anjalee Khemlani joins Morning Brief to break down the details. To watch more expert insights and analysis on the latest market action, check out more Morning Brief here.",
             "date": "2025-04-09T14:11:57Z",
             "sentiment-score": -0.07719903066754341
+        },
+        {
+            "id": "87d3ee81-4e05-3a55-901d-ef8152420f1a",
+            "summary": "We recently published a list of Jim Cramer Recently Talked About These 9 Stocks. In this article, we are going to take a look at where Merck & Co., Inc. (NYSE: MRK) stands against other stocks that Jim Cramer discussed recently. On Wednesday, Jim Cramer, the host of Mad Money, shared his thoughts on the [\u2026]",
+            "date": "2025-04-11T16:33:45Z",
+            "sentiment-score": 0.0010881340131163597
+        },
+        {
+            "id": "ec0da42a-1d30-3d09-b5c1-9c2aa3a210a4",
+            "summary": "Merck (NYSE:MRK) recently experienced a significant corporate governance event when multiple shareholder proposals were announced, with the company recommending against them for the upcoming annual meeting. This development comes amid a general market downturn, underscored by the Dow and Nasdaq dropping 4% and 6%, respectively. Over the past week, Merck's share price has decreased by 5.42%, slightly exceeding the broader market's decline. The combination of these shareholder proposals and...",
+            "date": "2025-04-10T17:23:17Z",
+            "sentiment-score": -0.9394085304811597
+        },
+        {
+            "id": "5788e167-ba2e-3f2d-8e9e-4bfb72e0e2c1",
+            "summary": "Pharma stocks tumbled Thursday after the Trump administration said the delay for reciprocal tariffs doesn't apply to sector-specific tariffs.",
+            "date": "2025-04-10T16:58:23Z",
+            "sentiment-score": -0.9471217887476087
+        },
+        {
+            "id": "3680ca98-ebf8-37ec-b129-d0888deb81ab",
+            "summary": "We came across a bullish thesis on Merck & Co., Inc. (MRK) on Substack by Charly AI. In this article, we will summarize the bulls\u2019 thesis on MRK. Merck & Co., Inc. (MRK)\u2019s share was trading at $81.91 as of April 9th. MRK\u2019s trailing and forward P/E were 12.15 and 9.10 respectively according to Yahoo Finance. Merck [\u2026]",
+            "date": "2025-04-10T12:55:50Z",
+            "sentiment-score": -0.0038505420088768005
         }
     ]
 }

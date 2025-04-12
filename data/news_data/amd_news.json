@@ -1,108 +1,18 @@
 {
     "ticker": "AMD",
-    "total_news": 36,
-    "average_sentiment": -0.2067912601115596,
-    "weighted_average_sentiment": -0.2924848159994273,
+    "total_news": 31,
+    "average_sentiment": -0.19578885452281083,
+    "weighted_average_sentiment": -0.07708398746592657,
     "average_daily_sentiments": [
+        0.33428423882772523,
+        0.09762590130170186,
+        0.01800470892339945,
         0.025223687873221934,
         -0.8216633654923903,
         0.10991550935432315,
-        -0.35135877784341574,
-        0.09224811429157853,
-        -0.20923754014074802,
-        0.7610110465902835
+        -0.35135877784341574
     ],
     "news": [
-        {
-            "id": "d05a5504-688e-3fad-912d-e0a40654521c",
-            "summary": "Nvidia's Blackwell computing platform set performance records in artificial intelligence inferencing tests. But Nvidia stock wavered on the news.",
-            "date": "2025-04-02T20:49:06Z",
-            "sentiment-score": -0.8946940526366234
-        },
-        {
-            "id": "f3724bff-456f-36dd-b1f8-c12b6385cca3",
-            "summary": "Trump said the import tariff rate for Taiwan will be set at 32%. Initially, that looked like bad news for American chip makers like Nvidia, Advanced Micro Devices, and Qualcomm, which are customers of Taiwan Semiconductor Manufacturing Co.",
-            "date": "2025-04-02T21:51:19Z",
-            "sentiment-score": -0.9390872763469815
-        },
-        {
-            "id": "084f0bdc-a80d-4338-ac0b-eaabb0b8a6ea",
-            "summary": "Intel and TSMC have reached a tentative agreement to shore up Intel's foundry business, according to The Information.",
-            "date": "2025-04-03T20:24:17Z",
-            "sentiment-score": 0.9004811774939299
-        },
-        {
-            "id": "ee0bf1a8-5f3e-371d-a677-2556c1d27c1a",
-            "summary": "AMD competes with NVIDIA in the GPU market and has gained some of the latter's key clients. Can AMD stock surpass NVIDIA?",
-            "date": "2025-04-03T19:05:00Z",
-            "sentiment-score": 0.6046336339786649
-        },
-        {
-            "id": "7ae75147-90dd-356e-971e-b2db4d197636",
-            "summary": "Artisan Partners, an investment management company, released its \u201cArtisan Global Opportunities Fund\u201d fourth quarter 2024 investor letter. A copy of the letter can be downloaded here. US equities experienced significant gains in Q4, showcasing a strong year. The portfolio showed slight weakness in Q4 but posted a strong absolute return in 2024. In the fourth [\u2026]",
-            "date": "2025-04-03T11:38:37Z",
-            "sentiment-score": 0.8627727068960667
-        },
-        {
-            "id": "3966fac4-7c86-3359-834e-0f073458e3f4",
-            "summary": "Super Micro Computer (SMCI) might have the word \u201cmicro\u201d in its name, but make no mistake\u2014this Silicon Valley-based server and storage powerhouse has been delivering mighty growth over the past three years. With the boom in AI training, cloud data centers, and enterprise IT, Super Micro has surged 829%, alongside some of the hottest trends in technology. While the company\u2019s most explosive alpha years\u20142023 and 2024\u2014are now behind us, I believe the runway is far from finished. Based on projected ea",
-            "date": "2025-04-03T11:28:27Z",
-            "sentiment-score": 0.6761566679924726
-        },
-        {
-            "id": "764a3fdc-503a-3dfd-8cd2-d527a568a9c1",
-            "summary": "AMD, NVIDIA, Microsoft, Meta and Oracle are part of the Zacks top Analyst Blog.",
-            "date": "2025-04-04T13:00:00Z",
-            "sentiment-score": 0.004079347476363182
-        },
-        {
-            "id": "5e70306a-b6ae-31cd-9b6c-b68921a10ee2",
-            "summary": "There's no hiding it: Graphics processing unit (GPU) leader Nvidia is eating rival Advanced Micro Devices' (NASDAQ: AMD) lunch in the data center space.  A rising tide really can lift all boats, and that holds especially true with Nvidia and AMD, as large data center operators don't want to get locked into one GPU provider.  Nvidia recently made a bold prediction about where data center infrastructure spending is going -- spending that will benefit both Nvidia and AMD.",
-            "date": "2025-04-04T11:15:00Z",
-            "sentiment-score": 0.6598278935998678
-        },
-        {
-            "id": "07a0898b-9877-310c-aa25-6b1fc2aff3ca",
-            "summary": "In a strategic partnership, Navitas Semiconductor and Great Wall have developed a next-generation 400V-DC power architecture specifically designed for AI data centers. Leveraging Navitas\u2019 GaNSense technology, the collaboration has resulted in an ultra-high power density DC-DC converter delivering 2.5kW of power\u2014marking a significant leap in power efficiency and density. This innovative power solution supports evolving data center requirements by accommodating more GPUs while promoting energy...",
-            "date": "2025-04-04T11:07:30Z",
-            "sentiment-score": 0.8357444554567337
-        },
-        {
-            "id": "56abbbe4-6b05-3b57-832c-d0a964bd9a51",
-            "summary": "Advanced Micro Devices (NasdaqGS:AMD) experienced a 7% decline over the past month. Despite announcing their 5th Gen AMD EPYC processors to power Oracle Cloud, and expanding their x86 embedded processor portfolio, AMD\u2019s share price nonetheless trended downward. This aligns with a broader sell-off affecting tech stocks amid escalating global trade tensions and a downtrend in major indices, including the Nasdaq, which entered bear market territory. Investor concerns over trade-related impacts...",
-            "date": "2025-04-04T17:43:35Z",
-            "sentiment-score": -0.9512237859889865
-        },
-        {
-            "id": "3d7506c1-9d69-31a5-9fdb-e4e78da7d3a3",
-            "summary": "Chips were never safe from tariff pain despite their initial exclusion from President Donald Trump\u2019s new levies on Wednesday. His announcement aboard Air Force One yesterday that the sector was in his crosshairs for direct tariffs has rightly rattled investors further.",
-            "date": "2025-04-04T17:57:35Z",
-            "sentiment-score": -0.8482248447835445
-        },
-        {
-            "id": "cd81db4b-d04d-360d-b802-b6bdae0516c3",
-            "summary": "Shares of computer processor maker AMD (NASDAQ:AMD) fell 8.4% in the morning session after China imposed a 34% tariff on all U.S. imports amid escalating trade war tensions. This was especially rough for the US chipmakers because a big chunk of their business leans on demand out of China. The new tariffs not only threaten to erode profit margins but also risk reducing market share. Adding to the uncertainty, the Trump administration signaled the possibility of further regulatory action against t",
-            "date": "2025-04-04T19:14:05Z",
-            "sentiment-score": -0.9556283066049218
-        },
-        {
-            "id": "fb682716-b935-336d-a380-bff8a222b52d",
-            "summary": "The recent market sell-off has created some nice opportunities in the market for long-term investors, particularly among artificial intelligence (AI) stocks.  This includes several AI semiconductor stocks besides Nvidia, which has also seen its stock come under pressure.  Let's look at two AI chip stocks that investors can look to buy ahead of the next AI stock bull run.",
-            "date": "2025-04-05T09:33:00Z",
-            "sentiment-score": 0.08072189893573523
-        },
-        {
-            "id": "f92195bc-fe71-3f84-b5d3-f65c75a0a234",
-            "summary": "We recently published a list of 10 Stocks That Will Profit From AI. In this article, we are going to take a look at where Advanced Micro Devices, Inc. (NASDAQ:AMD) stands against other stocks that will profit from AI. Artificial Intelligence (AI) is no longer a concept of the future but a real economic force [\u2026]",
-            "date": "2025-04-05T15:18:11Z",
-            "sentiment-score": 0.006731241010129452
-        },
-        {
-            "id": "3258f7c5-df2f-3e40-99e4-a5b15327e110",
-            "summary": "Paul Tudor Jones is betting on these two turnaround stocks over Nvidia.",
-            "date": "2025-04-05T12:53:00Z",
-            "sentiment-score": 0.18929120292887092
-        },
         {
             "id": "1e01e888-b205-3de4-98db-fe1e0efd3042",
             "summary": "Although recent\u00a0stock market volatility has pushed down prices for many stocks, the artificial intelligence (AI) sector remains a compelling investment, with the tremendous transformative potential it brings to many industries.  A newcomer to the AI space is the recent initial public offering (IPO)\u00a0CoreWeave (NASDAQ: CRWV).  The company went public on March 28, and AI semiconductor powerhouse Nvidia was among those that bought shares.",
@@ -228,6 +138,66 @@
             "summary": "Brad Smith takes a closer look at the top stories as part of today's Market Minute. Trump Media & Technology Group (DJT) stock gains as US President Trump tells markets to \"be cool,\" saying it's \"a great time to buy.\" Advanced Micro Devices (AMD) gains amid a broader tech rally despite TD Cowen analysts cutting the company's price target to $100 from $135. Bernstein analysts downgrade Ford (F) to Sell from Hold, citing the impact of tariffs. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
             "date": "2025-04-09T16:25:19Z",
             "sentiment-score": -0.4509441778063774
+        },
+        {
+            "id": "80340c6b-720d-3b9f-a08c-ff5198febb77",
+            "summary": "We recently published a list of the 13 NASDAQ Stocks with the Highest Upside Potential. In this article, we are going to take a look at where Advanced Micro Devices Inc. (NASDAQ:AMD) stands against other NASDAQ stocks with high upside potential. On April 7, Dan Ives of Wedbush Securities joined CNBC\u2019s \u2018Squawk on the Street\u2019 [\u2026]",
+            "date": "2025-04-12T12:36:39Z",
+            "sentiment-score": 0.016380677931010723
+        },
+        {
+            "id": "b502e2ba-615e-3f24-a436-b7d998599e13",
+            "summary": "Advanced Micro Devices (AMD) is knocking on Nvidia\u2019s (NVDA) door. Last week, the plucky semiconductor challenger announced the completion of its $4.9 billion acquisition of ZT Systems for its expertise in systems and rack-level design. The goal is to accelerate the design and deployment of AMD-powered AI infrastructure. This market is currently dominated by NVIDIA and is expected to exceed $1 trillion within a few years. While the acquisition leverages the existing strengths of AMD and represent",
+            "date": "2025-04-12T12:02:11Z",
+            "sentiment-score": 0.4512791968882084
+        },
+        {
+            "id": "9d30078d-d806-3594-b42e-3ea2e8fd235f",
+            "summary": "Palantir Technologies (NASDAQ: PLTR) stock has returned 910% since the inception of the artificial intelligence boom in late 2022, and the company is currently worth $200 billion.  Aaron Rakers at Wells Fargo recently maintained his AMD forecast at $140 per share.  It also implies a market value of $227 billion.",
+            "date": "2025-04-12T07:01:00Z",
+            "sentiment-score": 0.5351928416639566
+        },
+        {
+            "id": "7b82f1ff-5474-3908-8d04-64d3ddc25d0f",
+            "summary": "AMD and Google Cloud Join Forces on High-Performance VMs",
+            "date": "2025-04-11T18:14:12Z",
+            "sentiment-score": 0.621498255059123
+        },
+        {
+            "id": "bc3080d9-e21a-3a9d-aa97-b6cbd2b71615",
+            "summary": "We recently published a list of Top 10 Stocks in Ken Griffin\u2019s Portfolio to Buy According to Analysts. In this article, we are going to take a look at where Advanced Micro Devices Inc. (NASDAQ:AMD) stands against other top stocks in Ken Griffin\u2019s portfolio to buy according to analysts. Ken Griffin is one billionaire investor [\u2026]",
+            "date": "2025-04-11T16:21:35Z",
+            "sentiment-score": 0.008138302713632584
+        },
+        {
+            "id": "f0fd0ab9-4759-394e-b77b-ffc87b545907",
+            "summary": "AMD has introduced the 5th Gen AMD EPYC processors, which are now powering Google Cloud's new C4D and H4D virtual machines (VMs). These VMs offer significant enhancements in performance, scalability, and efficiency, specifically tailored for demanding cloud workloads including AI and high-performance computing (HPC). The C4D instances, fueled by AMD's \"Zen 5\" architecture, show up to 80% higher throughput per vCPU, catering to general-purpose and AI inferencing tasks, while the H4D instances...",
+            "date": "2025-04-11T11:37:37Z",
+            "sentiment-score": 0.8210128284990788
+        },
+        {
+            "id": "f26fc7ef-a3ee-31be-93bd-7e468137473e",
+            "summary": "NVIDIA, Palantir Technologies, Advanced Micro Devices, Microsoft and Amazon.com are included in this Analyst Blog.",
+            "date": "2025-04-11T10:44:00Z",
+            "sentiment-score": -0.001529434695839882
+        },
+        {
+            "id": "dfec68c3-b4bc-3f27-8c92-09c6f1cf6530",
+            "summary": "The chipmaking giant has a new CEO, but it still faces existential challenges.",
+            "date": "2025-04-11T08:14:00Z",
+            "sentiment-score": -0.7460732385516167
+        },
+        {
+            "id": "418de7f6-2355-3680-ad2b-bcb065ef9093",
+            "summary": "The stock market is off to a rough start to 2025.  It's never fun to see the value of your portfolio dwindle, and there's never any certainty about when a period of market volatility will end.  Buying top AI stocks at their now-lower prices could be the smartest move you make this year.",
+            "date": "2025-04-11T08:08:00Z",
+            "sentiment-score": -0.11729130521416664
+        },
+        {
+            "id": "a75a6e2e-6cb2-3100-9522-56f83da688ff",
+            "summary": "We recently published a list of Top 12 Tech Stocks to Buy According to Billionaire Ken Fisher. In this article, we are going to take a look at where Advanced Micro Devices, Inc. (NASDAQ:AMD) stands against other top tech stocks to buy according to Billionaire Ken Fisher. Under the umbrella of Fisher Asset Management, Billionaire [\u2026]",
+            "date": "2025-04-10T21:45:19Z",
+            "sentiment-score": 0.01800470892339945
         }
     ]
 }

@@ -1,438 +1,18 @@
 {
     "ticker": "TSLA",
-    "total_news": 176,
-    "average_sentiment": -0.41197947827591136,
-    "weighted_average_sentiment": -0.45251960251393575,
+    "total_news": 119,
+    "average_sentiment": -0.44596015540256845,
+    "weighted_average_sentiment": -0.3612001294593044,
     "average_daily_sentiments": [
+        -0.2076294663711451,
+        -0.028861186932772398,
+        0,
         -0.23032044781194555,
         -0.5468846086587291,
         -0.6345836940364769,
-        -0.3190794779919088,
-        -0.04162319900933653,
-        -0.5412985906670136,
-        -0.39402375399897044
+        -0.3190794779919088
     ],
     "news": [
-        {
-            "id": "e712f696-ccba-34e4-b62f-497ce92d2e42",
-            "summary": "Tesla (TSLA) stock has reversed earlier losses that were fueled by first quarter deliveries missing estimates after reports that CEO Elon Musk will be stepping back from US politics. Stifel NextGen transport analyst Stephen Gengaro joins Josh Lipton, Investopedia editor in chief Caleb Silver, and Citi Wealth chief investment strategist and chief economist Steven Wieting to discuss how Elon Musk's involvement in President Donald Trump's second administration has impacted Tesla. To watch more expert insights and analysis on the latest market action, check out more Market Domination here.",
-            "date": "2025-04-02T21:13:58Z",
-            "sentiment-score": -0.3377480208873749
-        },
-        {
-            "id": "52c69f48-78ac-3848-8ca4-ea4cdbc28050",
-            "summary": "Tesla Stock Climbs as Musk's Return to Full-Time CEO Role Gains Traction",
-            "date": "2025-04-02T21:06:43Z",
-            "sentiment-score": 0.5068267919123173
-        },
-        {
-            "id": "0eea9f17-9cbc-31c2-ab74-df113a166d7d",
-            "summary": "Shares of electric vehicle pioneer Tesla (NASDAQ:TSLA) jumped 5.6% in the afternoon session after Politico reported that Elon Musk may soon step down from his position at the Department of Government Efficiency, indicating a renewed focus on his business ventures, especially Tesla.",
-            "date": "2025-04-02T20:22:38Z",
-            "sentiment-score": 0.576460238546133
-        },
-        {
-            "id": "78183fc6-3469-3630-ae74-56be49c2ef36",
-            "summary": "US benchmark equity indexes ended higher Wednesday as the Trump administration made auto tariffs off",
-            "date": "2025-04-02T20:02:18Z",
-            "sentiment-score": 0.7988448906689882
-        },
-        {
-            "id": "4f280759-9c1c-351d-9cf1-20183b85d6a2",
-            "summary": "Politico reports Musk to reduce government involvement; press secretary denies, says DOGE initiative continues",
-            "date": "2025-04-02T19:28:34Z",
-            "sentiment-score": 0.05226299166679382
-        },
-        {
-            "id": "3478c92f-e4f5-3fa0-b4c7-9c5b72be8532",
-            "summary": "Despite taking a hit earlier in the day from weak deliveries, Tesla (TSLA) stock is now soaring as Elon Musk\u2019s time in the federal government appears to be nearing an end.",
-            "date": "2025-04-02T19:21:20Z",
-            "sentiment-score": 0.8795709824189544
-        },
-        {
-            "id": "3f169c4a-f007-3697-aded-2d4a5d843387",
-            "summary": "Shares of the electric carmaker Tesla (NASDAQ: TSLA) started this morning in the red only to reverse course and work their way firmly into positive territory, with shares trading 5% higher as of 2:15 p.m. ET today.  There was a lot of news about Tesla, including first-quarter deliveries and reports that CEO Elon Musk may soon end his involvement in government affairs.  Is Musk done with DOGE?",
-            "date": "2025-04-02T19:09:16Z",
-            "sentiment-score": 0.5957110971212387
-        },
-        {
-            "id": "88299bf8-d350-409e-b271-3be28d8c7732",
-            "summary": "Stocks sold off late Wednesday as President Trump's reciprocal tariffs proved to be harsher than many on Wall Street had expected.",
-            "date": "2025-04-02T22:23:45Z",
-            "sentiment-score": -0.8128671087324619
-        },
-        {
-            "id": "170f362d-6cb0-3c73-ba6b-60be6e87d1f3",
-            "summary": "Apple and other major U.S. tech stocks tumble after President Donald Trump announces sweeping global tariffs, Nvidia falls even as the White House says tariffs on Taiwan wouldn\u2019t apply to semiconductors, and apparel makers such as Nike drop sharply since they use Asian factories to make most of their products.",
-            "date": "2025-04-03T09:34:00Z",
-            "sentiment-score": -0.9502911251038313
-        },
-        {
-            "id": "68e0f00e-d8c8-3124-a1db-b475d34e3828",
-            "summary": "While many investors hold great respect for Warren Buffett, they may also view him as more of a traditional investor.  Consumer tech giant Apple is still the largest holding in Berkshire Hathaway's massive equities portfolio, and the conglomerate owns stakes in other innovative companies as well.  In fact, one of those companies is starting to eat Tesla's lunch.",
-            "date": "2025-04-03T08:14:00Z",
-            "sentiment-score": 0.021183546632528305
-        },
-        {
-            "id": "c2f4a368-9f53-30d9-8617-4cd2f587184d",
-            "summary": "Retail investors' most widely held stock on Robinhood is a company known for its groundbreaking innovation in a number of industries.",
-            "date": "2025-04-03T07:41:00Z",
-            "sentiment-score": 0.27919225953519344
-        },
-        {
-            "id": "90a6b34a-04f7-39ab-869f-0c46229a883a",
-            "summary": "Sales are falling, and the brand is under pressure. Musk's distractions may be Tesla's biggest risk and investors are still paying a premium.",
-            "date": "2025-04-03T07:18:49Z",
-            "sentiment-score": -0.9416190842166543
-        },
-        {
-            "id": "30710e5f-728d-3672-b112-ed9071570011",
-            "summary": "Investors should try to look past the immediate causes of volatility. There is some positivity on the horizon.",
-            "date": "2025-04-03T07:12:00Z",
-            "sentiment-score": 0.028978480957448483
-        },
-        {
-            "id": "400001a5-60a9-33c6-bd9f-38fa6c9d2efa",
-            "summary": "Tesla sales tumble 13% as Musk backlash, competition and aging lineup turn off buyers",
-            "date": "2025-04-03T04:00:00Z",
-            "sentiment-score": -0.9555435529910028
-        },
-        {
-            "id": "bea82499-37e5-3831-9e74-022a9f58d7df",
-            "summary": "Tesla sales fell in the first three months of the year in another sign that Elon Musk's once high-flying electric car company is struggling to attract buyers",
-            "date": "2025-04-03T04:00:00Z",
-            "sentiment-score": -0.9595421953126788
-        },
-        {
-            "id": "5fcbc286-f0d2-4ee9-aee6-538513ea8281",
-            "summary": "For Tesla investors, it's time to lock in; for Trump world, it's the end of a political liability.",
-            "date": "2025-04-03T10:01:00Z",
-            "sentiment-score": 0.03629401233047247
-        },
-        {
-            "id": "887c3769-4fed-3e9e-957b-96927fd83237",
-            "summary": "All it took was losing $100 billion in three months to make Elon Musk change his tune on government work.",
-            "date": "2025-04-03T09:00:36Z",
-            "sentiment-score": -0.029302455484867096
-        },
-        {
-            "id": "e775c2df-9934-3b71-9198-46bd56092b23",
-            "summary": "We recently published a list of 10 Best Climate Change Stocks to Buy Now. In this article, we will look at where Tesla, Inc. (NASDAQ:TSLA) stands against other best climate change stocks to buy now. Investors are focusing on companies driving the transition to a low-carbon economy. Climate change stocks, as defined by the Climate Change [\u2026]",
-            "date": "2025-04-03T10:56:21Z",
-            "sentiment-score": 0.022567205131053925
-        },
-        {
-            "id": "425d8328-306f-3ce8-af64-b88b0d4d2999",
-            "summary": "(Bloomberg) -- Supply Lines is a daily newsletter that tracks global trade. Sign up here.Most Read from BloombergMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLondon Clears Final Hurdle for More High-Speed Trains to EuropeLocal Governments Vie for Fired Federal WorkersWhat Frank Lloyd Wright Learned From the DesertChicago School District Agrees to Minimum 16% Teacher Pay RaisePresident Donald Trump\u2019s 25% tariff on US auto imports took effect on Thursday in a move ex",
-            "date": "2025-04-03T10:52:45Z",
-            "sentiment-score": 0.12854566145688295
-        },
-        {
-            "id": "927e7f69-8827-34f1-a628-2d776d4e9959",
-            "summary": "KBA said on its website on Thursday that Tesla sold 2,229 cars in Germany in March, down 42.5% from year earlier.  On Wednesday, Tesla said its quarterly sales volume plunged 13% to the weakest in nearly three years, hurt by rising global competition, a backlash against CEO Elon Musk's political activities and by some customers waiting for a refresh to its highest-selling Model Y.",
-            "date": "2025-04-03T10:44:56Z",
-            "sentiment-score": -0.9609533208422363
-        },
-        {
-            "id": "7df7be7f-d06c-3310-bf56-a4fb4a210ed2",
-            "summary": "If you'd invested $10,000 in Tesla 10 years ago, you would have an incredible $215,600 at recent prices, an annualized growth rate of nearly 36%.  Tesla (NASDAQ: TSLA) is the second-best-performing \"Magnificent Seven\" stock over the last decade, behind only Nvidia, and its return over the period is a reminder of how much value CEO Elon Musk's company has generated for investors.  A decade ago, an investor might have contemplated investing in Tesla based on a belief that it would establish itself as the premier electric vehicle (EV) company in the world and the EV market establishing itself as the future of transportation.",
-            "date": "2025-04-03T10:22:00Z",
-            "sentiment-score": 0.6308872541412711
-        },
-        {
-            "id": "c713c3e3-68ee-4cc6-bbf7-b6a230f1388b",
-            "summary": "The tariff-fueled sell-off has erased over $900 billion from Magnificent Seven stocks.",
-            "date": "2025-04-03T20:27:10Z",
-            "sentiment-score": -0.9356228290125728
-        },
-        {
-            "id": "7d75013b-1294-3c13-a64c-6bf5e08dcd37",
-            "summary": "We recently published a list of Top 10 Stocks on Jim Cramer\u2019s Radar as Trump Tariffs Wreak Havoc Across Global Markets. In this article, we are going to take a look at where Tesla, Inc. (NASDAQ:TSLA) stands against other top stocks on Jim Cramer\u2019s radar as Trump tariffs wreak havoc across global markets. Jim Cramer [\u2026]",
-            "date": "2025-04-03T20:51:01Z",
-            "sentiment-score": 0.006281580775976181
-        },
-        {
-            "id": "be6b0971-2fe3-34f2-bcb7-a5c270bfe9cb",
-            "summary": "(Bloomberg) -- Roughly $1.7 trillion was erased from the S&P 500 Index at the start of trading on Thursday amid worries that President Donald Trump\u2019s sweeping new round of tariffs could plunge the economy into a recession.Most Read from BloombergMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLondon Clears Final Hurdle for More High-Speed Trains to EuropeLocal Governments Vie for Fired Federal WorkersChicago School District Agrees to Minimum 16% Teacher Pay RaiseThe d",
-            "date": "2025-04-03T20:48:37Z",
-            "sentiment-score": -0.7952549308538437
-        },
-        {
-            "id": "eaa51833-dc95-3e9b-92fa-96209222504f",
-            "summary": "(Bloomberg) -- The retail traders who have stormed the markets in recent years were among the only investors buying on Thursday as US stocks had their worst day since June 2020.Most Read from BloombergMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeHousing Agency Aims to Relocate Its DC HeadquartersWhat Would \u2018Transportation Abundance\u2019 Look Like?Small investor",
-            "date": "2025-04-03T20:38:38Z",
-            "sentiment-score": 0.033882804214954376
-        },
-        {
-            "id": "4205eaa9-f620-3a0b-a81a-0e82c7c9fd0b",
-            "summary": "Dubbed the Magnificent Seven stocks, Apple, Microsoft, Google parent Alphabet, Amazon.com, Nvidia, Meta Platforms and Tesla lived up to their name in 2024 with solid gains. Through the first three months of 2025, however, performance for these mega-cap stocks has been negative thus far.",
-            "date": "2025-04-03T19:39:42Z",
-            "sentiment-score": -0.9503666535019875
-        },
-        {
-            "id": "22954288-ee3c-3f92-9d3d-2469820a8ddc",
-            "summary": "Tesla shares drop as investors weigh Musk's government role, production downtime, and concerns about demand",
-            "date": "2025-04-03T19:02:27Z",
-            "sentiment-score": -0.9440891467966139
-        },
-        {
-            "id": "1869a475-8fed-3a8f-8e5e-1278d793ce6c",
-            "summary": "Shares of Tesla (NASDAQ: TSLA) are getting hit with another round of big sell-offs in Thursday's trading.  The Trump administration announced a series of wide-ranging new tariffs yesterday, and investors are selling out of stocks in response.  With today's pullback, Tesla stock is now down roughly 33.5% across this year's trading.",
-            "date": "2025-04-03T18:57:02Z",
-            "sentiment-score": -0.95804349379614
-        },
-        {
-            "id": "25f559ee-0db1-4cb7-8eed-cbb155030711",
-            "summary": "The UK government has published a list of products it could plan to slap retaliatory tariffs on, in a sign it's potentially prepared to take a tougher stance than it has.",
-            "date": "2025-04-04T07:44:49Z",
-            "sentiment-score": -0.7149150334298611
-        },
-        {
-            "id": "61ff2211-ec1a-3d35-98d0-5747cb12f017",
-            "summary": "Six of the 10 most popular fund categories were bond strategies. Investors fled large growth stocks, and crypto was a washout.",
-            "date": "2025-04-04T06:30:00Z",
-            "sentiment-score": -0.11932884529232979
-        },
-        {
-            "id": "62d5b719-2b09-3381-bca4-9d1c6f832e95",
-            "summary": "As the anti-Tesla campaign gains momentum and the brand suffers repeated attacks across the globe, WSJ\u2019s Aaron Zitner looks at the fallout from President Trump and Elon Musk\u2019s alliance.",
-            "date": "2025-04-04T04:00:00Z",
-            "sentiment-score": -0.053842898458242416
-        },
-        {
-            "id": "7da179b0-3a24-3131-bcce-1b57d2c390c0",
-            "summary": "A Tesla Inc (NASDAQ:TSLA) analyst sees the electric vehicle company at a pivotal moment in the company's history after reporting weaker-than-expected first-quarter deliveries Wednesday. The Tesla Analyst: Wedbush analyst Daniel Ives maintained an ...",
-            "date": "2025-04-04T00:30:38Z",
-            "sentiment-score": -0.854320258833468
-        },
-        {
-            "id": "464af9a7-a417-35fd-a679-f9d6bb55c99d",
-            "summary": "CEO Elon Musk pledged Tesla would return to growth this year after the company posted its first-ever sales decline in 2024.  Relentless protests in many countries against the billionaire's involvement in U.S. President Donald Trump's administration and far-right politics in Europe have tarnished the image of the once-leading electric vehicle brand.  Now, investors and analysts are bracing for a fall in Tesla sales again this year.",
-            "date": "2025-04-04T00:08:21Z",
-            "sentiment-score": -0.9549210770055652
-        },
-        {
-            "id": "aa0d2410-93e8-37a6-9b01-cc5ca5f4abc5",
-            "summary": "Tesla faces a big challenge.",
-            "date": "2025-04-03T22:03:00Z",
-            "sentiment-score": 0.06857875920832157
-        },
-        {
-            "id": "84aca5dd-9860-36a0-83b7-77c5531f24b4",
-            "summary": "(Bloomberg) -- The world\u2019s 500 richest people saw their combined wealth plunge by $208 billion Thursday as broad tariffs announced by President Donald Trump sent global markets into a tailspin. Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018Transportation Abundance\u2019 Look Li",
-            "date": "2025-04-03T21:22:23Z",
-            "sentiment-score": -0.5442853644490242
-        },
-        {
-            "id": "dd4744bc-0745-33fd-bcad-42c4bba50406",
-            "summary": "Elon Musk's Government Role May Be Hurting Tesla as Q1 Deliveries Decline",
-            "date": "2025-04-04T14:24:10Z",
-            "sentiment-score": -0.9465547865256667
-        },
-        {
-            "id": "c19801e4-b1b3-3a44-aab6-24f163448410",
-            "summary": "Investors have worried for weeks the chief executive\u2019s political activities have been hurting the EV maker\u2019s brand.",
-            "date": "2025-04-04T14:15:00Z",
-            "sentiment-score": -0.9304245421662927
-        },
-        {
-            "id": "e6a26d9c-b5e4-3318-b7eb-e47b2d100e43",
-            "summary": "President Donald Trump\u2019s trade war enters a new phase: Retaliation. Tesla is getting caught in the crossfire.",
-            "date": "2025-04-04T14:14:00Z",
-            "sentiment-score": -0.2169825304299593
-        },
-        {
-            "id": "72157089-4395-3d32-9372-5fef48233343",
-            "summary": "JPMorgan lowered its profit estimates for Tesla after the electric vehicle maker's disappointing delivery numbers.",
-            "date": "2025-04-04T14:08:47Z",
-            "sentiment-score": -0.9504682328552008
-        },
-        {
-            "id": "9c1dc8a4-b255-3085-bd72-026ccf0ec23d",
-            "summary": "We recently published a list of 10 Stocks Everyone is Talking About After Trump\u2019s New Tariffs. In this article, we are going to take a look at where Tesla Inc (NASDAQ:TSLA) stands against other stocks everyone is talking about after Trump\u2019s new tariffs. Countries are beginning to react to President Donald Trump\u2019s new reciprocal tariffs [\u2026]",
-            "date": "2025-04-04T14:04:09Z",
-            "sentiment-score": 0.04729267489165068
-        },
-        {
-            "id": "6087051e-710a-30cb-9302-68182860668f",
-            "summary": "Apple extends losses after shares of the iPhone maker lost $313.5 billion in market cap on Thursday after President Donald Trump announced tariffs on U.S. trading partners, while Tesla and Nvidia tumble after China says it will impose a 34% retaliatory tariff on all imported goods from the U.S.",
-            "date": "2025-04-04T13:52:00Z",
-            "sentiment-score": -0.9361822456121445
-        },
-        {
-            "id": "74f6d528-ea21-3521-93b0-44dc8c13004a",
-            "summary": "(Bloomberg) -- One of Wall Street\u2019s most bearish Tesla Inc. analysts further reduced estimates for the company\u2019s earnings, citing the magnitude of car-buyer backlash against Elon Musk.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018Transportation Abundance\u2019 Look Like?Tesla\u2019s",
-            "date": "2025-04-04T13:33:49Z",
-            "sentiment-score": -0.9431030731648207
-        },
-        {
-            "id": "a9bd337f-4a3a-3c7a-869a-e82a95df8536",
-            "summary": "The effects of Tesla\u2019s (TSLA) \u201cunprecedented\u201d brand damage have surprised even analysts at J.P. Morgan (JPM), who had already described the backlash against CEO Elon Musk as without equal in the history of the automotive industry.",
-            "date": "2025-04-04T13:20:00Z",
-            "sentiment-score": -0.8077601604163647
-        },
-        {
-            "id": "b0c5659d-a1ab-37a9-91f1-1bc9b9b03778",
-            "summary": "All \"Magnificent Seven\" names \u2014 Nvidia (NVDA), Alphabet (GOOG, GOOGL), Tesla (TSLA), Microsoft (MSFT), Amazon (AMZN), Meta (META), and Apple (AAPL) \u2014 are in the red under Trump's second administration. Yahoo Finance podcast Stocks in Translation host Jared Blikre takes a closer look at the group's moves. Catch more Stocks in Translation here, with new episodes every Tuesday and Thursday. To watch more expert insights and analysis on the latest market action, check out more Catalysts here.",
-            "date": "2025-04-04T15:56:11Z",
-            "sentiment-score": 0.02140659186989069
-        },
-        {
-            "id": "a41c732e-f881-31ae-9c44-4cfe713702e9",
-            "summary": "Musk, Bezos, and Zuckerberg lose nearly $45 billion amid market rout, the worst since 2020",
-            "date": "2025-04-04T15:53:17Z",
-            "sentiment-score": -0.9435536349192262
-        },
-        {
-            "id": "7b7ed4ae-48ff-3158-b95b-a1f8a6ead817",
-            "summary": "Stocks (^GSPC,&nbsp;^IXIC,&nbsp;^DJI)&nbsp; are plummeting as concerns about trade wars grow. The Nasdaq Composite, led by drops in major tech companies like Tesla (TSLA), Nvidia (NVDA), and Apple (AAPL), is nearing bear market territory. Retailers Nike (NKE) and Lululemon (LULU) are seeing their stocks rise after President Trump held discussions with Vietnam about lowering tariffs. Meanwhile, DuPont (DD) is under pressure as China launches an antitrust investigation into the company. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
-            "date": "2025-04-04T17:16:45Z",
-            "sentiment-score": -0.9345843577757478
-        },
-        {
-            "id": "111b77f2-8e87-3523-9d86-0e4098aa8718",
-            "summary": "Shares of Tesla (NASDAQ: TSLA) are sliding on Friday.  The decline comes as the S&P 500 and Nasdaq Composite both lost more than 5%.  As the escalating trade war hammers markets, Tesla received a bearish adjustment from a key analyst who said Tesla has suffered \"unprecedented brand damage\" due to CEO Elon Musk's involvement in politics.",
-            "date": "2025-04-04T17:48:03Z",
-            "sentiment-score": -0.9541078666225076
-        },
-        {
-            "id": "f7bfa358-89ef-3a92-99db-ec9beba2dd36",
-            "summary": "GM sells 442,000 vehicles in China in Q1, almost flat year over year but down sequentially. With rising local competition, GM faces a tough battle ahead.",
-            "date": "2025-04-04T16:39:00Z",
-            "sentiment-score": -0.9042271934449673
-        },
-        {
-            "id": "88267714-66b7-4b8d-ada5-e3a1222ba4bb",
-            "summary": "Amazon is caught in the Trump tariff crosshairs.",
-            "date": "2025-04-04T19:30:59Z",
-            "sentiment-score": 0.011437403038144112
-        },
-        {
-            "id": "2460a497-b889-4618-baeb-ec3778d59c88",
-            "summary": "Nvidia and Tesla led megacaps lower on Friday as stocks continued to sell off amid a global trade war.",
-            "date": "2025-04-04T15:52:55Z",
-            "sentiment-score": -0.9510598769411445
-        },
-        {
-            "id": "b3013de0-e071-303e-a094-9de0c3a7ad7f",
-            "summary": "Lau, who has been with the automaker for more than 12 years, has held the role since 2017, according to his LinkedIn page.  His team is responsible for software in Tesla vehicles, cloud services and manufacturing systems.  Tesla and Lau did not immediately respond to Reuters' requests for comment.",
-            "date": "2025-04-04T19:35:13Z",
-            "sentiment-score": -0.013024847954511642
-        },
-        {
-            "id": "1f1d10af-662e-3cff-91a4-06cea804e852",
-            "summary": "Shares of electric vehicle pioneer Tesla (NASDAQ:TSLA) fell 9.7% in the afternoon session after China imposed a 34% tariff on all U.S. imports amid escalating trade war tensions. This was partly in response to the \"reciprocal tariffs\" announced by the Trump administration the previous day, with levies on Chinese goods estimated to be as high as 50%.",
-            "date": "2025-04-04T19:14:03Z",
-            "sentiment-score": -0.9577083420008421
-        },
-        {
-            "id": "e70b9498-3882-3b86-96a9-db9f052b9e36",
-            "summary": "Lucid Group capitalized on Tesla's mistakes, presenting its stock as a promising investment.",
-            "date": "2025-04-04T19:05:00Z",
-            "sentiment-score": 0.8838528618216515
-        },
-        {
-            "id": "8c0d2043-2571-3625-984a-a6c26c10b704",
-            "summary": "We recently published a list of Top 10 Stocks to Watch as Investors Brace for Potential Recession. In this article, we are going to take a look at where Tesla, Inc. (NASDAQ:TSLA) stands against other top stocks to watch as investors brace for potential recession. President Donald Trump\u2019s new reciprocal tariff announcement is hammering stock [\u2026]",
-            "date": "2025-04-04T21:12:59Z",
-            "sentiment-score": -0.018685512244701385
-        },
-        {
-            "id": "772f8733-cad4-380d-9a90-dc0cf0e75605",
-            "summary": "Vehicle deliveries dropped 13% in the first quarter of 2025, reaching 337,000 units.",
-            "date": "2025-04-04T21:09:16Z",
-            "sentiment-score": -0.9599689356982708
-        },
-        {
-            "id": "f7c2f6ff-29b8-3566-99f3-fdb0fce71d1e",
-            "summary": "The stock market took a dive, but Cathie Wood didn\u2019t flinch. Instead of retreating, the Ark Invest CEO saw an opportunity and went on a buying spree. According to Investor\u2019s Business Daily, her firm snapped up shares of Tesla (NASDAQ:TSLA), Robinhood (NASDAQ:HOOD), Coinbase (NASDAQ:COIN), Palantir Technologies (NYSE:PLTR), and more on March 10. Big Bets in a Turbulent Market Investor\u2019s Business Daily said that Ark Invest picked up 79,318 shares of Tesla, valued at $17.62 million based on Monday\u2019",
-            "date": "2025-04-04T20:30:46Z",
-            "sentiment-score": 0.06681519187986851
-        },
-        {
-            "id": "96eb7fdd-c067-3f02-b8af-2244b0175e6c",
-            "summary": "(Bloomberg) -- The S&P 500 Index declined to the lowest level in 11 months, slashing $5.4 trillion in market value in just two sessions as Federal Reserve Chairman Jerome Powell said the Trump administration\u2019s tariffs \u201ccould have a persistent impact on inflation.\u201dMost Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersWhat Would \u2018Transportation Abundance\u2019",
-            "date": "2025-04-04T20:26:32Z",
-            "sentiment-score": -0.9526765551418066
-        },
-        {
-            "id": "10f6b412-0538-30f5-8850-31b7f3683814",
-            "summary": "If my guess is right, I think the long-term trends behind contract logistics provider GXO Logistics (NYSE: GXO), electric vehicle (EV) company Tesla (NASDAQ: TSLA), and copper miner Freeport-McMoRan (NYSE: FCX) make them compelling buys right now.  GXO Logistics offers its customers a route to outsourcing their supply chain logistics, specifically e-commerce warehousing.  Outsourcing logistics allows companies to focus time and effort on their core activity.",
-            "date": "2025-04-05T08:30:00Z",
-            "sentiment-score": 0.1554859816096723
-        },
-        {
-            "id": "bef0a9f9-f3eb-3034-8b41-8cb6a0e0fba8",
-            "summary": "Success in the stock market requires a great deal of thought, analysis, insight, research, and then a bit more thought for good measure.",
-            "date": "2025-04-05T07:00:00Z",
-            "sentiment-score": 0.04337475914508104
-        },
-        {
-            "id": "4036b2d7-ca66-3170-bb8b-5779aac26252",
-            "summary": "We recently published a list of Mag7 and Beyond: Top 10 AI News Updates and Ratings. In this article, we are going to take a look at where Tesla, Inc. (NASDAQ:TSLA) stands against other top AI news updates and ratings. According to a study presented at a European Central Bank conference, companies that manage to [\u2026]",
-            "date": "2025-04-05T03:08:36Z",
-            "sentiment-score": 0.04400876350700855
-        },
-        {
-            "id": "852aabfb-99db-3306-851e-9e8c4ee72e93",
-            "summary": "Back in 2010, Elon Musk wasn't the world's richest man or the tech messiah with a rocket company, electric car empire, and social media platform in his grip. He was a newly minted billionaire fighting to keep Tesla alive, rebuilding SpaceX, and\u2014at the time\u2014trying to dodge a media circus around his divorce. But when the headlines started claiming he \"ran off with an actress,\" Musk lost his patience. \"Given the choice, I'd rather stick a fork in my hand than write about my personal life,\" he wrote",
-            "date": "2025-04-04T23:00:43Z",
-            "sentiment-score": -0.16876445524394512
-        },
-        {
-            "id": "38e5c5c8-57d9-3b7a-88ec-e4a4c84f7823",
-            "summary": "The major averages were sharply lower again near noon, continuing yesterday\u2019s post-tariff slide. China has retaliated with additional tariffs of 34% on all U.S. goods a day after the Trump administration imposed its own sweeping levies. Meanwhile, the latest U.S. jobs data show that nonfarm payrolls rose by a higher-than-forecast 228,000 jobs, though the unemployment rate has ticked higher. Looking to commodities, oil prices are sharply lower due to a planned output increase promised by OPEC+ as",
-            "date": "2025-04-05T16:10:32Z",
-            "sentiment-score": -0.7312252093106508
-        },
-        {
-            "id": "177c4dfc-2df9-3d86-b6a4-d53e2ef90e09",
-            "summary": "We recently published a list of 10 Stocks That Will Profit From AI. In this article, we are going to take a look at where Tesla, Inc. (NASDAQ:TSLA) stands against other stocks that will profit from AI. Artificial Intelligence (AI) is no longer a concept of the future but a real economic force influencing markets. [\u2026]",
-            "date": "2025-04-05T15:18:46Z",
-            "sentiment-score": 0.002187785692512989
-        },
-        {
-            "id": "a7685de0-9aca-3be6-875c-ba65b09b8f32",
-            "summary": "Foreign stocks and bond funds are winning the race so far in 2025.. Plus: A Financial Flashback to 25 years ago, the AT&T Wireless IPO.",
-            "date": "2025-04-05T15:00:00Z",
-            "sentiment-score": 0.19201647117733955
-        },
-        {
-            "id": "29fb63ab-c1b6-3b6a-b45c-e111f6196823",
-            "summary": "Many people talk about what their $10,000 investment would have turned into if they bought a stock five years before it became popular. However, some people actually buy early and end up with substantial gains. Someone called into \"The Ramsey Show\" saying that his 37-year-old aunt has $650,000 worth of Tesla stock. She worked at Tesla for six years and didn't touch the stock. The caller expressed caution, saying that it's not good to put all of your eggs in one basket. Don't Miss: \u2018Scrolling To",
-            "date": "2025-04-05T14:00:16Z",
-            "sentiment-score": -0.007257223129272461
-        },
-        {
-            "id": "8fc4e78b-318a-353e-bab6-97d0bd80c639",
-            "summary": "(Bloomberg) -- President Donald Trump has vowed his historic tariff blitz would revive domestic manufacturing, but industry worries about his approach are raising fresh doubts about whether he can deliver on his promise of an economic boom. Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersLocal Governments Vie for Fired Federal WorkersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesWhat Would \u2018Transportation Abundance\u2019 Look Like?Hochul Says T",
-            "date": "2025-04-05T14:00:00Z",
-            "sentiment-score": 0.17831200547516346
-        },
-        {
-            "id": "fbb9d072-34e1-3d86-94d0-c442485eaba6",
-            "summary": "Walmart\u2019s big pay bump for its store managers is paying off, according to U.S. CEO John Furner.",
-            "date": "2025-04-05T13:00:00Z",
-            "sentiment-score": 0.6987544996663928
-        },
-        {
-            "id": "610797c0-6325-3467-88d3-a3c45cd183d4",
-            "summary": "Despite taking a hit earlier in the day from weak deliveries, Tesla (TSLA) stock is now soaring as Elon Musk\u2019s time in the federal government appears to be nearing an end.",
-            "date": "2025-04-05T13:00:00Z",
-            "sentiment-score": 0.8795709824189544
-        },
-        {
-            "id": "bb225490-35ac-388d-8655-50c70e4e2e04",
-            "summary": "While the \"Magnificent Seven\" stocks have been some of the best investments over the past few years, they've been poor performers in 2025.  Investors are moving their money from stocks they deem risky to either cash or safer investments, and the Magnificent Seven are some of the stocks they turn to first to raise capital.",
-            "date": "2025-04-05T10:15:00Z",
-            "sentiment-score": -0.8031543847173452
-        },
-        {
-            "id": "2158b3a3-20dd-3dd1-abdd-900fce074a70",
-            "summary": "TIM HIGGINS   Elon Musk doesn\u2019t share the spotlight with many people. Donald Trump is one. Antonio Gracias is another. Gracias, whom you probably haven\u2019t heard of, was center stage in Wisconsin with the Tesla and SpaceX chief executive this past week\u2014a really bad stretch that involved a stunning series of blows for Musk in his business and political lives.",
-            "date": "2025-04-05T09:30:00Z",
-            "sentiment-score": -0.4254728648811579
-        },
         {
             "id": "00b652a0-d67f-3701-9e85-0ea4e098678c",
             "summary": "Wall Street analysts are becoming increasingly bearish on Tesla (NASDAQ: TSLA).  Following the car maker's first-quarter deliveries announcement, Wedbush analyst Daniel Ives called the report a \"disaster\" and said CEO Elon Musk needs to \"get his act together.\"  Wells Fargo analyst Colin Langan, meanwhile, has been far more critical of the stock, with an \"underweight\" rating and $130 price target on it.",
@@ -450,24 +30,6 @@
             "summary": "More than 60 protests were planned for Saturday, and a dozen more for Sunday, at Tesla showrooms across the United States, as backlash continues against CEO Elon Musk for his cost-cutting role at the Department of Government Efficiency.",
             "date": "2025-04-05T23:43:59Z",
             "sentiment-score": -0.9007375380024314
-        },
-        {
-            "id": "327524fd-f0e1-3a7f-a666-560b4f6132dc",
-            "summary": "The Tesla CEO\u2019s comments come after President Donald Trump on Wednesday announced 20% tariffs on goods from the European Union.",
-            "date": "2025-04-05T19:41:11Z",
-            "sentiment-score": -0.02861703932285309
-        },
-        {
-            "id": "a8b3d1bd-2efd-31de-8ef6-3c0999bf613a",
-            "summary": "Elon Musk has an idea, and this time, it's not about Mars, AI, or self-driving cars. The Tesla and SpaceX CEO, along with President Donald Trump, is now calling for a livestream of Fort Knox's gold reserves\u2014just to make sure the gold is still there. \u201cI mean, that would be really fun. And after all, it is actually the gold of the American people, so the American people, it seems to me, have a right to see their gold,\u201d Musk said. \u201cHopefully, it looks really cool. You know, open the doors like, \u2018Is",
-            "date": "2025-04-05T19:00:17Z",
-            "sentiment-score": 0.03277789102867246
-        },
-        {
-            "id": "545c2570-efdc-31e3-9aee-339adfc066c6",
-            "summary": "We recently published a list of Jim Cramer Raises Big Question About Tariffs & Discusses These 11 Stocks. In this article, we are going to take a look at where Tesla, Inc. (NASDAQ:TSLA) stands against other stocks that Jim Cramer discusses. In a recent appearance on CNBC\u2019s Squawk on the Street, Jim Cramer asked the [\u2026]",
-            "date": "2025-04-05T17:43:25Z",
-            "sentiment-score": 0.004003935493528843
         },
         {
             "id": "1770f8e2-be1c-3b6c-9ca7-1b40a3fd5550",
@@ -1068,6 +630,102 @@
             "summary": "At $7.8K, BYD's Seagull model takes the budget EV market by storm. Is this the car that makes electric truly mainstream?",
             "date": "2025-04-09T14:22:00Z",
             "sentiment-score": 0.047247933223843575
+        },
+        {
+            "id": "7e2c62a6-4998-3ef8-815e-702b5f7f77d3",
+            "summary": "Markets (^GSPC,&nbsp;^IXIC,&nbsp;^DJI) are shifting as investors look beyond the once-dominant \"Magnificent Seven\" and focus on international equities gaining traction. Horizon Investments head of research and quantitative strategies Mike Dickson joins Market Domination to discuss why global diversification may be the new core strategy as capital moves away from US assets. To watch more expert insights and analysis on the latest market action, check out more Market Domination&nbsp;here.",
+            "date": "2025-04-12T12:00:05Z",
+            "sentiment-score": 0.04364916542544961
+        },
+        {
+            "id": "eb50ee69-e70e-35c9-a8c6-de7cd6aa0d4d",
+            "summary": "Josh Lipton takes a look at the top stories investors are watching on today's Market Minute. US 10-year Treasury yields (^TNX) rise to their highest level since February. Tesla (TSLA) pulls the option to purchase US-made models from its China website. Fastenal Company (FAST) stock gains after reporting first quarter results. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
+            "date": "2025-04-11T17:17:38Z",
+            "sentiment-score": 0.15680796094238758
+        },
+        {
+            "id": "076d2b74-a349-3160-b4a8-5e63b959d2a4",
+            "summary": "Brad Smith and Madison Mills take a closer look at some of Yahoo Finance's trending tickers. Tesla (TSLA) has stopped taking orders in China for two car models that are imported from the US amid the ongoing US\u2013China trade war. Apple (AAPL) is in focus after Wedbush analysts said the iPhone maker is the tech company most negatively impacted by President Trump's tariffs. JPMorgan Chase (JPM) CEO Jamie Dimon says the US economy faces \"considerable turbulence.\" To watch more expert insights and analysis on the latest market action, check out more Morning Brief here.",
+            "date": "2025-04-11T14:48:26Z",
+            "sentiment-score": -0.5692688636481762
+        },
+        {
+            "id": "5fe8ea59-06b4-31cb-b2b0-fbc6dcf5649d",
+            "summary": "Rivian Automotive (NASDAQ: RIVN) stock hasn't been spared from the tariff-inspired market crash.  One Wall Street analyst who recently hosted a talk by Rivian CEO R.J. Scaringe does believe now is the time to jump into Rivian stock.",
+            "date": "2025-04-12T12:15:00Z",
+            "sentiment-score": 0.018683120608329773
+        },
+        {
+            "id": "96895faf-9531-3f24-b44f-2ef94769671b",
+            "summary": "In the latest trading session, Tesla (TSLA) closed at $252.24, marking a -0.06% move from the previous day.",
+            "date": "2025-04-11T21:45:17Z",
+            "sentiment-score": 0.7181620923802257
+        },
+        {
+            "id": "9e9d064f-10bb-38d1-b1d2-0bde84a8c4a8",
+            "summary": "Michael Saylor's Bitcoin-heavy Strategy offered an annual return of 92% over a year, beating the likes of Tesla, Nvidia, Apple, and Meta.",
+            "date": "2025-04-11T20:58:34Z",
+            "sentiment-score": 0.9026936320587993
+        },
+        {
+            "id": "30255225-153f-35ab-99d7-e4a99032b068",
+            "summary": "We recently published a list of the 13 NASDAQ Stocks with the Highest Upside Potential. In this article, we are going to take a look at where Tesla Inc. (NASDAQ:TSLA) stands against other NASDAQ stocks with high upside potential. On April 7, Dan Ives of Wedbush Securities joined CNBC\u2019s \u2018Squawk on the Street\u2019 to discuss [\u2026]",
+            "date": "2025-04-11T20:50:50Z",
+            "sentiment-score": 0.020122227258980274
+        },
+        {
+            "id": "7f0c99da-d7af-3c73-9e5d-a0840dda2e39",
+            "summary": "The stock rose 7.2% in overseas trading.  Stock indexes were volatile after China announced 125% tariff rates on U.S. imports.  Tesla is no longer taking orders for its Model S, X, or Cybertruck in China, according to its website.",
+            "date": "2025-04-11T20:32:00Z",
+            "sentiment-score": -0.04773964360356331
+        },
+        {
+            "id": "339efd2d-e2a0-33be-b199-30efd45dedc6",
+            "summary": "It has been another wild week for  Tesla  stock.  Investors feeling anxious or out of breath should remember a couple of things about the stock market.  The direct impact of Chinese tariffs on Tesla is small, but it has stopped taking orders for the Model S and X on its Chinese website.",
+            "date": "2025-04-11T20:20:00Z",
+            "sentiment-score": -0.5428034011274576
+        },
+        {
+            "id": "6b259382-974f-3aac-95cb-eee0b286e27a",
+            "summary": "As Beijing retaliated \u2014 again \u2014 against President Donald Trump\u2019s tariff hikes, Tesla (TSLA) quietly pulled options to buy new Model S and X electric vehicles from its website in China, several outlets reported Friday.",
+            "date": "2025-04-11T19:53:00Z",
+            "sentiment-score": -0.8688634997233748
+        },
+        {
+            "id": "536eeae3-4832-30a2-be7c-8c8b5e37b2c4",
+            "summary": "When Elon Musk announced that his AI startup, xAI, had acquired his social media company, X (formerly known as Twitter), in an all-stock deal, it raised some eyebrows. But in many ways, the deal made sense. xAI\u2019s chatbot, Grok, was already deeply integrated with X, X was floundering financially, and Musk needed a way to make his $44 billion Twitter acquisition look less like an impulsive takeover and more like a strategic play for AGI dominance. It also pointed to something deeper about how Musk",
+            "date": "2025-04-12T14:00:00Z",
+            "sentiment-score": 0.035813987255096436
+        },
+        {
+            "id": "f4632df8-1112-3f59-a49c-0905d4275182",
+            "summary": "We recently published a list of 14 AI Stocks Catching Wall Street\u2019s Attention. In this article, we are going to take a look at where Tesla, Inc. (NASDAQ:TSLA) stands against other AI stocks catching Wall Street\u2019s attention. In the latest development in the feud between OpenAI and Elon Musk, the ChatGPT maker has countersued billionaire [\u2026]",
+            "date": "2025-04-12T17:18:22Z",
+            "sentiment-score": -0.16911028139293194
+        },
+        {
+            "id": "18ad7809-b863-388c-8702-d295e8daed86",
+            "summary": "Saturday morning, the U.S. Customs and Border Protection published a list of HS codes for \u201cReciprocal Tariff Exclusion for Specified Products.\u201d",
+            "date": "2025-04-12T17:01:00Z",
+            "sentiment-score": 0.006695114076137543
+        },
+        {
+            "id": "e48f2587-6b29-345a-bcf8-982ace1d7eca",
+            "summary": "The Dow Jones, the S&P 500, and the Nasdaq Composite all saw one of the worst multi-day stretches in years.  This comes as a trade war escalated between the U.S. and its major trade partners, with China and the E.U. responding in kind to President Donald Trump's steep, sweeping new levies on goods from nearly every country in the world.  Could Tesla (NASDAQ: TSLA) be the right pick?",
+            "date": "2025-04-12T14:15:00Z",
+            "sentiment-score": -0.42658907175064087
+        },
+        {
+            "id": "157c15b6-5030-3274-bc94-b0ca149c1f85",
+            "summary": "His quest to conquer a booming industry is getting increasingly complicated.",
+            "date": "2025-04-12T14:07:00Z",
+            "sentiment-score": -0.21057907491922379
+        },
+        {
+            "id": "0916c8ef-3fdc-3abd-a5ba-213df32fecfe",
+            "summary": "Tesla (TSLA) stock was falling yet again Monday, down more than 3% in morning trading as markets headed for another brutal day in the wake of President Donald Trump\u2019s sweeping tariffs.",
+            "date": "2025-04-12T13:00:00Z",
+            "sentiment-score": -0.9595986902713776
         }
     ]
 }

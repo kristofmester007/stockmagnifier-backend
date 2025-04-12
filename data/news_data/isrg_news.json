@@ -1,36 +1,18 @@
 {
     "ticker": "ISRG",
-    "total_news": 10,
-    "average_sentiment": -0.11558645446784795,
-    "weighted_average_sentiment": 0.12677936398018244,
+    "total_news": 12,
+    "average_sentiment": 0.19899478869047016,
+    "weighted_average_sentiment": 0.21594397484191827,
     "average_daily_sentiments": [
-        -0.024770847521722317,
+        -0.929603086784482,
+        -0.005266471765935421,
+        0.8905725432559848,
+        0.28885090444236994,
         0.8619344313628972,
         -0.0451683490537107,
-        -0.958422941621393,
-        0,
-        0,
-        -0.41859626211225986
+        -0.958422941621393
     ],
     "news": [
-        {
-            "id": "79fe7689-2f34-3f27-8a20-57b334e9c635",
-            "summary": "The Nasdaq Composite (NASDAQINDEX: ^IXIC) and the S&P 500 (SNPINDEX: ^GSPC) sank, shifting in and out of correction territory in the first quarter of the year for one big reason: investors have been worried about the economy.  President Donald Trump is putting tariffs on imports, and economists predict this could lead to higher inflation and a slowdown in growth.  Healthcare companies, for example, may excel since people need their medicines or procedures regardless of the economic backdrop.",
-            "date": "2025-04-02T22:15:00Z",
-            "sentiment-score": -0.944239548407495
-        },
-        {
-            "id": "5115c19f-470a-36b0-bd9e-6017c31181bd",
-            "summary": "Josh Lipton goes over some of the top stories on this segment of Market Minute. Medical device stocks like GE Healthcare (GEHC) and Intuitive Surgical (ISRG) saw losses, while pharmaceutical companies remained unaffected by country-specific tariffs. Oil futures (CL=F, BZ=F) are dropping after OPEC Plus announced an unexpected supply increase. Lamb Weston (LW) stock surges after the company exceeded third-quarter earnings expectations. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
-            "date": "2025-04-03T17:15:57Z",
-            "sentiment-score": -0.9051518775522709
-        },
-        {
-            "id": "269b8afb-3bc4-470d-9c52-09689051d6f0",
-            "summary": "Medical devices, or the medtech sector, are not immune from the reciprocal tariffs announced by Trump yesterday.",
-            "date": "2025-04-03T14:29:02Z",
-            "sentiment-score": 0.06795935332775116
-        },
         {
             "id": "a6160a32-00a2-3a54-988c-7e7df16e918d",
             "summary": "Intuitive Surgical (NASDAQ: ISRG) was a pioneer in minimally invasive robotic-assisted surgery technology, and its leadership in the field has long been a key edge for the company.  At the time of this writing, global economic concerns and Intuitive Surgical's mixed outlook have caused shares of the medical device giant to drop by about 18% from the all-time high they set in January.  Surgeons performed nearly 2.7 million procedures using Intuitive Surgical's da Vinci system in 2024 alone -- twice as many as five years ago.",
@@ -72,6 +54,36 @@
             "summary": "\"You get what you pay for\" often applies to expensive stocks with best-in-class business models and execution. While their quality can sometimes justify the premium, they typically experience elevated volatility during market downturns when expectations change.",
             "date": "2025-04-09T13:02:10Z",
             "sentiment-score": -0.06570730730891228
+        },
+        {
+            "id": "5e48dd90-c2f3-35e8-b3cd-a3ac18cddf56",
+            "summary": "Only a few days ago, the Nasdaq was in a bear market (down 20%-plus from recent all-time highs).  What should investors who are experiencing Nasdaq market whiplash do now?  Alphabet is now quite reasonably valued with a price-to-earnings-to-growth (PEG) ratio of 1.04, based on data from LSEG.",
+            "date": "2025-04-12T08:48:00Z",
+            "sentiment-score": -0.929603086784482
+        },
+        {
+            "id": "6dec86a4-ecf9-398a-ae9c-90aa5873e445",
+            "summary": "We recently published a list of 10 Best Medical Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Intuitive Surgical, Inc. (NASDAQ:ISRG) stands against other best medical stocks to buy according to billionaires. Why are Healthcare Stocks Under Pressure? Some experts view medical, healthcare, and big [\u2026]",
+            "date": "2025-04-11T20:00:24Z",
+            "sentiment-score": -0.005266471765935421
+        },
+        {
+            "id": "a5d33f48-9208-3150-8d74-46dcb6110784",
+            "summary": "Intuitive Surgical (NasdaqGS:ISRG) recently announced the FDA clearance of its SP SureForm 45 stapler for use with the da Vinci SP surgical system, an advancement set to enhance surgical procedures by increasing safety and efficiency. Despite the broader market facing a sharp decline, with the Nasdaq sliding 6% amid a tech rout, Intuitive's shares rose 8%, suggesting that the company's innovations and product approvals provided support against market pressures. While the broader market...",
+            "date": "2025-04-10T17:18:08Z",
+            "sentiment-score": 0.8657461237162352
+        },
+        {
+            "id": "23cebfd7-6b94-378b-a6b4-69ca01405807",
+            "summary": "Intuitive Surgical (ISRG) saw its shares surge in the last session with trading volume being higher than average. The latest trend in earnings estimate revisions could translate into further price increase in the near term.",
+            "date": "2025-04-10T15:37:00Z",
+            "sentiment-score": 0.9153989627957344
+        },
+        {
+            "id": "2b47c372-177e-3051-aa01-406a8d82b220",
+            "summary": "Netflix and DoorDash are two of the seven best stocks where investors can find magnificent profit growth prospects.  More than 70% of analysts covering Netflix have buy or overweight ratings on the video streaming service.  The consensus estimate for 2025 earnings is $24.69, a 25% increase from last year.",
+            "date": "2025-04-09T17:36:21Z",
+            "sentiment-score": 0.9160944083705544
         }
     ]
 }

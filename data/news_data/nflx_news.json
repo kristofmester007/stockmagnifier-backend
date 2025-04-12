@@ -1,78 +1,18 @@
 {
     "ticker": "NFLX",
     "total_news": 30,
-    "average_sentiment": 0.05839977132466932,
-    "weighted_average_sentiment": 0.07734171830863776,
+    "average_sentiment": 0.09783777948468923,
+    "weighted_average_sentiment": 0.0933404170758671,
     "average_daily_sentiments": [
+        0.033594968263059855,
+        0.0702962456853129,
+        0,
         -0.007246575318276882,
         0.2646232153702941,
         0.003477210711155619,
-        -0.07863620482385159,
-        -0.4619459453970194,
-        -0.005827659120162328,
-        0.005033727735280991
+        -0.07863620482385159
     ],
     "news": [
-        {
-            "id": "b1b6a751-5d89-3e84-a595-eccfcd2ef9c7",
-            "summary": "In the latest trading session, Netflix (NFLX) closed at $935.52, marking a +0.77% move from the previous day.",
-            "date": "2025-04-02T21:45:15Z",
-            "sentiment-score": 0.8346392875537276
-        },
-        {
-            "id": "96a7134f-1925-3248-be1c-c151a7ba9bdd",
-            "summary": "Netflix, Comcast, IBM, and two others look like good bets in the market downturn, according to these analysts.",
-            "date": "2025-04-03T17:33:00Z",
-            "sentiment-score": -0.012695126235485077
-        },
-        {
-            "id": "79154fe3-78ad-32aa-9214-6eb6ab26a568",
-            "summary": "We recently published a list of Top 10 Stocks to Watch as AI Trade Dynamics Change. In this article, we are going to take a look at where Netflix, Inc. (NASDAQ:NFLX) stands against other top stocks to watch as AI trade dynamics change. Aswath Damodaran from NYU Stern School of Business said in a recent [\u2026]",
-            "date": "2025-04-03T16:39:57Z",
-            "sentiment-score": 0.024258073419332504
-        },
-        {
-            "id": "94ea71d1-008b-32ba-aee4-7256e2a87e6d",
-            "summary": "FOXA vs. NFLX: Which Stock Is the Better Value Option?",
-            "date": "2025-04-03T15:40:05Z",
-            "sentiment-score": 0.0035382360219955444
-        },
-        {
-            "id": "02904185-c128-3cbd-8516-7de9a888798a",
-            "summary": "We recently published a list of Jim Cramer\u2019s Lightning Round: 8 Stocks in Focus. In this article, we are going to take a look at where Netflix, Inc. (NASDAQ:NFLX) stands against other stocks that Jim Cramer discusses. Jim Cramer, host of Mad Money, discussed on Monday how investor sentiment surrounding tech stocks has shifted over [\u2026]",
-            "date": "2025-04-04T14:44:56Z",
-            "sentiment-score": 0.00205051526427269
-        },
-        {
-            "id": "6eddcaec-6022-3272-a840-6d5130b59df6",
-            "summary": "NFLX's 50% climb over the last year is even more impressive since it wasn't fueled by artificial intelligence hype.",
-            "date": "2025-04-04T12:00:00Z",
-            "sentiment-score": 0.903524486348033
-        },
-        {
-            "id": "c0b01f06-89aa-3709-a310-7368e72e6514",
-            "summary": "Harding Loevner, an asset management company, released its \u201cGlobal Developed Markets Equity Strategy\u201d fourth-quarter 2024 investor letter. A copy of the letter can be downloaded here. International stock markets concluded the last quarter of 2024 on a negative note, although US stocks significantly surpassed the rest of the world, during the year and the quarter. [\u2026]",
-            "date": "2025-04-04T11:43:19Z",
-            "sentiment-score": -0.9230579789727926
-        },
-        {
-            "id": "58a3eef3-3980-370e-944e-9efac5ab52b3",
-            "summary": "\u201cNow Streaming\u201d is The Fly\u2019s weekly recap of the stories surrounding the biggest content streamers. PLAYING THIS WEEKEND: Among this weekend\u2019s now streaming content is Hulu\u2019s comedy drama miniseries \u201cDying for Sex,\u201d starring Michelle Williams and Jenny Slate. Meanwhile, Netflix (NFLX) subscribers can watch medical drama \u201cThe Pulse\u201d as well as animated series \u201cDevil May Cry,\u201d which is based on the Capcom (CCOEY) series of video games. Additionally, Amazon Prime Video (AMZN) users can watch action",
-            "date": "2025-04-05T16:20:23Z",
-            "sentiment-score": 0.010445280000567436
-        },
-        {
-            "id": "1c4e98b9-8652-3d64-bc43-942999246ca6",
-            "summary": "These proven market-beating stocks have declined between 12% and 64% from their highs. Consider buying the dip.",
-            "date": "2025-04-05T09:40:00Z",
-            "sentiment-score": -0.7436461038887501
-        },
-        {
-            "id": "516d69ec-7f0f-378e-9208-aad16329b587",
-            "summary": "(Bloomberg) -- Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersLocal Governments Vie for Fired Federal WorkersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesWhat Would \u2018Transportation Abundance\u2019 Look Like?Hochul Says Trump\u2019s Tariffs Are Already Hurting New York EconomyWhen US President Donald Trump slapped bigger-than-expected tariffs on imports from around the world, Americans lamented pending prices hikes for Champagne, Parmesan and Ferra",
-            "date": "2025-04-05T04:00:02Z",
-            "sentiment-score": -0.6526370123028755
-        },
         {
             "id": "7719641a-d9b0-30fe-abc7-f0bf3f277f93",
             "summary": "The recent correction in the stock market is making many investors uneasy.  Amid several days of considerable sell-offs, shareholders are likely questioning past investments, and others may ask themselves whether they want to stay in the stock market at all.  Knowing that, three Fool.com contributors have ideas about where tech investors can turn for stability and long-term returns: Netflix (NASDAQ: NFLX), Spotify Technology (NYSE: SPOT), and the VanEck Semiconductor ETF (NASDAQ: SMH).",
@@ -192,6 +132,66 @@
             "summary": "Netflix and DoorDash are two of the seven best stocks where investors can find magnificent profit growth prospects.  More than 70% of analysts covering Netflix have buy or overweight ratings on the video streaming service.  The consensus estimate for 2025 earnings is $24.69, a 25% increase from last year.",
             "date": "2025-04-09T17:36:21Z",
             "sentiment-score": 0.9160944083705544
+        },
+        {
+            "id": "bcbf34d4-e429-3459-8d71-5869e3843bef",
+            "summary": "Madison Mills and Yahoo Finance Executive Editor Brian Sozzi outline what's driving interest in some of the trending tickers on Yahoo Finance's platform. Citi analysts cut their Nvidia (NVDA) price target to $150 per share, citing reduced chip sales in 2025 and 2026 due to the trade war. Jefferies analysts outline their top defensive retail and consumer-facing picks, including Uber (UBER), Exxon (XOM), McDonald's (MCD), and Netflix (NFLX). Logitech (LOGI) withdraws its full-year 2026 guidance, citing tariff uncertainty. To watch more expert insights and analysis on the latest market action, check out more Catalysts here.",
+            "date": "2025-04-11T15:02:02Z",
+            "sentiment-score": -0.9343402707017958
+        },
+        {
+            "id": "50dbc512-dd52-33f7-a60b-84ac3d8ac9e2",
+            "summary": "The market whipsawed higher on Trump tariff news. Palantir leads stocks setting up, but here's what to do now.",
+            "date": "2025-04-12T11:49:45Z",
+            "sentiment-score": 0.030248358845710754
+        },
+        {
+            "id": "439e2239-a3df-48fc-8c57-3f5c4d060dca",
+            "summary": "Key moments from the last seven days, plus a glimpse at the week ahead",
+            "date": "2025-04-12T10:29:24Z",
+            "sentiment-score": 0.036941577680408955
+        },
+        {
+            "id": "2aff7827-9784-3cbe-9949-543205dc1502",
+            "summary": "This is what could happen next to Netflix shares.",
+            "date": "2025-04-11T18:53:49Z",
+            "sentiment-score": -0.08265281189233065
+        },
+        {
+            "id": "0cb1efbe-18da-3eea-b866-9dc040174ebd",
+            "summary": "Netflix stock has been a popular defensive play in the current unsteady market. But analysts differ on an appropriate valuation.",
+            "date": "2025-04-11T17:47:56Z",
+            "sentiment-score": -0.0030827131122350693
+        },
+        {
+            "id": "bb233227-0b97-3922-9100-f42f733926ea",
+            "summary": "NFLX's strategic content investment and ad-tier growth fuel its 47.9% stock rise. With record subscriber gains, 2025 offers smart investors an ideal entry point.",
+            "date": "2025-04-11T14:34:00Z",
+            "sentiment-score": 0.7197241187095642
+        },
+        {
+            "id": "63b4a4b0-03c0-47f5-8c77-924188fd222e",
+            "summary": "Earnings preview of key companies reporting next week and what to look out for.",
+            "date": "2025-04-11T13:11:11Z",
+            "sentiment-score": -0.010118871927261353
+        },
+        {
+            "id": "a34f98a3-d5f6-4d3b-a0a9-9a3d7940c1d1",
+            "summary": "A bearish call that is staying in place.",
+            "date": "2025-04-11T12:40:02Z",
+            "sentiment-score": -0.039957113564014435
+        },
+        {
+            "id": "eedf2543-ef7a-309c-8f29-28fd659f628b",
+            "summary": "Consumer discretionary stocks like AOUT, CCL, GME and NFLX are poised to benefit from cooling inflation.",
+            "date": "2025-04-11T12:31:00Z",
+            "sentiment-score": 0.9022400192916393
+        },
+        {
+            "id": "b05492f3-596d-3859-80ab-33ad72e406f0",
+            "summary": "VTR, BRK.B and NFLX have been highlighted in this Market Edge article.",
+            "date": "2025-04-11T09:12:00Z",
+            "sentiment-score": 0.010557608678936958
         }
     ]
 }

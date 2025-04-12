@@ -1,108 +1,18 @@
 {
     "ticker": "AVGO",
-    "total_news": 44,
-    "average_sentiment": -0.0940802362324162,
-    "weighted_average_sentiment": -0.05702363627506027,
+    "total_news": 39,
+    "average_sentiment": -0.052489305882213205,
+    "weighted_average_sentiment": -0.09538886780664321,
     "average_daily_sentiments": [
+        0.016096719540655613,
+        -0.17170345664231312,
+        0,
         -0.19648094791918994,
         -0.025228196934152108,
         0.09633372112044267,
-        0.029546678182668984,
-        0.12893735896795988,
-        -0.4481504042632878,
-        -0.20766299066599458
+        0.029546678182668984
     ],
     "news": [
-        {
-            "id": "ed07a514-a3e7-3d82-a253-a51d5ba19653",
-            "summary": "An analyst's recommendation upgrade put some lively zip in Broadcom's (NASDAQ: AVGO) stock price on Wednesday.  Well before market open on Hump Day, Daiwa Securities' Louis Miscioscia moved Broadcom up one notch, from outperform to buy.  According to reports, the analyst believes Broadcom is standing in front of no less than four elements that could drive its business higher: its custom artificial intelligence (AI) chips, networking, VMWare (an acquisition that closed in late 2023), and its foundational semiconductor products.",
-            "date": "2025-04-02T20:48:02Z",
-            "sentiment-score": 0.8994585582986474
-        },
-        {
-            "id": "0b03a886-43cd-3ef4-884b-d97f3e188bfd",
-            "summary": "Broadcom Shares Surge 3% on Daiwa Upgrade, Citing AI Strength",
-            "date": "2025-04-02T19:26:09Z",
-            "sentiment-score": -0.8113103387877345
-        },
-        {
-            "id": "4a430239-42b1-3200-bc97-a50ddcb69a16",
-            "summary": "Both Nvidia (NASDAQ: NVDA) and Broadcom (NASDAQ: AVGO) have been big beneficiaries of the huge investments in artificial intelligence (AI) hardware, which explains why the share prices of both companies shot up impressively over the past couple of years.  While Nvidia stock jumped more than 280% in the past two years, Broadcom recorded healthy gains of 160% during the same period.  Nvidia stock retreated close to 18% this year, while Broadcom has recorded a sharper drop of almost 28%.",
-            "date": "2025-04-03T10:23:36Z",
-            "sentiment-score": 0.20404557697474957
-        },
-        {
-            "id": "d9789d8d-8146-3879-8a64-64e92af7891a",
-            "summary": "Shares of fabless chip and software maker Broadcom (NASDAQ:AVGO) fell 9.2% in the afternoon session after President Trump announced \"reciprocal tariffs\" on all US imports, set at a minimum rate of 10%.",
-            "date": "2025-04-03T19:59:09Z",
-            "sentiment-score": -0.9585525495931506
-        },
-        {
-            "id": "3056dad8-30c5-3c7e-a2d9-e42aac814f9b",
-            "summary": "Qualcomm acquires MovianAI to augment its portfolio strength and develop an advanced AI native solution suite for the PC, smartphone and automotive industries.",
-            "date": "2025-04-03T13:34:00Z",
-            "sentiment-score": 0.7924408889375627
-        },
-        {
-            "id": "d48cb406-2373-3309-9dda-aa66d52c100f",
-            "summary": "CoreWeave's 42% pop and Newsmax's more than 2,200% two-day gain are turning heads.",
-            "date": "2025-04-04T07:41:00Z",
-            "sentiment-score": -0.9011373966932297
-        },
-        {
-            "id": "be6b0971-2fe3-34f2-bcb7-a5c270bfe9cb",
-            "summary": "(Bloomberg) -- Roughly $2.5 trillion was erased from the S&P 500 Index on Thursday amid worries that President Donald Trump\u2019s sweeping new round of tariffs could plunge the economy into a recession.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018Transportation Abundance\u2019 Loo",
-            "date": "2025-04-03T20:13:46Z",
-            "sentiment-score": -0.86858587898314
-        },
-        {
-            "id": "99c03242-d031-35c3-abb6-f77773a8af10",
-            "summary": "Despite global tariff concerns, Bank of America favors chipmakers with U.S. capacity, cash flow, and AI exposure",
-            "date": "2025-04-04T17:03:47Z",
-            "sentiment-score": 0.6001928113400936
-        },
-        {
-            "id": "1443eb0b-6473-31b6-950e-504ad0883f99",
-            "summary": "Shares of many semiconductor companies, including Nvidia (NASDAQ: NVDA), Broadcom (NASDAQ: AVGO), and Taiwan Semiconductor (NYSE: TSM) tumbled again today as investors processed the potential implications of President Donald Trump's tariffs on the companies and the broader tech industry.  Nvidia's stock was down 6.1%, Broadcom slid 6.1%, and Taiwan Semiconductor (also known as TSMC) fell 5.8% as of 11:27 a.m. ET.",
-            "date": "2025-04-04T16:09:01Z",
-            "sentiment-score": -0.9570231414400041
-        },
-        {
-            "id": "13de202b-c562-30d3-9402-bd8f61cb31fe",
-            "summary": "Semiconductor stocks drop sharply amid tariff concerns, pushing the Nasdaq into bear market territory",
-            "date": "2025-04-04T18:07:11Z",
-            "sentiment-score": -0.9499730914831161
-        },
-        {
-            "id": "6596b1f0-16e5-3a51-823f-0c1e56865438",
-            "summary": "Broadcom (NasdaqGS:AVGO) recently expanded its product portfolio tailored for AI infrastructure at the Optical Fiber Communications Conference, unveiling pioneering technologies like the XPU-CPO and Sian3. Despite these advancements, the company's share price fell by about 10% over the last week. This decline occurred alongside a broader market downturn, as the Dow Jones dropped 4.1% and the Nasdaq Composite entered bear market territory, driven by heightened concerns over a global trade war...",
-            "date": "2025-04-04T18:25:06Z",
-            "sentiment-score": -0.9576673805713654
-        },
-        {
-            "id": "4bc056e3-c124-37f9-be1a-337a738baac2",
-            "summary": "Today's Research Daily features new research reports on 16 major stocks, including Broadcom Inc. (AVGO), UnitedHealth Group Incorporated (UNH) and Toyota Motor Corporation (TM), as well as a micro-cap stock Perma-Pipe International Holdings, Inc. (PPIH).",
-            "date": "2025-04-04T20:54:00Z",
-            "sentiment-score": 0.013109753839671612
-        },
-        {
-            "id": "6862b97e-7aa3-3d0b-b72a-5911bab3e592",
-            "summary": "We recently published a list of 11 Best Innovative Stocks to Buy According to Analysts. In this article, we are going to take a look at where Broadcom Inc. (NASDAQ:AVGO) stands against other best innovative stocks to buy according to analysts. Innovative stocks are the companies that continuously invest in developing new products, services or [\u2026]",
-            "date": "2025-04-04T22:17:38Z",
-            "sentiment-score": 0.015445615164935589
-        },
-        {
-            "id": "fb682716-b935-336d-a380-bff8a222b52d",
-            "summary": "The recent market sell-off has created some nice opportunities in the market for long-term investors, particularly among artificial intelligence (AI) stocks.  This includes several AI semiconductor stocks besides Nvidia, which has also seen its stock come under pressure.  Let's look at two AI chip stocks that investors can look to buy ahead of the next AI stock bull run.",
-            "date": "2025-04-05T09:33:00Z",
-            "sentiment-score": 0.08072189893573523
-        },
-        {
-            "id": "76e95644-a38d-3fda-8ae9-3085aadc6f1d",
-            "summary": "With the stock market going through a downturn due to uncertainties about how tariffs will (or won't) affect the economy, it's opening up several investment opportunities in the artificial intelligence (AI) realm.  Although Broadcom's business has many different offerings, its custom AI accelerator business is starting to take off.",
-            "date": "2025-04-05T11:53:00Z",
-            "sentiment-score": 0.17715281900018454
-        },
         {
             "id": "de788235-17d8-3fa7-8726-67fe6b1dd684",
             "summary": "From AI to video gaming, these companies will grow by leaps and bounds from 2025 onward.",
@@ -276,6 +186,66 @@
             "summary": "Semiconductor stocks, AVGO, NVDA, MRVY and QCOM, present a buying opportunity as AI fuels record growth despite tariff headwinds. Industry set for $2 trillion boom by 2032.",
             "date": "2025-04-09T14:08:00Z",
             "sentiment-score": 0.8237454919144511
+        },
+        {
+            "id": "aa4e1143-fb52-3f55-9668-c2f352ffd2de",
+            "summary": "We recently published a list of the 13 NASDAQ Stocks with the Highest Upside Potential. In this article, we are going to take a look at where Broadcom Inc. (NASDAQ:AVGO) stands against other NASDAQ stocks with high upside potential. On April 7, Dan Ives of Wedbush Securities joined CNBC\u2019s \u2018Squawk on the Street\u2019 to discuss [\u2026]",
+            "date": "2025-04-12T12:58:17Z",
+            "sentiment-score": 0.016096719540655613
+        },
+        {
+            "id": "8fcfdc04-65fb-3a92-9e90-f6fff112a620",
+            "summary": "After sell-offs yesterday, Broadcom (NASDAQ: AVGO) stock rebounded in Friday's trading.  The company's share price ended the day's trading up 5.4%.  Meanwhile, the S&P 500 (SNPINDEX: ^GSPC) and the Nasdaq Composite (NASDAQINDEX: ^IXIC) climbed 1.8% and 2.1%, respectively.",
+            "date": "2025-04-11T22:12:59Z",
+            "sentiment-score": 0.9142943164333701
+        },
+        {
+            "id": "3417d34c-8dd5-30b7-85b2-e84577b21a78",
+            "summary": "New state-led AI push targets Nvidia, Broadcom as China steps up chip and robotics investment strategy",
+            "date": "2025-04-11T21:47:52Z",
+            "sentiment-score": 0.255424234084785
+        },
+        {
+            "id": "277eac45-f1bd-3f60-be69-d476df321be1",
+            "summary": "We recently published a list of 12 Best Tech Stocks to Buy For Long-Term Investment. In this article, we are going to take a look at where Broadcom Inc. (NASDAQ:AVGO) stands against other tech stocks to buy for long-term investment. On April 1, Chris Verrone, chief market strategist at Strategas Research Partners, appeared on CNBC\u2019s [\u2026]",
+            "date": "2025-04-11T21:30:07Z",
+            "sentiment-score": 0.028078497853130102
+        },
+        {
+            "id": "88f993ee-547c-339f-bd93-2bc883711574",
+            "summary": "Tariffs crushed NVIDIA and Broadcom this year, but which stock is now a great deal for investors?",
+            "date": "2025-04-11T19:00:00Z",
+            "sentiment-score": -0.027447691187262535
+        },
+        {
+            "id": "cc5f8dec-a7b2-32ed-933d-42339a920abd",
+            "summary": "Forced selling by Big Money makes shares of Broadcom, Inc. (AVGO) fall fast.",
+            "date": "2025-04-11T17:18:50Z",
+            "sentiment-score": -0.9546335283666849
+        },
+        {
+            "id": "95384ab2-ebf2-3334-b082-9fea34381d81",
+            "summary": "We recently published a list of Top 12 Tech Stocks to Buy According to Billionaire Ken Fisher. In this article, we are going to take a look at where Broadcom Inc. (NASDAQ:AVGO) stands against other top tech stocks to buy according to billionaire Ken Fisher. Under the umbrella of Fisher Asset Management, Billionaire Ken Fisher [\u2026]",
+            "date": "2025-04-11T13:48:25Z",
+            "sentiment-score": 0.012869431637227535
+        },
+        {
+            "id": "e4e5dd8e-796a-3544-b4c6-1fc852ceb84b",
+            "summary": "With the Nasdaq Composite in bear market territory (marked by the index falling more than 20% from its all-time high), there is some panic in the market.  Investors are worried about the effect of tariffs on the consumer and would rather be in more conservative investments than artificial intelligence (AI) stocks, which have more upside but with more risk.  Anyone selling right now has a one-year time frame in mind, rather than the three- to five-year time frame that individual investors should have.",
+            "date": "2025-04-11T11:00:00Z",
+            "sentiment-score": -0.8415669500827789
+        },
+        {
+            "id": "ee789f9b-e212-327e-86f4-1a1c90956924",
+            "summary": "NVIDIA, Broadcom, Marvell, Jabil and Super Micro Computer are included in this Analyst Blog.",
+            "date": "2025-04-11T10:31:00Z",
+            "sentiment-score": -0.004344351589679718
+        },
+        {
+            "id": "4723e870-62f6-3a65-a293-4c2fd296c72d",
+            "summary": "The stock market sold off rapidly over the past few weeks, leading many to label this a stock market crash brought on by President Donald Trump's tariff announcements.  Stocks moved down sharply this week as reciprocal tariffs went into effect; they recovered quickly as Trump announced tariff relief on every country except China, but continued to mark additional losses on Thursday.  The tariffs might have some effect in the short term, but it's unlikely that they will still be the primary topic of discussion five years from now.",
+            "date": "2025-04-11T10:00:00Z",
+            "sentiment-score": -0.9280050685629249
         }
     ]
 }

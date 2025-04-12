@@ -1,456 +1,18 @@
 {
     "ticker": "NVDA",
-    "total_news": 178,
-    "average_sentiment": -0.1544366559704368,
-    "weighted_average_sentiment": -0.08722016377718679,
+    "total_news": 118,
+    "average_sentiment": -0.0007182109422224053,
+    "weighted_average_sentiment": 0.02645104549967176,
     "average_daily_sentiments": [
+        0.3278946644411637,
+        -0.42090007034130394,
+        0,
         -0.07093044956503756,
         -0.1269622491845102,
         0.021128495152180012,
-        0.07193781224716651,
-        -0.2369488880640882,
-        -0.32859680697257665,
-        -0.25815268605947495
+        0.07193781224716651
     ],
     "news": [
-        {
-            "id": "00600881-5bfb-3ee1-a9e9-2051ebb930aa",
-            "summary": "The H20 is the most advanced artificial intelligence chip that Nvidia is legally allowed to sell in China following U.S. export controls.",
-            "date": "2025-04-02T20:52:56Z",
-            "sentiment-score": 0.13477967074140906
-        },
-        {
-            "id": "d05a5504-688e-3fad-912d-e0a40654521c",
-            "summary": "Nvidia's Blackwell computing platform set performance records in artificial intelligence inferencing tests. But Nvidia stock wavered on the news.",
-            "date": "2025-04-02T20:49:06Z",
-            "sentiment-score": -0.8946940526366234
-        },
-        {
-            "id": "e3a98b7a-e34b-34b3-9aff-88c1abf35321",
-            "summary": "Less than a week after its IPO, CoreWeave is already a polarizing stock. The co-founder explains what investors may be missing.",
-            "date": "2025-04-02T19:37:00Z",
-            "sentiment-score": -0.795412958599627
-        },
-        {
-            "id": "178f0b19-d845-3930-b670-5a113410dcea",
-            "summary": "Chinese tech firms rush to secure Nvidia chips amid fears of tighter U.S. controls on AI semiconductor exports",
-            "date": "2025-04-02T19:30:23Z",
-            "sentiment-score": -0.4455878082662821
-        },
-        {
-            "id": "b9f9cc2c-52d4-3c23-8155-763f5f13f92b",
-            "summary": "Shares of Nvidia (NASDAQ: NVDA) were among the losers last month as the artificial intelligence (AI) chip leader pulled back along with the broad market in March.  There wasn't any major news that weighed on Nvidia, but signs that demand for AI infrastructure may be slowing seemed to drive the stock lower, as did general fears about a slowdown in the economy driven by weakening consumer sentiment, the uncertainty around tariffs, and declining economic growth forecasts.  Toward the end of the month, the weak response to the debut of CoreWeave, a generative AI-focused cloud computing platform and a partner of Nvidia, also seemed to reflect waning investor enthusiasm for AI stocks.",
-            "date": "2025-04-02T18:34:50Z",
-            "sentiment-score": -0.9567887391895056
-        },
-        {
-            "id": "8fd6bd93-315d-43de-9baf-0e76b60f7f0f",
-            "summary": "Nvidia (NVDA), TSMC (TSM) and other chip stocks fell Wednesday after the bell following US president Trump\u2019s announcement of sweeping reciprocal tariffs affecting the semiconductor supply chain.",
-            "date": "2025-04-02T21:59:57Z",
-            "sentiment-score": -0.9519607652910054
-        },
-        {
-            "id": "170f362d-6cb0-3c73-ba6b-60be6e87d1f3",
-            "summary": "Apple and other major U.S. tech stocks tumble after President Donald Trump announces sweeping global tariffs, Nvidia falls even as the White House says tariffs on Taiwan wouldn\u2019t apply to semiconductors, and apparel makers such as Nike drop sharply since they use Asian factories to make most of their products.",
-            "date": "2025-04-03T09:34:00Z",
-            "sentiment-score": -0.9502911251038313
-        },
-        {
-            "id": "b0310934-5fc6-33f3-a51b-3a8fa6ec162b",
-            "summary": "Leading artificial intelligence (AI) companies are seeing growing demand that points to a lucrative opportunity.  Investors who keep a long-term perspective and take advantage of market dips to buy shares of competitively positioned companies at discounts will be in the best position to profit from this opportunity.  Nvidia's (NASDAQ: NVDA) breakneck innovation in the AI chip market has powered its way toward the top of the semiconductor industry.",
-            "date": "2025-04-03T09:30:00Z",
-            "sentiment-score": 0.8446822213009
-        },
-        {
-            "id": "84c32cd9-c9a1-3f2e-b634-1868c8b38e17",
-            "summary": "Nvidia escaped specific levies but the wider market reaction and fears of Chinese retaliation are set to drag on the shares.",
-            "date": "2025-04-03T08:58:00Z",
-            "sentiment-score": -0.9226616127416492
-        },
-        {
-            "id": "20e9ba27-ec77-3349-9d28-bed98de4328a",
-            "summary": "We recently published a list of The Top 10 Performing Stocks on Wednesday. In this article, we are going to take a look at where Nebius Group N.V. (NASDAQ:NBIS) stands against other top performing stocks on Wednesday. Wall Street\u2019s three major indices finished in the green territory on Wednesday as investors continued to digest news [\u2026]",
-            "date": "2025-04-03T08:49:14Z",
-            "sentiment-score": 0.013530075550079346
-        },
-        {
-            "id": "c29a582f-7830-34e2-8fa6-9ad7d1c67132",
-            "summary": "The S&P 500 (SNPINDEX: ^GSPC) is still in a bull market, which stretches back to October 2022.  Since the U.S. stock market always trends higher over the long term, this might be a great time for investors to scoop up some bargains.  The Roundhill Generative AI and Technology ETF (NYSEMKT: CHAT) offers diversified exposure to the industry through its portfolio of 37 top AI names, and investors can pick up a single share for under $40.",
-            "date": "2025-04-03T08:47:00Z",
-            "sentiment-score": 0.09738799510523677
-        },
-        {
-            "id": "90a4f44f-91f8-30a3-b5ed-131c511488b2",
-            "summary": "The recent market pullback has created some nice bargains in the technology space.  Trading at a forward price-to-earnings ratio (P/E) of 23 times based on this year's analyst estimates and a price/earnings-to-growth (PEG) ratio of near 0.4, Nvidia (NASDAQ: NVDA) finds itself in the bargain bin.  Stocks with PEGs under 1 are typically considered undervalued, and it's difficult to find companies that have been growing as quickly as Nvidia.",
-            "date": "2025-04-03T08:12:00Z",
-            "sentiment-score": -0.44604606181383133
-        },
-        {
-            "id": "c2f4a368-9f53-30d9-8617-4cd2f587184d",
-            "summary": "Retail investors' most widely held stock on Robinhood is a company known for its groundbreaking innovation in a number of industries.",
-            "date": "2025-04-03T07:41:00Z",
-            "sentiment-score": 0.27919225953519344
-        },
-        {
-            "id": "de707df7-1e43-3b37-9092-4058f2139489",
-            "summary": "Here are Buffett's words on investing through a crisis.",
-            "date": "2025-04-03T00:49:00Z",
-            "sentiment-score": 0.014552376233041286
-        },
-        {
-            "id": "57f18b91-5603-3d77-8365-b2a2a10f3e84",
-            "summary": "Apple (NASDAQ: AAPL) is the world's largest company -- by about half a trillion dollars as I write this.  In fact, considering the current state of Apple's business and the growth trajectories of some of its competitors, I think it's highly likely that Apple will lose its title of the world's largest company within the next few years.  There are four companies that could pass Apple in that time frame.",
-            "date": "2025-04-03T10:15:00Z",
-            "sentiment-score": -0.86153912730515
-        },
-        {
-            "id": "708eaac2-db6e-3bf3-b5f9-e679d684ed3c",
-            "summary": "The years-long uptrend in artificial intelligence (AI) stocks may be taking a break, but AI integration isn't slowing down.  There's still a ton of work to be done before tech companies and the cloud computing players that support them will have enough AI computing capacity in service to meet the market's needs, and plenty of companies are well positioned to benefit from the infrastructure spending to come.  One company that's in a strong position is Super Micro Computer (NASDAQ: SMCI).",
-            "date": "2025-04-03T10:45:00Z",
-            "sentiment-score": 0.48625044524669647
-        },
-        {
-            "id": "4a430239-42b1-3200-bc97-a50ddcb69a16",
-            "summary": "Both Nvidia (NASDAQ: NVDA) and Broadcom (NASDAQ: AVGO) have been big beneficiaries of the huge investments in artificial intelligence (AI) hardware, which explains why the share prices of both companies shot up impressively over the past couple of years.  While Nvidia stock jumped more than 280% in the past two years, Broadcom recorded healthy gains of 160% during the same period.  Nvidia stock retreated close to 18% this year, while Broadcom has recorded a sharper drop of almost 28%.",
-            "date": "2025-04-03T10:23:36Z",
-            "sentiment-score": 0.20404557697474957
-        },
-        {
-            "id": "c713c3e3-68ee-4cc6-bbf7-b6a230f1388b",
-            "summary": "The tariff-fueled sell-off has erased over $900 billion from Magnificent Seven stocks.",
-            "date": "2025-04-03T20:27:10Z",
-            "sentiment-score": -0.9356228290125728
-        },
-        {
-            "id": "087c443d-ecb0-40b9-acff-6856fe274a7e",
-            "summary": "The S&P 500 is about to fall through a technical trap door, the Street points out.",
-            "date": "2025-04-03T12:34:08Z",
-            "sentiment-score": -0.7806462533771992
-        },
-        {
-            "id": "a686e003-8b58-3c20-9347-71849e44481a",
-            "summary": "We recently published a list of Top 10 Stocks to Watch as Investors Brace for Potential Recession. In this article, we are going to take a look at where NVIDIA Corporation (NASDAQ:NVDA) stands against other top stocks to watch as investors brace for potential recession. President Donald Trump\u2019s new reciprocal tariff announcement is hammering stock [\u2026]",
-            "date": "2025-04-03T20:45:15Z",
-            "sentiment-score": -0.012418203055858612
-        },
-        {
-            "id": "eaa51833-dc95-3e9b-92fa-96209222504f",
-            "summary": "(Bloomberg) -- The retail traders who have stormed the markets in recent years were among the only investors buying on Thursday as US stocks had their worst day since June 2020.Most Read from BloombergMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeHousing Agency Aims to Relocate Its DC HeadquartersWhat Would \u2018Transportation Abundance\u2019 Look Like?Small investor",
-            "date": "2025-04-03T20:38:38Z",
-            "sentiment-score": 0.033882804214954376
-        },
-        {
-            "id": "1b48806e-b4de-3379-bd63-39a5b2c012b1",
-            "summary": "Nvidia stock and SMCI stock are plunging on tariff-related uncertainty. For those looking to buy the dip, look for this first.",
-            "date": "2025-04-03T19:55:34Z",
-            "sentiment-score": -0.8653128016740084
-        },
-        {
-            "id": "4205eaa9-f620-3a0b-a81a-0e82c7c9fd0b",
-            "summary": "Dubbed the Magnificent Seven stocks, Apple, Microsoft, Google parent Alphabet, Amazon.com, Nvidia, Meta Platforms and Tesla lived up to their name in 2024 with solid gains. Through the first three months of 2025, however, performance for these mega-cap stocks has been negative thus far.",
-            "date": "2025-04-03T19:39:42Z",
-            "sentiment-score": -0.9503666535019875
-        },
-        {
-            "id": "8a64ef81-5aa9-376e-98da-c6b954d70e06",
-            "summary": "Nvidia slips as analyst flags near-term slowdown, but long-term AI growth still seen as a positive catalyst",
-            "date": "2025-04-03T19:12:33Z",
-            "sentiment-score": -0.30792310927063227
-        },
-        {
-            "id": "ee0bf1a8-5f3e-371d-a677-2556c1d27c1a",
-            "summary": "AMD competes with NVIDIA in the GPU market and has gained some of the latter's key clients. Can AMD stock surpass NVIDIA?",
-            "date": "2025-04-03T19:05:00Z",
-            "sentiment-score": 0.6046336339786649
-        },
-        {
-            "id": "9d78eb42-14b0-3a29-8d55-64e1e776a26f",
-            "summary": "Nvidia (NVDA) was downgraded to Hold by HSBC, citing the company's limited pricing power in the face of tariffs. Stacy Rasgon, Bernstein managing director and senior analyst, joins Catalysts to discuss the semiconductor industry and Nvidia's pricing power amid tariffs. To watch more expert insights and analysis on the latest market action, check out more Catalysts here.",
-            "date": "2025-04-03T16:03:32Z",
-            "sentiment-score": -0.038467125967144966
-        },
-        {
-            "id": "ace1ee33-980e-307c-9f03-779de79bb3ed",
-            "summary": "Nvidia could be shored up by a flood of retail investor money looking to buy the chip stock at a discount.",
-            "date": "2025-04-04T07:48:00Z",
-            "sentiment-score": 0.8774575758725405
-        },
-        {
-            "id": "d48cb406-2373-3309-9dda-aa66d52c100f",
-            "summary": "CoreWeave's 42% pop and Newsmax's more than 2,200% two-day gain are turning heads.",
-            "date": "2025-04-04T07:41:00Z",
-            "sentiment-score": -0.9011373966932297
-        },
-        {
-            "id": "4f8c8956-9580-3bde-a0f3-124b58b9f8f7",
-            "summary": "Here\u2019s what could be next for Nvidia stock.",
-            "date": "2025-04-03T23:03:00Z",
-            "sentiment-score": -0.0003930898383259773
-        },
-        {
-            "id": "c5aa1a9a-4eba-38b3-8a56-4be9e3037d1a",
-            "summary": "U.S. stock indexes saw their biggest drop in value since March 2020, one day after President Trump announced a 10% across-the-board tariff for all foreign imports, and higher rates for other countries.",
-            "date": "2025-04-03T21:04:00Z",
-            "sentiment-score": -0.9573400118388236
-        },
-        {
-            "id": "d05ae130-187f-37d6-b409-47f0fede3d3f",
-            "summary": "Tech stocks were pummeled Thursday following President Trump\u2019s earlier tariff announcement, a sign of how vulnerable the sector is to a possible recession as well as to higher prices on everything from consumer goods to hardware.  The six tech companies with trillion-dollar market capitalizations (Apple, Nvidia, Microsoft, Amazon, Alphabet and Meta Platforms) lost a combined $985 billion in stock market value today.",
-            "date": "2025-04-03T20:59:43Z",
-            "sentiment-score": -0.9472819371148944
-        },
-        {
-            "id": "d96f7ea3-db61-3346-b67e-1900c492bde4",
-            "summary": "Nvidia (NVDA) fell with other Magnificent 7 stocks on Thursday as the market reacted to new tariffs \u2014 but the company also may\u2019ve slipped because a major bank downgraded it for unrelated reasons.",
-            "date": "2025-04-03T20:48:00Z",
-            "sentiment-score": -0.9561457755044103
-        },
-        {
-            "id": "8e8282ad-8862-35a9-abd4-7d32693a2360",
-            "summary": "Nvidia (NASDAQ: NVDA) supplies some of the world's most advanced graphics processing units (GPUs) for data centers -- hardware that developers use to power and train artificial intelligence (AI) software.  At Nvidia's annual GPU Technology Conference (GTC) last month, CEO Jensen Huang laid out some incredible catalysts that could accelerate the company's already rapid growth.  Large language models (LLMs) sit at the foundation of every AI application.",
-            "date": "2025-04-04T08:27:00Z",
-            "sentiment-score": 0.1445193514227867
-        },
-        {
-            "id": "b0cd5422-7919-3966-b5eb-a36dcf293500",
-            "summary": "(Bloomberg) -- There\u2019s virtually nowhere to hide for many US technology companies under President Donald Trump\u2019s new tariff regime, the harshest in a century.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018Transportation Abundance\u2019 Look Like?After Thursday\u2019s slump wiped $1.4",
-            "date": "2025-04-04T08:14:06Z",
-            "sentiment-score": 0.059058938175439835
-        },
-        {
-            "id": "47d44628-d70b-3b8d-ade7-20fed45b3e01",
-            "summary": "(Bloomberg) -- Investors should buy the dip in US stocks as the market is rebuffing President Donald Trump\u2019s tariff policy amid fears of a recession, according to Wall Street veteran Edward Yardeni.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018Transportation Abundance\u2019 Loo",
-            "date": "2025-04-04T06:13:27Z",
-            "sentiment-score": 0.7797349505126476
-        },
-        {
-            "id": "0d37d9f2-4e8b-42e2-83cf-766b030afdb0",
-            "summary": "Wall Street is wasting no time adjusting their views on certain stocks in the wake of bruising Trump tariffs.",
-            "date": "2025-04-04T13:54:45Z",
-            "sentiment-score": -0.5803381092846394
-        },
-        {
-            "id": "dc591aa5-8656-399f-a2b0-90fb4c8c329e",
-            "summary": "Nvidia fell below a psychologically-important level of 100 Friday after China retaliated to President Trump's tariffs.  Is Nvidia stock a sell now?  China responded with a 34% tariff on U.S. imports early Friday after Trump announced a 10% baseline tariff on all imports, a 32% tariff on imports from Taiwan and a 34% tariff on Chinese goods.",
-            "date": "2025-04-04T14:40:22Z",
-            "sentiment-score": -0.7918538376688957
-        },
-        {
-            "id": "316e28f0-1644-3565-9342-3097c5d3b26f",
-            "summary": "Sellers dictated the action in the stock market today after China retaliated with a 34% tariff on all imported goods from the U.S.",
-            "date": "2025-04-04T14:36:26Z",
-            "sentiment-score": -0.7797423116862774
-        },
-        {
-            "id": "4cdca5eb-82eb-394c-91fd-b27386d75b05",
-            "summary": "Nvidia's Support Drives Runway AI's Growth in AI-Powered Creative Tools?",
-            "date": "2025-04-04T14:19:25Z",
-            "sentiment-score": 0.10830070078372955
-        },
-        {
-            "id": "291ec8ca-afb0-3d2d-8f29-252d1d51c8d6",
-            "summary": "We recently published a list of 10 Stocks Everyone is Talking About After Trump\u2019s New Tariffs. In this article, we are going to take a look at where NVIDIA Corporation (NASDAQ:NVDA) stands against other stocks everyone is talking about after Trump\u2019s new tariffs. Countries are beginning to react to President Donald Trump\u2019s new reciprocal tariffs [\u2026]",
-            "date": "2025-04-04T14:03:40Z",
-            "sentiment-score": 0.04578971862792969
-        },
-        {
-            "id": "6087051e-710a-30cb-9302-68182860668f",
-            "summary": "Apple extends losses after shares of the iPhone maker lost $313.5 billion in market cap on Thursday after President Donald Trump announced tariffs on U.S. trading partners, while Tesla and Nvidia tumble after China says it will impose a 34% retaliatory tariff on all imported goods from the U.S.",
-            "date": "2025-04-04T13:52:00Z",
-            "sentiment-score": -0.9361822456121445
-        },
-        {
-            "id": "b0c5659d-a1ab-37a9-91f1-1bc9b9b03778",
-            "summary": "All \"Magnificent Seven\" names \u2014 Nvidia (NVDA), Alphabet (GOOG, GOOGL), Tesla (TSLA), Microsoft (MSFT), Amazon (AMZN), Meta (META), and Apple (AAPL) \u2014 are in the red under Trump's second administration. Yahoo Finance podcast Stocks in Translation host Jared Blikre takes a closer look at the group's moves. Catch more Stocks in Translation here, with new episodes every Tuesday and Thursday. To watch more expert insights and analysis on the latest market action, check out more Catalysts here.",
-            "date": "2025-04-04T15:56:11Z",
-            "sentiment-score": 0.02140659186989069
-        },
-        {
-            "id": "57df0e2d-5f3d-34f7-91e3-89cfbd480e31",
-            "summary": "Believe it or not, there are other things going on in the world of business and tech than tariffs and sell-offs in the \"Magnificent 7.\" Take blockchain, crypto and Web3 \u2013 three areas that continue to see their fair share of startups seeking to make their names. Yahoo Finance Executive Editor Brian Sozzi sits down with Mysten Labs co-founder and CEO Evan Cheng. Cheng has spent good chunks of time in tech leadership roles at Apple (AAPL) and Meta (META). Since 2021, he has been building the Web3 platform Mylen Labs. The timing looks to have been spot on, as the crypto space has notched several wins under the Trump administration. With President Trump leaning into making the US the bitcoin (BTC-USD) capital of the world, what does it mean for Web3 early entrants such as Mylen Labs? Cheng weighs in,and shares how leadership lessons learned at Apple and Meta are paying dividends at his startup. For full episodes of Opening Bid, listen on your favorite podcast platform or watch on our website. Yahoo Finance's Opening Bid is produced by Langston Sessoms",
-            "date": "2025-04-04T10:00:00Z",
-            "sentiment-score": 0.028595812618732452
-        },
-        {
-            "id": "084f0bdc-a80d-4338-ac0b-eaabb0b8a6ea",
-            "summary": "Intel and TSMC have reached a tentative agreement to shore up Intel's foundry business, according to The Information.",
-            "date": "2025-04-03T20:24:17Z",
-            "sentiment-score": 0.9004811774939299
-        },
-        {
-            "id": "26c770ad-a814-3731-b9d1-5c660c3fc239",
-            "summary": "Successful stock investing starts with having rules to handle Nvidia, Palantir and others. Learn how to invest following this three-step routine.",
-            "date": "2025-04-04T15:49:14Z",
-            "sentiment-score": 0.034081035759299994
-        },
-        {
-            "id": "123b49be-c7a4-3ce7-8cdf-3c508832bb79",
-            "summary": "Chip stocks fell Friday, losing ground on the second trading day after President Donald Trump unveiled a set of global tariffs that sent stock markets dramatically lower\u2014and the first since China announced its own retaliatory measures.",
-            "date": "2025-04-04T15:41:22Z",
-            "sentiment-score": -0.9539791876450181
-        },
-        {
-            "id": "eb890132-a0ae-3cba-bb38-a2c13adc4b80",
-            "summary": "The tech-heavy Nasdaq Composite (^IXIC) is set to enter a bear market. Futurum Group CEO Daniel Newman joins Catalysts with Madison Mills and Lumida Wealth Management CEO Ram Ahluwalia to discuss what President Donald Trump's new tariffs mean for tech CEOs and their artificial intelligence (AI) spending. To watch more expert insights and analysis on the latest market action, check out more Catalysts here.",
-            "date": "2025-04-04T17:00:00Z",
-            "sentiment-score": 0.026288065128028393
-        },
-        {
-            "id": "99c03242-d031-35c3-abb6-f77773a8af10",
-            "summary": "Despite global tariff concerns, Bank of America favors chipmakers with U.S. capacity, cash flow, and AI exposure",
-            "date": "2025-04-04T17:03:47Z",
-            "sentiment-score": 0.6001928113400936
-        },
-        {
-            "id": "1443eb0b-6473-31b6-950e-504ad0883f99",
-            "summary": "Shares of many semiconductor companies, including Nvidia (NASDAQ: NVDA), Broadcom (NASDAQ: AVGO), and Taiwan Semiconductor (NYSE: TSM) tumbled again today as investors processed the potential implications of President Donald Trump's tariffs on the companies and the broader tech industry.  Nvidia's stock was down 6.1%, Broadcom slid 6.1%, and Taiwan Semiconductor (also known as TSMC) fell 5.8% as of 11:27 a.m. ET.",
-            "date": "2025-04-04T16:09:01Z",
-            "sentiment-score": -0.9570231414400041
-        },
-        {
-            "id": "7b7ed4ae-48ff-3158-b95b-a1f8a6ead817",
-            "summary": "Stocks (^GSPC,&nbsp;^IXIC,&nbsp;^DJI)&nbsp; are plummeting as concerns about trade wars grow. The Nasdaq Composite, led by drops in major tech companies like Tesla (TSLA), Nvidia (NVDA), and Apple (AAPL), is nearing bear market territory. Retailers Nike (NKE) and Lululemon (LULU) are seeing their stocks rise after President Trump held discussions with Vietnam about lowering tariffs. Meanwhile, DuPont (DD) is under pressure as China launches an antitrust investigation into the company. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
-            "date": "2025-04-04T17:16:45Z",
-            "sentiment-score": -0.9345843577757478
-        },
-        {
-            "id": "2460a497-b889-4618-baeb-ec3778d59c88",
-            "summary": "Nvidia and Tesla led megacaps lower on Friday as stocks continued to sell off amid a global trade war.",
-            "date": "2025-04-04T15:52:55Z",
-            "sentiment-score": -0.9510598769411445
-        },
-        {
-            "id": "13de202b-c562-30d3-9402-bd8f61cb31fe",
-            "summary": "Semiconductor stocks drop sharply amid tariff concerns, pushing the Nasdaq into bear market territory",
-            "date": "2025-04-04T18:07:11Z",
-            "sentiment-score": -0.9499730914831161
-        },
-        {
-            "id": "857760dc-331e-3060-8656-ee76ee26bbeb",
-            "summary": "No price cut or hike expected despite new Blackwell architecture.",
-            "date": "2025-04-04T18:01:53Z",
-            "sentiment-score": 0.6249582841992378
-        },
-        {
-            "id": "90532af9-578b-3781-8f76-08dba8fa2f07",
-            "summary": "Shares of Nvidia (NASDAQ: NVDA) are plummeting on Thursday.  The artificial intelligence (AI) chip giant's stock lost 7.8% as of 1:30 p.m. ET, and was down as much as 9.5% earlier in the day.  The steep decline comes as the S&P 500 (SNPINDEX: ^GSPC) and Nasdaq Composite (NASDAQINDEX: ^IXIC) lost 4.9% and 5.1%, respectively.",
-            "date": "2025-04-04T17:55:42Z",
-            "sentiment-score": -0.9599259812384844
-        },
-        {
-            "id": "eaadc1bb-709c-397a-ab7d-665250b8be72",
-            "summary": "Leaked prices, stealthy specs, and a mid-April launch--NVIDIA is about to shake up the GPU market again.",
-            "date": "2025-04-04T17:14:46Z",
-            "sentiment-score": 0.5189971104264259
-        },
-        {
-            "id": "ef8fe0c9-b34d-37b2-87c7-b48988d52c95",
-            "summary": "Shares of SoundHound AI (NASDAQ: SOUN) are plunging on Friday.  The voice artificial intelligence (AI) technology company's stock lost 14.5% as of 1:50 p.m. ET and was down as much as 18.7% earlier in the day.  The steep decline comes as the S&P 500 and Nasdaq Composite both lost nearly 5%.",
-            "date": "2025-04-04T18:11:36Z",
-            "sentiment-score": -0.959291338454932
-        },
-        {
-            "id": "3d7506c1-9d69-31a5-9fdb-e4e78da7d3a3",
-            "summary": "Chips were never safe from tariff pain despite their initial exclusion from President Donald Trump\u2019s new levies on Wednesday. His announcement aboard Air Force One yesterday that the sector was in his crosshairs for direct tariffs has rightly rattled investors further.",
-            "date": "2025-04-04T17:57:35Z",
-            "sentiment-score": -0.8482248447835445
-        },
-        {
-            "id": "00f477e0-bf94-3123-a378-0dbbb28e3f86",
-            "summary": "Shares of leading designer of graphics chips Nvidia (NASDAQ:NVDA) fell 7.8% in the afternoon session after China imposed a 34% tariff on all U.S. imports amid escalating trade war tensions. This was especially rough for the US chipmakers because a big chunk of their business leans on demand out of China. The new tariffs not only threaten to erode profit margins but also risk reducing market share.",
-            "date": "2025-04-04T19:19:06Z",
-            "sentiment-score": -0.9582599923014641
-        },
-        {
-            "id": "96eb7fdd-c067-3f02-b8af-2244b0175e6c",
-            "summary": "(Bloomberg) -- The S&P 500 Index declined to the lowest level in 11 months, slashing $5.4 trillion in market value in just two sessions as Federal Reserve Chairman Jerome Powell said the Trump administration\u2019s tariffs \u201ccould have a persistent impact on inflation.\u201dMost Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersWhat Would \u2018Transportation Abundance\u2019",
-            "date": "2025-04-04T20:26:32Z",
-            "sentiment-score": -0.9526765551418066
-        },
-        {
-            "id": "22c2cc9f-9d08-3643-b303-527e17d29f67",
-            "summary": "We recently published a list of 11 Best Innovative Stocks to Buy According to Analysts. In this article, we are going to take a look at where NVIDIA Corporation (NASDAQ:NVDA) stands against other best innovative stocks to buy according to analysts. Innovative stocks are the companies that continuously invest in developing new products, services or [\u2026]",
-            "date": "2025-04-04T21:32:28Z",
-            "sentiment-score": 0.015563919208943844
-        },
-        {
-            "id": "de270d08-54b0-3b2f-aa4c-bd40a7ceca87",
-            "summary": "Stocks sank in the first several weeks of the year, with the S&P 500 and the Nasdaq posting their worst quarters since 2022.  Investors were excited about signs of lower inflation and the possibility of interest rate cuts -- and they chose stocks that could thrive the most in a strong economic environment.  All of this led to a huge run-up in stock prices, with one particular valuation metric reaching a level it only hit twice before since the 1950s, when the S&P 500 launched in its current form.",
-            "date": "2025-04-05T08:12:00Z",
-            "sentiment-score": -0.9382220078259706
-        },
-        {
-            "id": "28d6ae98-9ceb-330c-9fee-48b9a8bf706d",
-            "summary": "Nvidia (NASDAQ: NVDA) stock hasn't been performing well so far in 2025 thanks largely to factors outside the company's control.  An investment of just $100 made in Nvidia shares 10 years ago is now worth $20,000.  This can be attributed to the company's ability to make the most of emerging growth trends across various verticals, along with its dominant position in the graphics processing unit (GPU) market.",
-            "date": "2025-04-05T09:29:00Z",
-            "sentiment-score": 0.6551080774515867
-        },
-        {
-            "id": "3d18ecbb-9783-345b-bfba-af3b7b9f88b7",
-            "summary": "The share price of Arm Holdings (NASDAQ: ARM) rocketed higher in the first month of 2025, but the British technology company saw a significant pullback since hitting a 2025 high on Jan. 22.  Arm stock has traded down 44% since then as investors pressed the panic button over multiple headwinds.  Does the sharp pullback that Arm saw in the past couple of months present a buying opportunity for long-term investors?",
-            "date": "2025-04-05T09:20:00Z",
-            "sentiment-score": -0.9497489668428898
-        },
-        {
-            "id": "975433bc-fcf0-3a99-925f-5a6b845680b3",
-            "summary": "Recent volatility hasn't altered the compelling long-term growth opportunities ahead of these \"Magnificent\" stocks.",
-            "date": "2025-04-05T08:35:00Z",
-            "sentiment-score": 0.11911740899085999
-        },
-        {
-            "id": "19d3d525-6c4f-3dc1-b2e8-d9a8b1291500",
-            "summary": "We recently published a list of Mag7 and Beyond: Top 10 AI News Updates and Ratings. In this article, we are going to take a look at where NVIDIA Corporation (NASDAQ:NVDA) stands against other top AI news updates and ratings. According to a study presented at a European Central Bank conference, companies that manage to [\u2026]",
-            "date": "2025-04-05T15:07:36Z",
-            "sentiment-score": 0.031825101003050804
-        },
-        {
-            "id": "f1ba2673-f816-3091-a643-dc8c8d2431c4",
-            "summary": "Since Covid, the typically positive correlation between consumers\u2019 mood and stock prices has collapsed, research finds.",
-            "date": "2025-04-05T15:00:00Z",
-            "sentiment-score": -0.6099673770368099
-        },
-        {
-            "id": "a7685de0-9aca-3be6-875c-ba65b09b8f32",
-            "summary": "Foreign stocks and bond funds are winning the race so far in 2025.. Plus: A Financial Flashback to 25 years ago, the AT&T Wireless IPO.",
-            "date": "2025-04-05T15:00:00Z",
-            "sentiment-score": 0.19201647117733955
-        },
-        {
-            "id": "cf99b32b-ef4f-3165-a8db-d37281b38e09",
-            "summary": "Two iconic businesses in particular have seen their share prices slump so far this year: Palo Alto Networks (NASDAQ: PANW) and Nvidia (NASDAQ: NVDA).  Nvidia is primarily a chipmaker that produces graphics processing units, commonly referred to as GPUs.  In a nutshell, Nvidia is a major supplier of critical components to a wide array of large and growing industries, the AI industry being the most promising today.",
-            "date": "2025-04-05T14:32:00Z",
-            "sentiment-score": -0.897076653316617
-        },
-        {
-            "id": "df2ee29d-8fa8-32ef-978c-accf355df5d8",
-            "summary": "(Bloomberg) -- Hon Hai Precision Industry Co.\u2019s first-quarter sales rose at their fastest clip since 2022 on resilient data center demand, a bright sign for the artificial intelligence sector amid tariff-induced fears.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersLocal Governments Vie for Fired Federal WorkersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesWhat Would \u2018Transportation Abundance\u2019 Look Like?Hochul Says Trump\u2019s Tariffs Are Alre",
-            "date": "2025-04-05T13:03:02Z",
-            "sentiment-score": 0.7547125546261668
-        },
-        {
-            "id": "d5340078-d710-3d34-8e5d-fdf4282a49ba",
-            "summary": "Nvidia (NVDA) fell with other Magnificent 7 stocks on Thursday as the market reacted to new tariffs \u2014 but the company also may\u2019ve slipped because a major bank downgraded it for unrelated reasons.",
-            "date": "2025-04-05T13:00:00Z",
-            "sentiment-score": -0.9561457755044103
-        },
-        {
-            "id": "2980395f-7fc9-3cc2-8e3d-8055e0381c04",
-            "summary": "Christine Short, head of research of TMX Group's Wall Street Horizon, joins WSJ\u2019s Take On the Week podcast to share what to look out for this earnings season as tariffs come into play.",
-            "date": "2025-04-05T13:00:00Z",
-            "sentiment-score": 0.04373502405360341
-        },
-        {
-            "id": "3258f7c5-df2f-3e40-99e4-a5b15327e110",
-            "summary": "Paul Tudor Jones is betting on these two turnaround stocks over Nvidia.",
-            "date": "2025-04-05T12:53:00Z",
-            "sentiment-score": 0.18929120292887092
-        },
-        {
-            "id": "76e95644-a38d-3fda-8ae9-3085aadc6f1d",
-            "summary": "With the stock market going through a downturn due to uncertainties about how tariffs will (or won't) affect the economy, it's opening up several investment opportunities in the artificial intelligence (AI) realm.  Although Broadcom's business has many different offerings, its custom AI accelerator business is starting to take off.",
-            "date": "2025-04-05T11:53:00Z",
-            "sentiment-score": 0.17715281900018454
-        },
         {
             "id": "1fe6cfa8-3377-3b49-aef7-4887a75a3bdf",
             "summary": "After weeks of uncertainty and anticipation, President Donald Trump's \"reciprocal tariff\" plan was unveiled after the market closed on Wednesday.  When the dust settled on the first trading day after the announcement, the S&P 500 (SNPINDEX: ^GSPC) and Nasdaq Composite (NASDAQINDEX: ^IXIC) saw their worst days since 2020, closing the day down 4.8% and 6%, respectively.  Companies that rely on global supply chains to sell their products were hit particularly hard, but even some tech stocks that are less impacted were also dragged down.",
@@ -492,18 +54,6 @@
             "summary": "Warren Buffett has built a fortune for Berkshire Hathaway shareholders.  Buffett's success at buying stocks of great businesses and holding them for the long term has inspired many investors to follow his style.  Berkshire held a stock portfolio worth $271 billion at the end of 2024.",
             "date": "2025-04-05T22:03:00Z",
             "sentiment-score": 0.06053810706362128
-        },
-        {
-            "id": "b5b3c666-b82e-3574-b8da-3ba50d14b2bc",
-            "summary": "The tech giants that powered the stock market for the past two years were among the hardest hit this week in this week's big selloff.  Apple shares shed 16% of their value over two days\u2014Thursday and Friday\u2014 as the company draws the bulk of its business from hardware manufactured in countries like China that were hit with steep tariffs.  The corporate software and cloud computing services that make up the bulk of its business are less exposed to tariffs in general.",
-            "date": "2025-04-05T18:30:53Z",
-            "sentiment-score": -0.9539671633392572
-        },
-        {
-            "id": "93455d6c-fae7-3e7f-b945-ded8907748ff",
-            "summary": "NVIDIA (NasdaqGS:NVDA) saw its share price drop 14% last week, which aligns sharply with the broader market downturn, where the Nasdaq entered bear market territory following the announcement of reciprocal tariffs that rattled tech stocks. Despite NVIDIA's significant collaborations, such as the partnership with Quantum Machines and expansions across AI and quantum computing sectors, these advancements seemingly couldn't offset the negative impact of the volatile market conditions. The week...",
-            "date": "2025-04-05T17:31:17Z",
-            "sentiment-score": -0.9491868829354644
         },
         {
             "id": "7719641a-d9b0-30fe-abc7-f0bf3f277f93",
@@ -1080,6 +630,96 @@
             "summary": "Investors may want to examine a bear call spread that assumes Nvidia stock will struggle to get back above the 115 level by mid-June.",
             "date": "2025-04-09T16:18:59Z",
             "sentiment-score": -0.29218754172325134
+        },
+        {
+            "id": "7e2c62a6-4998-3ef8-815e-702b5f7f77d3",
+            "summary": "Markets (^GSPC,&nbsp;^IXIC,&nbsp;^DJI) are shifting as investors look beyond the once-dominant \"Magnificent Seven\" and focus on international equities gaining traction. Horizon Investments head of research and quantitative strategies Mike Dickson joins Market Domination to discuss why global diversification may be the new core strategy as capital moves away from US assets. To watch more expert insights and analysis on the latest market action, check out more Market Domination&nbsp;here.",
+            "date": "2025-04-12T12:00:05Z",
+            "sentiment-score": 0.04364916542544961
+        },
+        {
+            "id": "bcbf34d4-e429-3459-8d71-5869e3843bef",
+            "summary": "Madison Mills and Yahoo Finance Executive Editor Brian Sozzi outline what's driving interest in some of the trending tickers on Yahoo Finance's platform. Citi analysts cut their Nvidia (NVDA) price target to $150 per share, citing reduced chip sales in 2025 and 2026 due to the trade war. Jefferies analysts outline their top defensive retail and consumer-facing picks, including Uber (UBER), Exxon (XOM), McDonald's (MCD), and Netflix (NFLX). Logitech (LOGI) withdraws its full-year 2026 guidance, citing tariff uncertainty. To watch more expert insights and analysis on the latest market action, check out more Catalysts here.",
+            "date": "2025-04-11T15:02:02Z",
+            "sentiment-score": -0.9343402707017958
+        },
+        {
+            "id": "eec5a8cc-f355-3bec-8e51-b4300d8b68c2",
+            "summary": "We recently published a list of 12 Best Tech Stocks to Buy For Long-Term Investment. In this article, we are going to take a look at where NVIDIA Corp. (NASDAQ:NVDA) stands against other tech stocks to buy for long-term investment. On April 1, Chris Verrone, chief market strategist at Strategas Research Partners, appeared on CNBC\u2019s [\u2026]",
+            "date": "2025-04-12T12:47:51Z",
+            "sentiment-score": 0.02725704200565815
+        },
+        {
+            "id": "b502e2ba-615e-3f24-a436-b7d998599e13",
+            "summary": "Advanced Micro Devices (AMD) is knocking on Nvidia\u2019s (NVDA) door. Last week, the plucky semiconductor challenger announced the completion of its $4.9 billion acquisition of ZT Systems for its expertise in systems and rack-level design. The goal is to accelerate the design and deployment of AMD-powered AI infrastructure. This market is currently dominated by NVIDIA and is expected to exceed $1 trillion within a few years. While the acquisition leverages the existing strengths of AMD and represent",
+            "date": "2025-04-12T12:02:11Z",
+            "sentiment-score": 0.4512791968882084
+        },
+        {
+            "id": "1945f868-1ab4-342d-a14b-653ca6c52f79",
+            "summary": "Looking to invest in the future of computing without excessive risk? These three tech powerhouses are building quantum capabilities while generating massive profits from their more well-known core businesses.",
+            "date": "2025-04-12T11:49:00Z",
+            "sentiment-score": 0.6152868838980794
+        },
+        {
+            "id": "d1cb4335-8282-351d-a999-579468005402",
+            "summary": "AI infrastructure king  Nvidia  is seemingly everywhere, all at once, a success story that it is tempting to explain by just pointing at the company\u2019s powerful technology for training and using AI.  \u201cIf we can avoid doing something, we will,\u201d co-founder and Chief Executive  Jensen Huang  said March 19, during a press conference at its GTC developers\u2019 conference in San Jose, Calif.  Huang\u2019s approach has led to remarkable growth since the company\u2019s founding in 1993 and a recent reign as the world\u2019s most valuable company.",
+            "date": "2025-04-12T11:30:00Z",
+            "sentiment-score": 0.8288149368017912
+        },
+        {
+            "id": "484a367e-6070-325e-b98c-a1044ea811ad",
+            "summary": "With the recent stock market crash, several leading artificial intelligence (AI) stocks have gone on sale.  Nvidia (NASDAQ: NVDA) is the market leader in AI chips, where its graphics processing units (GPUs) have become the main component to provide the processing power to handle AI workloads.  Nvidia has taken a more than 80% market share in the GPU space due largely to its CUDA software platform, which allows developers to easily program its chips for various AI-related tasks.",
+            "date": "2025-04-12T08:25:00Z",
+            "sentiment-score": 0.3005547523498535
+        },
+        {
+            "id": "701e5d5d-3705-32a5-801a-1ccc1a851fca",
+            "summary": "Palantir Technologies (NASDAQ: PLTR) has been one of the hottest artificial intelligence (AI) stocks on the market in the past couple of years, registering stunning gains of more than 820%, as of this writing, on the back of the company's rapidly improving credentials in the lucrative market for AI chips.  What's worth noting is investors who bought Palantir a couple of years ago now hold fat gains despite the recent slide.  Palantir's pullback owing to the tariff-fueled turmoil could entice growth investors to add more of this software specialist's shares.",
+            "date": "2025-04-12T07:45:00Z",
+            "sentiment-score": 0.9061737144365907
+        },
+        {
+            "id": "4b6a5ca1-126a-3956-af99-16dab5b1254b",
+            "summary": "Alphabet and Nvidia have joined prominent venture capital investors to back\u00a0Safe Superintelligence (SSI), a startup co-founded by OpenAI's former chief scientist Ilya Sutskever that has quickly risen to become one of the most valuable artificial intelligence startups months after its launch, a source familiar with the matter said.  The funding illustrates renewed interest from the big tech and infrastructure providers in making strategic investments in the startups developing cutting-edge AI that requires massive amounts of computing power.  Alphabet, which has its own AI models, earlier in the week announced a deal\u00a0by its cloud computing arm to sell SSI access to tensor processing units (TPUs), its in-house AI chips.",
+            "date": "2025-04-12T01:29:45Z",
+            "sentiment-score": 0.7903638491407037
+        },
+        {
+            "id": "502b373b-1d74-3c4d-95ec-56c809a4f6ea",
+            "summary": "South Korean AI hardware startup FuriosaAI has made waves in the global semiconductor industry after reportedly turning down an $800 million acquisition offer from Meta (NASDAQ:META). The decision shows the startup's ambition to remain independent and compete directly in the rapidly evolving AI chip market dominated by NVIDIA (NASDAQ:NVDA) and increasingly encroached on by tech giants like Alphabet (NASDAQ:GOOGL, GOOG)) and Microsoft (NASDAQ:MSFT). Don't Miss: Hasbro, MGM, and Skechers trust thi",
+            "date": "2025-04-11T23:02:22Z",
+            "sentiment-score": 0.09254013001918793
+        },
+        {
+            "id": "ece8fca1-9cd6-3e9f-8651-f3aee7859960",
+            "summary": "Cathie Wood is the CEO and Chief Investment Officer of Ark Invest, which offers a small catalog of innovation-focused exchange-traded funds (ETFs).  While these investment preferences may suggest that Wood has an appetite for risk, her funds also hold a number of blue chip stocks -- including one \"Magnificent Seven\" stock she just scooped up more of amid the Nasdaq's sharp sell-off.  Wood has an interesting relationship with semiconductor behemoth Nvidia (NASDAQ: NVDA).",
+            "date": "2025-04-12T20:18:00Z",
+            "sentiment-score": 0.02803518110886216
+        },
+        {
+            "id": "a04fd437-c0ae-3a9b-877e-17f7918c6c5c",
+            "summary": "(Bloomberg) -- President Donald Trump\u2019s administration exempted smartphones, computers and other electronics from its so-called reciprocal tariffs, representing a major reprieve for global technology manufacturers including Apple Inc. and Nvidia Corp. even if it proves a temporary one.Most Read from BloombergThe Secret Formula for Faster TrainsIn Chicago, a Former Steel Mill Looks to Make a Quantum LeapMidtown Office Building Evacuated on Concerns of Wall CollapseNYC Tourist Helicopter Crashes i",
+            "date": "2025-04-12T18:14:13Z",
+            "sentiment-score": -0.13738998770713806
+        },
+        {
+            "id": "796b9892-3216-3680-9ef2-3b31b6a89f43",
+            "summary": "Smartphones, PCs, and servers won\u2019t face the highest tariffs rates, according to a document from the U.S. Customs and Border Protection Agency.",
+            "date": "2025-04-12T17:42:00Z",
+            "sentiment-score": 0.05452973581850529
+        },
+        {
+            "id": "8adc8047-378f-33cc-b35f-612e735b4096",
+            "summary": "The ever-growing U.S. tariffs on imports from China won\u2019t bite Big Tech so badly after all, after the Trump administration late Friday laid out significant exemptions from its wider trade war that include smartphones, laptop computers, chips, and more.",
+            "date": "2025-04-12T17:39:00Z",
+            "sentiment-score": 0.5235641188919544
+        },
+        {
+            "id": "99ad7cc6-a9db-3194-926f-031b57100c9e",
+            "summary": "We recently published a list of 14 AI Stocks Catching Wall Street\u2019s Attention. In this article, we are going to take a look at where NVIDIA Corporation (NASDAQ:NVDA) stands against other AI stocks catching Wall Street\u2019s attention. In the latest development in the feud between OpenAI and Elon Musk, the ChatGPT maker has countersued billionaire [\u2026]",
+            "date": "2025-04-12T16:09:52Z",
+            "sentiment-score": -0.16948795132339
         }
     ]
 }

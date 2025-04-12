@@ -1,48 +1,18 @@
 {
     "ticker": "ACN",
-    "total_news": 7,
-    "average_sentiment": -0.09892549186146685,
-    "weighted_average_sentiment": 0.03338972599978773,
+    "total_news": 13,
+    "average_sentiment": -0.31659211884610927,
+    "weighted_average_sentiment": -0.3478029519268362,
     "average_daily_sentiments": [
-        0.15397580713033676,
+        -0.2579093612730503,
+        -0.531983177177608,
+        -0.305808640550822,
+        -0.2654054605712493,
         0,
         0,
-        0.01552165299654007,
-        0.00716910045593977,
-        0,
-        -0.21728625090327114
+        0.01552165299654007
     ],
     "news": [
-        {
-            "id": "e248e2c6-04e9-3d49-bba3-a17c048dde56",
-            "summary": "The Zacks Earnings ESP is a great way to find potential earnings surprises. Why investors should take advantage now.",
-            "date": "2025-04-03T13:00:10Z",
-            "sentiment-score": 0.030967594124376774
-        },
-        {
-            "id": "f1f999ab-e02f-3318-8d76-59414e680607",
-            "summary": "We recently published a list of Jim Cramer Discusses These 8 Stocks & Says Trump\u2019s Focused On His Goals And Not The Market. In this article, we are going to take a look at where Accenture plc (NYSE:ACN) stands against other stocks that Jim Cramer discussed. In a recent appearance on CNBC\u2019s Squawk on the [\u2026]",
-            "date": "2025-04-03T11:39:11Z",
-            "sentiment-score": 0.013324994593858719
-        },
-        {
-            "id": "1c00f724-f800-3faf-98eb-b59e1e5e8ce6",
-            "summary": "Accenture (ACN), Booz Allen Hamilton (BAH) and IBM (IBM), along with the other largest consulting fi",
-            "date": "2025-04-03T11:21:52Z",
-            "sentiment-score": 0.042815187480300665
-        },
-        {
-            "id": "f94221d0-8ea9-3849-8991-50ad50ac5c44",
-            "summary": "Deloitte is one of at least 10 consulting firms with slashed contracts, including Accenture, which has already warned of downstream revenue losses.",
-            "date": "2025-04-03T11:04:00Z",
-            "sentiment-score": -0.9562527798116207
-        },
-        {
-            "id": "bf68c6c9-0320-31b6-9486-35984488dc48",
-            "summary": "We recently published a list of Jim Cramer Raises Big Question About Tariffs & Discusses These 11 Stocks. In this article, we are going to take a look at where Accenture plc (NYSE:ACN) stands against other stocks that Jim Cramer discusses. In a recent appearance on CNBC\u2019s Squawk on the Street, Jim Cramer asked the [\u2026]",
-            "date": "2025-04-05T17:49:03Z",
-            "sentiment-score": 0.00716910045593977
-        },
         {
             "id": "0dac86e4-3566-3f53-987e-0b5c2187cea7",
             "summary": "In today's job market, mastering AI skills might seem like the golden ticket to getting hired. But at tech consultancy Accenture (NYSE:ACN), CEO Julie Sweet relies on a surprisingly simple question to spot top talent. And no, it has nothing to do with AI expertise. The One Question That Separates Hires From Rejects In a recent interview on the \"In Good Company\" podcast with Norges Bank Investment Management CEO Nicolai Tangen, Sweet shared her go-to interview question: \"What have you learned in",
@@ -54,6 +24,72 @@
             "summary": "The hyperscaler rolled out an agent interoperability protocol that already has buy-in from Accenture, Deloitte and KPMG, Wednesday at Google Cloud Next.",
             "date": "2025-04-09T08:00:00Z",
             "sentiment-score": 0.15397580713033676
+        },
+        {
+            "id": "c5f97e25-022d-39e6-957a-6d0b30c59956",
+            "summary": "Leading consulting giants Accenture Plc (NYSE:ACN), Deloitte, and Booz Allen Hamilton Holding Corp. (NYSE:BAH) are facing significant contract reductions as the U.S. Department of Defense (DoD) announced a sweeping $5.1 billion cut in IT services and ...",
+            "date": "2025-04-12T00:30:06Z",
+            "sentiment-score": -0.9521484225988388
+        },
+        {
+            "id": "138e5120-d4a6-361e-9a79-96cf97a798cf",
+            "summary": "The new JV seeks to lead digital transformation in the cruise, defence, and port infrastructure industries.",
+            "date": "2025-04-11T16:36:35Z",
+            "sentiment-score": 0.27911107055842876
+        },
+        {
+            "id": "be0cfa84-5300-370c-840b-3a3aab3e30ef",
+            "summary": "Investing.com -- Shares of Booz Allen Hamilton Holding (NYSE:BAH) dropped 2.3%, while Accenture plc (NYSE:ACN) saw a 2.2% decrease following the Pentagon\u2019s decision to terminate $5 billion in IT services and consulting contracts. This move comes amid efforts to reduce consultancy spending deemed non-essential by Defense Secretary Pete Hegseth, stating the work could be more efficiently carried out by Pentagon staff.",
+            "date": "2025-04-11T14:50:58Z",
+            "sentiment-score": -0.9462428856641054
+        },
+        {
+            "id": "e07eb1ea-5c2b-36b5-93c9-b83d9d432162",
+            "summary": "U.S. Defense Secretary Pete Hegseth has ordered the termination of several information technology services contracts valued at $5.1 billion, including companies such as Accenture, Booz Allen Hamilton and Deloitte, according to a Pentagon memo.  The contracts \"represent non-essential spending on third party consultants\" for services Pentagon employees can perform, Hegseth said in the memo released late on Thursday.  \"These terminations represent $5.1 billion in wasteful spending,\" Hegseth said, adding that their termination would result in \"nearly $4 billion in estimated savings.\"",
+            "date": "2025-04-11T01:19:03Z",
+            "sentiment-score": -0.9288177164271474
+        },
+        {
+            "id": "eda3408b-db11-3f25-b4cd-795f4874f573",
+            "summary": "A number of stocks fell in the afternoon session after stocks gave back some of the gains from the previous day as the White House clarified the tariffs on imports from China would add up to 145%, while the baseline 10% tariffs remained in place for most countries. This reminded investors that the global trade environment remained volatile, limiting the potential for sustained market gains.",
+            "date": "2025-04-10T17:06:04Z",
+            "sentiment-score": -0.9408991951495409
+        },
+        {
+            "id": "a2b14084-d199-3ef5-bf4e-a8e7cadbfe36",
+            "summary": "Accenture (ACN) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
+            "date": "2025-04-10T13:00:09Z",
+            "sentiment-score": 0.027725673746317625
+        },
+        {
+            "id": "6f399fc7-6c32-3d7a-bb37-ed4075b4899e",
+            "summary": "The expanded partnership focuses on delivering solutions across agentic AI, networking, and mainframe modernisation.",
+            "date": "2025-04-10T10:56:58Z",
+            "sentiment-score": 0.5708980797789991
+        },
+        {
+            "id": "a996f538-3473-34d6-a13e-e21953b786ed",
+            "summary": "Transport for London has blocked a US consulting giant that scrapped diversity policies from working on its advertising campaigns.",
+            "date": "2025-04-10T10:40:31Z",
+            "sentiment-score": -0.8809591205790639
+        },
+        {
+            "id": "dd6d2c4b-5515-364e-ae31-7658c0669b5a",
+            "summary": "(Updates with Booz Allen's response in the third paragraph.) Booz Allen Hamilton Holding (BAH), A",
+            "date": "2025-04-09T20:13:06Z",
+            "sentiment-score": 0.0018016491085290909
+        },
+        {
+            "id": "e1af00cc-31bb-3049-8a99-9448ad706d2c",
+            "summary": "Despite announcing promising developments, such as the formation of the Accenture Siemens Business Group and financial performance improvements, Accenture (NYSE:ACN) saw a 10% decline in its stock price over the last week. The market as a whole dropped by 12% amid concerns over new U.S. tariffs and a retaliatory stance from China, leading to volatile trading sessions. While Accenture's positive announcements might have provided a counterbalance to the broader market downturn, they did not...",
+            "date": "2025-04-09T18:58:23Z",
+            "sentiment-score": -0.9519938379526138
+        },
+        {
+            "id": "2074f612-d2ec-3fe8-8eb4-f36b2f050f90",
+            "summary": "Catch up on the top industries and stocks that were impacted, or were predicted to be impacted, by the comments, actions and policies of President Donald Trump with this daily recap compiled by The Fly: CHINA RAISES TARIFFS: China raised its tariffs on U.S. goods to 125% from 84%. \u201cIf the U.S. continues to impose tariffs on Chinese goods exported to the U.S., China will ignore it,\u201d the government said in a statement. DELISTING CHINESE COMPANIES: The Trump administration is proceeding toward a po",
+            "date": "2025-04-12T14:10:31Z",
+            "sentiment-score": 0.4363297000527382
         }
     ]
 }

@@ -20,7 +20,7 @@ Given that news is gathered and analyzed hourly, it's advisable to run the backe
 
 ## Setup & Running Locally
 
-1.  **Prerequisites:** Ensure Python 3.8+ is installed.
+1.  **Prerequisites:** Ensure Python 3.11.4 is installed. (While versions above 3.8 *might* work, 3.11 is the tested and supported version.).
 2.  **Clone Repository:** Clone this repository to your local machine.
 3.  **Install Dependencies:** Make sure all necessary libraries are installed `pip install -r requirements.txt`
 4.  **Run the Server:**
@@ -52,6 +52,12 @@ To deploy the backend service using Docker:
 5.  **Run the Docker Container:** Start the container, mapping the host port (e.g., 8091) to the container port (which should also be 8091, assuming the `Dockerfile` exposes it). Add `-d` to run in detached mode (in the background).
     `docker run -d -p 8091:8091 news-collector-app`
     The backend service should now be running inside the Docker container and accessible via the host machine's IP address on port 8091.
+
+## Related Projects
+
+You can also find the frontend related to this project at https://github.com/kristofmester007/stockmagnifier-frontend.
+
+A deployed version of this project is available at: https://dbatx57diay0.cloudfront.net
 
 ## Copyright
 

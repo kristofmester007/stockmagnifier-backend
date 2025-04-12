@@ -1,83 +1,23 @@
 {
     "ticker": "LLY",
     "total_news": 44,
-    "average_sentiment": -0.18501493990929288,
-    "weighted_average_sentiment": -0.16255846502567742,
+    "average_sentiment": -0.16466664225498046,
+    "weighted_average_sentiment": -0.1491456879811837,
     "average_daily_sentiments": [
+        0,
+        -0.17715192390605808,
+        0,
         -0.20481397110658386,
         0.2139750786850022,
         -0.41679793656803665,
-        -0.2579472364547352,
-        -0.9563461020588875,
-        -0.40256297669839114,
-        0.44330055359750986
+        -0.2579472364547352
     ],
     "news": [
-        {
-            "id": "09309e26-47af-3e9a-ac9d-36affb94a4d8",
-            "summary": "Primary care company knownwell said on Wednesday it will provide health and weight-management services on Eli Lilly's direct-to-consumer online healthcare platform, LillyDirect. Patients on LillyDirect will have access to physicians from knownwell for personalized services, knownwell said. The company offers in-person and virtual primary care, nutrition counseling and behavioral health services, covered through patients' insurance.",
-            "date": "2025-04-02T19:21:47Z",
-            "sentiment-score": 0.030991705134510994
-        },
-        {
-            "id": "caacde38-5d79-37a3-9125-aadf11329a06",
-            "summary": "Investors worry patients won\u2019t make that price leap and that Hims, which has built its business on affordable healthcare, will struggle to meet its revenue goal.",
-            "date": "2025-04-02T18:12:00Z",
-            "sentiment-score": -0.9140910264104605
-        },
-        {
-            "id": "06d142db-a905-336a-a0df-f505312c37de",
-            "summary": "Drugmakers breathed a sigh of relief Wednesday after President Trump didn\u2019t announce pharmaceutical tariffs.  Plus, language in the executive order indicated medicines were exempted from the reciprocal tariffs that Trump did announce.  Drugmakers were combing over the executive order to clarify the exemption language in the executive order and to make sure they won\u2019t be hit by any other tariff provisions, such as the 10% \u201cbaseline\u201d tariff.",
-            "date": "2025-04-02T22:03:35Z",
-            "sentiment-score": -0.10374811291694641
-        },
-        {
-            "id": "1b8c581b-3697-3b39-81a9-637a9c07f22a",
-            "summary": "The FDA's fast track designation will facilitate rapid development and expedited review of Biogen's Alzheimer's disease candidate.",
-            "date": "2025-04-03T14:48:00Z",
-            "sentiment-score": 0.7863353556022048
-        },
-        {
-            "id": "8a106b11-4326-3a9f-a9a4-790291a5962b",
-            "summary": "Finding stocks expected to beat quarterly earnings estimates becomes an easier task with our Zacks Earnings ESP.",
-            "date": "2025-04-03T13:00:09Z",
-            "sentiment-score": 0.10026575159281492
-        },
-        {
-            "id": "b1e67398-bf0c-3648-b3a6-6e3eab5cedd1",
-            "summary": "We recently published a list of Jim Cramer Was Talking About These 10 Stocks Amid Trump\u2019s Trade Wars. In this article, we are going to take a look at where Eli Lilly (NYSE:LLY) stands against other stocks that Jim Cramer was talking about amid Trump\u2019s trade wars. Jim Cramer in a latest program on CNBC [\u2026]",
-            "date": "2025-04-04T13:40:57Z",
-            "sentiment-score": 0.005908832885324955
-        },
-        {
-            "id": "277c4015-1d40-3c87-9bd9-7aad5803d418",
-            "summary": "The Trump administration has decided not to back a Biden administration plan that would have allowed Medicare to pay for obesity drugs, according to a report from Bloomberg. Shares of both Eli Lilly (LLY) and Novo Nordisk (NVO) traded lower on the news. Learn more in the video above. To watch more expert insights and analysis on the latest market action, check out more Asking for a Trend here.",
-            "date": "2025-04-04T21:17:17Z",
-            "sentiment-score": -0.5580649897456169
-        },
-        {
-            "id": "6276abb5-892d-34ad-bd69-384498b138a5",
-            "summary": "The Trump administration finalized new Medicare and Medicaid policies late Friday, but left out weight-loss drugs. Eli Lilly stock skidded.",
-            "date": "2025-04-04T21:55:08Z",
-            "sentiment-score": -0.9477055300958455
-        },
-        {
-            "id": "b56dc09c-ec86-3b6d-a02a-27e7277dc974",
-            "summary": "We recently published a list of Jim Cramer\u2019s Take on These 10 Stocks. In this article, we are going to take a look at where Eli Lilly and Company (NYSE:LLY) stands against other stocks that Jim Cramer discusses. On Wednesday, Jim Cramer, the host of Mad Money, shared his concerns about President Donald Trump\u2019s approach [\u2026]",
-            "date": "2025-04-04T21:54:48Z",
-            "sentiment-score": -0.11039021983742714
-        },
         {
             "id": "868183b1-c359-3a35-b5cc-6734aa1e04fe",
             "summary": "What should investors do when stocks are tanking over the short term?  Three Motley Fool contributors think they've found great dividend stocks to own for the long term that pay you to wait for better days.  Here's why they picked AbbVie (NYSE: ABBV), Amgen (NASDAQ: AMGN), and Eli Lilly (NYSE: LLY).",
             "date": "2025-04-06T10:44:00Z",
             "sentiment-score": 0.032782373018562794
-        },
-        {
-            "id": "180c5fa5-496d-3661-bcc4-ad01e498ddc9",
-            "summary": "Eli Lilly (NYSE:LLY) has recently announced several developments, including positive Phase 2 results for their siRNA therapy lepodisiran and the expansion of their digital healthcare platform, LillyDirect, to support Alzheimer's patients. Despite these advancements, Eli Lilly's stock fell 6% in the last quarter. This movement came amid a broader market downturn, with substantial declines in major indices such as the Dow and S&P 500 due to escalating tariff issues and growing economic...",
-            "date": "2025-04-05T17:52:25Z",
-            "sentiment-score": -0.9563461020588875
         },
         {
             "id": "02ed7735-a687-3625-a501-cd67887cdc2b",
@@ -276,6 +216,66 @@
             "summary": "Netflix and DoorDash are two of the seven best stocks where investors can find magnificent profit growth prospects.  More than 70% of analysts covering Netflix have buy or overweight ratings on the video streaming service.  The consensus estimate for 2025 earnings is $24.69, a 25% increase from last year.",
             "date": "2025-04-09T17:36:21Z",
             "sentiment-score": 0.9160944083705544
+        },
+        {
+            "id": "06769a5e-dff7-3a42-88a5-ff56851cc27a",
+            "summary": "RESEARCH REPORTS These reports, excerpted and edited by Barron\u2019s, were issued recently by investment and research firms. The reports are a sampling of analysts\u2019 thinking; they should not be considered the views or recommendations of Barron\u2019s.",
+            "date": "2025-04-11T23:29:00Z",
+            "sentiment-score": -0.02252632286399603
+        },
+        {
+            "id": "6b9f633b-18aa-3703-a304-21c2baa4784d",
+            "summary": "We recently published a list of 10 Best Medical Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Eli Lilly and Company (NYSE:LLY) stands against other best medical stocks to buy according to billionaires. Why are Healthcare Stocks Under Pressure? Some experts view medical, healthcare, and [\u2026]",
+            "date": "2025-04-11T20:11:12Z",
+            "sentiment-score": -0.004030285403132439
+        },
+        {
+            "id": "b027f093-6ca6-3902-b252-977364e68121",
+            "summary": "OrderlyMeds fights back after Big Pharma crackdown, igniting a battle over the future of personalized medicine",
+            "date": "2025-04-11T17:56:22Z",
+            "sentiment-score": -0.6249803565442562
+        },
+        {
+            "id": "23ac9266-227d-34d3-a82d-eabb1dbad654",
+            "summary": "Novartis plans new manufacturing sites and a second R&D hub as it shifts key operations to the US.",
+            "date": "2025-04-11T16:55:46Z",
+            "sentiment-score": 0.6848785476759076
+        },
+        {
+            "id": "8df06119-e6a9-3d0c-b1af-60987f9699ee",
+            "summary": "Denmark\u2019s economy was reshaped by Novo Nordisk and obesity drugs. That identity now is under attack on multiple fronts, from science to geopolitics.",
+            "date": "2025-04-11T16:23:00Z",
+            "sentiment-score": -0.6412764601409435
+        },
+        {
+            "id": "e30d47c9-6146-3f8b-84fc-0b3da9ded85f",
+            "summary": "Existing accounting standards have led to \u201cscope creep,\u201d with derivative standards being applied too often, FASB Chair Richard Jones said.",
+            "date": "2025-04-11T15:57:28Z",
+            "sentiment-score": -0.924547134898603
+        },
+        {
+            "id": "33347731-5758-38e8-a562-b75da2ddaa48",
+            "summary": "Analysts stay bullish despite a massive earnings hit--here's why investors aren't running for the exits.",
+            "date": "2025-04-11T15:38:30Z",
+            "sentiment-score": -0.01072690635919571
+        },
+        {
+            "id": "cc0f5e07-51e3-31e3-af06-74122c15fbdc",
+            "summary": "The Danish biotech\u2019s recruitment drive began last summer when data from an early-stage trial of the drug\u2014petrelintide\u2014showed its potential.",
+            "date": "2025-04-11T14:27:00Z",
+            "sentiment-score": 0.7015917431563139
+        },
+        {
+            "id": "d79f55fc-9d01-3b32-b923-bc52dea9e573",
+            "summary": "Through all the market madness of the past two years, there has been one truth universally acknowledged by the analysts who track healthcare stocks on Wall Street: that the market for the new, effective obesity drugs will be even bigger than anyone expects.  Shares of  Eli Lilly  have trailed the market, and Novo\u2019s American depositary receipt is down roughly half over the past year, but analysts kept raising their estimates for sales of both company\u2019s top weight-loss drugs.  Why were the stocks underperforming if the growth outlook kept getting better?",
+            "date": "2025-04-11T13:06:00Z",
+            "sentiment-score": -0.9295246284455061
+        },
+        {
+            "id": "4ac38fff-46ac-34a8-b27b-f8adbf604532",
+            "summary": "Eli Lilly, American Express, Thermo Fisher, Steel Partners and Oil-Dri are included in this Analyst Blog.",
+            "date": "2025-04-11T10:53:00Z",
+            "sentiment-score": -0.00037743523716926575
         }
     ]
 }

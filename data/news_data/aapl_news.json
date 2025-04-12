@@ -1,420 +1,18 @@
 {
     "ticker": "AAPL",
-    "total_news": 185,
-    "average_sentiment": -0.3094489015915708,
-    "weighted_average_sentiment": -0.2947708344771661,
+    "total_news": 134,
+    "average_sentiment": -0.255894456197744,
+    "weighted_average_sentiment": -0.23970023824069092,
     "average_daily_sentiments": [
+        -0.16579060978256166,
+        0.09420461747795343,
+        0,
         -0.24538501983453684,
         -0.4100718453992158,
         -0.29514875570557225,
-        -0.05328758623606215,
-        -0.19163373209392795,
-        -0.3647267532667943,
-        -0.42470625344369756
+        -0.05328758623606215
     ],
     "news": [
-        {
-            "id": "19f9417c-736b-3f0f-9f16-6cc91818380b",
-            "summary": "Shares in some of the biggest U.S. technology and consumer firms fell late Wednesday following President Trump's announcement of significant tariffs, including 34% on China and 46% on Vietnam, nations that export large amounts of goods to America.",
-            "date": "2025-04-02T20:49:45Z",
-            "sentiment-score": -0.9558802112005651
-        },
-        {
-            "id": "88299bf8-d350-409e-b271-3be28d8c7732",
-            "summary": "Stocks sold off late Wednesday as President Trump's reciprocal tariffs proved to be harsher than many on Wall Street had expected.",
-            "date": "2025-04-02T22:23:45Z",
-            "sentiment-score": -0.8128671087324619
-        },
-        {
-            "id": "c1d5ed38-f82a-3a4f-8a37-7e0dd3fd15ae",
-            "summary": "The argument for owning a stake in this long-leading technology name is even stronger when you look at less-obvious metrics.",
-            "date": "2025-04-03T09:15:00Z",
-            "sentiment-score": 0.0599874397739768
-        },
-        {
-            "id": "1b6ad5da-e831-35ea-bc77-aedc860226fc",
-            "summary": "Apple shares fell sharply in extended trading Wednesday after President Trump unveiled sweeping reciprocal tariffs, including a steep 34% import tax on China, the country where the iPhone maker manufactures about 90% of its products. Monitor these major chart levels.",
-            "date": "2025-04-03T02:55:48Z",
-            "sentiment-score": -0.8187929838895798
-        },
-        {
-            "id": "a4280949-7897-3d63-808f-cfdd451ec722",
-            "summary": "(Bloomberg) -- Apple Inc. is finding itself squarely in the crosshairs of President Donald Trump\u2019s new tariffs, even after a yearslong effort to insulate the iPhone maker from trade wars and supply chain disruptions.Most Read from BloombergMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLondon Clears Final Hurdle for More High-Speed Trains to EuropeLocal Governments Vie for Fired Federal WorkersWhat Frank Lloyd Wright Learned From the DesertChicago School District Agr",
-            "date": "2025-04-02T22:52:42Z",
-            "sentiment-score": 0.32148068584501743
-        },
-        {
-            "id": "c3474621-f87e-3c30-bc85-401c5541337c",
-            "summary": "Computer and electronics makers are likely to face higher production costs after President Donald Trump announced new reciprocal tariffs on Asian nations.  Trump said the reciprocal tariff rate on China will be 34%.  Most of the world\u2019s electronics are made in Asia, including Apple and Samsung smartphones, tablets, video game consoles, and big screen TVs.",
-            "date": "2025-04-02T22:26:46Z",
-            "sentiment-score": 0.025663324631750584
-        },
-        {
-            "id": "57f18b91-5603-3d77-8365-b2a2a10f3e84",
-            "summary": "Apple (NASDAQ: AAPL) is the world's largest company -- by about half a trillion dollars as I write this.  In fact, considering the current state of Apple's business and the growth trajectories of some of its competitors, I think it's highly likely that Apple will lose its title of the world's largest company within the next few years.  There are four companies that could pass Apple in that time frame.",
-            "date": "2025-04-03T10:15:00Z",
-            "sentiment-score": -0.86153912730515
-        },
-        {
-            "id": "613adab6-bd8c-3324-a5a7-147f79b47d5b",
-            "summary": "At a February event,  Amazon  announced Alexa+, a more conversational, generative-AI version of its famous assistant.  During onstage demos, Alexa+ handled a complicated Uber order, answered questions about a user\u2019s email and calendars\u2014and even sifted through hours of Ring camera footage to find a cute dog.  The company said Alexa+ would begin rolling out in March.",
-            "date": "2025-04-03T09:30:00Z",
-            "sentiment-score": 0.010495425201952457
-        },
-        {
-            "id": "c713c3e3-68ee-4cc6-bbf7-b6a230f1388b",
-            "summary": "The tariff-fueled sell-off has erased over $900 billion from Magnificent Seven stocks.",
-            "date": "2025-04-03T20:27:10Z",
-            "sentiment-score": -0.9356228290125728
-        },
-        {
-            "id": "c07186bd-ab8b-341a-9671-4e5f35d63de2",
-            "summary": "President Trump's tariff plan has Wall Street on edge, with the S&P 500 (^GSPC) trading 4% lower. In the latest Market Minute, Catalysts Anchor Madison Mills takes a closer look at some of the stocks and sectors that are feeling the pain. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
-            "date": "2025-04-03T15:28:38Z",
-            "sentiment-score": -0.5907865762710571
-        },
-        {
-            "id": "087c443d-ecb0-40b9-acff-6856fe274a7e",
-            "summary": "The S&P 500 is about to fall through a technical trap door, the Street points out.",
-            "date": "2025-04-03T12:34:08Z",
-            "sentiment-score": -0.7806462533771992
-        },
-        {
-            "id": "c3141a9f-a15c-36de-a604-853a986b2826",
-            "summary": "Apple stock and shares of other tech hardware companies plunged Thursday in response to stiff tariffs imposed late Wednesday by President Donald Trump.",
-            "date": "2025-04-03T20:48:57Z",
-            "sentiment-score": -0.9516922761686146
-        },
-        {
-            "id": "62b71a90-1c5d-3c29-a731-8e2c1ea66559",
-            "summary": "US benchmark equity indexes and Treasury yields plummeted Thursday, with the Dow Jones Industrial Av",
-            "date": "2025-04-03T20:45:50Z",
-            "sentiment-score": -0.9292193381115794
-        },
-        {
-            "id": "eaa51833-dc95-3e9b-92fa-96209222504f",
-            "summary": "(Bloomberg) -- The retail traders who have stormed the markets in recent years were among the only investors buying on Thursday as US stocks had their worst day since June 2020.Most Read from BloombergMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeHousing Agency Aims to Relocate Its DC HeadquartersWhat Would \u2018Transportation Abundance\u2019 Look Like?Small investor",
-            "date": "2025-04-03T20:38:38Z",
-            "sentiment-score": 0.033882804214954376
-        },
-        {
-            "id": "96694370-b36b-31c2-81e8-e902bc8a9924",
-            "summary": "We recently published a list of Top 10 Stocks to Watch as AI Trade Dynamics Change. In this article, we are going to take a look at where Apple Inc. (NASDAQ:AAPL) stands against other top stocks to watch as AI trade dynamics change. Aswath Damodaran from NYU Stern School of Business said in a recent [\u2026]",
-            "date": "2025-04-03T20:31:48Z",
-            "sentiment-score": 0.0219046538695693
-        },
-        {
-            "id": "2e10e596-6f3f-30bd-9d7b-81e48852ae42",
-            "summary": "(Bloomberg) -- Shares of Dell Technologies Inc., Apple Inc., Sonos Inc. and HP Inc. plunged Thursday after President Donald Trump announced sweeping tariffs on imports from virtually every US trading partner, a move that threatens to increase costs, slow demand and strain global supply chains.Most Read from BloombergMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to Eu",
-            "date": "2025-04-03T20:30:48Z",
-            "sentiment-score": -0.9336395803838968
-        },
-        {
-            "id": "18efd6ab-e847-3330-8262-fc5b3ad3fb6b",
-            "summary": "At his \"Liberation Day\" spectacle at the White House Wednesday afternoon, Trump revealed a baseline tariff rate of 10% on countries that will go into effect on April 5.Additional tariffs will be added for some countries that the administration considers to be the worst offenders. Some of those alleged worst offenders are important sourcing and business regions for many large US companies such as Apple (AAPL), Nike (NKE), and Walmart (WMT). China, for example, will see an estimated reciprocal tariff of 34%. Vietnam at 32%. Japan is at 24%. The news has hit stocks, with Dow Jones Industrial Average futures down about 1,200 points, or nearly 3% (YM=F). S&P 500 futures are down 3.5% (ES=F), and Nasdaq futures are off by 3.8% (NQ=F). Japan\u2019s Nikkei (^N225) and Hong Kong\u2019s Hang Seng Index (^HSI) have also registered significant losses. Here\u2019s the hot analysis investors need to know right now:First, retail stocks are getting battered. Walmart, Nike, and Under Armour (UAA, UA) are getting slammed as steep tariffs on China could hammer profits. Nike, for example, relies on China and Vietnam for 55% of its sourcing. Stifel analyst Jim Duffy estimates Nike could see $1.69 a share in earnings wiped out this year because of tariffs. Next up, Apple is going to have a rough day: Morgan Stanley estimates that the tariffs on iPhones and other devices from China will increase Apple\u2019s annual costs by a whopping $8.5 billion. That could hit Apple\u2019s profits by 52 cents next year. Brutal. And lastly, the technical takedown: Market technicians are locked in on the S&P 500\u2019s March 13 closing low of 5,527.50. At this moment, the S&P 500 (^GSPC) is poised to test that low. A break through below the March lows intraday coupled with a new closing low could really damage sentiment further pros warn. RBC strategist Lori Calvasina says the S&P 500 has a clear shot to 4,900 if that low is breached. For more expert insight and the latest market action, click here.",
-            "date": "2025-04-03T12:22:17Z",
-            "sentiment-score": -0.9417947856709361
-        },
-        {
-            "id": "ec8dec89-a67d-3ecf-b109-d628e94f6846",
-            "summary": "Dividend-paying companies tend to be more resilient than their non-paying peers, and the regular payouts can smooth out losses, especially during a bear market, something many investors fear may be on the horizon.  It's no surprise, then, that buying shares in excellent income companies is part of Warren Buffett's strategy -- he's not considered the greatest investor of all time for no reason.  Let's consider two that are worth holding on to forever: Apple (NASDAQ: AAPL) and Visa (NYSE: V).",
-            "date": "2025-04-04T07:55:00Z",
-            "sentiment-score": 0.04048854298889637
-        },
-        {
-            "id": "a2c9b8f0-311d-3386-9699-620fe5c53545",
-            "summary": "The Oracle of Omaha's all-time favorite stock to purchase has outpaced the S&P 500 by more than 21 percentage points in 2025, and 75 percentage points over the last five years.",
-            "date": "2025-04-04T07:06:00Z",
-            "sentiment-score": 0.8632970955222845
-        },
-        {
-            "id": "24376711-f8f0-3ee5-ac68-f5479f09212a",
-            "summary": "This is what could next to Apple shares.",
-            "date": "2025-04-03T22:37:00Z",
-            "sentiment-score": -0.03356525022536516
-        },
-        {
-            "id": "f5f5933a-6b2d-3a61-a121-cb09141c50df",
-            "summary": "(Bloomberg) -- Supply Lines is a daily newsletter that tracks global trade. Sign up here.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018Transportation Abundance\u2019 Look Like?Donald Trump\u2019s move to boost tariffs on all countries will hit China\u2019s economy particularly hard. But",
-            "date": "2025-04-03T22:25:50Z",
-            "sentiment-score": 0.09653565473854542
-        },
-        {
-            "id": "5f82b1a4-0fa8-3ec8-a82e-999e77cd3ca0",
-            "summary": "Follow the latest on Trump\u2019s tariff war",
-            "date": "2025-04-03T21:52:26Z",
-            "sentiment-score": -0.0043677473440766335
-        },
-        {
-            "id": "8af27873-bbb0-38d9-a0b4-d38687ca3058",
-            "summary": "(Bloomberg) -- Berkshire Hathaway Inc.\u2019s stock sailed through a turbulent trading session Thursday, falling only slightly while indexes across the globe plummeted on President Donald Trump\u2019s sweeping tariff plans.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018Transportation",
-            "date": "2025-04-03T21:24:49Z",
-            "sentiment-score": -0.9107378842309117
-        },
-        {
-            "id": "b0cd5422-7919-3966-b5eb-a36dcf293500",
-            "summary": "(Bloomberg) -- There\u2019s virtually nowhere to hide for many US technology companies under President Donald Trump\u2019s new tariff regime, the harshest in a century.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018Transportation Abundance\u2019 Look Like?After Thursday\u2019s slump wiped $1.4",
-            "date": "2025-04-04T08:14:06Z",
-            "sentiment-score": 0.059058938175439835
-        },
-        {
-            "id": "47d44628-d70b-3b8d-ade7-20fed45b3e01",
-            "summary": "(Bloomberg) -- Investors should buy the dip in US stocks as the market is rebuffing President Donald Trump\u2019s tariff policy amid fears of a recession, according to Wall Street veteran Edward Yardeni.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018Transportation Abundance\u2019 Loo",
-            "date": "2025-04-04T06:13:27Z",
-            "sentiment-score": 0.7797349505126476
-        },
-        {
-            "id": "7515a623-677d-3cc6-abcc-e28cf64af186",
-            "summary": "Tariffs are expected to lead to price increases. But could it lead to your iPhone costing $3,500? Wedbush Securities global head of technology research Dan Ives explains how it could happen in the video above. To watch more expert insights and analysis on the latest market action, check out more Morning Brief&nbsp;here.",
-            "date": "2025-04-04T14:50:23Z",
-            "sentiment-score": 0.011283892206847668
-        },
-        {
-            "id": "684344af-57a3-4971-b34a-746b23b33930",
-            "summary": "The hunt for cheap stocks begins.",
-            "date": "2025-04-04T12:42:55Z",
-            "sentiment-score": -0.004880731925368309
-        },
-        {
-            "id": "57df0e2d-5f3d-34f7-91e3-89cfbd480e31",
-            "summary": "Believe it or not, there are other things going on in the world of business and tech than tariffs and sell-offs in the \"Magnificent 7.\" Take blockchain, crypto and Web3 \u2013 three areas that continue to see their fair share of startups seeking to make their names. Yahoo Finance Executive Editor Brian Sozzi sits down with Mysten Labs co-founder and CEO Evan Cheng. Cheng has spent good chunks of time in tech leadership roles at Apple (AAPL) and Meta (META). Since 2021, he has been building the Web3 platform Mylen Labs. The timing looks to have been spot on, as the crypto space has notched several wins under the Trump administration. With President Trump leaning into making the US the bitcoin (BTC-USD) capital of the world, what does it mean for Web3 early entrants such as Mylen Labs? Cheng weighs in,and shares how leadership lessons learned at Apple and Meta are paying dividends at his startup. For full episodes of Opening Bid, listen on your favorite podcast platform or watch on our website. Yahoo Finance's Opening Bid is produced by Langston Sessoms",
-            "date": "2025-04-04T10:00:00Z",
-            "sentiment-score": 0.028595812618732452
-        },
-        {
-            "id": "53c90790-a31f-315d-84a4-190d19041419",
-            "summary": "President Trump's tariffs have sent the markets (^DJI, ^GSPC, ^IXIC) plunging, especially the tech-heavy Nasdaq. Apple (AAPL) and Amazon (AMZN) were hit particularly hard among Big Tech. Tom Forte, Maxim Group managing director and senior consumer internet analyst, joins Market Domination to discuss Apple's stock movement. To watch more expert insights and analysis on the latest market action, check out more Market Domination here.",
-            "date": "2025-04-03T20:12:39Z",
-            "sentiment-score": -0.5003013387322426
-        },
-        {
-            "id": "64259817-7bfc-3fe7-9ad9-a72610b7884d",
-            "summary": "Apple's 2025 earnings could take a $2 hit per share without relief from U.S. tariffs on China and India-made goods",
-            "date": "2025-04-04T14:41:37Z",
-            "sentiment-score": -0.040436603128910065
-        },
-        {
-            "id": "3458cd10-5dbc-3441-b12d-a9a38f250298",
-            "summary": "We recently published a list of 10 Stocks Everyone is Talking About After Trump\u2019s New Tariffs. In this article, we are going to take a look at where Apple Inc (NASDAQ:AAPL) stands against other stocks everyone is talking about after Trump\u2019s new tariffs. Countries are beginning to react to President Donald Trump\u2019s new reciprocal tariffs [\u2026]",
-            "date": "2025-04-04T14:02:39Z",
-            "sentiment-score": 0.04879370052367449
-        },
-        {
-            "id": "6087051e-710a-30cb-9302-68182860668f",
-            "summary": "Apple extends losses after shares of the iPhone maker lost $313.5 billion in market cap on Thursday after President Donald Trump announced tariffs on U.S. trading partners, while Tesla and Nvidia tumble after China says it will impose a 34% retaliatory tariff on all imported goods from the U.S.",
-            "date": "2025-04-04T13:52:00Z",
-            "sentiment-score": -0.9361822456121445
-        },
-        {
-            "id": "2e3e61be-e9b1-3fe9-9262-0e283ca3d0f7",
-            "summary": "Not great. Here's their combined loss of market value Thursday, according to Dow Jones Market Data\u2014a record one-day wipeout: $1.03 trillion lost market value Given their size, those moves translated into huge market-value drops: Apple alone lost $311 billion.",
-            "date": "2025-04-04T13:41:56Z",
-            "sentiment-score": -0.9421958513557911
-        },
-        {
-            "id": "2460a497-b889-4618-baeb-ec3778d59c88",
-            "summary": "Nvidia and Tesla led megacaps lower on Friday as stocks continued to sell off amid a global trade war.",
-            "date": "2025-04-04T15:52:55Z",
-            "sentiment-score": -0.9510598769411445
-        },
-        {
-            "id": "2a4a303e-674d-43f1-b50d-9e3a749fa634",
-            "summary": "Apple might be having a tough time rolling out its new AI systems, but don't count it out as an investment just yet.",
-            "date": "2025-04-04T13:30:27Z",
-            "sentiment-score": 0.00816696509718895
-        },
-        {
-            "id": "d08bba81-8aba-4cc7-97e3-b711e1520b6a",
-            "summary": "President Trump promised big tariffs, and he didn't disappoint. Here's what sources are telling Yahoo Finance's newsroom about the tariff impact to certain sectors and asset classes.",
-            "date": "2025-04-04T10:00:56Z",
-            "sentiment-score": -0.005832385271787643
-        },
-        {
-            "id": "084f0bdc-a80d-4338-ac0b-eaabb0b8a6ea",
-            "summary": "Intel and TSMC have reached a tentative agreement to shore up Intel's foundry business, according to The Information.",
-            "date": "2025-04-03T20:24:17Z",
-            "sentiment-score": 0.9004811774939299
-        },
-        {
-            "id": "67b7fa12-dc6e-3b7f-96d9-4fe8480f012f",
-            "summary": "Trump's surprise tariffs hit Apple like a freight train. Is this the start of a global tech supply chain reset?",
-            "date": "2025-04-04T16:00:25Z",
-            "sentiment-score": -0.20526887848973274
-        },
-        {
-            "id": "d4ed59b9-a1bf-3555-bea0-9de2797fda03",
-            "summary": "Japanese chipmaker Rapidus is negotiating with Apple, Google and dozens of other potential clients to mass-produce advanced chips by 2027, the Nikkei business daily reported on Friday, citing the company's CEO Atsuyoshi Koike. A prototype chip line, which began partial operation on Tuesday at a plant in Hokkaido, is scheduled to be fully up and running within the month, the report said. The CEO did not name any specific customers but said the company is in discussions with Google, Apple, Facebook , Amazon and Microsoft .",
-            "date": "2025-04-04T15:55:04Z",
-            "sentiment-score": 0.07859257375821471
-        },
-        {
-            "id": "8f2a7a49-0b6b-32ca-b2d0-bf0a218dca27",
-            "summary": "Apple's fiscal 2025 EPS could fall 28% to $5.27 without a tariff exemption, Needham said.",
-            "date": "2025-04-04T15:36:59Z",
-            "sentiment-score": -0.9552117474377155
-        },
-        {
-            "id": "e0e62b1b-e08b-35b3-b6ab-d870585b8eb3",
-            "summary": "Tech giant Apple lost more than $300bn in market value",
-            "date": "2025-04-04T15:13:26Z",
-            "sentiment-score": -0.9412695346400142
-        },
-        {
-            "id": "e3004365-c645-41ce-a190-e4dd2914c1e2",
-            "summary": "Microsoft's Copilot is getting a slew of intelligent upgrades, leaving rival Apple further behind in the AI wars.",
-            "date": "2025-04-04T16:31:50Z",
-            "sentiment-score": -0.6320246197283268
-        },
-        {
-            "id": "0d37d9f2-4e8b-42e2-83cf-766b030afdb0",
-            "summary": "Wall Street is wasting no time adjusting their views on certain stocks in the wake of bruising Trump tariffs.",
-            "date": "2025-04-04T13:54:45Z",
-            "sentiment-score": -0.5803381092846394
-        },
-        {
-            "id": "5db74448-0b70-41a9-a4e6-bc86a23ac719",
-            "summary": "Trump's tariff announcement continues to shake markets and is leading to shocking estimates from some analysts on how the price of goods might change for US consumers.",
-            "date": "2025-04-04T12:26:38Z",
-            "sentiment-score": -0.9473430914804339
-        },
-        {
-            "id": "f8121bf8-9cd6-3afe-832e-5b3d23469525",
-            "summary": "Trump\u2019s widespread tariffs will \u201ccause an economic Armageddon\u201d that could \u201ctake the U.S. tech industry back a decade\u201d while \u201cChina steamrolls ahead,\u201d according to Wedbush analyst Dan Ives.",
-            "date": "2025-04-04T15:50:00Z",
-            "sentiment-score": -0.7857756838202477
-        },
-        {
-            "id": "7b7ed4ae-48ff-3158-b95b-a1f8a6ead817",
-            "summary": "Stocks (^GSPC,&nbsp;^IXIC,&nbsp;^DJI)&nbsp; are plummeting as concerns about trade wars grow. The Nasdaq Composite, led by drops in major tech companies like Tesla (TSLA), Nvidia (NVDA), and Apple (AAPL), is nearing bear market territory. Retailers Nike (NKE) and Lululemon (LULU) are seeing their stocks rise after President Trump held discussions with Vietnam about lowering tariffs. Meanwhile, DuPont (DD) is under pressure as China launches an antitrust investigation into the company. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
-            "date": "2025-04-04T17:16:45Z",
-            "sentiment-score": -0.9345843577757478
-        },
-        {
-            "id": "1fea2240-6dcf-35ad-89e7-3df0d2f87732",
-            "summary": "About $2.5 trillion was erased from the S&P 500 following new tariffs from President Donald Trump.",
-            "date": "2025-04-04T17:45:18Z",
-            "sentiment-score": -0.9393559605814517
-        },
-        {
-            "id": "65d0c05e-e18e-3fa1-9510-d2fbfde5bca5",
-            "summary": "Apple stock tumbled for the second consecutive day on Friday amid fallout from the steep tariffs announced by President Donald Trump.",
-            "date": "2025-04-04T17:26:18Z",
-            "sentiment-score": -0.9547296757809818
-        },
-        {
-            "id": "bc560159-a0f4-31ab-9a27-f249dd0b2fad",
-            "summary": "Apple has lost $450 billion in market capitalization since President Trump announced his reciprocal tariffs on Wednesday. Shares are now trading below $200 per share.",
-            "date": "2025-04-04T17:09:15Z",
-            "sentiment-score": -0.9474599207751453
-        },
-        {
-            "id": "7a5de9ae-5588-34b6-8b44-622723d614b9",
-            "summary": "(Updates with additional details from the second paragraph.) Japanese chipmaker Rapidus is in dis",
-            "date": "2025-04-04T17:22:11Z",
-            "sentiment-score": -0.19791312981396914
-        },
-        {
-            "id": "88267714-66b7-4b8d-ada5-e3a1222ba4bb",
-            "summary": "Amazon is caught in the Trump tariff crosshairs.",
-            "date": "2025-04-04T19:30:59Z",
-            "sentiment-score": 0.011437403038144112
-        },
-        {
-            "id": "6b0847b8-d260-3f97-ba07-f396013cc21e",
-            "summary": "All of Big Tech is feeling the heat from President Donald Trump\u2019s latest tariffs and the escalating global trade war.  Every company has its own unique set of risks stemming from the radical shift in U.S. policy, but Apple faces battles on several fronts.  Indeed, the company has been flagging potential problems since early in Trump\u2019s first term.",
-            "date": "2025-04-04T19:39:00Z",
-            "sentiment-score": -0.8828054890036583
-        },
-        {
-            "id": "e279cb59-1ebb-3efc-829c-35038613a4ae",
-            "summary": "Shares of iPhone and iPad maker Apple (NASDAQ:AAPL) fell 5.9% in the afternoon session after China imposed a 34% tariff on all U.S. imports amid escalating trade war tensions. This was partly in response to the \"reciprocal tariffs\" announced by the Trump administration the previous day, with levies on Chinese goods estimated to be as high as 50%.",
-            "date": "2025-04-04T19:08:57Z",
-            "sentiment-score": -0.9570631496608257
-        },
-        {
-            "id": "95c1ed1a-dca0-389b-ab9d-e7acf65a34f2",
-            "summary": "MARKETS MAIN  The Score is a weekly review of the biggest stock moves and the news that drove them. Nike President Trump\u2019s so-called \u201cLiberation Day\u201d tariff announcements wreaked havoc on the stock market.",
-            "date": "2025-04-04T20:48:00Z",
-            "sentiment-score": -0.6462155226618052
-        },
-        {
-            "id": "96eb7fdd-c067-3f02-b8af-2244b0175e6c",
-            "summary": "(Bloomberg) -- The S&P 500 Index declined to the lowest level in 11 months, slashing $5.4 trillion in market value in just two sessions as Federal Reserve Chairman Jerome Powell said the Trump administration\u2019s tariffs \u201ccould have a persistent impact on inflation.\u201dMost Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersWhat Would \u2018Transportation Abundance\u2019",
-            "date": "2025-04-04T20:26:32Z",
-            "sentiment-score": -0.9526765551418066
-        },
-        {
-            "id": "c119611a-03b5-30d9-a3e5-b2f4d1ccac43",
-            "summary": "(Bloomberg) -- Shares in companies that have large manufacturing operations in Vietnam, including Nike Inc. and Lululemon Athletica Inc., soared Friday after President Donald Trump said Vietnam was willing to eliminate tariffs to avoid new US levies. Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersWhat Would \u2018Transportation Abundance\u2019 Look Like?Lon",
-            "date": "2025-04-04T20:11:41Z",
-            "sentiment-score": 0.6758068911731243
-        },
-        {
-            "id": "195d2fc3-1cfb-4497-affc-f396f4b6db6b",
-            "summary": "Former Microsoft CEO Steve Ballmer says companies need to continue to invest through tumultuous markets.",
-            "date": "2025-04-04T22:36:22Z",
-            "sentiment-score": -0.06324300169944763
-        },
-        {
-            "id": "7f8e7404-6140-3ff2-a7a8-ce71777f6929",
-            "summary": "Three stocks which have generated 100-bagger returns for investors over the past 20 years are Booking Holdings (NASDAQ: BKNG), Apple (NASDAQ: AAPL), and Regeneron Pharmaceuticals (NASDAQ: REGN).  Over the past two decades, Booking Holdings has experienced significant growth as demand for its online booking services has skyrocketed.  Booking.com, Kayak.com, and Priceline.com are some of the names travelers first go to when looking to book a trip -- and Booking Holdings owns all those brands.",
-            "date": "2025-04-05T07:23:00Z",
-            "sentiment-score": 0.1494045532308519
-        },
-        {
-            "id": "65376746-7261-3a5f-baaf-eb3ed16b1917",
-            "summary": "We recently published a list of Mag7 and Beyond: Top 10 AI News Updates and Ratings. In this article, we are going to take a look at where Apple Inc. (NASDAQ:AAPL) stands against other top AI news updates and ratings. According to a study presented at a European Central Bank conference, companies that manage to [\u2026]",
-            "date": "2025-04-04T23:12:35Z",
-            "sentiment-score": 0.033172992058098316
-        },
-        {
-            "id": "8fc4e78b-318a-353e-bab6-97d0bd80c639",
-            "summary": "(Bloomberg) -- President Donald Trump has vowed his historic tariff blitz would revive domestic manufacturing, but industry worries about his approach are raising fresh doubts about whether he can deliver on his promise of an economic boom. Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersLocal Governments Vie for Fired Federal WorkersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesWhat Would \u2018Transportation Abundance\u2019 Look Like?Hochul Says T",
-            "date": "2025-04-05T14:00:00Z",
-            "sentiment-score": 0.17831200547516346
-        },
-        {
-            "id": "7c0f6746-0847-3c81-88c6-4e5854b3a63a",
-            "summary": "Warren Buffett has been the CEO of Berkshire Hathaway (NYSE: BRK.A)(NYSE: BRK.B) for decades.  Berkshire Hathaway has a huge public equities portfolio.  Given Buffett's history of avoiding investments at the cutting edge of technology, it might be surprising to learn that he owns $67 billion of this artificial intelligence (AI)-related stock (as of April 1).",
-            "date": "2025-04-05T13:25:00Z",
-            "sentiment-score": 0.009780125692486763
-        },
-        {
-            "id": "df2ee29d-8fa8-32ef-978c-accf355df5d8",
-            "summary": "(Bloomberg) -- Hon Hai Precision Industry Co.\u2019s first-quarter sales rose at their fastest clip since 2022 on resilient data center demand, a bright sign for the artificial intelligence sector amid tariff-induced fears.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersLocal Governments Vie for Fired Federal WorkersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesWhat Would \u2018Transportation Abundance\u2019 Look Like?Hochul Says Trump\u2019s Tariffs Are Alre",
-            "date": "2025-04-05T13:03:02Z",
-            "sentiment-score": 0.7547125546261668
-        },
-        {
-            "id": "4713f72b-5de1-3023-a18f-eeb41d70145a",
-            "summary": "The BBC has accused Apple of putting the licence fee at risk by destroying the value of its content, escalating tensions between the broadcaster and America\u2019s biggest tech giant.",
-            "date": "2025-04-05T12:00:00Z",
-            "sentiment-score": -0.9216471835970879
-        },
-        {
-            "id": "e067307a-6a85-3c57-8ffc-b0b2412cf719",
-            "summary": "The Trump administration's tariffs will significantly hurt Silicon Valley tech companies like Apple, which has manufacturing operations in China, Vietnam and India.",
-            "date": "2025-04-05T10:00:24Z",
-            "sentiment-score": -0.9319751560688019
-        },
-        {
-            "id": "7c6c5531-407a-415d-ab19-cdf7d1a725bd",
-            "summary": "Key moments from the last seven days, plus a glimpse at the week ahead",
-            "date": "2025-04-05T09:59:24Z",
-            "sentiment-score": 0.036941577680408955
-        },
-        {
-            "id": "d34fbd0b-152d-3935-8552-d9748466292e",
-            "summary": "Analysts weigh in on the impact newly imposed reciprocal tariffs by President Donald Trump on other countries and the effect it could have on Apple Inc (NASDAQ:AAPL) and its products, such as the iPhone. The Apple Analysts: Rosenblatt analyst Barton ...",
-            "date": "2025-04-05T09:45:14Z",
-            "sentiment-score": -0.03299763798713684
-        },
-        {
-            "id": "7427407c-c8ba-3192-9a4e-a35706905d83",
-            "summary": "This is what Apple pays for components inside its bestselling phone, and how Trump\u2019s China tariffs could raise the bill.",
-            "date": "2025-04-05T09:30:00Z",
-            "sentiment-score": 0.08324914146214724
-        },
         {
             "id": "f03a4ecc-72b0-3cf5-919f-ecf3ef8ff1c6",
             "summary": "Investing.com -- Here are the biggest analyst moves in the area of artificial intelligence (AI) for this week.",
@@ -444,24 +42,6 @@
             "summary": "Warren Buffett has built a fortune for Berkshire Hathaway shareholders.  Buffett's success at buying stocks of great businesses and holding them for the long term has inspired many investors to follow his style.  Berkshire held a stock portfolio worth $271 billion at the end of 2024.",
             "date": "2025-04-05T22:03:00Z",
             "sentiment-score": 0.06053810706362128
-        },
-        {
-            "id": "b5b3c666-b82e-3574-b8da-3ba50d14b2bc",
-            "summary": "The tech giants that powered the stock market for the past two years were among the hardest hit this week in this week's big selloff.  Apple shares shed 16% of their value over two days\u2014Thursday and Friday\u2014 as the company draws the bulk of its business from hardware manufactured in countries like China that were hit with steep tariffs.  The corporate software and cloud computing services that make up the bulk of its business are less exposed to tariffs in general.",
-            "date": "2025-04-05T18:30:53Z",
-            "sentiment-score": -0.9539671633392572
-        },
-        {
-            "id": "b9fd0c7e-a263-31f4-af9d-a9d9d3c870d6",
-            "summary": "His decision last year to shed most of Berkshire Hathaway's Apple stock now looks especially well timed.",
-            "date": "2025-04-05T18:15:21Z",
-            "sentiment-score": -0.02320900373160839
-        },
-        {
-            "id": "88c52c19-d078-380a-b910-13fc9ee59d78",
-            "summary": "Apple (NasdaqGS:AAPL) experienced a 14% price decline over the past week, coinciding with broader market downturns amid escalating trade tensions. President Trump's recent tariff announcements triggered a severe market reaction, with the Dow Jones and S&P 500 suffering substantial losses, while the Nasdaq entered bear market territory. Apple's significant presence in China likely exposed it to heightened vulnerabilities due to imposed tariffs. Despite developments in digital health...",
-            "date": "2025-04-05T17:28:14Z",
-            "sentiment-score": -0.9003804377280176
         },
         {
             "id": "592223d8-3e5a-46a1-bad8-90132d8fb72e",
@@ -1122,6 +702,120 @@
             "summary": "Apple shares gained ground Wednesday after losing more than a fifth of their value over the previous four sessions amid concerns about the impact of a trade war between the U.S. and China. Monitor these major chart levels.",
             "date": "2025-04-09T16:12:10Z",
             "sentiment-score": -0.7325313091278076
+        },
+        {
+            "id": "103a9f1f-f5ea-4546-aa24-0c33582cfd76",
+            "summary": "Trump's trade war leaves consumers wondering whether they should buy now or later.",
+            "date": "2025-04-12T13:00:52Z",
+            "sentiment-score": -0.4429820701479912
+        },
+        {
+            "id": "aa382e73-42e4-3552-ab3e-b38e8088ad2b",
+            "summary": "ChatGPT, OpenAI\u2019s text-generating AI chatbot, has taken the world by storm since its launch in November 2022. What started as a tool to supercharge productivity through writing essays and code with short text prompts has evolved into a behemoth with 300 million weekly active users. 2024 was a big year for OpenAI, from its partnership with Apple for its generative AI offering, Apple Intelligence, the release of GPT-4o with voice capabilities, and the highly-anticipated launch of its text-to-video",
+            "date": "2025-04-11T14:49:07Z",
+            "sentiment-score": 0.14081464894115925
+        },
+        {
+            "id": "076d2b74-a349-3160-b4a8-5e63b959d2a4",
+            "summary": "Brad Smith and Madison Mills take a closer look at some of Yahoo Finance's trending tickers. Tesla (TSLA) has stopped taking orders in China for two car models that are imported from the US amid the ongoing US\u2013China trade war. Apple (AAPL) is in focus after Wedbush analysts said the iPhone maker is the tech company most negatively impacted by President Trump's tariffs. JPMorgan Chase (JPM) CEO Jamie Dimon says the US economy faces \"considerable turbulence.\" To watch more expert insights and analysis on the latest market action, check out more Morning Brief here.",
+            "date": "2025-04-11T14:48:26Z",
+            "sentiment-score": -0.5692688636481762
+        },
+        {
+            "id": "a04fd437-c0ae-3a9b-877e-17f7918c6c5c",
+            "summary": "(Bloomberg) -- President Donald Trump\u2019s administration exempted smartphones, computers and other electronics from its so-called reciprocal tariffs, potentially cushioning consumers from sticker shock while benefiting electronics giants including Apple Inc. and Samsung Electronics Co.Most Read from BloombergThe Secret Formula for Faster TrainsIn Chicago, a Former Steel Mill Looks to Make a Quantum LeapMidtown Office Building Evacuated on Concerns of Wall CollapseNYC Tourist Helicopter Crashes in",
+            "date": "2025-04-12T12:47:07Z",
+            "sentiment-score": -0.033847324550151825
+        },
+        {
+            "id": "8defc86c-c4f4-3a5c-bda3-24c3756eb503",
+            "summary": "We recently published a list of 12 Best Tech Stocks to Buy For Long-Term Investment. In this article, we are going to take a look at where Apple Inc. (NASDAQ:AAPL) stands against other tech stocks to buy for long-term investment. On April 1, Chris Verrone, chief market strategist at Strategas Research Partners, appeared on CNBC\u2019s [\u2026]",
+            "date": "2025-04-12T12:33:44Z",
+            "sentiment-score": 0.02789805643260479
+        },
+        {
+            "id": "869d37c7-6b25-3afb-8ee4-f8358ee7e527",
+            "summary": "VeriSign and Palo Alto Networks face fewer headwinds than the iPhone maker.",
+            "date": "2025-04-12T11:00:00Z",
+            "sentiment-score": -0.7004188895225525
+        },
+        {
+            "id": "a7923819-1f6d-38fe-b838-8f7ea175c397",
+            "summary": "Berkshire Hathaway can be a great source of inspiration inspiration for individual investors.  Warren Buffett, one of the most successful investors in American history, manages the vast majority of the company's $259 billion portfolio.  Among the 40 analysts that follow Apple, the median target price is $250 per share.",
+            "date": "2025-04-12T08:01:00Z",
+            "sentiment-score": 0.010874642990529537
+        },
+        {
+            "id": "1ea0391a-2d97-3539-945b-710b7f485e42",
+            "summary": "The iPhone-maker, a pioneer of globalization that helped build China\u2019s manufacturing economy, now faces a steep profit hit from tariffs.",
+            "date": "2025-04-12T02:00:00Z",
+            "sentiment-score": -0.9455214287154377
+        },
+        {
+            "id": "06769a5e-dff7-3a42-88a5-ff56851cc27a",
+            "summary": "RESEARCH REPORTS These reports, excerpted and edited by Barron\u2019s, were issued recently by investment and research firms. The reports are a sampling of analysts\u2019 thinking; they should not be considered the views or recommendations of Barron\u2019s.",
+            "date": "2025-04-11T23:29:00Z",
+            "sentiment-score": -0.02252632286399603
+        },
+        {
+            "id": "95a577b6-4384-32cc-8dcc-a5cce675bb9d",
+            "summary": "Apple shares surged Friday, leading other Magnificent Seven members higher amid a broader market rebound to cap off a wild week fueled by tariff-driven volatility.",
+            "date": "2025-04-11T22:31:32Z",
+            "sentiment-score": 0.8964205328375101
+        },
+        {
+            "id": "f82646c1-4ee6-4a32-89cc-bda23572ce50",
+            "summary": "Meta is preparing for the start of a courtroom battle Monday with the US government in an antitrust case that could force Mark Zuckerberg to break up his $1.3 trillion empire and sell one of its crown jewels: Instagram.",
+            "date": "2025-04-12T14:00:19Z",
+            "sentiment-score": -0.6371034234762192
+        },
+        {
+            "id": "60a5893f-51d8-35f4-b2a3-3735ba08c959",
+            "summary": "Apple (AAPL) is in focus as a tech company heavily impacted by President Trump's tariffs on imports from China. CFRA Research senior equity analyst Angelo Zino joins Market Domination Overtime to discuss the iPhone maker's position. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime here.",
+            "date": "2025-04-11T22:17:41Z",
+            "sentiment-score": 0.025583092123270035
+        },
+        {
+            "id": "26f06cfa-a023-3926-a42c-da361861c9bc",
+            "summary": "President Trump\u2019s tariff exemptions on some electronics are the latest twist in U.S. trade policy and could benefit companies such as Apple, Microsoft, Dell, Samsung and others that manufacture some products abroad.",
+            "date": "2025-04-12T19:20:00Z",
+            "sentiment-score": 0.14407619833946228
+        },
+        {
+            "id": "1d64014e-eee6-34b0-89b0-d348a1d7c6cc",
+            "summary": "Electronics imported to the United States will be exempt from President Donald Trump\u2019s sweeping tariffs, according to a US Customs and Border Protection notice posted on Friday.",
+            "date": "2025-04-12T18:19:24Z",
+            "sentiment-score": -0.025341086089611053
+        },
+        {
+            "id": "796b9892-3216-3680-9ef2-3b31b6a89f43",
+            "summary": "Smartphones, PCs, and servers won\u2019t face the highest tariffs rates, according to a document from the U.S. Customs and Border Protection Agency.",
+            "date": "2025-04-12T17:42:00Z",
+            "sentiment-score": 0.05452973581850529
+        },
+        {
+            "id": "8adc8047-378f-33cc-b35f-612e735b4096",
+            "summary": "The ever-growing U.S. tariffs on imports from China won\u2019t bite Big Tech so badly after all, after the Trump administration late Friday laid out significant exemptions from its wider trade war that include smartphones, laptop computers, chips, and more.",
+            "date": "2025-04-12T17:39:00Z",
+            "sentiment-score": 0.5235641188919544
+        },
+        {
+            "id": "7a900465-533e-3755-b1ff-e3548e8d99fd",
+            "summary": "We recently published a list of Jim Cramer Discussed These 12 Stocks. In this article, we are going to take a look at where Apple Inc. (NASDAQ:AAPL) stands against other stocks that Jim Cramer discussed. On Thursday, Jim Cramer, host of Mad Money, described the 145% duty on China as so extreme that it essentially [\u2026]",
+            "date": "2025-04-12T17:19:54Z",
+            "sentiment-score": -0.32899995893239975
+        },
+        {
+            "id": "3b1d7931-83d0-3d7c-83e7-5b6035cb739c",
+            "summary": "Investing.com -- Late Friday, the United States took a step that could be favorable for tech companies like Apple (NASDAQ:AAPL) by exempting certain electronics from the reciprocal tariffs previously imposed by President Donald Trump. The U.S. Customs and Border Protection (CBP) released a list late on Friday, detailing around 20 products that would no longer be subject to these tariffs. Items on the list include smartphones, computers, semiconductor-based transducers, solid-state storage device",
+            "date": "2025-04-12T15:49:02Z",
+            "sentiment-score": -7.808208465576172e-05
+        },
+        {
+            "id": "1e33247f-71ef-30f0-bb51-0ff1815bf154",
+            "summary": "The Trump administration says it will exclude electronics like smartphones and laptops from 'reciprocal' tariffs, a move that could help keep the prices down.",
+            "date": "2025-04-12T15:39:33Z",
+            "sentiment-score": 0.032280974090099335
         }
     ]
 }

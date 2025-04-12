@@ -1,60 +1,18 @@
 {
     "ticker": "V",
-    "total_news": 16,
-    "average_sentiment": 0.17348973502521403,
-    "weighted_average_sentiment": 0.1068764326345671,
+    "total_news": 15,
+    "average_sentiment": -0.042313063082595664,
+    "weighted_average_sentiment": -0.06525258060809179,
     "average_daily_sentiments": [
+        -0.001707984134554863,
+        -0.2121284220678111,
+        -0.19574803672730923,
         0.16669239522889256,
         -0.1135465355279545,
         0.446258216475447,
-        -0.9366264557465911,
-        0,
-        0.2940641002729535,
-        0.4553109407424927
+        -0.9366264557465911
     ],
     "news": [
-        {
-            "id": "4858335e-d9f9-368d-9fa5-04e970bbbdac",
-            "summary": "Visa (NYSE:V) recently unveiled new payment solutions aimed at simplifying and securing transactions, which appear aligned with its stock's 10% increase last quarter. The company introduced a reimagined Authorize.net, Unified Checkout Experience, and ARIC Risk Hub, enhancing payment acceptance and fraud protection. These launches potentially positioned Visa as an innovator in a complex market, counteracting broader market setbacks like the tariff announcements impacting many sectors. Unlike...",
-            "date": "2025-04-03T17:35:43Z",
-            "sentiment-score": 0.8874551989138126
-        },
-        {
-            "id": "93a9254e-a12c-3d10-9e69-47b6c1129fc5",
-            "summary": "Warren Buffett-led Berkshire Hathaway is reaching new all-time highs despite a year-to-date sell-off in major indexes like the S&P 500 and Nasdaq Composite.  The simplest way to invest in Buffett's top ideas is to buy Berkshire stock directly.  Another option is to scan Berkshire's public equity holdings for investment ideas.",
-            "date": "2025-04-03T11:30:00Z",
-            "sentiment-score": 0.023166682571172714
-        },
-        {
-            "id": "ec8dec89-a67d-3ecf-b109-d628e94f6846",
-            "summary": "Dividend-paying companies tend to be more resilient than their non-paying peers, and the regular payouts can smooth out losses, especially during a bear market, something many investors fear may be on the horizon.  It's no surprise, then, that buying shares in excellent income companies is part of Warren Buffett's strategy -- he's not considered the greatest investor of all time for no reason.  Let's consider two that are worth holding on to forever: Apple (NASDAQ: AAPL) and Visa (NYSE: V).",
-            "date": "2025-04-04T07:55:00Z",
-            "sentiment-score": 0.04048854298889637
-        },
-        {
-            "id": "321277ce-8e3e-3507-ae0f-f36794c43869",
-            "summary": "We recently published a list of Jim Cramer\u2019s Lightning Round: 8 Stocks in Focus. In this article, we are going to take a look at where Visa Inc. (NYSE:V) stands against other stocks that Jim Cramer discusses. Jim Cramer, host of Mad Money, discussed on Monday how investor sentiment surrounding tech stocks has shifted over [\u2026]",
-            "date": "2025-04-04T14:44:42Z",
-            "sentiment-score": 0.002186063677072525
-        },
-        {
-            "id": "2f7ea196-9074-3c30-ade4-1110956edc95",
-            "summary": "Finding strong, market-beating stocks with a positive earnings outlook becomes easier with the Focus List, a top feature of the Zacks Premium portfolio service.",
-            "date": "2025-04-04T13:30:05Z",
-            "sentiment-score": 0.06555908359587193
-        },
-        {
-            "id": "192266f7-f329-3b8a-9a88-6ca2435c2bde",
-            "summary": "V launches a new set of services to empower businesses with innovative financial solutions that focus on boosting payment security and providing AI-driven Insights.",
-            "date": "2025-04-04T16:01:00Z",
-            "sentiment-score": 0.4893860053271055
-        },
-        {
-            "id": "00effaa9-e76b-358a-b3b3-5b5cc66c5b99",
-            "summary": "These new services expand Visa's portfolio, which already includes more than 200 value-added services.",
-            "date": "2025-04-04T18:18:22Z",
-            "sentiment-score": 0.8727008057758212
-        },
         {
             "id": "ed6934f6-973e-3800-85a7-cf933913b388",
             "summary": "We recently published a list of Starter Stock Portfolio 12 Safe Stocks to Buy. In this article, we are going to take a look at where Visa Inc. (NYSE:V) stands against other best beginner stocks. The US stock market has experienced a turbulent first quarter of 2025, marked by increased volatility and negative returns across [\u2026]",
@@ -108,6 +66,42 @@
             "summary": "Zacks.com users have recently been watching Visa (V) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
             "date": "2025-04-09T13:00:14Z",
             "sentiment-score": 0.019531802274286747
+        },
+        {
+            "id": "a0a9dedb-59dc-30ec-aa1e-d4a38734f3f5",
+            "summary": "We recently published a list of 12 Best Tech Stocks to Buy For Long-Term Investment. In this article, we are going to take a look at where Visa Inc. (NYSE:V) stands against other tech stocks to buy for long-term investment. On April 1, Chris Verrone, chief market strategist at Strategas Research Partners, appeared on CNBC\u2019s [\u2026]",
+            "date": "2025-04-11T20:49:56Z",
+            "sentiment-score": 0.028230594005435705
+        },
+        {
+            "id": "06eafc1e-a01e-3e8d-888b-d8cb4b7858fa",
+            "summary": "Beyond macroeconomic and financial concerns, MA also faces rising regulatory scrutiny and legal challenges.",
+            "date": "2025-04-11T15:18:00Z",
+            "sentiment-score": -0.6799648534506559
+        },
+        {
+            "id": "62cb8d1e-6102-3258-b99a-560eaa99f9e3",
+            "summary": "The average brokerage recommendation (ABR) for Visa (V) is equivalent to a Buy. The overly optimistic recommendations of Wall Street analysts make the effectiveness of this highly sought-after metric questionable. So, is it worth buying the stock?",
+            "date": "2025-04-11T13:30:12Z",
+            "sentiment-score": 0.015348993241786957
+        },
+        {
+            "id": "d28ff3f4-7880-3586-ab2d-5bd82ee9e609",
+            "summary": "Both V and PYPL beat earnings estimates in each of the past four quarters, but which digital payments giant offers stronger growth and global dominance right now?",
+            "date": "2025-04-10T15:43:00Z",
+            "sentiment-score": 0.3282286301255226
+        },
+        {
+            "id": "d697ed35-76d5-33d6-ab44-b20e900ddf29",
+            "summary": "Three of the Dow's 30 components make for sensational buys amid a historic sell-off.",
+            "date": "2025-04-10T07:51:00Z",
+            "sentiment-score": -0.7197247035801411
+        },
+        {
+            "id": "3eaf4d59-3025-3246-8cbf-b6cebec2185b",
+            "summary": "The stock market is on a volatility roller coaster.  What we do control is taking advantage of any dips in the stock market and buying shares in companies on our watchlists that have gone on sale.  If this stock market downturn continues, here are two stocks to buy for your portfolio and hold for the long haul.",
+            "date": "2025-04-12T13:45:00Z",
+            "sentiment-score": -0.001707984134554863
         }
     ]
 }

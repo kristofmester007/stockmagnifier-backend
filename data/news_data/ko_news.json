@@ -1,96 +1,18 @@
 {
     "ticker": "KO",
-    "total_news": 31,
-    "average_sentiment": 0.1257445212273348,
-    "weighted_average_sentiment": 0.11019880027047495,
+    "total_news": 26,
+    "average_sentiment": 0.08926493672725673,
+    "weighted_average_sentiment": 0.03726236345060171,
     "average_daily_sentiments": [
-        0.0011501400731503963,
+        -0.001062050461769104,
+        -0.24063070374540985,
+        0.14360213046893477,
+        0.23133598985150455,
         0.049274518354130645,
         0.356074760047098,
-        0.10686077538412064,
-        -0.12332520224153995,
-        0.4766623489558697,
-        0.31162256572861224
+        0.10686077538412064
     ],
     "news": [
-        {
-            "id": "5ffa36cd-d8f5-3887-9d75-135269090568",
-            "summary": "Everyone knows about Coca-Cola (NYSE: KO).  With a portfolio of more than 200 different beverage brands and a presence virtually all over the globe, it's an American success story that's been around for more than a century.  The company certainly possesses favorable qualities from an investment perspective.",
-            "date": "2025-04-03T08:07:00Z",
-            "sentiment-score": 0.645911106839776
-        },
-        {
-            "id": "b9b14ae9-a270-3498-97a4-3f960d7d6685",
-            "summary": "The Trump Administration said it would impose a 25% tariff on imported beer cans and empty aluminum cans, a move that could affect U.S. production of soft drinks, beer, canned wine and cocktails.  A Commerce Department notice said the products would be added, starting Friday, to a previously announced aluminum tariff.  Shares of Constellation Brands, which imports Modelo and Corona beer from Mexico, dropped 1% on Wednesday.",
-            "date": "2025-04-02T21:59:52Z",
-            "sentiment-score": -0.9579851287417114
-        },
-        {
-            "id": "0c761968-cc61-35ca-b1c3-18fa0aef6943",
-            "summary": "Coca-Cola (NYSE:KO) saw recent investor activism, led by the National Legal and Policy Center, urging a vote for a Diversity, Equity, and Inclusion proposal related to executive pay. This movement, along with a 5.2% dividend increase and confirmation of earnings guidance, might have supported positive investor sentiment contributing to Coca-Cola\u2019s 15% price rise last quarter. While broader market declines followed new tariffs, resulting in a sell-off for many stocks, defensive consumer...",
-            "date": "2025-04-03T17:19:04Z",
-            "sentiment-score": 0.592919060960412
-        },
-        {
-            "id": "92e04d4b-57da-37f8-a482-d639c18f5e83",
-            "summary": "When you buy and hold a stock for the long term, you definitely want it to provide a positive return. But more than...",
-            "date": "2025-04-03T12:00:21Z",
-            "sentiment-score": 0.19313591392710805
-        },
-        {
-            "id": "7130b3b6-a6fa-3281-a467-4033c0a529d1",
-            "summary": "Quarterly earnings results are a good time to check in on a company\u2019s progress, especially compared to its peers in the same sector. Today we are looking at Boston Beer (NYSE:SAM) and the best and worst performers in the beverages, alcohol, and tobacco industry.",
-            "date": "2025-04-03T09:11:28Z",
-            "sentiment-score": -0.18547581881284714
-        },
-        {
-            "id": "ef8709be-5d4b-3882-8d67-0a810266199c",
-            "summary": "We recently published a list of 10 Stocks Everyone is Talking About After Trump\u2019s New Tariffs. In this article, we are going to take a look at where Coca-Cola Co (NYSE:KO) stands against other stocks everyone is talking about after Trump\u2019s new tariffs. Countries are beginning to react to President Donald Trump\u2019s new reciprocal tariffs [\u2026]",
-            "date": "2025-04-04T13:35:52Z",
-            "sentiment-score": 0.05420374125242233
-        },
-        {
-            "id": "f40df14d-3a32-307b-a262-0e5f9f62347a",
-            "summary": "Coca-Cola (NYSE: KO) stock gained 15% in the first quarter of the year, according to data provided by S&P Global Market Intelligence.  As the market absorbed the possibility of a new tariff program, investors moved toward safe stocks like Coca-Cola.  While the market tumbled yesterday with the full news of the new program, Coca-Cola stock zoomed even higher.",
-            "date": "2025-04-04T11:21:51Z",
-            "sentiment-score": 0.9091579662635922
-        },
-        {
-            "id": "c1798484-3e6c-32b8-8450-ca14a1d9bbc1",
-            "summary": "It's been a spectacular run for Warren Buffett's company, Berkshire Hathaway.  Investors have piled into Berkshire as a flight to safety due to its many diverse businesses, huge cash stockpile, and experienced management team, which knows how to navigate choppy markets.  Berkshire's decision to stay cautious last year has paid dividends this year and reinforces the company's long-term investing view of buying stocks that are built for an entire economic cycle.",
-            "date": "2025-04-04T09:45:00Z",
-            "sentiment-score": 0.8668442834168673
-        },
-        {
-            "id": "6ea6a80e-9970-38b4-8988-31defca36a9a",
-            "summary": "After KO hits a 52-week high, we assess whether the current level warrants an opportunity to accumulate shares, hold positions or book profits.",
-            "date": "2025-04-04T13:43:00Z",
-            "sentiment-score": 0.748149392195046
-        },
-        {
-            "id": "b2c88bfd-577a-3c9f-894c-8d87b517bcbf",
-            "summary": "Quarterly earnings results are a good time to check in on a company\u2019s progress, especially compared to its peers in the same sector. Today we are looking at PepsiCo (NASDAQ:PEP) and the best and worst performers in the beverages, alcohol, and tobacco industry.",
-            "date": "2025-04-04T09:11:00Z",
-            "sentiment-score": -0.1950436383485794
-        },
-        {
-            "id": "2532f39c-f549-3960-a9d1-278c04d21be6",
-            "summary": "Constellation Brands (NYSE: STZ) commands a dominant position in the U.S. beer market, while Coca-Cola (NYSE: KO) is recognized for its iconic global soft drink empire.  At the time of this writing, Coca-Cola stock has returned 15% year to date, while shares of Constellation Brands are down 16% over the same period.  Should investors stick with the pop in Coca-Cola for further gains, or can the stars align for Constellation Brands to turn things around?",
-            "date": "2025-04-05T08:25:00Z",
-            "sentiment-score": 0.2863166816532612
-        },
-        {
-            "id": "99103ab3-1ddf-3f2e-9f7c-7aee848736ba",
-            "summary": "Warren Buffett is known for saying his favorite holding period is \"forever.\"  In fact, it's been a net seller of stocks for the past nine quarters, a rarity for the holding company.  Throughout this time, there are two stocks (among others) he hasn't touched that he has said several times he would never sell: Coca-Cola (NYSE: KO) and American Express (NYSE: AXP).",
-            "date": "2025-04-05T07:14:00Z",
-            "sentiment-score": -0.00329015776515007
-        },
-        {
-            "id": "63133881-1530-368f-a858-bcfaa8c16a7c",
-            "summary": "Investors weren't exactly wrong to be excited about the companies trying to make meal kits and plant-based meat cool. But they sure haven't made any money from those bets. So...what went wrong?",
-            "date": "2025-04-05T01:26:00Z",
-            "sentiment-score": -0.1323036253452301
-        },
         {
             "id": "e997534b-95af-3877-ae66-29c812aac332",
             "summary": "The stock of Coca-Cola (NYSE: KO)\u00a0is trouncing the market this year, up 16% while the S&P 500 is down 4%.  Now is when you get to see what investors prize in this kind of stock: stability and a dividend, which are hard to beat.  Coca-Cola is one of investing legend Warren Buffett's favorite stocks.",
@@ -108,18 +30,6 @@
             "summary": "Dividend King Coca-Cola (NYSE: KO) is a consumer staples giant that fits that bill.  Coca-Cola owns one of the most recognized brands in the world, with lots going for it.  There's a reason why Warren Buffett has owned Coca-Cola within Berkshire Hathaway for decades.",
             "date": "2025-04-06T08:05:00Z",
             "sentiment-score": 0.07874560775235295
-        },
-        {
-            "id": "96ff940f-ad4b-310a-8e5f-745b52c10567",
-            "summary": "Sharpton's letter sets forth his belief that the company has betrayed guiding principles because of political pressure",
-            "date": "2025-04-05T21:30:00Z",
-            "sentiment-score": -0.7730686105787754
-        },
-        {
-            "id": "d9ffe712-368c-3862-97e7-716afe2dcbe6",
-            "summary": "We recently published a list of Jim Cramer Raises Big Question About Tariffs & Discusses These 11 Stocks. In this article, we are going to take a look at where Coca-Cola Company (NYSE:KO) stands against other stocks that Jim Cramer discusses. In a recent appearance on CNBC\u2019s Squawk on the Street, Jim Cramer asked the [\u2026]",
-            "date": "2025-04-05T17:48:54Z",
-            "sentiment-score": 0.005719700828194618
         },
         {
             "id": "c4d565ac-fc75-37d0-9c84-b00e978c4098",
@@ -198,6 +108,66 @@
             "summary": "We recently published a list of 10 Defensive Stocks Billionaire Ken Fisher is Betting On. In this article, we are going to take a look at where The Coca-Cola Company (NYSE:KO) stands against other defensive stocks billionaire Ken Fisher is betting on. Ken Fisher, an American billionaire investor, author, and financial analyst, founded and runs Fisher Asset Management. [\u2026]",
             "date": "2025-04-09T16:21:51Z",
             "sentiment-score": 0.005490768700838089
+        },
+        {
+            "id": "97389525-bc2c-4183-9320-98dd1630dacf",
+            "summary": "Constellation Brands CEO Bill Newlands warns of the impact to his company's business from the Trump administration's policies.",
+            "date": "2025-04-11T16:43:33Z",
+            "sentiment-score": -0.9115050071850419
+        },
+        {
+            "id": "6421f649-051d-3a2e-b414-8e38bffc31be",
+            "summary": "Other investors are likely to see the market declines as an opportunity to get aggressive and buy, perhaps picking up an ultra-high-yield stock like AGNC Investment (NASDAQ: AGNC).  It's better to cut the middle and go with a different type of investment.  AGNC Investment's gargantuan yield could be a siren call to dividend investors who think they are picking up a stock that will provide them with reliable income for the rest of their lives.",
+            "date": "2025-04-12T07:05:00Z",
+            "sentiment-score": -0.001062050461769104
+        },
+        {
+            "id": "8daa890b-d5fc-3a5f-b9a1-0cc07836ab81",
+            "summary": "In times of uncertainty, investors turn to areas of relative certainty, and one such area is Warren Buffett's mastery of investing when others are fearful.  Consequently, it makes sense to look into what Buffett is holding in his Berkshire Hathaway (NYSE: BRK.A) (NYSE: BRK.B) investment portfolio.  If you want to gain market exposure at such a challenging time, why not buy into Berkshire Hathaway stock and let Buffett carry the strain while you wait for more certainty on the fallout from the tariff escalations?",
+            "date": "2025-04-11T14:15:00Z",
+            "sentiment-score": 0.011278172954916954
+        },
+        {
+            "id": "0f298edd-876b-33fb-a658-b12603e508e0",
+            "summary": "Here is how Coca-Cola European (CCEP) and Pilgrim's Pride (PPC) have performed compared to their sector so far this year.",
+            "date": "2025-04-11T13:40:14Z",
+            "sentiment-score": -0.0223388671875
+        },
+        {
+            "id": "a34f98a3-d5f6-4d3b-a0a9-9a3d7940c1d1",
+            "summary": "A bearish call that is staying in place.",
+            "date": "2025-04-11T12:40:02Z",
+            "sentiment-score": -0.039957113564014435
+        },
+        {
+            "id": "47eb5361-7784-3c55-8f54-f2380bcd01b2",
+            "summary": "In the closing of the recent trading day, Coca-Cola (KO) stood at $70.76, denoting a +1.16% change from the preceding trading day.",
+            "date": "2025-04-10T21:45:13Z",
+            "sentiment-score": 0.7225788785144687
+        },
+        {
+            "id": "2c4ac22e-6f93-30cd-9996-fe0060e0545a",
+            "summary": "The European Commission had conducted inspections at the premises of companies active in the non-alcoholic drinks sector and had also quizzed an unidentified personal care company in March over concerns of possible curbs on the trade of goods across Europe and carving up markets.  EU officials have sent over a questionnaire to P&G and are collecting evidence from competitors and customers, the Bloomberg report said.  No formal allegations have been made against Procter & Gamble.",
+            "date": "2025-04-10T12:18:47Z",
+            "sentiment-score": -0.4353746175765991
+        },
+        {
+            "id": "22573489-852f-3ff8-bdbf-3861bd645c44",
+            "summary": "Coca-Cola (NYSE: KO) is one of the best-known consumer staples companies on the planet and has an incredible dividend track record.  At a time of elevated market volatility, owning a stock like Coca-Cola can help investors sleep well at night.  Coca-Cola, with its namesake soda and a host of other beverage products, has a global reach and loyal customers.",
+            "date": "2025-04-09T22:59:00Z",
+            "sentiment-score": 0.549091512337327
+        },
+        {
+            "id": "19e6259b-d8c5-35ce-a66d-cd1f8ea446c3",
+            "summary": "Warren Buffett certainly knows how to pick 'em.  While the investing community reels from the impact of President Trump's tariff program, many Buffett stocks are beating the market.  Consider how Coca-Cola (NYSE: KO) stock and Kroger stock (NYSE: KR) are faring as compared with the S&P 500 this year.",
+            "date": "2025-04-09T22:32:00Z",
+            "sentiment-score": 0.4172915630042553
+        },
+        {
+            "id": "65d8d4c5-b7a5-35e7-a692-19fcd2d8888f",
+            "summary": "Coca-Cola (NYSE: KO) is a very well-run company, highlighted by its status as a Dividend King.  Yes, it is a reliable and safe dividend stock, but it probably isn't worth chasing an overvalued stock if you are trying to find a safe haven during the current market storm.  You'll be far better off looking at dividend stocks that are more attractively priced like Realty Income (NYSE: O), Hershey (NYSE: HSY), and Coca-Cola competitor PepsiCo (NASDAQ: PEP).",
+            "date": "2025-04-09T22:05:00Z",
+            "sentiment-score": 0.18799659376963973
         }
     ]
 }

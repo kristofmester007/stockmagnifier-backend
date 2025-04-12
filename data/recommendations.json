@@ -1,46 +1,46 @@
 {
     "top_5_best": [
         {
-            "ticker": "IBM",
-            "weighted_average": 0.27323367854871794
-        },
-        {
             "ticker": "QCOM",
-            "weighted_average": 0.25201667579190445
+            "weighted_average": 0.3876963671301982
         },
         {
-            "ticker": "PM",
-            "weighted_average": 0.24970032150546703
+            "ticker": "ABT",
+            "weighted_average": 0.2636576048071112
+        },
+        {
+            "ticker": "COST",
+            "weighted_average": 0.2556022456734015
+        },
+        {
+            "ticker": "ISRG",
+            "weighted_average": 0.21594397484191827
         },
         {
             "ticker": "NOW",
-            "weighted_average": 0.23377102596216995
-        },
-        {
-            "ticker": "UNH",
-            "weighted_average": 0.22352894274572038
+            "weighted_average": 0.20408315039056008
         }
     ],
     "top_5_worst": [
         {
-            "ticker": "AAPL",
-            "weighted_average": -0.2947708344771661
+            "ticker": "ORCL",
+            "weighted_average": -0.32311081428018107
         },
         {
-            "ticker": "MRK",
-            "weighted_average": -0.41625424918598264
+            "ticker": "ACN",
+            "weighted_average": -0.3478029519268362
         },
         {
             "ticker": "GE",
-            "weighted_average": -0.41786421954091035
+            "weighted_average": -0.35097597429970484
         },
         {
             "ticker": "TSLA",
-            "weighted_average": -0.45251960251393575
+            "weighted_average": -0.3612001294593044
         },
         {
-            "ticker": "CAT",
-            "weighted_average": -0.6554422333406714
+            "ticker": "MRK",
+            "weighted_average": -0.4439786948955082
         }
     ]
 }

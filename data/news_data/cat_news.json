@@ -1,72 +1,18 @@
 {
     "ticker": "CAT",
-    "total_news": 16,
-    "average_sentiment": -0.6264178267447278,
-    "weighted_average_sentiment": -0.6554422333406714,
+    "total_news": 13,
+    "average_sentiment": -0.3099308370326001,
+    "weighted_average_sentiment": -0.18039434364079754,
     "average_daily_sentiments": [
-        -0.8369708219543099,
+        0,
+        0.6264186929911375,
+        -0.22761939594056457,
+        -0.010811300948262215,
         -0.4465241767466068,
         -0.7075927588157356,
-        0,
-        -0.9259203393012285,
-        -0.6335215950384736,
-        -0.5271619785577059
+        0
     ],
     "news": [
-        {
-            "id": "6f059dd2-86a3-3504-bc19-ed5e285ba432",
-            "summary": "Manufacturers of farm and construction equipment warned that President Trump\u2019s tariff barrage will make it harder to sell their products overseas.  \u201cWe are concerned that reciprocal tariffs on our trading partners will hurt our industry and our customers,\u201d said Kip Eideberg, vice president of government and industry relations for the Association of Equipment Manufacturers trade group.  Multinational manufacturers like Caterpillar and Deere operate factories in foreign markets, but also export some machinery from the U.S. that could be caught up in retaliatory tariffs from other countries now exposed to higher U.S. tariffs.",
-            "date": "2025-04-03T00:24:39Z",
-            "sentiment-score": -0.8649539407342672
-        },
-        {
-            "id": "3f647780-cfff-383f-a28f-4f58cc01710d",
-            "summary": "Wall Street's initial reaction to the new tariff policies announced Wednesday night is not positive, and manufacturers of heavy equipment are reacting worse than the overall market.  Shares of Caterpillar (NYSE: CAT) and Toro (NYSE: TTC) were each down more than 6% as of 1 p.m. ET, while shares of Deere (NYSE: DE) were down 4%.  An aggressive round of tariffs caught the markets off guard, with investors trying to assess the impact to the companies they own while also watching closely for signs trade partners could retaliate.",
-            "date": "2025-04-03T18:25:43Z",
-            "sentiment-score": -0.9531859299167991
-        },
-        {
-            "id": "b513cce8-2dfb-3d96-8bb1-5ee33ee6a0d1",
-            "summary": "Caterpillar gains 1% yesterday despite tariff announcements. Read our full analysis to know whether it is time to buy or wait.",
-            "date": "2025-04-03T16:01:00Z",
-            "sentiment-score": 0.04317314364016056
-        },
-        {
-            "id": "a48eb362-49a8-34a1-8ed5-c88c8457818d",
-            "summary": "Today's Research Daily features new research reports on 16 major stocks, including Cisco Systems, Inc. (CSCO), Caterpillar Inc. (CAT) and CME Group Inc. (CME), as well as two micro-cap stocks EVI Industries, Inc. (EVI) and Franklin Financial Services Corp. (FRAF).",
-            "date": "2025-04-03T20:35:00Z",
-            "sentiment-score": 0.007742713205516338
-        },
-        {
-            "id": "be6b0971-2fe3-34f2-bcb7-a5c270bfe9cb",
-            "summary": "(Bloomberg) -- Roughly $2.5 trillion was erased from the S&P 500 Index on Thursday amid worries that President Donald Trump\u2019s sweeping new round of tariffs could plunge the economy into a recession.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018Transportation Abundance\u2019 Loo",
-            "date": "2025-04-03T20:13:46Z",
-            "sentiment-score": -0.86858587898314
-        },
-        {
-            "id": "bcb6bfaa-6b13-35bc-9f6a-737ae3b69072",
-            "summary": "Cisco Systems, Caterpillar, CME, EVI and Franklin Financial are part of the Zacks top Analyst Blog.",
-            "date": "2025-04-04T13:08:00Z",
-            "sentiment-score": 0.006954353302717209
-        },
-        {
-            "id": "4c781320-279d-3e5b-a2e9-ce680fefd6dd",
-            "summary": "Shares in Caterpillar (NYSE: CAT) were down by about 7.5% at 11 a.m. ET today as the market continued to sell off equities in the wake of tariff measures imposed on U.S. trade partners.  In addition, there's a secondary impact whereby commodities like oil, metals, and minerals are also being sold off heavily.",
-            "date": "2025-04-04T16:48:36Z",
-            "sentiment-score": -0.9573120051063597
-        },
-        {
-            "id": "6531c199-98ec-3c42-90bc-7483b2bd0c6e",
-            "summary": "Caterpillar shares extended losses Friday amid concerns over the impact of retaliatory tariffs on the company\u2019s global construction footprint.",
-            "date": "2025-04-04T16:44:20Z",
-            "sentiment-score": -0.9502071333117783
-        },
-        {
-            "id": "b7759be4-806a-392d-8265-4929ed4df160",
-            "summary": "Caterpillar (NYSE:CAT) recently announced the appointment of Christy Pambianchi as the new Chief Human Resources Officer, which aims to strengthen its leadership team. Despite this development, Caterpillar's stock experienced a 13% decline over the last week. This dip coincides with a tumultuous period in the broader market, marked by a severe downturn due to escalating global trade tensions, including tariffs imposed on U.S. products by China. The broader market turmoil resulted in...",
-            "date": "2025-04-05T17:47:38Z",
-            "sentiment-score": -0.9259203393012285
-        },
         {
             "id": "0807d3ab-da17-34ff-b3fd-46a8374e5d86",
             "summary": "Investing.com -- UBS downgraded Caterpillar Inc (NYSE:CAT) to Sell from Buy and slashed its price target to $243 from $385, warning that macroeconomic risks linked to tariffs and weakening global demand are not yet fully reflected in the stock.Caterpillar, often viewed as a bellwether for the broader industrial economy, is vulnerable to a slowdown in key end markets such as construction, oil & gas, and mining. These sectors could weaken further as uncertainty mounts over U.S. trade policy and gl",
@@ -108,6 +54,42 @@
             "summary": "We recently published a list of Jim Cramer Warns of a 36% Market Drop & Reviews These 9 Key Stocks. In this article, we are going to take a look at where Caterpillar Inc. (NYSE:CAT) stands against other stocks Jim Cramer discusses. In his appearance on CNBC\u2019s Squawk on the Street on Monday, Jim Cramer [\u2026]",
             "date": "2025-04-09T16:02:33Z",
             "sentiment-score": -0.8369708219543099
+        },
+        {
+            "id": "36f6c66a-6152-3f86-9048-4ec66e1619bf",
+            "summary": "In the closing of the recent trading day, Caterpillar (CAT) stood at $293.45, denoting a +1.48% change from the preceding trading day.",
+            "date": "2025-04-11T21:45:15Z",
+            "sentiment-score": 0.6264186929911375
+        },
+        {
+            "id": "ae06d3a6-91dd-3c97-a597-912276ad7d1c",
+            "summary": "Caterpillar (NYSE:CAT) saw a 10% price decline over the last week amid significant market volatility, as the Dow Jones and Nasdaq fell 4% and 6%, respectively, during the same period. While a notable resignation from the board and a steady dividend announcement may provide stability to shareholders, these internal events were likely overshadowed by broader market forces, which included a marked sell-off in tech and chipmaker stocks. The company's recent participation in bauma Munich 2025,...",
+            "date": "2025-04-10T17:20:48Z",
+            "sentiment-score": -0.9365004464052618
+        },
+        {
+            "id": "eb3cf9ee-7679-34c0-a8aa-de70c40ff32d",
+            "summary": "We recently published a list of Jim Cramer Talked About These 8 Stocks. In this article, we are going to take a look at where Caterpillar Inc. (NYSE:CAT) stands against other stocks that Jim Cramer discusses. On Friday, Jim Cramer, the host of Mad Money, expressed concern over President Donald Trump\u2019s focus on the long-term [\u2026]",
+            "date": "2025-04-10T16:24:27Z",
+            "sentiment-score": -0.8717827796936035
+        },
+        {
+            "id": "22f96ff7-02fe-346e-9d22-de71eaf149e4",
+            "summary": "Even amid stock market turmoil, valuations still matter.",
+            "date": "2025-04-10T15:25:46Z",
+            "sentiment-score": 0.01039203442633152
+        },
+        {
+            "id": "4267d688-8db8-3b3b-9ce2-e8185e0b26c4",
+            "summary": "Caterpillar (CAT) witnessed a jump in share price last session on above-average trading volume. The latest trend in earnings estimate revisions for the stock doesn't suggest further strength down the road.",
+            "date": "2025-04-10T10:39:00Z",
+            "sentiment-score": 0.8874136079102755
+        },
+        {
+            "id": "49299a95-a2d2-32b1-bfb9-6e70aee12201",
+            "summary": "In times of volatility, investors often find comfort in a company maintaining a steady-as-we-go policy.  Caterpillar's consistency came from its dividend policy.  Such a move is a positive signal to investors that the company will do well enough to at least keep the dividend level.",
+            "date": "2025-04-09T22:57:46Z",
+            "sentiment-score": 0.8153482200577855
         }
     ]
 }

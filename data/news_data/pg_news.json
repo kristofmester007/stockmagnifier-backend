@@ -1,24 +1,18 @@
 {
     "ticker": "PG",
-    "total_news": 4,
-    "average_sentiment": 0.07196325156837702,
-    "weighted_average_sentiment": 0.07464660900943684,
+    "total_news": 10,
+    "average_sentiment": 0.053153075138106944,
+    "weighted_average_sentiment": 0.09953949463569783,
     "average_daily_sentiments": [
+        0.6657887455075979,
         0,
+        0.11929659824818373,
+        -0.44644556869752705,
         -0.011744758114218712,
         0.1465957541950047,
-        0,
-        0.0064062559977173805,
-        0,
         0
     ],
     "news": [
-        {
-            "id": "62b0449b-e7cb-31db-bdcf-1fdacd3fdb87",
-            "summary": "We recently published a list of Jim Cramer Reveals What\u2019s Next After Tariffs & Discusses These 10 Stocks. In this article, we are going to take a look at where The Procter & Gamble Company (NYSE:PG) stands against other stocks that Jim Cramer discusses. In his appearance on CNBC\u2019s Squawk on the Street on Thursday, [\u2026]",
-            "date": "2025-04-05T21:19:38Z",
-            "sentiment-score": 0.0064062559977173805
-        },
         {
             "id": "5d159c05-1f4e-3570-8567-443f3654795c",
             "summary": "Zacks.com users have recently been watching P&G (PG) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
@@ -36,6 +30,48 @@
             "summary": "In the closing of the recent trading day, Procter & Gamble (PG) stood at $158.26, denoting a -1.23% change from the preceding trading day.",
             "date": "2025-04-08T21:50:16Z",
             "sentiment-score": -0.011744758114218712
+        },
+        {
+            "id": "8e86715b-44a0-328d-8415-9cfd66dd57b1",
+            "summary": "The Procter & Gamble Company ( NYSE:PG ) has announced that it will be increasing its periodic dividend on the 15th of...",
+            "date": "2025-04-12T12:40:58Z",
+            "sentiment-score": 0.6657887455075979
+        },
+        {
+            "id": "2b56b058-760d-3752-98ec-debc5baab042",
+            "summary": "National Vision (EYE) saw its shares surge in the last session with trading volume being higher than average. The latest trend in earnings estimate revisions may not translate into further price increase in the near term.",
+            "date": "2025-04-10T12:56:00Z",
+            "sentiment-score": 0.9172281539067626
+        },
+        {
+            "id": "2c4ac22e-6f93-30cd-9996-fe0060e0545a",
+            "summary": "The European Commission had conducted inspections at the premises of companies active in the non-alcoholic drinks sector and had also quizzed an unidentified personal care company in March over concerns of possible curbs on the trade of goods across Europe and carving up markets.  EU officials have sent over a questionnaire to P&G and are collecting evidence from competitors and customers, the Bloomberg report said.  No formal allegations have been made against Procter & Gamble.",
+            "date": "2025-04-10T12:18:47Z",
+            "sentiment-score": -0.4353746175765991
+        },
+        {
+            "id": "b4b2c432-12d0-38ef-ab6a-b8bf5c4f83f6",
+            "summary": "Procter & Gamble (PG) has been identified as the previously unnamed company under informal investiga",
+            "date": "2025-04-10T11:25:09Z",
+            "sentiment-score": -0.004689192399382591
+        },
+        {
+            "id": "230d8f44-bb97-3380-9102-9e5461a617f1",
+            "summary": "Procter & Gamble, Novo Nordisk, PepsiCo, Genie Energy and Canterbury Park are included in this Analyst Blog.",
+            "date": "2025-04-10T09:00:00Z",
+            "sentiment-score": 2.2049061954021454e-05
+        },
+        {
+            "id": "ef3a2b57-ad61-3a74-86c1-ac21c5e68268",
+            "summary": "Today's Research Daily features new research reports on 16 major stocks, including The Procter & Gamble Company (PG), Novo Nordisk A/S (NVO) and PepsiCo, Inc. (PEP), as well as two micro-cap stocks Genie Energy Ltd. (GNE) and Canterbury Park Holding Corporation (CPHC).",
+            "date": "2025-04-09T20:51:00Z",
+            "sentiment-score": 0.012933763675391674
+        },
+        {
+            "id": "827da1c9-b718-3a31-800d-0edd423987f7",
+            "summary": "Procter & Gamble (NYSE:PG) recently announced an increase in its quarterly dividends for both common and preferred stocks to $1.0568 per share, indicating a focus on shareholder returns. Despite this positive move, the company's share price declined by 2.29% over the last quarter. During this period, the broader market saw significant volatility primarily due to tariff uncertainties, with major indices like the S&P 500 experiencing a 12% drop. The company's dividend enhancements might have...",
+            "date": "2025-04-09T17:57:34Z",
+            "sentiment-score": -0.9058249010704458
         }
     ]
 }

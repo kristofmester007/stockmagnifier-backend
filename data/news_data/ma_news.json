@@ -1,54 +1,18 @@
 {
     "ticker": "MA",
-    "total_news": 23,
-    "average_sentiment": 0.23115779156796634,
-    "weighted_average_sentiment": 0.20791031464805684,
+    "total_news": 22,
+    "average_sentiment": 0.09950404877732084,
+    "weighted_average_sentiment": -0.00338294084393206,
     "average_daily_sentiments": [
+        0.028438107576221228,
+        -0.21754879194001356,
+        -0.958454315084964,
         0.03694241199021538,
         0.20466832667589188,
         0.5019108122680336,
-        0.01720148976892233,
-        0,
-        0.49368501687422395,
-        0.13937687897123396
+        0.01720148976892233
     ],
     "news": [
-        {
-            "id": "13c55529-1a14-35a0-89e1-dd3970e0423d",
-            "summary": "President Donald Trump\u2019s \u201cLiberation Day\u201d could make it worse.  Shares of Venmo owner  PayPal  online personal loan companies  SoFi  and  Upstart  and \u201cbuy now, pay later\u201d lender  Affirm  are all down more than 20% this year.  Renewed worries about inflation due to tariffs and growing fears of an increasingly sluggish U.S. economy (some say recession while others call it a mere \u201cgrowth scare\u201d) could reduce demand for consumer loans.",
-            "date": "2025-04-03T07:00:00Z",
-            "sentiment-score": -0.9566452405415475
-        },
-        {
-            "id": "a0f1a514-a16b-376e-9943-4b4c25ae365d",
-            "summary": "MA partners with MoneyGram to enhance digital payments, driving revenue growth, financial inclusion, and seamless cross-border transactions.",
-            "date": "2025-04-03T17:11:00Z",
-            "sentiment-score": 0.646166788879782
-        },
-        {
-            "id": "09e20ce0-88c0-35f6-b6f2-f19d1091d06c",
-            "summary": "MoneyGram customers can now send funds internationally to 38 eligible receiving markets using any US-issued Mastercard card.",
-            "date": "2025-04-03T11:43:12Z",
-            "sentiment-score": 0.09492342732846737
-        },
-        {
-            "id": "3b3ef3c1-d815-302f-8018-1b75a540921e",
-            "summary": "As companies joust to become the tech giant\u2019s card network, some analysts give Visa and Mastercard an advantage over American Express.",
-            "date": "2025-04-03T10:47:00Z",
-            "sentiment-score": 0.7730625402182341
-        },
-        {
-            "id": "37c16fe8-1393-3476-b30a-dac0960c7880",
-            "summary": "New contracts, global expansion and disciplined execution benefit GRRR's results.",
-            "date": "2025-04-04T16:45:00Z",
-            "sentiment-score": 0.928566631861031
-        },
-        {
-            "id": "e3d40c8d-a767-36bb-b946-8a5a6af96ba7",
-            "summary": "Compared to MA's more globally diversified business, AXP remains more exposed to domestic economic shifts.",
-            "date": "2025-04-04T16:07:00Z",
-            "sentiment-score": 0.05880340188741684
-        },
         {
             "id": "75aa9fab-30bc-31cf-8814-8e883581c779",
             "summary": "The Mastercard (NYSE: MA) logo is pretty ubiquitous in the United States.  It adorns credit cards, debit cards, store windows, websites, and credit card processing machines.  If you are thinking of buying, or you already own, Mastercard, however, there's another facet to its business that is even more exciting.",
@@ -150,6 +114,36 @@
             "summary": "Why investors should use the Zacks Earnings ESP tool to help find stocks that are poised to top quarterly earnings estimates.",
             "date": "2025-04-09T13:00:07Z",
             "sentiment-score": 0.07137294113636017
+        },
+        {
+            "id": "cdcd453e-4f91-30c5-b853-501225a3a30f",
+            "summary": "We recently published a list of 12 Best Tech Stocks to Buy For Long-Term Investment. In this article, we are going to take a look at where Mastercard Inc. (NYSE:MA) stands against other tech stocks to buy for long-term investment. On April 1, Chris Verrone, chief market strategist at Strategas Research Partners, appeared on CNBC\u2019s [\u2026]",
+            "date": "2025-04-12T13:08:15Z",
+            "sentiment-score": 0.028438107576221228
+        },
+        {
+            "id": "06eafc1e-a01e-3e8d-888b-d8cb4b7858fa",
+            "summary": "Beyond macroeconomic and financial concerns, MA also faces rising regulatory scrutiny and legal challenges.",
+            "date": "2025-04-11T15:18:00Z",
+            "sentiment-score": -0.6799648534506559
+        },
+        {
+            "id": "d7b3d57b-857b-3968-8e01-d9dbf6903c43",
+            "summary": "We recently published a list of Long-Term Stock Portfolio: 15 Best Stocks for 15 Years. In this article, we are going to take a look at where Mastercard Incorporated (NYSE:MA) stands against other best stocks for 15 years. Russell Investments believes that 3 features are defining the market outlook for 2025. These include the elevated [\u2026]",
+            "date": "2025-04-11T15:09:09Z",
+            "sentiment-score": 0.026685506105422974
+        },
+        {
+            "id": "93435464-613b-37a9-98e3-04605e638433",
+            "summary": "MasterCard (MA) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
+            "date": "2025-04-11T13:00:14Z",
+            "sentiment-score": 0.0006329715251922607
+        },
+        {
+            "id": "027068b3-7e4d-3589-b616-e8bddc6fed2e",
+            "summary": "Financial stocks slumped in Thursday afternoon trading with the NYSE Financial Index dropping 4.2% a",
+            "date": "2025-04-10T17:47:28Z",
+            "sentiment-score": -0.958454315084964
         }
     ]
 }

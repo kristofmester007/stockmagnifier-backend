@@ -1,54 +1,18 @@
 {
     "ticker": "UNH",
     "total_news": 26,
-    "average_sentiment": 0.12115114295067123,
-    "weighted_average_sentiment": 0.22352894274572038,
+    "average_sentiment": 0.1851163586565795,
+    "weighted_average_sentiment": 0.13754428939180488,
     "average_daily_sentiments": [
+        0,
+        -0.4620124101638794,
+        0.23080947250127792,
         0.27323644403368236,
         0.31207757722586393,
         0.08116425917251036,
-        0.9258504984900355,
-        0,
-        0.006942019176979859,
-        -0.4101209435611963
+        0.9258504984900355
     ],
     "news": [
-        {
-            "id": "b7f75f7d-076a-3aa0-9235-5ebf269f31b2",
-            "summary": "The agency has paused its lawsuit against three pharmacy-benefit managers because no current commissioners can participate in the case.",
-            "date": "2025-04-02T18:20:00Z",
-            "sentiment-score": -0.8644667090848088
-        },
-        {
-            "id": "b682aada-a463-3d81-ba8c-71a96946313c",
-            "summary": "The Medical-HMO industry rides on steady premium flows resulting from a growing customer base and contract wins. However, industry headwinds like elevated technology costs and workforce shortages remain concerns. UNH, HUM and CNC are likely to navigate industry storms.",
-            "date": "2025-04-03T13:44:00Z",
-            "sentiment-score": -0.8336345972493291
-        },
-        {
-            "id": "d209ff3a-976e-3b54-b3df-3258bb9b62a7",
-            "summary": "Zacks.com users have recently been watching UnitedHealth (UNH) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
-            "date": "2025-04-03T13:00:12Z",
-            "sentiment-score": 0.013392710126936436
-        },
-        {
-            "id": "84fc3ba8-7d28-3640-9d85-af3b6f61ca0c",
-            "summary": "UnitedHealth, Humana and Centene are part of the Zacks Industry Outlook article.",
-            "date": "2025-04-04T12:55:00Z",
-            "sentiment-score": 0.005687357857823372
-        },
-        {
-            "id": "d2adf109-edc1-382d-a8ff-12befe58a1ec",
-            "summary": "We recently published a list of Jim Cramer\u2019s Lightning Round: 8 Stocks in Focus. In this article, we are going to take a look at where UnitedHealth Group Incorporated (NYSE:UNH) stands against other stocks that Jim Cramer discusses. Jim Cramer, host of Mad Money, discussed on Monday how investor sentiment surrounding tech stocks has shifted [\u2026]",
-            "date": "2025-04-04T21:28:29Z",
-            "sentiment-score": 0.0020289458334445953
-        },
-        {
-            "id": "4bc056e3-c124-37f9-be1a-337a738baac2",
-            "summary": "Today's Research Daily features new research reports on 16 major stocks, including Broadcom Inc. (AVGO), UnitedHealth Group Incorporated (UNH) and Toyota Motor Corporation (TM), as well as a micro-cap stock Perma-Pipe International Holdings, Inc. (PPIH).",
-            "date": "2025-04-04T20:54:00Z",
-            "sentiment-score": 0.013109753839671612
-        },
         {
             "id": "6716eda3-b646-3bc8-9178-b31aa13c2198",
             "summary": "Most readers would already be aware that UnitedHealth Group's (NYSE:UNH) stock increased significantly by 6.4% over the...",
@@ -168,6 +132,42 @@
             "summary": "The CMS announced a hike in MA payments for fiscal year 2026, which will likely deliver a notable boost to UNH & HUM's bottom lines.",
             "date": "2025-04-09T15:10:00Z",
             "sentiment-score": 0.9200830729678273
+        },
+        {
+            "id": "5682eb4f-e1f5-3960-bbf5-ea34003ec56e",
+            "summary": "(Reuters) -UnitedHealth Group is demanding that healthcare providers repay the loans they received from the company after a cyberattack at its tech unit Change Healthcare last year, according to two providers on Friday.  The largest U.S. health insurance company loaned out $9 billion to providers who had been struggling after the massive ransomware attack in February last year shut down payment and processing systems, some of which took months to resume.  Healthcare providers said they have received emails from UnitedHealth's Optum unit in recent months demanding full repayment and threatening to withhold reimbursement.",
+            "date": "2025-04-11T20:30:10Z",
+            "sentiment-score": -0.9143825192004442
+        },
+        {
+            "id": "518853d5-8b6b-39e5-8c93-0e976ee3a461",
+            "summary": "We recently published a list of Jim Cramer Questions Market Logic and Dissects These 7 Key Stocks. In this article, we are going to take a look at where UnitedHealth Group Inc. (NYSE:UNH) stands against other stocks that Jim Cramer discusses. In his latest appearance on CNBC\u2019s Squawk on the Street, Jim Cramer unpacked the deepening uncertainty [\u2026]",
+            "date": "2025-04-11T17:58:18Z",
+            "sentiment-score": -0.009642301127314568
+        },
+        {
+            "id": "aa78e394-5f75-32e6-a098-cdb7d8950c6c",
+            "summary": "CVS Health (CVS) is a top S&P 500 performer in 2025, with year-to-date returns exceeding 50%. Moreover, the stock has shirked off Trump-mania, tariff levies, and a global trade war like water off a duck\u2019s back. The stock is up 3% over the past five days and up 42% since January \u2014 wholly opposed to the market squall enveloping the world\u2019s major stock indices and shaving trillions from index valuations, in recent days. Most recognizable for its corner drugstores, CVS\u2019 transformative acquisition of",
+            "date": "2025-04-10T10:49:47Z",
+            "sentiment-score": 0.9004037752747536
+        },
+        {
+            "id": "c6650073-b5a0-35bb-8058-0b489ab241f3",
+            "summary": "Let\u2019s dig into the relative performance of Humana (NYSE:HUM) and its peers as we unravel the now-completed Q4 health insurance providers earnings season.",
+            "date": "2025-04-10T09:08:40Z",
+            "sentiment-score": 0.041517555713653564
+        },
+        {
+            "id": "340249f6-3018-37cb-a0f4-1e57732dea3c",
+            "summary": "Roughly four out of five S&P 500 (SNPINDEX: ^GSPC) stocks are in negative territory in 2025.  Most of those stocks weren't immune to the meltdown that occurred in recent days following President Trump's \"Liberation Day\" announcement of steep reciprocal tariffs.  At least one S&P 500 stock soared as the market plunged.",
+            "date": "2025-04-10T08:51:00Z",
+            "sentiment-score": -0.9335930990055203
+        },
+        {
+            "id": "64df3436-ac57-36f3-8907-0fff7b4e9423",
+            "summary": "UnitedHealth Group (NYSE:UNH) saw its share price rise by 20% over the last month, a significant move against the backdrop of the broader market's recent volatility. While no specific events related directly to UnitedHealth could be isolated as a catalyst, the market's overall fluctuations highlighted by the recent 3,000-point jump in the Dow Jones and a 12% increase in the Nasdaq may have provided a supportive environment. Trump's temporary pause on tariffs likely pacified investor concerns,...",
+            "date": "2025-04-10T00:01:12Z",
+            "sentiment-score": 0.9149096580222249
         }
     ]
 }

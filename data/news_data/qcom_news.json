@@ -1,42 +1,18 @@
 {
     "ticker": "QCOM",
-    "total_news": 15,
-    "average_sentiment": 0.11908498099073768,
-    "weighted_average_sentiment": 0.25201667579190445,
+    "total_news": 17,
+    "average_sentiment": 0.3360673990100622,
+    "weighted_average_sentiment": 0.3876963671301982,
     "average_daily_sentiments": [
+        0,
+        0.4585050526075065,
+        0.4834002268034965,
         0.3702101016417146,
         0.3490801763255149,
         0.07833097747061402,
-        0,
-        0,
-        -0.9502022853121161,
-        0.40651475288905203
+        0
     ],
     "news": [
-        {
-            "id": "f3724bff-456f-36dd-b1f8-c12b6385cca3",
-            "summary": "Trump said the import tariff rate for Taiwan will be set at 32%. Initially, that looked like bad news for American chip makers like Nvidia, Advanced Micro Devices, and Qualcomm, which are customers of Taiwan Semiconductor Manufacturing Co.",
-            "date": "2025-04-02T21:51:19Z",
-            "sentiment-score": -0.9390872763469815
-        },
-        {
-            "id": "d6c4b30c-2554-3a29-8ad2-7509f951b37d",
-            "summary": "The chipmaker has until April 29 to either announce a firm intention to make an offer for Alphawave.",
-            "date": "2025-04-03T11:12:09Z",
-            "sentiment-score": 0.020588616840541363
-        },
-        {
-            "id": "3056dad8-30c5-3c7e-a2d9-e42aac814f9b",
-            "summary": "Qualcomm acquires MovianAI to augment its portfolio strength and develop an advanced AI native solution suite for the PC, smartphone and automotive industries.",
-            "date": "2025-04-03T13:34:00Z",
-            "sentiment-score": 0.7924408889375627
-        },
-        {
-            "id": "9267baa7-0504-312e-b1fb-198e19d7731e",
-            "summary": "At QUALCOMM's (NasdaqGS:QCOM) recent annual general meeting, shareholders rejected a proposal aimed at protecting retirement benefits, highlighting ongoing debates around corporate governance. Over the past month, the company's stock saw a price decline of 10%. This move aligns with broader negative sentiment in the market, as the Nasdaq Composite entered bear market territory due to tariff-induced sell-offs. Technology stocks, particularly semiconductor companies, were among the hardest hit,...",
-            "date": "2025-04-04T17:39:09Z",
-            "sentiment-score": -0.9502022853121161
-        },
         {
             "id": "6c6d8ba3-c8f8-3387-b7f1-4d079ff77475",
             "summary": "How To Buy Stocks: Use IBD's Ants indicator to spot the big institutional demand that can result in big stock market gains.",
@@ -102,6 +78,42 @@
             "summary": "The Zacks Style Scores offers investors a way to easily find top-rated stocks based on their investing style. Here's why you should take advantage.",
             "date": "2025-04-09T13:40:10Z",
             "sentiment-score": 0.0387414013966918
+        },
+        {
+            "id": "39755f34-38b7-3396-83c4-b9689a641e96",
+            "summary": "Qualcomm (QCOM) has an impressive earnings surprise history and currently possesses the right combination of the two key ingredients for a likely beat in its next quarterly report.",
+            "date": "2025-04-11T16:10:12Z",
+            "sentiment-score": 0.8860425185412169
+        },
+        {
+            "id": "4456fb92-a3fe-3ee9-97ad-30b35e9b152f",
+            "summary": "The Zacks Earnings ESP is a great way to find potential earnings surprises. Why investors should take advantage now.",
+            "date": "2025-04-11T13:00:10Z",
+            "sentiment-score": 0.030967586673796177
+        },
+        {
+            "id": "887c5dae-2ff2-391e-8e70-564c7b9f134f",
+            "summary": "QCOM vs. AMAT: Which Stock Is the Better Value Option?",
+            "date": "2025-04-10T15:40:07Z",
+            "sentiment-score": 0.00840177945792675
+        },
+        {
+            "id": "cd2101ff-a074-3962-8787-ae331be5a0e5",
+            "summary": "Qualcomm (QCOM) was a big mover last session on higher-than-average trading volume. The latest trend in earnings estimate revisions might not help the stock continue moving higher in the near term.",
+            "date": "2025-04-10T14:50:00Z",
+            "sentiment-score": 0.8341712364926934
+        },
+        {
+            "id": "6719bb2c-2677-3fe5-873b-e64d0969d083",
+            "summary": "We came across a bullish thesis on QUALCOMM Incorporated (QCOM) on Substack by Charly AI. In this article, we will summarize the bulls\u2019 thesis on QCOM. QUALCOMM Incorporated (QCOM)\u2019s share was trading at $143.59 as of April 9th. QCOM\u2019s trailing and forward P/E were 15.49 and 12.35 respectively according to Yahoo Finance. Qualcomm (QCOM) is executing strongly [\u2026]",
+            "date": "2025-04-10T13:13:42Z",
+            "sentiment-score": 0.2000341648235917
+        },
+        {
+            "id": "2411424b-c327-3f40-a321-664aa79b068f",
+            "summary": "The Big Data industry is expected to grow significantly in the future. As a result, companies like NVDA, MCO and QCOM are likely to benefit.",
+            "date": "2025-04-10T13:10:00Z",
+            "sentiment-score": 0.890993726439774
         }
     ]
 }

@@ -1,84 +1,18 @@
 {
     "ticker": "JNJ",
-    "total_news": 24,
-    "average_sentiment": 0.23083529227490848,
-    "weighted_average_sentiment": 0.1815524584238267,
+    "total_news": 23,
+    "average_sentiment": 0.10871596051299054,
+    "weighted_average_sentiment": 0.08951375072252063,
     "average_daily_sentiments": [
+        0.007894683629274368,
+        0.22809393219649793,
+        -0.21665246656630188,
         -0.5132346330210567,
         0.38805326470173895,
         -0.6353507675230503,
-        0,
-        -0.13008758798241615,
-        0.490915401528279,
-        0.5108304548387727
+        0
     ],
     "news": [
-        {
-            "id": "c2e77c41-81a8-3ecb-8a80-902b8e321b65",
-            "summary": "Health care stocks rose late Wednesday afternoon, with the NYSE Health Care Index up 0.4% and the He",
-            "date": "2025-04-02T19:59:19Z",
-            "sentiment-score": 0.9101969860494137
-        },
-        {
-            "id": "79fe7689-2f34-3f27-8a20-57b334e9c635",
-            "summary": "The Nasdaq Composite (NASDAQINDEX: ^IXIC) and the S&P 500 (SNPINDEX: ^GSPC) sank, shifting in and out of correction territory in the first quarter of the year for one big reason: investors have been worried about the economy.  President Donald Trump is putting tariffs on imports, and economists predict this could lead to higher inflation and a slowdown in growth.  Healthcare companies, for example, may excel since people need their medicines or procedures regardless of the economic backdrop.",
-            "date": "2025-04-02T22:15:00Z",
-            "sentiment-score": -0.944239548407495
-        },
-        {
-            "id": "06d142db-a905-336a-a0df-f505312c37de",
-            "summary": "Drugmakers breathed a sigh of relief Wednesday after President Trump didn\u2019t announce pharmaceutical tariffs.  Plus, language in the executive order indicated medicines were exempted from the reciprocal tariffs that Trump did announce.  Drugmakers were combing over the executive order to clarify the exemption language in the executive order and to make sure they won\u2019t be hit by any other tariff provisions, such as the 10% \u201cbaseline\u201d tariff.",
-            "date": "2025-04-02T22:03:35Z",
-            "sentiment-score": -0.10374811291694641
-        },
-        {
-            "id": "e31594dd-8a97-39f8-9d44-e4dae9473d17",
-            "summary": "The latest trading day saw Johnson & Johnson (JNJ) settling at $155.36, representing a +1.38% change from its previous close.",
-            "date": "2025-04-02T21:45:15Z",
-            "sentiment-score": 0.5839750953018665
-        },
-        {
-            "id": "dc914e9f-474e-46b5-9e99-9d94e919ddd3",
-            "summary": "The FDA was supposed to make a final decision about approval of Novavax's COVID-19 vaccine this week, but that deadline has passed with no clarity on when the decision will move forward again.",
-            "date": "2025-04-03T19:39:07Z",
-            "sentiment-score": -0.27003165520727634
-        },
-        {
-            "id": "4d202ae2-292d-33fc-b5df-f9468db0055c",
-            "summary": "Big pharmaceutical stocks mostly rose after President Trump\u2019s executive order exempted medicines from new tariffs. Merck, Bristol-Myers Squibb, and Johnson & Johnson were among the top performers in the S&P 500, with the sector also benefiting from its status as a defensive play.",
-            "date": "2025-04-03T14:30:22Z",
-            "sentiment-score": 0.876907916739583
-        },
-        {
-            "id": "9f357dc4-e25d-3679-968d-b15c5e8ff741",
-            "summary": "Both JNJ & PFE expect their sales and profits to improve in 2025.",
-            "date": "2025-04-03T13:59:00Z",
-            "sentiment-score": 0.9256151029840112
-        },
-        {
-            "id": "b60cb4a3-89b0-3658-a5c4-9b4f38ca8915",
-            "summary": "Despite a significant net loss, Nanobiotix SA (NBTX) extends its cash runway and strengthens its partnership with Johnson & Johnson.",
-            "date": "2025-04-04T07:00:28Z",
-            "sentiment-score": 0.9281833954155445
-        },
-        {
-            "id": "08293a1f-718c-3586-8276-6be49e2b0a08",
-            "summary": "Johnson & Johnson and Pfizer are part of the Zacks top Analyst Blog",
-            "date": "2025-04-04T13:04:00Z",
-            "sentiment-score": 0.03706115484237671
-        },
-        {
-            "id": "f6f810ad-9110-3170-bc3b-c328e2d70f2b",
-            "summary": "Johnson & Johnson (NYSE:JNJ) on Friday announced topline results from Phase 3b APEX study of Tremfya (guselkumab) in patients with active psoriatic arthritis (PsA) who are biologic na\u00efve and have had an inadequate response to standard therapies. The study achieved its primary endpoint (ACR20a) of reducing signs and symptoms and its major secondary endpoint of reducing progression of structural damage as measured by radiographic progression at 24 weeks compared to placebo. In the Phase 3b APEX st",
-            "date": "2025-04-04T18:35:30Z",
-            "sentiment-score": 0.5075016543269157
-        },
-        {
-            "id": "62cfb531-52a7-3a6c-86dc-2f8d1f8204a9",
-            "summary": "(Bloomberg) -- Deals in leveraged finance have stalled, and markets have been upended, raising the possibility that banks might once again get stuck with debt they\u2019ve committed for acquisitions.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersLocal Governments Vie for Fired Federal WorkersThis Skinny Mexico City Tower Is Just 14 Feet Wide on One SideBoston Mayor Wu Embraces Trump Resistance as Campaign Heats UpMetro-North Is Faster Than Acela on NYC-New Haven Route Afte",
-            "date": "2025-04-05T19:00:00Z",
-            "sentiment-score": -0.13008758798241615
-        },
         {
             "id": "70626521-449f-3b79-b7cd-d936cb9688ff",
             "summary": "The trial involved biologic-na\u00efve subjects who had not responded adequately to standard therapies.",
@@ -156,6 +90,66 @@
             "summary": "Stocks in drugmakers sold off globally after President Trump said tariffs on pharmaceutical imports will be unveiled shortly, signaling the industry could be next in line amid a trade war that is causing market turmoil.  AbbVie, Eli Lilly, Johnson & Johnson, Merck and Pfizer all fell at least 2% Wednesday morning.  Denmark's Novo Nordisk, Switzerland's Novartis and the U.K.'s AstraZeneca and GSK also fell 2% or more in the U.S.",
             "date": "2025-04-09T13:51:17Z",
             "sentiment-score": -0.9492702353745699
+        },
+        {
+            "id": "cab8f54b-9923-3a4d-9cc1-1733d9ba0213",
+            "summary": "We recently published a list of the 11 Cheap NYSE Stocks to Invest in According to Hedge Funds. In this article, we are going to take a look at where Johnson & Johnson (NYSE:JNJ) stands against other cheap NYSE stocks. On March 26, Jack Caffrey of JPMorgan Asset Management provided an analysis of market trends [\u2026]",
+            "date": "2025-04-12T13:05:22Z",
+            "sentiment-score": 0.007894683629274368
+        },
+        {
+            "id": "e66f4567-1cb7-3894-b8f8-71082691e388",
+            "summary": "We recently published a list of Jim Cramer Questions Market Logic and Dissects These 7 Key Stocks. In this article, we are going to take a look at where Johnson & Johnson (NYSE:JNJ) stands against other stocks that Jim Cramer discusses. In his latest appearance on CNBC\u2019s Squawk on the Street, Jim Cramer unpacked the deepening uncertainty [\u2026]",
+            "date": "2025-04-11T17:59:02Z",
+            "sentiment-score": -0.011082835495471954
+        },
+        {
+            "id": "6c70e023-4fd8-3b8c-9b4f-576138b88c8c",
+            "summary": "JNJ's Innovative Medicines unit sales are expected to have been driven by drugs like Darzalex and Tremfya. We do not expect any improvement in MedTech sales.",
+            "date": "2025-04-11T15:32:00Z",
+            "sentiment-score": 0.8878326155245304
+        },
+        {
+            "id": "63b4a4b0-03c0-47f5-8c77-924188fd222e",
+            "summary": "Earnings preview of key companies reporting next week and what to look out for.",
+            "date": "2025-04-11T13:11:11Z",
+            "sentiment-score": -0.010118871927261353
+        },
+        {
+            "id": "c73546e9-3901-3b54-a82d-945b52d20ad2",
+            "summary": "The safety profile of icotrokinra was demonstrated to be 'favourable', according to the company.",
+            "date": "2025-04-11T11:41:55Z",
+            "sentiment-score": 0.9221508968621492
+        },
+        {
+            "id": "a03b0266-2381-35b9-8681-f1fed3edcc56",
+            "summary": "Microsoft (NASDAQ: MSFT) and Johnson & Johnson (NYSE: JNJ) are leading companies in their respective industries.  Microsoft's market cap is $2.6 trillion, so some detractors feel it has little room to grow.  Meanwhile, Johnson & Johnson is still dealing with thousands of talc-related lawsuits, and recently hit another road bump in that department.",
+            "date": "2025-04-11T08:25:00Z",
+            "sentiment-score": -0.6483121439814568
+        },
+        {
+            "id": "5788e167-ba2e-3f2d-8e9e-4bfb72e0e2c1",
+            "summary": "Pharma stocks tumbled Thursday after the Trump administration said the delay for reciprocal tariffs doesn't apply to sector-specific tariffs.",
+            "date": "2025-04-10T16:58:23Z",
+            "sentiment-score": -0.9471217887476087
+        },
+        {
+            "id": "597d79bb-14b2-3483-ad21-cd6600245366",
+            "summary": "Evaluate the expected performance of Johnson & Johnson (JNJ) for the quarter ended March 2025, looking beyond the conventional Wall Street top-and-bottom-line estimates and examining some of its key metrics for better insight.",
+            "date": "2025-04-10T13:15:12Z",
+            "sentiment-score": 0.06325879180803895
+        },
+        {
+            "id": "f515e359-5d6b-37af-8c12-92cd66252e73",
+            "summary": "Johnson & Johnson (JNJ) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
+            "date": "2025-04-10T13:00:15Z",
+            "sentiment-score": 0.02074585296213627
+        },
+        {
+            "id": "e3f04ed2-2700-32a4-a768-e58ea75b9b69",
+            "summary": "We recently published a list of Jim Cramer Says Tariff Pain Isn\u2019t Over Yet And Reviews These 9 Stocks. In this article, we are going to take a look at where Johnson & Johnson (NYSE:JNJ) stands against other stocks that Jim Cramer discusses. In his latest appearance on CNBC\u2019s Squawk on the Street, Jim Cramer dissected [\u2026]",
+            "date": "2025-04-10T12:42:43Z",
+            "sentiment-score": -0.003492722287774086
         }
     ]
 }

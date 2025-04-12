@@ -1,114 +1,18 @@
 {
     "ticker": "ORCL",
-    "total_news": 28,
-    "average_sentiment": 0.04736018240717905,
-    "weighted_average_sentiment": -0.1504887629561126,
+    "total_news": 20,
+    "average_sentiment": -0.2612667676527053,
+    "weighted_average_sentiment": -0.32311081428018107,
     "average_daily_sentiments": [
-        -0.3822140774379174,
+        -0.9573291894048452,
+        -0.36148266517557204,
+        0.433686240343377,
+        -0.4910948740111457,
         0.06744823418557644,
         0.031728035770356655,
-        -0.07759589469060302,
-        -0.3608850850723684,
-        0.33125281892716885,
-        0.6205314551480114
+        -0.07759589469060302
     ],
     "news": [
-        {
-            "id": "bd041819-4022-3a96-a3ad-e40693d74f05",
-            "summary": "The White House is reportedly close to approving a TikTok deal that would bring in new U.S.-based investors.",
-            "date": "2025-04-02T21:03:53Z",
-            "sentiment-score": 0.5744222598150373
-        },
-        {
-            "id": "c0f87eb6-3cd1-3ea6-925f-0d1fe7540de6",
-            "summary": "President Trump is expected to be briefed Wednesday on a framework to keep the video-sharing app operational.",
-            "date": "2025-04-02T20:11:00Z",
-            "sentiment-score": 0.13699807226657867
-        },
-        {
-            "id": "1aece5f9-a5cf-3d3a-bc37-4d53fbf7bac8",
-            "summary": "Amazon and AppLovin reportedly submitted bids to acquire TikTok, ahead of a U.S. ban set to go into effect Saturday if no deal is reached with the app's Chinese parent company.",
-            "date": "2025-04-02T20:03:45Z",
-            "sentiment-score": -0.5048812814056873
-        },
-        {
-            "id": "bb221b46-27e8-3dfe-85b0-1f903ea7904f",
-            "summary": "We recently published a list of 11 Best Data Storage Stocks to Invest in According to Analysts. In this article, we are going to take a look at where Oracle Corp. (NYSE:ORCL) stands against other best data storage stocks to invest in according to analysts. Data storage is defined as the organized preservation of digital [\u2026]",
-            "date": "2025-04-02T19:44:11Z",
-            "sentiment-score": 0.012423917651176453
-        },
-        {
-            "id": "d5c15fa5-7123-39cc-9ac9-66108498da42",
-            "summary": "(Bloomberg) -- Oracle Corp. has told customers that a hacker broke into a computer system and stole old client log-in credentials, according to two people familiar with the matter. It\u2019s the second cybersecurity breach that the software company has acknowledged to clients in the last month.Most Read from BloombergMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Frank Lloyd Wright Learned From the Desert",
-            "date": "2025-04-02T21:30:11Z",
-            "sentiment-score": -0.02365369349718094
-        },
-        {
-            "id": "0c845bbe-a8c0-395d-b0bd-5dac377546de",
-            "summary": "Oracle Corporation ( NYSE:ORCL ) has announced that it will be increasing its dividend from last year's comparable...",
-            "date": "2025-04-03T17:26:40Z",
-            "sentiment-score": 0.9053344372659922
-        },
-        {
-            "id": "c62e9c41-40df-38ca-9602-fb9728a49ea5",
-            "summary": "Catch up on the top industries and stocks that were impacted, or were predicted to be impacted, by the comments, actions and policies of President Donald Trump with this daily recap compiled by The Fly: TARIFF PLAN: President Donald Trump\u2019s team is finalizing plans for reciprocal tariffs to be unveiled on Wednesday, with multiple proposals under consideration, including a tiered tariff system and a customized reciprocal plan, Bloomberg\u2019s Josh Wingrove and Jennifer A. Dlouhy report. The tariffs a",
-            "date": "2025-04-03T14:15:58Z",
-            "sentiment-score": 0.046600740402936935
-        },
-        {
-            "id": "cf52436c-7226-343e-8ed9-4c63a6e2731f",
-            "summary": "Artisan Partners, an investment management company, released its \u201cArtisan Global Opportunities Fund\u201d fourth quarter 2024 investor letter. A copy of the letter can be downloaded here. US equities experienced significant gains in Q4, showcasing a strong year. The portfolio showed slight weakness in Q4 but posted a strong absolute return in 2024. In the fourth [\u2026]",
-            "date": "2025-04-03T12:18:38Z",
-            "sentiment-score": 0.8627727068960667
-        },
-        {
-            "id": "dcbd223c-82fe-3fcd-ad69-f14c98627351",
-            "summary": "(Bloomberg) -- President Donald Trump said the US was close to unveiling a plan that would spare the Chinese-owned social media app TikTok from a US ban, with multiple investors involved in discussions for a deal.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018Transportation",
-            "date": "2025-04-03T21:21:07Z",
-            "sentiment-score": 0.66741793602705
-        },
-        {
-            "id": "764a3fdc-503a-3dfd-8cd2-d527a568a9c1",
-            "summary": "AMD, NVIDIA, Microsoft, Meta and Oracle are part of the Zacks top Analyst Blog.",
-            "date": "2025-04-04T13:00:00Z",
-            "sentiment-score": 0.004079347476363182
-        },
-        {
-            "id": "eb890132-a0ae-3cba-bb38-a2c13adc4b80",
-            "summary": "The tech-heavy Nasdaq Composite (^IXIC) is set to enter a bear market. Futurum Group CEO Daniel Newman joins Catalysts with Madison Mills and Lumida Wealth Management CEO Ram Ahluwalia to discuss what President Donald Trump's new tariffs mean for tech CEOs and their artificial intelligence (AI) spending. To watch more expert insights and analysis on the latest market action, check out more Catalysts here.",
-            "date": "2025-04-04T17:00:00Z",
-            "sentiment-score": 0.026288065128028393
-        },
-        {
-            "id": "c5c85a5b-bd7d-37cb-9ac7-02907cecdaa1",
-            "summary": "The TikTok ban got another extension from President Trump, who said his administration is making progress on arranging a deal.",
-            "date": "2025-04-04T18:42:49Z",
-            "sentiment-score": 0.8917679395526648
-        },
-        {
-            "id": "a065592d-b225-3ff3-959a-56aa2bde3873",
-            "summary": "We recently published a list of Jim Cramer\u2019s Thoughts on Liberation Day, Tariffs, and 17 Stocks to Watch Right Now. In this article, we are going to take a look at where Oracle Corporation (NYSE:ORCL) stands against other stocks that Jim Cramer discusses. On Tuesday, April 1st, the host of Mad Money opened the show [\u2026]",
-            "date": "2025-04-05T03:14:26Z",
-            "sentiment-score": 0.009455039165914059
-        },
-        {
-            "id": "6a810bf4-7c70-3b84-9c7a-f203c0eb6908",
-            "summary": "We recently published a list of 11 Best Innovative Stocks to Buy According to Analysts. In this article, we are going to take a look at where Oracle Corporation (NYSE:ORCL) stands against other best innovative stocks to buy according to analysts. Innovative stocks are the companies that continuously invest in developing new products, services or [\u2026]",
-            "date": "2025-04-04T22:18:33Z",
-            "sentiment-score": 0.016621812246739864
-        },
-        {
-            "id": "34d40282-5d43-32cc-b403-6cdff0bf95f7",
-            "summary": "Higher prices may be in store for a range of materials used to build the data centers that will deliver AI.",
-            "date": "2025-04-04T22:13:00Z",
-            "sentiment-score": 0.717506930232048
-        },
-        {
-            "id": "38e5c5c8-57d9-3b7a-88ec-e4a4c84f7823",
-            "summary": "The major averages were sharply lower again near noon, continuing yesterday\u2019s post-tariff slide. China has retaliated with additional tariffs of 34% on all U.S. goods a day after the Trump administration imposed its own sweeping levies. Meanwhile, the latest U.S. jobs data show that nonfarm payrolls rose by a higher-than-forecast 228,000 jobs, though the unemployment rate has ticked higher. Looking to commodities, oil prices are sharply lower due to a planned output increase promised by OPEC+ as",
-            "date": "2025-04-05T16:10:32Z",
-            "sentiment-score": -0.7312252093106508
-        },
         {
             "id": "6155b2e5-fb5b-347d-a61a-97fd52eadc6f",
             "summary": "Investing.com -- The latest wave of U.S. tariffs rattled markets, hitting software stocks with declines ranging from low single digits to more than 10% in smaller-cap names. But according to Bernstein, the reaction may be more panic than substance.",
@@ -180,6 +84,54 @@
             "summary": "Oracle (ORCL) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.",
             "date": "2025-04-09T15:30:04Z",
             "sentiment-score": 0.005083848722279072
+        },
+        {
+            "id": "8b5cd3fe-2e33-3058-80ee-27e0d396cfcb",
+            "summary": "Artificial intelligence (AI) stocks haven't been performing well on the market in 2025 amid the tariff-fueled turmoil that threatens to send the U.S. economy into a recession.  Share prices of cloud infrastructure provider Oracle (NYSE: ORCL) are down nearly 20% so far in 2025 as of this writing, while data streaming platform provider Confluent (NASDAQ: CFLT) has dipped more than 23%.  Both companies saw an uptick in their financial performances thanks to AI adoption, but the generally negative stock market sentiment is taking its toll.",
+            "date": "2025-04-12T08:10:00Z",
+            "sentiment-score": -0.9573291894048452
+        },
+        {
+            "id": "1ae0b4ca-8d4e-39dd-9419-7d41799b6094",
+            "summary": "Plaintiffs claimed the tech company\u2019s commission structure for sales workers violated state wage laws, among other allegations.",
+            "date": "2025-04-11T16:50:00Z",
+            "sentiment-score": -0.8802275573834777
+        },
+        {
+            "id": "1feee77a-2184-395d-8273-a53f9897c32f",
+            "summary": "GOOGL unveils Ironwood Tensor Processing Unit, Cloud Wide Area Network, and Gemini 2.5 AI model to power next-generation enterprise AI and quantum breakthroughs.",
+            "date": "2025-04-11T15:25:00Z",
+            "sentiment-score": 0.1572622270323336
+        },
+        {
+            "id": "5e87eddc-0f9b-3a6f-87d9-f830020ee9a6",
+            "summary": "We recently published a list of Top 12 Tech Stocks to Buy According to Billionaire Ken Fisher. In this article, we are going to take a look at where Oracle Corporation (NYSE:ORCL) stands against other top tech stocks to buy according to Billionaire Ken Fisher. Under the umbrella of Fisher Asset Management, Billionaire Ken Fisher [\u2026]",
+            "date": "2025-04-10T21:46:41Z",
+            "sentiment-score": 0.011625628918409348
+        },
+        {
+            "id": "daead1f4-9933-3782-96bf-23d4b23b683a",
+            "summary": "Advanced Micro Devices is benefiting from an expanding usage of its fifth-generation EPYC processors.",
+            "date": "2025-04-10T16:49:00Z",
+            "sentiment-score": 0.8557468517683446
+        },
+        {
+            "id": "0edfb9fe-89b4-3454-9afc-9dc4bd3a5006",
+            "summary": "President Trump's announcement of tariffs on imports from countries worldwide has rocked the stock market -- and the tech-heavy Nasdaq Composite (NASDAQINDEX: ^IXIC) has led the decline, crashing more than 20% from its most recent high.  Why are tech stocks being hit so hard?  All this has prompted investors to worry about tech earnings ahead, fleeing shares of these companies.",
+            "date": "2025-04-09T22:10:00Z",
+            "sentiment-score": -0.949106028303504
+        },
+        {
+            "id": "7d12e6b0-00ff-4109-af66-10b3c5b8c126",
+            "summary": "The tech industry tried to cozy up to the Trump Administration in the hopes that it could avoid getting caught in the crossfire of his policy moves. But they couldn't dodge his tariffs.",
+            "date": "2025-04-09T19:29:14Z",
+            "sentiment-score": -0.2778167128562927
+        },
+        {
+            "id": "ae42b341-bbc4-3237-9393-84b6452fce89",
+            "summary": "ORCL faces dual security breaches as capital spending surges. With slowing growth and damaged trust, investors may want to reconsider positions despite AI ambitions.",
+            "date": "2025-04-09T19:00:00Z",
+            "sentiment-score": -0.8996466603130102
         }
     ]
 }

@@ -1,300 +1,18 @@
 {
     "ticker": "META",
-    "total_news": 96,
-    "average_sentiment": -0.3128828585492253,
-    "weighted_average_sentiment": -0.28449403772786497,
+    "total_news": 61,
+    "average_sentiment": -0.22965865940252533,
+    "weighted_average_sentiment": -0.2096428761171971,
     "average_daily_sentiments": [
+        -0.1122889124788344,
+        -0.09447146353444882,
+        0,
         -0.22555503440606925,
         -0.40862359007058496,
         0.02475224120112566,
-        -0.41769965216517446,
-        -0.43008744379039854,
-        -0.2673996904133154,
-        -0.5185778074276944
+        -0.41769965216517446
     ],
     "news": [
-        {
-            "id": "66e9e071-3b3d-3e1e-89c2-cbd42ae88c77",
-            "summary": "Meta becomes UFC's Official Fan Technology Partner and Official AI Glasses Partner.",
-            "date": "2025-04-02T20:54:06Z",
-            "sentiment-score": 0.08002628106623888
-        },
-        {
-            "id": "530ef550-2940-3499-90bc-30331b2f09b2",
-            "summary": "Meta and its representatives met with the president and his senior advisers ahead of an April 14 Federal Trade Commission trial that could force the company to unwind its acquisitions of messaging platform WhatsApp and image-sharing app Instagram.  \"We regularly meet with policymakers to discuss issues impacting competitiveness, national security, and economic growth,\" Meta told Reuters.  The White House had no immediate comment and a spokesperson for the FTC declined to comment.",
-            "date": "2025-04-02T19:17:29Z",
-            "sentiment-score": -0.22402493003755808
-        },
-        {
-            "id": "5c000f08-d15b-3c6f-970d-bbd81e5c232b",
-            "summary": "Meta\u2019s chief executive was at the White House on Wednesday, his third visit during Trump\u2019s presidency, according to people familiar with the matter.",
-            "date": "2025-04-02T19:05:00Z",
-            "sentiment-score": -0.022171677090227604
-        },
-        {
-            "id": "88299bf8-d350-409e-b271-3be28d8c7732",
-            "summary": "Stocks sold off late Wednesday as President Trump's reciprocal tariffs proved to be harsher than many on Wall Street had expected.",
-            "date": "2025-04-02T22:23:45Z",
-            "sentiment-score": -0.8128671087324619
-        },
-        {
-            "id": "c354e56c-b00f-31ba-92c8-e7588d7ec806",
-            "summary": "Since October 2024, Meta has been in a holding pattern, posting a small loss of 2.8% while floating around $566.59.",
-            "date": "2025-04-03T09:02:52Z",
-            "sentiment-score": -0.8388824593275785
-        },
-        {
-            "id": "9d961d80-1a49-3492-bb5b-4e879a940af9",
-            "summary": "The recent market correction is raising anxiety for some investors, but the stock market historically rises for longer stretches than it falls.  Shares of Meta Platforms (NASDAQ: META) delivered excellent returns over the last 10 years, rising more than 585%.  The company fueled those returns with annualized revenue growth of 29%, and it's still growing at high rates that could support more market-beating gains in the coming years.",
-            "date": "2025-04-03T08:21:00Z",
-            "sentiment-score": 0.9138025213032961
-        },
-        {
-            "id": "2dd088da-3858-3b80-81a3-7e10d6d8e4fa",
-            "summary": "The company's AI prospects may face a hiccup.",
-            "date": "2025-04-02T23:03:00Z",
-            "sentiment-score": -0.8978423271328211
-        },
-        {
-            "id": "086d86aa-7292-3b73-b011-1789baf212b1",
-            "summary": "The lawsuit, filed in 2020 by the Federal Trade Commission under Trump\u2019s first administration, is scheduled to go to trial on April 14.",
-            "date": "2025-04-02T21:49:46Z",
-            "sentiment-score": -0.09441450424492359
-        },
-        {
-            "id": "c713c3e3-68ee-4cc6-bbf7-b6a230f1388b",
-            "summary": "The tariff-fueled sell-off has erased over $900 billion from Magnificent Seven stocks.",
-            "date": "2025-04-03T20:27:10Z",
-            "sentiment-score": -0.9356228290125728
-        },
-        {
-            "id": "eaa51833-dc95-3e9b-92fa-96209222504f",
-            "summary": "(Bloomberg) -- The retail traders who have stormed the markets in recent years were among the only investors buying on Thursday as US stocks had their worst day since June 2020.Most Read from BloombergMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeHousing Agency Aims to Relocate Its DC HeadquartersWhat Would \u2018Transportation Abundance\u2019 Look Like?Small investor",
-            "date": "2025-04-03T20:38:38Z",
-            "sentiment-score": 0.033882804214954376
-        },
-        {
-            "id": "152357c8-0ef5-3cd6-a3a3-a03e734f9053",
-            "summary": "Meta stock and other social media players tumbled Thursday on concerns that tariffs will slow spending in digital advertising.",
-            "date": "2025-04-03T20:14:35Z",
-            "sentiment-score": -0.9523678831756115
-        },
-        {
-            "id": "f334089c-2fa7-3758-86cc-7da6263372fe",
-            "summary": "Chinese e-commerce merchants are going to have a much harder time selling their products in the U.S. - at least at cut-rate prices.  Among megacap tech stocks, Amazon and Meta were the hardest hit in Thursday\u2019s tariff-sparked selloff, save for Apple.  The two stocks closed down 9% on Thursday, with Meta losing twice as much on a percent basis as Google-parent Alphabet, which is its largest rival in online advertising.",
-            "date": "2025-04-03T20:04:10Z",
-            "sentiment-score": -0.9570728722028434
-        },
-        {
-            "id": "46041114-4ba0-37bf-adb7-09bba31b6559",
-            "summary": "The whole U.S. stock market is feeling the pain from the sweeping new tariffs that President Trump announced Wednesday after the market closed.  As of 1:10 p.m. ET Thursday, the blue chip Dow Jones Industrial Average had fallen by over 1,300 points (3.1%), the broad market S&P 500 was off by 3.9%, and the tech-heavy Nasdaq Composite was down by 4.9%.  At that time, shares of Apple (NASDAQ: AAPL) traded more than 8% lower, Meta Platforms (NASDAQ: META) was down more than 6%, and shares of Alphabet (NASDAQ: GOOGL) were off by more than 3%.",
-            "date": "2025-04-03T18:27:12Z",
-            "sentiment-score": -0.9542894400656223
-        },
-        {
-            "id": "fb1882bd-cd6a-3548-b904-33e2140d8e67",
-            "summary": "Meta Platforms is likely to get hit by tariffs in a somewhat roundabout way.  Brands may pull back on marketing spending, as selling products to the U.S. stands to become more expensive, according to advertising analyst Brian Wieser.  Wieser estimates roughly $10 billion of Meta\u2019s revenue for ads shown in the U.S. originates from advertisers located outside the country\u2013mainly from China.",
-            "date": "2025-04-03T17:55:58Z",
-            "sentiment-score": -0.11603916063904762
-        },
-        {
-            "id": "363de2b9-a478-3aa7-b9d8-8024db34f859",
-            "summary": "Recently, Meta Platforms (NasdaqGS:META) entered a significant multiyear partnership with UFC to enhance fan engagement, potentially strengthening the brand's position in fan technology. Despite this development, Meta's shares declined by 3% over the last quarter. This decline coincides with broader market reactions to new tariffs announced by President Trump, which affected tech stocks across the board, including a notable 7% drop in Meta on the day of the announcement. The market...",
-            "date": "2025-04-03T17:33:45Z",
-            "sentiment-score": -0.9346505338326097
-        },
-        {
-            "id": "8eded1ea-9793-315a-9b00-5d1ce390e8ad",
-            "summary": "We recently published a list of Top 10 Stocks to Watch as AI Trade Dynamics Change. In this article, we are going to take a look at where Meta Platforms (NASDAQ:META) stands against other top stocks to watch as AI trade dynamics change. Aswath Damodaran from NYU Stern School of Business said in a recent [\u2026]",
-            "date": "2025-04-03T16:38:17Z",
-            "sentiment-score": 0.01993153989315033
-        },
-        {
-            "id": "84aca5dd-9860-36a0-83b7-77c5531f24b4",
-            "summary": "(Bloomberg) -- The world\u2019s 500 richest people saw their combined wealth plunge by $208 billion Thursday as broad tariffs announced by President Donald Trump sent global markets into a tailspin. Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018Transportation Abundance\u2019 Look Li",
-            "date": "2025-04-03T21:22:23Z",
-            "sentiment-score": -0.5442853644490242
-        },
-        {
-            "id": "c5aa1a9a-4eba-38b3-8a56-4be9e3037d1a",
-            "summary": "U.S. stock indexes saw their biggest drop in value since March 2020, one day after President Trump announced a 10% across-the-board tariff for all foreign imports, and higher rates for other countries.",
-            "date": "2025-04-03T21:04:00Z",
-            "sentiment-score": -0.9573400118388236
-        },
-        {
-            "id": "9ab8e6d0-1dc5-37de-ad47-db841426b2ca",
-            "summary": "David Tepper didn't amass a net worth of $21.3 billion by thinking conventionally.  If you look at the top holdings in Tepper's Appaloosa Management portfolio, you'll probably quickly see that the billionaire seems to like artificial intelligence (AI) stocks.  Amazon (NASDAQ: AMZN) has been an AI leader for years.",
-            "date": "2025-04-04T08:47:00Z",
-            "sentiment-score": 0.028229260351508856
-        },
-        {
-            "id": "1247f873-8dec-3853-be7b-67a33ebe6b7b",
-            "summary": "A Kenyan court has ruled that Facebook's parent company Meta can be sued in the East African country over its alleged role in promoting content that led to ethnic violence in neighbouring Ethiopia, a plaintiff in the case said.  The landmark case, which stems from alleged hate speech on the platform during the 2020-2022 civil war in northern Ethiopia's Tigray region, could have implications for how Meta works with content moderators globally.",
-            "date": "2025-04-04T08:41:28Z",
-            "sentiment-score": -0.7455351781100035
-        },
-        {
-            "id": "2a4a303e-674d-43f1-b50d-9e3a749fa634",
-            "summary": "Apple might be having a tough time rolling out its new AI systems, but don't count it out as an investment just yet.",
-            "date": "2025-04-04T13:30:27Z",
-            "sentiment-score": 0.00816696509718895
-        },
-        {
-            "id": "8a30a12a-97e7-33ef-aa25-98985c1d1e92",
-            "summary": "Meta, however, could push back the release of Llama 4 again, the report said, citing two people familiar with the matter.  Big technology firms have been investing aggressively in AI infrastructure following the success of OpenAI's ChatGPT, which altered the tech landscape and drove investment into machine learning.  The report said one of the reasons for the delay is during development, Llama 4 did not meet Meta's expectations on technical benchmarks, particularly in reasoning and math tasks.",
-            "date": "2025-04-04T15:03:40Z",
-            "sentiment-score": -0.35952457040548325
-        },
-        {
-            "id": "2e3e61be-e9b1-3fe9-9262-0e283ca3d0f7",
-            "summary": "Not great. Here's their combined loss of market value Thursday, according to Dow Jones Market Data\u2014a record one-day wipeout: $1.03 trillion lost market value Given their size, those moves translated into huge market-value drops: Apple alone lost $311 billion.",
-            "date": "2025-04-04T13:41:56Z",
-            "sentiment-score": -0.9421958513557911
-        },
-        {
-            "id": "bbfa858c-a181-338a-ae12-623bcbdbcf17",
-            "summary": "MADRID/BARCELONA (Reuters) -Canadian-based tech company Telus is dismissing as many as 2,000 people from its content moderation centre in Barcelona after Facebook owner Meta Platforms severed its contract, local unions CCOO and UGT said.  The company - operating locally as CCC Barcelona Digital Services - emailed its workers on Thursday placing them on gardening leave.  The email, which Reuters had access to, did not specify who the client was, but UGT and CCOO said Telus' client was Meta.",
-            "date": "2025-04-04T13:40:13Z",
-            "sentiment-score": -0.9328953512012959
-        },
-        {
-            "id": "2c3d14ee-484a-3af3-bee5-761e8ae11c5b",
-            "summary": "BofA notes that President Trump\u2019s newly announced tariffs were larger than anticipated and are \u201ca direct negative\u201d for discretionary retail sales and advertising. In addition, the potential for increasing recession fears fueled by the tariffs are \u201ca relative negative for the entire Internet sector,\u201d which the analyst notes underperformed in 2008 and 2022 as fears of a recession grew. The \u201conly potential silver lining\u201d is that proposed rates could be viewed as a negotiation tool that may not be f",
-            "date": "2025-04-04T13:16:20Z",
-            "sentiment-score": -0.8933798782527447
-        },
-        {
-            "id": "6eb8dc92-d789-3a1a-942e-b5dc5bae7bb4",
-            "summary": "Meta Platforms (META) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
-            "date": "2025-04-04T13:00:14Z",
-            "sentiment-score": -0.006131412461400032
-        },
-        {
-            "id": "752c16f5-23a0-3c00-8ba3-14ed27f1f712",
-            "summary": "Meta's technologies, including Meta AI, Meta Glasses, Meta Quest, will be integrated into UFC's content delivery.",
-            "date": "2025-04-04T11:47:14Z",
-            "sentiment-score": 0.06242555030621588
-        },
-        {
-            "id": "e3bdc057-4bf9-34a1-a862-8725e84b144c",
-            "summary": "Change is good. But companies undergoing \"positive dynamic change\" is even better. That's the stock picking motto of Alger Focus Equity (ALAFX), a 2025 IBD Best Mutual Funds award winner.",
-            "date": "2025-04-04T11:00:24Z",
-            "sentiment-score": 0.1312319515272975
-        },
-        {
-            "id": "1bca3a52-1f56-3a09-9301-1c69745510dd",
-            "summary": "The recent stock market sell-off is creating some nice buying entry points, particularly in the tech sector.  Uncertainties surrounding tariffs and the economy, coupled with President Donald Trump's \"Liberation Day\" tariff announcements, pushed stocks down hard.  Over the long term, the stock market should bounce back, as it always has.",
-            "date": "2025-04-04T09:30:00Z",
-            "sentiment-score": 0.5749684255570173
-        },
-        {
-            "id": "b0c5659d-a1ab-37a9-91f1-1bc9b9b03778",
-            "summary": "All \"Magnificent Seven\" names \u2014 Nvidia (NVDA), Alphabet (GOOG, GOOGL), Tesla (TSLA), Microsoft (MSFT), Amazon (AMZN), Meta (META), and Apple (AAPL) \u2014 are in the red under Trump's second administration. Yahoo Finance podcast Stocks in Translation host Jared Blikre takes a closer look at the group's moves. Catch more Stocks in Translation here, with new episodes every Tuesday and Thursday. To watch more expert insights and analysis on the latest market action, check out more Catalysts here.",
-            "date": "2025-04-04T15:56:11Z",
-            "sentiment-score": 0.02140659186989069
-        },
-        {
-            "id": "57df0e2d-5f3d-34f7-91e3-89cfbd480e31",
-            "summary": "Believe it or not, there are other things going on in the world of business and tech than tariffs and sell-offs in the \"Magnificent 7.\" Take blockchain, crypto and Web3 \u2013 three areas that continue to see their fair share of startups seeking to make their names. Yahoo Finance Executive Editor Brian Sozzi sits down with Mysten Labs co-founder and CEO Evan Cheng. Cheng has spent good chunks of time in tech leadership roles at Apple (AAPL) and Meta (META). Since 2021, he has been building the Web3 platform Mylen Labs. The timing looks to have been spot on, as the crypto space has notched several wins under the Trump administration. With President Trump leaning into making the US the bitcoin (BTC-USD) capital of the world, what does it mean for Web3 early entrants such as Mylen Labs? Cheng weighs in,and shares how leadership lessons learned at Apple and Meta are paying dividends at his startup. For full episodes of Opening Bid, listen on your favorite podcast platform or watch on our website. Yahoo Finance's Opening Bid is produced by Langston Sessoms",
-            "date": "2025-04-04T10:00:00Z",
-            "sentiment-score": 0.028595812618732452
-        },
-        {
-            "id": "e663c8bc-7666-36a5-ba3c-6a6aea010e2e",
-            "summary": "Meta, however, could push back the release of Llama 4 again, the report said, citing two people familiar with the matter.  Big technology firms have been investing aggressively in AI infrastructure following the success of OpenAI's ChatGPT, which altered the tech landscape and drove investment into machine learning.  The report said one of the reasons for the delay is during development, Llama 4 did not meet Meta's expectations on technical benchmarks, particularly in reasoning and math tasks.",
-            "date": "2025-04-04T15:03:40Z",
-            "sentiment-score": -0.35952457040548325
-        },
-        {
-            "id": "63bbf8d3-2816-39ea-8732-e3389b227237",
-            "summary": "Meta prepares to release Llama 4, expand business API, and showcase updates at upcoming LlamaCon developer event",
-            "date": "2025-04-04T17:17:23Z",
-            "sentiment-score": 0.47738137654960155
-        },
-        {
-            "id": "321bf32e-79b2-3f5c-96be-6a712654492b",
-            "summary": "Meta Platforms (NasdaqGS:META) recently announced a significant multiyear partnership with UFC to enhance global fan engagement, establishing Meta as the Official Fan Technology and AI Glasses Partner. Despite this potentially positive development for the company, Meta's shares have fallen 11.78% over the last week, during a broader market downturn. The decline comes amid widespread concerns over President Donald Trump's announcement of sweeping tariffs, with major indexes like the Nasdaq...",
-            "date": "2025-04-04T18:22:49Z",
-            "sentiment-score": -0.9577573370188475
-        },
-        {
-            "id": "2460a497-b889-4618-baeb-ec3778d59c88",
-            "summary": "Nvidia and Tesla led megacaps lower on Friday as stocks continued to sell off amid a global trade war.",
-            "date": "2025-04-04T20:28:05Z",
-            "sentiment-score": -0.9510598769411445
-        },
-        {
-            "id": "6daea0f0-24c7-3230-aec9-30b209752e69",
-            "summary": "Wisconsin in February reached an agreement with an unnamed company using an alias to develop a data center in the state with an expected multiyear investment of $837 million, according to documents seen by Bloomberg.  The company behind the project is Meta, the report said.  Both Meta and the Wisconsin Economic Development Corp declined to comment on the report when contacted by Reuters.",
-            "date": "2025-04-04T20:54:53Z",
-            "sentiment-score": 0.029983632266521454
-        },
-        {
-            "id": "c768f78f-e40e-3309-9cb7-272dc391e02a",
-            "summary": "Shares of Meta Platforms, Pinterest and Reddit all fell again Friday in response to President Trump\u2019s sweeping tariffs on goods from many countries, including China and Vietnam.  The parent company of Google\u2014not a social media company but certainly a major player in the ad world\u2014also slid.  Companies that use social media platforms to reach customers are expected to pull back on ad spend, due to higher operating costs and dampened enthusiasm for chasing U.S. users if the cost of doing business here rises dramatically, according to analysts.",
-            "date": "2025-04-04T20:44:05Z",
-            "sentiment-score": -0.9557015504688025
-        },
-        {
-            "id": "c0be4de8-f2b2-320e-b50b-bc63107b2879",
-            "summary": "(Bloomberg) -- Meta Platforms Inc. plans to spend nearly $1 billion on the development of a data center project in central Wisconsin, underscoring a larger effort from the social media giant to ramp up investments in AI and cloud infrastructure.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersWhat Would \u2018Transportation Abundance\u2019 Look Like?London Cl",
-            "date": "2025-04-04T19:57:37Z",
-            "sentiment-score": 0.10988254053518176
-        },
-        {
-            "id": "037a4e0a-9f7d-3830-a458-37cb3e923cf6",
-            "summary": "We recently published a list of 11 Best Innovative Stocks to Buy According to Analysts. In this article, we are going to take a look at where Meta Platforms, Inc. (NASDAQ:META) stands against other best innovative stocks to buy according to analysts. Innovative stocks are the companies that continuously invest in developing new products, services [\u2026]",
-            "date": "2025-04-04T22:15:07Z",
-            "sentiment-score": 0.016039971262216568
-        },
-        {
-            "id": "38e5c5c8-57d9-3b7a-88ec-e4a4c84f7823",
-            "summary": "The major averages were sharply lower again near noon, continuing yesterday\u2019s post-tariff slide. China has retaliated with additional tariffs of 34% on all U.S. goods a day after the Trump administration imposed its own sweeping levies. Meanwhile, the latest U.S. jobs data show that nonfarm payrolls rose by a higher-than-forecast 228,000 jobs, though the unemployment rate has ticked higher. Looking to commodities, oil prices are sharply lower due to a planned output increase promised by OPEC+ as",
-            "date": "2025-04-05T16:10:32Z",
-            "sentiment-score": -0.7312252093106508
-        },
-        {
-            "id": "57feed22-fd8d-38bc-a89c-98df7151c6cc",
-            "summary": "We recently published a list of Mag7 and Beyond: Top 10 AI News Updates and Ratings. In this article, we are going to take a look at where Meta Platforms, Inc. (NASDAQ:META) stands against other top AI news updates and ratings. According to a study presented at a European Central Bank conference, companies that manage [\u2026]",
-            "date": "2025-04-05T15:06:23Z",
-            "sentiment-score": 0.018671244382858276
-        },
-        {
-            "id": "1445dcab-5a60-303a-bc80-3875594c3d9a",
-            "summary": "Meta\u2019s (META) ambitious push into augmented and virtual reality through Reality Labs has been a costly gamble, with billions poured into its development. While a breakthrough in AR/VR (augmented reality/virtual reality) could solidify Meta\u2019s dominance in the next computing era, failure to deliver could lead to major cost-cutting. Let\u2019s look at key 2024 Reality Labs figures from MSD on Meta. Meta\u2019s Reality Labs Metrics Meta\u2019s Reality Labs is the company\u2019s ambitious division focused on AR and VR t",
-            "date": "2025-04-05T13:08:23Z",
-            "sentiment-score": -0.011029057204723358
-        },
-        {
-            "id": "bb225490-35ac-388d-8655-50c70e4e2e04",
-            "summary": "While the \"Magnificent Seven\" stocks have been some of the best investments over the past few years, they've been poor performers in 2025.  Investors are moving their money from stocks they deem risky to either cash or safer investments, and the Magnificent Seven are some of the stocks they turn to first to raise capital.",
-            "date": "2025-04-05T10:15:00Z",
-            "sentiment-score": -0.8031543847173452
-        },
-        {
-            "id": "1c4e98b9-8652-3d64-bc43-942999246ca6",
-            "summary": "These proven market-beating stocks have declined between 12% and 64% from their highs. Consider buying the dip.",
-            "date": "2025-04-05T09:40:00Z",
-            "sentiment-score": -0.7436461038887501
-        },
-        {
-            "id": "66db2c35-67da-485c-932e-662e7492dcb7",
-            "summary": "Social media sites are being flooded with AI nonsense. Here's how to clean your feed.",
-            "date": "2025-04-05T18:01:33Z",
-            "sentiment-score": -0.00783696211874485
-        },
-        {
-            "id": "c5230d51-7bab-3d67-b6c5-a87fa8751df6",
-            "summary": "Meta Platforms (NasdaqGS:META) recently announced a multi-year partnership with UFC to enhance fan engagement using its technologies, but despite this development, the company's stock declined by 12% last week. This drop coincided with significant market downturns, as the Nasdaq entered bear market territory following tariff announcements from the U.S. and retaliatory measures from China. The broader technology sector suffered, with major indexes recording sharp weekly declines. Such external...",
-            "date": "2025-04-05T18:18:06Z",
-            "sentiment-score": -0.9533265018835664
-        },
-        {
-            "id": "ab9f04af-baca-3efc-8c85-a72a3d2db0ab",
-            "summary": "The end of an empire could be quickly approaching.",
-            "date": "2025-04-05T15:17:00Z",
-            "sentiment-score": -0.20915257558226585
-        },
         {
             "id": "67128573-4a47-3672-a647-d96d0c9139f3",
             "summary": "Following President Donald Trump's \"Liberation Day\" tariff announcement, stocks plummeted as fears escalated regarding a potential global trade war and how it could impact the global economy.  While there certainly could be more pressure on stocks in the coming weeks depending on how this all plays out, it also has created some solid entry points for several top tech stocks where investors can start to at least dip their toes into the stocks.  Let's look at three bargain tech stocks investors can consider buying now.",
@@ -588,6 +306,78 @@
             "summary": "It's the latest step in the company's attempts to expand safety measures.",
             "date": "2025-04-09T15:52:56Z",
             "sentiment-score": 0.7603542655706406
+        },
+        {
+            "id": "7e2c62a6-4998-3ef8-815e-702b5f7f77d3",
+            "summary": "Markets (^GSPC,&nbsp;^IXIC,&nbsp;^DJI) are shifting as investors look beyond the once-dominant \"Magnificent Seven\" and focus on international equities gaining traction. Horizon Investments head of research and quantitative strategies Mike Dickson joins Market Domination to discuss why global diversification may be the new core strategy as capital moves away from US assets. To watch more expert insights and analysis on the latest market action, check out more Market Domination&nbsp;here.",
+            "date": "2025-04-12T12:00:05Z",
+            "sentiment-score": 0.04364916542544961
+        },
+        {
+            "id": "a77feb0c-dbf6-3e41-a19f-9562340b61e4",
+            "summary": "We recently published a list of the 13 NASDAQ Stocks with the Highest Upside Potential. In this article, we are going to take a look at where Meta Platforms Inc. (NASDAQ:META) stands against other NASDAQ stocks with high upside potential. On April 7, Dan Ives of Wedbush Securities joined CNBC\u2019s \u2018Squawk on the Street\u2019 to [\u2026]",
+            "date": "2025-04-12T12:46:14Z",
+            "sentiment-score": 0.02446006890386343
+        },
+        {
+            "id": "dc76fc9f-8ae3-3a3a-81cc-c0b215903e08",
+            "summary": "Facebook and Instagram\u2019s advertising dollars could be particularly vulnerable in the event of a recession.",
+            "date": "2025-04-12T09:00:00Z",
+            "sentiment-score": -0.922646502032876
+        },
+        {
+            "id": "06769a5e-dff7-3a42-88a5-ff56851cc27a",
+            "summary": "RESEARCH REPORTS These reports, excerpted and edited by Barron\u2019s, were issued recently by investment and research firms. The reports are a sampling of analysts\u2019 thinking; they should not be considered the views or recommendations of Barron\u2019s.",
+            "date": "2025-04-11T23:29:00Z",
+            "sentiment-score": -0.02252632286399603
+        },
+        {
+            "id": "502b373b-1d74-3c4d-95ec-56c809a4f6ea",
+            "summary": "South Korean AI hardware startup FuriosaAI has made waves in the global semiconductor industry after reportedly turning down an $800 million acquisition offer from Meta (NASDAQ:META). The decision shows the startup's ambition to remain independent and compete directly in the rapidly evolving AI chip market dominated by NVIDIA (NASDAQ:NVDA) and increasingly encroached on by tech giants like Alphabet (NASDAQ:GOOGL, GOOG)) and Microsoft (NASDAQ:MSFT). Don't Miss: Hasbro, MGM, and Skechers trust thi",
+            "date": "2025-04-11T23:02:22Z",
+            "sentiment-score": 0.09254013001918793
+        },
+        {
+            "id": "2f2d7352-a336-3528-9a6a-b829a385b2d4",
+            "summary": "Powell McCormick, who spent 16 years in senior leadership roles at Goldman Sachs, has previously served as deputy national security adviser to U.S. President Donald Trump in his first term.  She has also served as a senior White House adviser and as assistant secretary of state for Condoleezza Rice under President George W. Bush.",
+            "date": "2025-04-11T22:42:56Z",
+            "sentiment-score": -0.002621816471219063
+        },
+        {
+            "id": "f6a4c027-0bc1-3972-83ae-ac891e69d078",
+            "summary": "Meta Platforms expands its teen accounts with new protections on Instagram, Facebook, and Messenger to give parents more peace of mind and improve teen safety online.",
+            "date": "2025-04-11T19:00:00Z",
+            "sentiment-score": 0.8375384444370866
+        },
+        {
+            "id": "d55b68e7-2081-32e4-8e24-d446fe8ddb10",
+            "summary": "We recently published a list of Long-Term Stock Portfolio: 15 Best Stocks for 15 Years. In this article, we are going to take a look at where Meta Platforms, Inc. (NASDAQ:META) stands against other best stocks for 15 years. Russell Investments believes that 3 features are defining the market outlook for 2025. These include the [\u2026]",
+            "date": "2025-04-11T18:08:57Z",
+            "sentiment-score": 0.019014141522347927
+        },
+        {
+            "id": "025703b1-35bb-3889-8112-8d0137454aa8",
+            "summary": "Meta Hit by UBS Price Cut as Advertisers Shift Spend Strategy",
+            "date": "2025-04-11T14:59:03Z",
+            "sentiment-score": -0.8964412454515696
+        },
+        {
+            "id": "f82646c1-4ee6-4a32-89cc-bda23572ce50",
+            "summary": "Meta is preparing for the start of a courtroom battle Monday with the US government in an antitrust case that could force Mark Zuckerberg to break up his $1.3 trillion empire and sell one of its crown jewels: Instagram.",
+            "date": "2025-04-12T14:00:19Z",
+            "sentiment-score": -0.6371034234762192
+        },
+        {
+            "id": "8a6a73a0-2cd9-39d8-921a-e164d9ff91ef",
+            "summary": "This week, Meta Platforms (NasdaqGS:META) announced the expansion of its Board of Directors, with the addition of two seasoned professionals, Dina Powell McCormick and Patrick Collison. This expansion, coupled with product releases such as the Llama 4 series and substantial investment in a new data center, signifies Meta\u2019s continued focus on strengthening leadership and technological infrastructure. Over the same period, Meta\u2019s stock rose by 7.7%, slightly outperforming the broader market's...",
+            "date": "2025-04-12T17:23:41Z",
+            "sentiment-score": 0.9301961287856102
+        },
+        {
+            "id": "27c09758-0945-397d-9cbe-ad94df39eda9",
+            "summary": "The government\u2019s antitrust case could force Mark Zuckerberg to give up Instagram and WhatsApp\u2014shaking Meta\u2019s dominance.",
+            "date": "2025-04-11T17:32:48Z",
+            "sentiment-score": -0.6888035759329796
         }
     ]
 }

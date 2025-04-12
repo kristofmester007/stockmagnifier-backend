@@ -1,48 +1,18 @@
 {
     "ticker": "IBM",
-    "total_news": 19,
-    "average_sentiment": 0.21961331010894164,
-    "weighted_average_sentiment": 0.27323367854871794,
+    "total_news": 23,
+    "average_sentiment": 0.14590671290036128,
+    "weighted_average_sentiment": 0.10870972511861306,
     "average_daily_sentiments": [
-        0.3121938842038314,
+        0.6152868838980794,
+        -0.7882710350677371,
+        0.24039349736024937,
+        -0.04867787260029997,
         0.19760154436031976,
         0.4920395975932479,
-        -0.0053644925355911255,
-        0,
-        0.05724510340951383,
-        -0.012695126235485077
+        -0.0053644925355911255
     ],
     "news": [
-        {
-            "id": "726d84d1-26fb-3ab9-8373-0ae83b6c6e35",
-            "summary": "In the most recent trading session, IBM (IBM) closed at $249.98, indicating a -0.14% shift from the previous trading day.",
-            "date": "2025-04-02T21:45:14Z",
-            "sentiment-score": -0.07137210853397846
-        },
-        {
-            "id": "96a7134f-1925-3248-be1c-c151a7ba9bdd",
-            "summary": "Netflix, Comcast, IBM, and two others look like good bets in the market downturn, according to these analysts.",
-            "date": "2025-04-03T17:33:00Z",
-            "sentiment-score": -0.012695126235485077
-        },
-        {
-            "id": "03826f37-5adb-38ee-b271-20e6799ab337",
-            "summary": "The companies will explore the development of technology for smaller nodes and chiplet architectures.",
-            "date": "2025-04-04T14:46:06Z",
-            "sentiment-score": 0.13585750223137438
-        },
-        {
-            "id": "eb890132-a0ae-3cba-bb38-a2c13adc4b80",
-            "summary": "The tech-heavy Nasdaq Composite (^IXIC) is set to enter a bear market. Futurum Group CEO Daniel Newman joins Catalysts with Madison Mills and Lumida Wealth Management CEO Ram Ahluwalia to discuss what President Donald Trump's new tariffs mean for tech CEOs and their artificial intelligence (AI) spending. To watch more expert insights and analysis on the latest market action, check out more Catalysts here.",
-            "date": "2025-04-04T17:00:00Z",
-            "sentiment-score": 0.026288065128028393
-        },
-        {
-            "id": "b1499488-e9ec-395a-affc-21e8346af594",
-            "summary": "We recently published a list of Mag7 and Beyond: Top 10 AI News Updates and Ratings. In this article, we are going to take a look at where International Business Machines Corporation (NYSE:IBM) stands against other top AI news updates and ratings. According to a study presented at a European Central Bank conference, companies that [\u2026]",
-            "date": "2025-04-04T23:14:52Z",
-            "sentiment-score": 0.009589742869138718
-        },
         {
             "id": "2c282091-6bb1-37c9-8916-bce2ffb0b1ae",
             "summary": "The mostly forgotten former technology titan may quietly be sitting on the next big thing in AI's ongoing evolution.",
@@ -126,6 +96,60 @@
             "summary": "IBM Telum II processor-powered mainframe can process up to 50% more AI inference operations per day than its predecessor.",
             "date": "2025-04-09T16:06:19Z",
             "sentiment-score": 0.11617139261215925
+        },
+        {
+            "id": "1945f868-1ab4-342d-a14b-653ca6c52f79",
+            "summary": "Looking to invest in the future of computing without excessive risk? These three tech powerhouses are building quantum capabilities while generating massive profits from their more well-known core businesses.",
+            "date": "2025-04-12T11:49:00Z",
+            "sentiment-score": 0.6152868838980794
+        },
+        {
+            "id": "d2631671-bed5-3c98-bd78-fe3a8bd89b61",
+            "summary": "As the stock market swings wildly thanks to erratic, unpredictable, and potentially economically damaging tariff policies from the Trump administration, predicting anything in the near term about stocks has become next to impossible.  AT&T (NYSE: T), Berkshire Hathaway (NYSE: BRK.A) (NYSE: BRK.B), and IBM (NYSE: IBM) are three such companies that investors can buy and hold for the long run.  Telecom giant AT&T will certainly feel some pain if the Trump administration's tariff policy leads to an economic slowdown.",
+            "date": "2025-04-11T10:45:00Z",
+            "sentiment-score": -0.7882710350677371
+        },
+        {
+            "id": "b87f0562-79f2-3253-8adc-7c85d71f36e2",
+            "summary": "(Bloomberg) -- International Business Machines Corp. spent months revising its diversity initiatives as conservative attacks and souring attitudes toward DEI shifted into a full-blown assault from President Donald Trump.Most Read from BloombergMidtown Office Building Evacuated on Concerns of Wall CollapseIn Chicago, a Former Steel Mill Looks to Make a Quantum LeapThe Secret Formula for Faster TrainsHelicopter Crashes Into Hudson River With Multiple FatalitiesInside the Quiet, Extravagant Expansi",
+            "date": "2025-04-10T23:30:48Z",
+            "sentiment-score": -0.1513735130429268
+        },
+        {
+            "id": "18322992-289e-3c04-9419-e20f0749ae79",
+            "summary": "Silicon Motion (SIMO) was a big mover last session on higher-than-average trading volume. The latest trend in earnings estimate revisions might not help the stock continue moving higher in the near term.",
+            "date": "2025-04-10T15:15:00Z",
+            "sentiment-score": 0.8433930007740855
+        },
+        {
+            "id": "1995fddb-a11c-3755-be30-52f25d27a888",
+            "summary": "We recently published a list of 10 AI Stocks Investors Are Watching Today. In this article, we are going to take a look at where International Business Machines Corporation (NYSE:IBM) stands against other AI stocks investors are watching today. Tech experts strongly believe that the new tariffs could potentially slow down the AI boom. \u201cThe [\u2026]",
+            "date": "2025-04-10T12:02:07Z",
+            "sentiment-score": 0.029161004349589348
+        },
+        {
+            "id": "dd6d2c4b-5515-364e-ae31-7658c0669b5a",
+            "summary": "(Updates with Booz Allen's response in the third paragraph.) Booz Allen Hamilton Holding (BAH), A",
+            "date": "2025-04-09T20:13:06Z",
+            "sentiment-score": 0.0018016491085290909
+        },
+        {
+            "id": "7d12e6b0-00ff-4109-af66-10b3c5b8c126",
+            "summary": "The tech industry tried to cozy up to the Trump Administration in the hopes that it could avoid getting caught in the crossfire of his policy moves. But they couldn't dodge his tariffs.",
+            "date": "2025-04-09T19:29:14Z",
+            "sentiment-score": -0.2778167128562927
+        },
+        {
+            "id": "ff5f6616-2dd7-33a8-b38d-b9c6dad2a9ca",
+            "summary": "A number of stocks jumped in the afternoon session after markets rallied sharply on news that President Trump announced a 90-day tariff pause. Reciprocal tariffs were also dropped to 10% for most countries, sparking renewed optimism amid ongoing trade talks. The major stock indices rose as investors, growing impatient of seemingly irrational tariff actions, welcomed the pause as a sign of a more measured path forward.",
+            "date": "2025-04-09T18:39:03Z",
+            "sentiment-score": -0.21724315546453
+        },
+        {
+            "id": "494d0957-f5c3-3084-b2d1-57ef369c45f2",
+            "summary": "International Business Machines (NYSE:IBM) recently experienced investor activism, with shareholder John Chevedden filing a proposal to increase transparency on lobbying practices. Despite this, IBM's share price remained relatively flat over the last quarter. The company's earnings report indicated modest revenue growth, coupled with a drop in net income and EPS, which could have weighed on its stock. Meanwhile, IBM's ongoing product innovations and strategic alliances, like the introduction...",
+            "date": "2025-04-09T18:04:28Z",
+            "sentiment-score": -0.7840685416013002
         }
     ]
 }

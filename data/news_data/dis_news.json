@@ -1,72 +1,18 @@
 {
     "ticker": "DIS",
-    "total_news": 28,
-    "average_sentiment": -0.006699801239717219,
-    "weighted_average_sentiment": 0.053336201839535476,
+    "total_news": 29,
+    "average_sentiment": -0.10365142276639054,
+    "weighted_average_sentiment": -0.18237430656947445,
     "average_daily_sentiments": [
+        0.056091008707880974,
+        0.030967586673796177,
+        -0.5597765377024189,
         -0.026309939660131933,
         0.242145168595016,
         0.1490932619864387,
-        -0.1651404546573758,
-        0.08386167045682669,
-        -0.13051924528554082,
-        -0.9574647499248385
+        -0.1651404546573758
     ],
     "news": [
-        {
-            "id": "f0921bb1-5231-3379-bcea-2225c3ac6bd1",
-            "summary": "Most consumer discretionary businesses succeed or fail based on the broader economy. This sensitive demand profile can cause discretionary stocks to plummet when macro uncertainty enters the fray, and over the past six months, the industry has shed 10.7%. This drop was worse than the S&P 500\u2019s 5.2% fall.",
-            "date": "2025-04-03T19:38:08Z",
-            "sentiment-score": -0.9574647499248385
-        },
-        {
-            "id": "7bc468a6-3ca9-3e32-9f8d-3221aebe5215",
-            "summary": "Shares are up 100% so far in 2025.",
-            "date": "2025-04-04T08:05:00Z",
-            "sentiment-score": 0.9151300499215722
-        },
-        {
-            "id": "4bb153ba-8594-3e57-8b38-60d2d54c5865",
-            "summary": "The big gain, however, comes with an even bigger footnote.",
-            "date": "2025-04-04T12:40:08Z",
-            "sentiment-score": 0.11392270028591156
-        },
-        {
-            "id": "65474efb-cf6f-3b16-bad2-6d0033c4f8c9",
-            "summary": "The Walt Disney Company (NYSE:DIS) recently witnessed a share price decline of 12% over the past week, following a turbulent annual general meeting where several shareholder proposals were not approved. Additionally, the broader market saw a substantial downturn, with the Dow Jones Industrial Average dropping 4% amid growing trade concerns from escalated tariffs between the U.S. and China. Despite a new product launch of the Disney Princess Fragrance Collection, the general market downturn...",
-            "date": "2025-04-04T17:47:22Z",
-            "sentiment-score": -0.9532440509647131
-        },
-        {
-            "id": "1e57c813-b331-3eb3-a743-cc3961c2975a",
-            "summary": "Yahoo Finance Head of News Myles Udland, RSM chief economist Joe Brusuelas, and Epistrophy Capital Research's chief market strategist and host of \"The Drill Down\" podcast Cory Johnson take a look at some of the trending tickers of the day. Berkshire Hathaway (BRK-B, BRK-A) stock is under pressure as investors assess whether Warren Buffett is worried about the US economy. Nike (NKE) stock pops after President Donald Trump had a call with a Vietnamese official, fueling hopes that a tariff agreement could be reached. Disney (DIS) stock is sinking on fears of a recession. To watch more expert insights and analysis on the latest market action, check out more Market Domination here.",
-            "date": "2025-04-04T20:33:05Z",
-            "sentiment-score": -0.8848784733563662
-        },
-        {
-            "id": "311f0134-71e5-3c9b-aa51-ecb960894f55",
-            "summary": "One of Disney\u2019s most profitable businesses is also the most vulnerable to President Trump\u2019s new tariff regime.  Disney\u2019s consumer products division is responsible for everything from Elsa dresses and lightsaber toys to Iron Man action figures.  Other entertainment companies also have consumer products businesses, but Disney\u2019s is by far the biggest.",
-            "date": "2025-04-04T20:26:53Z",
-            "sentiment-score": -0.03779982775449753
-        },
-        {
-            "id": "58a3eef3-3980-370e-944e-9efac5ab52b3",
-            "summary": "\u201cNow Streaming\u201d is The Fly\u2019s weekly recap of the stories surrounding the biggest content streamers. PLAYING THIS WEEKEND: Among this weekend\u2019s now streaming content is Hulu\u2019s comedy drama miniseries \u201cDying for Sex,\u201d starring Michelle Williams and Jenny Slate. Meanwhile, Netflix (NFLX) subscribers can watch medical drama \u201cThe Pulse\u201d as well as animated series \u201cDevil May Cry,\u201d which is based on the Capcom (CCOEY) series of video games. Additionally, Amazon Prime Video (AMZN) users can watch action",
-            "date": "2025-04-05T16:20:23Z",
-            "sentiment-score": 0.010445280000567436
-        },
-        {
-            "id": "2783db21-454a-3801-bfe1-98b2a3236ed1",
-            "summary": "FuboTV (NYSE: FUBO), a streaming specialist, knows something about that.  Recent developments arguably justify the massive jump FuboTV has experienced (more on that below), but can the stock still deliver strong returns from here on out?  FuboTV faced many headwinds in the highly competitive streaming industry.",
-            "date": "2025-04-05T10:32:00Z",
-            "sentiment-score": 0.15727806091308594
-        },
-        {
-            "id": "19a48070-e9e4-30df-a170-c4e40cb2f552",
-            "summary": "Bran Ferren\u2019s company Applied Minds is one of the most unusual (and innovative) defense contractors you\u2019ve probably never heard of.",
-            "date": "2025-04-04T10:00:00Z",
-            "sentiment-score": 0.0637541301548481
-        },
         {
             "id": "3662cd28-c765-367d-90dd-a882507564d6",
             "summary": "The film from Warner Bros. Pictures and Universal Pictures dethroned Disney\u2019s \u2018Captain America\u2019 as the biggest domestic opening of 2025.",
@@ -180,6 +126,66 @@
             "summary": "The Big Tech giant is trading instant streams for theatrical prestige, rolling out a studio-size release schedule to win hearts\u2014and maybe Oscars\u2014before views.",
             "date": "2025-04-08T11:00:00Z",
             "sentiment-score": 0.12574583664536476
+        },
+        {
+            "id": "4d4a1b98-97ed-31e1-aa75-e4e59d6ad1af",
+            "summary": "In early January, FuboTV's (NYSE: FUBO) story dramatically changed when it agreed to merge its business with Hulu.  FuboTV's stock rose sharply as investors applauded the deal it made with media giant Disney (NYSE: DIS).  Should you buy, sell, or hold FuboTV stock in 2025 before the transaction is completed?",
+            "date": "2025-04-12T07:14:00Z",
+            "sentiment-score": 0.056091008707880974
+        },
+        {
+            "id": "395656ca-5f97-3c33-8ba0-94b2fbb331ad",
+            "summary": "The Zacks Earnings ESP is a great way to find potential earnings surprises. Why investors should take advantage now.",
+            "date": "2025-04-11T13:00:10Z",
+            "sentiment-score": 0.030967586673796177
+        },
+        {
+            "id": "bf6d1a15-13c9-346b-8745-d82e686246c3",
+            "summary": "A number of stocks fell in the afternoon session after stocks gave back some of the gains from the previous day as the White House clarified the tariffs on imports from China would add up to 145%, while the baseline 10% tariffs remained in place for all countries. This reminded markets that the global trade environment remained volatile, limiting the potential for sustained gains.",
+            "date": "2025-04-10T22:19:03Z",
+            "sentiment-score": -0.9405808476731181
+        },
+        {
+            "id": "118e2f18-a4f6-3768-bbc6-48c7d5670318",
+            "summary": "Julie Hyman and Josh Lipton take a closer look at some of Thursday's trending tickers on Market Domination. Tariff risks weigh on Nike (NKE) as US President Trump increases the tariff on imports from China to 145%. Entertainment stocks like Disney (DIS), Warner Bros. Discovery (WBD), and Fox (FOX, FOXA) are falling after China cut imports of Hollywood content. Novavax (NVAX) stock plunges after US Health and Human Services Secretary Robert F. Kennedy Jr. questioned the efficacy of the company's vaccines. To watch more expert insights and analysis on the latest market action, check out more Market Domination here.",
+            "date": "2025-04-10T20:18:10Z",
+            "sentiment-score": -0.9375497363507748
+        },
+        {
+            "id": "576a6261-b077-3a4c-9b00-dee0abe99930",
+            "summary": "A surprise tariff war twist hits U.S. entertainment, but the real story is what it signals for global investors.",
+            "date": "2025-04-10T19:09:34Z",
+            "sentiment-score": -0.007408538833260536
+        },
+        {
+            "id": "0d271ec8-b539-3289-a098-3e8c6521e4c4",
+            "summary": "The China Film Administration says that the U.S.\u2019s latest tariff decisions has led it to reduce Hollywood film imports.",
+            "date": "2025-04-10T18:39:00Z",
+            "sentiment-score": -0.00569915771484375
+        },
+        {
+            "id": "e1a72055-4081-3ec9-bd4e-79875b196ef8",
+            "summary": "Here are some of the stories Wall Street is watching on Thursday, April 10. The ongoing trade battle between the US and China is weighing on shares of Apple (AAPL), Disney (DIS), and Warner Bros. Discovery (WBD). Oil prices (CL=F, BZ=F) are also falling on worries that tariffs could weigh on demand. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
+            "date": "2025-04-10T18:09:21Z",
+            "sentiment-score": -0.8054739544168115
+        },
+        {
+            "id": "19416654-bf5d-3b13-9a96-6f24c878c663",
+            "summary": "(Bloomberg) -- China announced it would curb imports of Hollywood films, opening a new front in its trade war with the US hours after President Donald Trump\u2019s record tariffs took effect.Most Read from BloombergMidtown Office Building Evacuated on Concerns of Wall CollapseIn Chicago, a Former Steel Mill Looks to Make a Quantum LeapThe Secret Formula for Faster TrainsHelicopter Crashes Into Hudson River With Multiple FatalitiesInside the Quiet, Extravagant Expansion of the Frick CollectionAuthorit",
+            "date": "2025-04-10T17:59:41Z",
+            "sentiment-score": -0.011427227407693863
+        },
+        {
+            "id": "fe115f5d-33f5-3f78-9bb2-3d1f6556e24f",
+            "summary": "Theme park stocks have sold off hard this year.  Things have been tough for travel and leisure stocks because the economy is weakening and consumer sentiment is persistently sour.  Theme parks have been no exception.",
+            "date": "2025-04-10T16:53:00Z",
+            "sentiment-score": -0.9169689044356346
+        },
+        {
+            "id": "5d2de090-b1cc-3283-bff9-cf7dabd8f960",
+            "summary": "We recently published a list of Jim Cramer Warns of a 36% Market Drop & Reviews These 9 Key Stocks. In this article, we are going to take a look at where The Walt Disney Company (NYSE:DIS) stands against other stocks Jim Cramer discusses. In his appearance on CNBC\u2019s Squawk on the Street on Monday, [\u2026]",
+            "date": "2025-04-10T16:21:35Z",
+            "sentiment-score": -0.8531039347872138
         }
     ]
 }

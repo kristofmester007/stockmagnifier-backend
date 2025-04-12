@@ -1,60 +1,18 @@
 {
     "ticker": "TXN",
-    "total_news": 12,
-    "average_sentiment": -0.22204152141542485,
-    "weighted_average_sentiment": -0.18010606018028089,
+    "total_news": 15,
+    "average_sentiment": -0.22392009599134327,
+    "weighted_average_sentiment": -0.2917229043846221,
     "average_daily_sentiments": [
+        -0.9409362822771072,
+        -0.41361594100349713,
+        0.4155863574706018,
         0.04714140947908163,
         -0.9270340260118246,
         0.2395124607719481,
-        0,
-        -0.44572006119415164,
-        -0.9577449169009924,
-        -0.18067666919281086
+        0
     ],
     "news": [
-        {
-            "id": "2bf4037f-58c0-3c5c-abb9-a001d455a674",
-            "summary": "The money is meant to support the construction of three new semiconductor plants.",
-            "date": "2025-04-02T20:47:48Z",
-            "sentiment-score": 0.08044307539239526
-        },
-        {
-            "id": "62aadb6e-862d-37ee-933a-5c3223e11198",
-            "summary": "Analog chipmakers Texas Instruments and Analog Devices could outperform other semiconductor stocks during an economic downturn, Citi analysts said Thursday.",
-            "date": "2025-04-03T20:10:44Z",
-            "sentiment-score": -0.46093422174453735
-        },
-        {
-            "id": "faa78d22-9d5e-35f8-b910-0070d145ed8a",
-            "summary": "A number of stocks fell in the pre-market session after President Trump announced \"reciprocal tariffs\" on all US imports, set at a minimum rate of 10%.",
-            "date": "2025-04-03T18:08:08Z",
-            "sentiment-score": -0.9574342556297779
-        },
-        {
-            "id": "154d8a18-0959-3f38-a4b7-d2c0302ac9a6",
-            "summary": "Texas Instruments' new production facilities, healthy inventory levels and strong partner base make the stock worth holding.",
-            "date": "2025-04-03T14:40:00Z",
-            "sentiment-score": 0.8763384697958827
-        },
-        {
-            "id": "7ad5d733-6911-3b44-9a97-1b274297d91a",
-            "summary": "Shares of analog chip manufacturer Texas Instruments (NASDAQ:TXN) fell 6.3% in the afternoon session after China imposed a 34% tariff on all U.S. imports amid escalating trade war tensions. This was especially rough for the US chipmakers because a big chunk of their business leans on demand out of China. The new tariffs not only threaten to erode profit margins but also risk reducing market share.",
-            "date": "2025-04-04T19:13:57Z",
-            "sentiment-score": -0.9577449169009924
-        },
-        {
-            "id": "4cd33ed9-affb-348a-87d3-d0e8f969dbd8",
-            "summary": "David Iben put it well when he said, 'Volatility is not a risk we care about. What we care about is avoiding the...",
-            "date": "2025-04-05T11:00:23Z",
-            "sentiment-score": 0.04920621030032635
-        },
-        {
-            "id": "25fae015-9749-3dd6-98bb-52f5978d07a0",
-            "summary": "Texas Instruments (NasdaqGS:TXN) recently launched new power-management chips and expanded its microcontroller portfolio, signaling a strong thrust into high-performance computing and personal electronics markets. Despite these advancements, the company's share price declined by 14% over the past week. This downturn aligns with a broader market decline, as geopolitical tensions, particularly U.S.-China trade tariffs, drove significant sell-offs across major indices. The Nasdaq witnessed a 10%...",
-            "date": "2025-04-05T17:39:48Z",
-            "sentiment-score": -0.9406463326886296
-        },
         {
             "id": "0c638a92-167b-34a4-8c64-701ec80a8202",
             "summary": "STM vs. TXN: Which Stock Is the Better Value Option?",
@@ -84,6 +42,66 @@
             "summary": "Key Insights Institutions' substantial holdings in Texas Instruments implies that they have significant influence over...",
             "date": "2025-04-09T13:00:21Z",
             "sentiment-score": 0.07538764784112573
+        },
+        {
+            "id": "cb1cd3cb-dc03-3dd4-ab3d-ba93d26b6fd5",
+            "summary": "Brad Smith examines the trending stories on today's Market Minute. Gold (GC=F) climbs, reaching new highs. US chipmakers (SMH) like Intel (INTC) and Texas Instruments (TXN) fall as China hits the US with a 125% tariff based on manufacturing origin. Morgan Stanley (MS) earnings beat expectations, boosted by Elon Musk selling X, according to Bloomberg. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
+            "date": "2025-04-11T16:17:04Z",
+            "sentiment-score": 0.651188638061285
+        },
+        {
+            "id": "dfb9acb0-968e-353f-b0d7-1fc1eeeab681",
+            "summary": "We recently published a list of 10 Firms Suffer Amid Optimistic Market Environment. In this article, we are going to take a look at where Texas Instruments Incorporated (NASDAQ:TXN) stands against other firms that suffer amid optimistic market environment. Wall Street\u2019s main indices recovered losses on Friday, as investors repositioned portfolios while digesting the ongoing trade [\u2026]",
+            "date": "2025-04-12T06:48:24Z",
+            "sentiment-score": -0.9409362822771072
+        },
+        {
+            "id": "9affb7d9-065c-3f95-9f1c-2ea4dc33bc1c",
+            "summary": "Chipmakers on Edge as China's Tariff Response Zeroes In on U.S. Foundries",
+            "date": "2025-04-11T21:12:32Z",
+            "sentiment-score": -0.8464953545480967
+        },
+        {
+            "id": "aa3ad730-ab0e-36d4-a17c-47047c2b77c9",
+            "summary": "Shares of analog chip manufacturer Texas Instruments (NASDAQ:TXN) fell 8.3% in the morning session after China Semiconductor Industry Association issued an emergency directive detailing new methods for verifying the origin of imported chips. According to reports, the location of the wafer fabrication plant would define the origin of imports when tariffs are applied. This meant that companies with manufacturing facilities in the US might be severely affected by the escalating US-China trade tensi",
+            "date": "2025-04-11T19:49:22Z",
+            "sentiment-score": -0.9565072786062956
+        },
+        {
+            "id": "08318e5d-856a-30b6-8793-97e58fb4b2f8",
+            "summary": "Innovative Eyewear (LUCY) shares plunged 53% amid heavy trading after the company said Friday it is",
+            "date": "2025-04-11T18:29:11Z",
+            "sentiment-score": -0.9475924111902714
+        },
+        {
+            "id": "3ad88207-f5b9-34e7-8179-068fe562a0ea",
+            "summary": "The major U.S. equities indexes edged higher at midday Friday after wavering between losses and gains throughout the morning, as investors digested a slew of bank earnings and China hiked tariffs on U.S. goods.",
+            "date": "2025-04-11T16:19:09Z",
+            "sentiment-score": 0.7828886974602938
+        },
+        {
+            "id": "cb249203-10c5-3f5a-99e2-91b8db3d414e",
+            "summary": "Shares of chip maker Texas Instruments have dropped since President Donald Trump unveiled a barrage of tariffs on \u201cLiberation Day.\u201d",
+            "date": "2025-04-11T15:05:00Z",
+            "sentiment-score": -0.9535689731128514
+        },
+        {
+            "id": "00f71223-6673-3e4c-bd4c-60509da699c0",
+            "summary": "Hitting a new 52-week low can be a pivotal moment for any stock. These floors often mark either the beginning of a turnaround story or confirmation that a company faces serious headwinds.",
+            "date": "2025-04-11T13:01:08Z",
+            "sentiment-score": -0.6252249050885439
+        },
+        {
+            "id": "6c6f23a7-3557-3720-bac3-0fd1b3d58b80",
+            "summary": "Zacks.com users have recently been watching Texas Instruments (TXN) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
+            "date": "2025-04-10T13:00:10Z",
+            "sentiment-score": 0.015894162468612194
+        },
+        {
+            "id": "5ff3721f-4dd7-3bf0-b726-ecfd9ca0bccd",
+            "summary": "Texas Instruments (TXN) was a big mover last session on higher-than-average trading volume. The latest trend in earnings estimate revisions might not help the stock continue moving higher in the near term.",
+            "date": "2025-04-10T12:08:00Z",
+            "sentiment-score": 0.8152785524725914
         }
     ]
 }

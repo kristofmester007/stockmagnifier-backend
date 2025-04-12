@@ -1,132 +1,18 @@
 {
     "ticker": "GS",
-    "total_news": 53,
-    "average_sentiment": -0.20860768533926807,
-    "weighted_average_sentiment": -0.18491217943799104,
+    "total_news": 45,
+    "average_sentiment": -0.14675994483340118,
+    "weighted_average_sentiment": -0.17241446701924737,
     "average_daily_sentiments": [
+        -0.5968729369342327,
+        -0.02658540157911678,
+        -0.16693728824611753,
         -0.7027614526450634,
         0.0046870737251910296,
         -0.08656576587236486,
-        -0.16638065595179796,
-        -0.206403489690274,
-        -0.2180773061234504,
-        -0.5126934624277055
+        -0.16638065595179796
     ],
     "news": [
-        {
-            "id": "25a9d7d3-44a0-46f1-a693-b82867059bdd",
-            "summary": "Stocks of the biggest banks and private-equity firms plunged Thursday as concerns mounted about how Wall Street giants and their customers might be affected by heightened odds of a US recession.",
-            "date": "2025-04-03T19:04:55Z",
-            "sentiment-score": -0.9409531420096755
-        },
-        {
-            "id": "eaa51833-dc95-3e9b-92fa-96209222504f",
-            "summary": "(Bloomberg) -- The retail traders who have stormed the markets in recent years were among the only investors buying on Thursday as US stocks had their worst day since June 2020.Most Read from BloombergMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeHousing Agency Aims to Relocate Its DC HeadquartersWhat Would \u2018Transportation Abundance\u2019 Look Like?Small investor",
-            "date": "2025-04-03T20:38:38Z",
-            "sentiment-score": 0.033882804214954376
-        },
-        {
-            "id": "abfd7567-3b54-3152-8d7b-b9b2bafef990",
-            "summary": "The investment banking giant's stock lost 9.3% as of market close and was down as much as 9.5% earlier in the day.  The decline comes as the S&P 500 (SNPINDEX: ^GSPC) and Nasdaq Composite (NASDAQINDEX: ^IXIC) had their worst day in years.  President Trump's sweeping tariff announcement has triggered concerns about economic growth and market stability, hitting financial stocks particularly hard.",
-            "date": "2025-04-03T20:36:56Z",
-            "sentiment-score": -0.9565273355692625
-        },
-        {
-            "id": "cab49d30-81b8-38b3-8ebe-5c0bc8ab4a35",
-            "summary": "(Bloomberg) -- President Claudia Sheinbaum is pitching Mexico as a winner in Donald Trump\u2019s global trade war, arguing that her positive relationship with the US leader has made it a more attractive place to invest.Most Read from BloombergMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeHousing Agency Aims to Relocate Its DC HeadquartersWhat Would \u2018Transportatio",
-            "date": "2025-04-03T20:15:38Z",
-            "sentiment-score": 0.5890028215944767
-        },
-        {
-            "id": "5cf4554b-fdfe-35e0-9615-8f730bc63a77",
-            "summary": "NEW YORK (Reuters) -Goldman Sachs warned sweeping U.S. tariffs will weigh on global growth and prompt the Federal Reserve to cut interest rates more aggressively than previously expected.  \"We view this as kind of a growth shock... this is going to be a hit to U.S. consumers,\" Ashish Shah, chief investment officer of public investing at Goldman Sachs Asset Management, told journalists at the bank's New York headquarters on Thursday.  As market participants digest the implications of tariffs, Goldman executives said the economic outlook was clouded by U.S. trade policies that would likely trigger retaliation from other nations.",
-            "date": "2025-04-03T18:20:24Z",
-            "sentiment-score": -0.9277082458138466
-        },
-        {
-            "id": "4ff15940-99b3-37f4-98db-0bf8708d066d",
-            "summary": "(Bloomberg) -- The yield on benchmark Treasuries fell briefly below 4% for the first time since October as Wall Street fretted that the US economy will end up worse off from President Donald Trump\u2019s trade war.Most Read from BloombergMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeHousing Agency Aims to Relocate Its DC HeadquartersWhat Would \u2018Transportation Abu",
-            "date": "2025-04-03T18:00:58Z",
-            "sentiment-score": -0.8738576769828796
-        },
-        {
-            "id": "d80caf09-36ac-3916-a6a4-6090242c7b88",
-            "summary": "A pool of banks led by Goldman Sachs is ready to give Prada a 2.5-billion-euro ($2.77 billion) financing line to help the Italian fashion group in its acquisition of Capri Holdings-owned Versace, Italian daily MF reported on Friday. Some 1.5 billion euros would be used for the acquisition, while the remaining 1 billion euros would be used to relaunch the struggling takeover target, the report added. Goldman Sachs was not immediately available for comment.",
-            "date": "2025-04-04T06:40:03Z",
-            "sentiment-score": 0.05022999970242381
-        },
-        {
-            "id": "7fe6e31d-7640-3d91-9cee-f43196be126d",
-            "summary": "(Bloomberg) -- Oil fell further after President Donald Trump\u2019s tariffs and an OPEC+ decision to increase output faster than previously announced triggered the worst rout since 2022. Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018Transportation Abundance\u2019 Look Like?Brent cru",
-            "date": "2025-04-04T06:18:31Z",
-            "sentiment-score": -0.8544244728982449
-        },
-        {
-            "id": "316e28f0-1644-3565-9342-3097c5d3b26f",
-            "summary": "Sellers dictated the action in the stock market today after China retaliated with a 34% tariff on all imported goods from the U.S.",
-            "date": "2025-04-04T14:36:26Z",
-            "sentiment-score": -0.7797423116862774
-        },
-        {
-            "id": "d47623f3-19b3-36ff-af87-71971ccc4844",
-            "summary": "Investment firm broadens alternatives platform for professional investors.",
-            "date": "2025-04-04T12:01:35Z",
-            "sentiment-score": 0.1358748567290604
-        },
-        {
-            "id": "47d44628-d70b-3b8d-ade7-20fed45b3e01",
-            "summary": "(Bloomberg) -- Wall Street forecasters are turning ice cold on US equities, telling investors to refrain from buying the selloff as President Donald Trump\u2019s historic trade war raises the specter of recession.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018Transportation Abun",
-            "date": "2025-04-04T11:55:27Z",
-            "sentiment-score": 0.38996322453022003
-        },
-        {
-            "id": "70c2031e-672d-302a-8b62-b631ef48ece0",
-            "summary": "(Bloomberg) -- Copper plunged more than 5% to trade below $9,000 a ton, in the biggest drop since July 2022, as worries over the impact of a worsening trade war sparked a heavy selloff in industrial metals and mining equities. Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018",
-            "date": "2025-04-04T11:26:16Z",
-            "sentiment-score": -0.9312008456327021
-        },
-        {
-            "id": "b24b7d6b-5499-3891-8e36-3d256066bf36",
-            "summary": "Style Box ETF report for GSSC",
-            "date": "2025-04-04T10:20:04Z",
-            "sentiment-score": -0.0036302078515291214
-        },
-        {
-            "id": "e092415b-74ea-3a9c-a676-407d1073e5b3",
-            "summary": "Banks are set to kick off first quarter earnings season next week. Bloomberg Intelligence director of research global strategy team Alison Williams joins Catalyst with host Madison Mills to discuss what investors can expect from bank earnings. To watch more expert insights and analysis on the latest market action, check out more Catalysts here.",
-            "date": "2025-04-04T15:23:14Z",
-            "sentiment-score": 0.026636815164238214
-        },
-        {
-            "id": "8deeea28-e48e-3c72-b00f-7068a25b36a2",
-            "summary": "Let's find out which is a better investment option - GS or MS - considering the current challenging operating backdrop for the investment banks.",
-            "date": "2025-04-04T13:29:00Z",
-            "sentiment-score": 0.03819926967844367
-        },
-        {
-            "id": "047ae1ea-061f-346a-8c81-4abb781133b0",
-            "summary": "Big bank stocks, including JPMorgan (JPM), Citigroup (C), and Goldman Sachs (GS), have tumbled in the wake of President Trump's tariff announcements. Yahoo Finance Banking Reporter David Hollerith joins Market Domination with Yahoo Finance Head of News Myles Udland, RSM chief economist Joe Brusuelas, and Epistrophy Capital Research's chief market strategist and host of \"The Drill Down Podcast\" Cory Johnson to discuss the details. To watch more expert insights and analysis on the latest market action, check out more Market Domination here.",
-            "date": "2025-04-04T20:21:38Z",
-            "sentiment-score": -0.25267938897013664
-        },
-        {
-            "id": "8d411305-26f6-4d2f-83f4-7be87da0262c",
-            "summary": "A dealmaking freeze and the biggest rout in financial stocks since 2023 are raising the stakes for the start of Wall Street\u2019s earnings season this coming week.",
-            "date": "2025-04-05T11:55:43Z",
-            "sentiment-score": 0.1390712782740593
-        },
-        {
-            "id": "1ab4613d-ca89-397d-b742-64a629e3059c",
-            "summary": "(Bloomberg) -- The plunge in oil prices over the past two days following the twin shocks of President Donald Trump\u2019s tariffs and the surprise boost in production from OPEC+ has altered the global energy landscape with stunning speed.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersLocal Governments Vie for Fired Federal WorkersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesWhat Would \u2018Transportation Abundance\u2019 Look Like?Hochul Says Trump\u2019s T",
-            "date": "2025-04-05T00:27:44Z",
-            "sentiment-score": 0.15223722252994776
-        },
-        {
-            "id": "19df256c-7804-336b-8f8a-b44fb022f8ac",
-            "summary": "Goldman Sachs Group (NYSE:GS) experienced significant stock volatility last week, marked by a 13% decline. This downturn coincided with the company's announcement of David Dubner's appointment as COO of Global Mergers and Acquisitions, a move aimed at bolstering their executive team. Additionally, Goldman Sachs communicated the early redemption of a substantial debt issuance, indicating effective balance sheet management. However, broader market dynamics, including a 5% drop in major indices...",
-            "date": "2025-04-05T18:02:48Z",
-            "sentiment-score": -0.910518969874829
-        },
         {
             "id": "e718fcf4-fcbc-3f76-b818-af99ce62834f",
             "summary": "(Bloomberg) -- China investors are bracing for a grim Monday as the nation\u2019s markets return from an extended weekend and factor in its retaliation to US tariffs.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersThis Skinny Mexico City Tower Is Just 14 Feet Wide on One SideLocal Governments Vie for Fired Federal WorkersBoston Mayor Wu Embraces Trump Resistance as Campaign Heats UpMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesA gauge of Chines",
@@ -330,6 +216,72 @@
             "summary": "GS is set to report first-quarter 2025 earnings. We assess the factors influencing its performance and how investors should play this stock now.",
             "date": "2025-04-09T16:31:00Z",
             "sentiment-score": 0.013293460942804813
+        },
+        {
+            "id": "b9b59c99-a84a-31a2-b71d-3c403a316dc2",
+            "summary": "This collaboration will help Mashreq make a variety of discretionary portfolios available for its wealth clients.",
+            "date": "2025-04-11T16:35:47Z",
+            "sentiment-score": 0.3112770044244826
+        },
+        {
+            "id": "63b4a4b0-03c0-47f5-8c77-924188fd222e",
+            "summary": "Earnings preview of key companies reporting next week and what to look out for.",
+            "date": "2025-04-11T13:11:11Z",
+            "sentiment-score": -0.010118871927261353
+        },
+        {
+            "id": "fd25884c-1371-3a1d-b33e-e7b95fdc3097",
+            "summary": "Goldman Sachs Group, Inc. (NYSE:GS) will release earnings results for the first quarter, before the opening bell on Monday, April 14. Analysts expect the bank to report quarterly earnings at $12.35 per share, up from $11.58 per share in the year-ago period. Goldman Sachs projects to report quarterly revenue at $14.81 billion, compared to $14.21 billion a year earlier, according to data from Benzinga Pro. On Tuesday, JMP Securities analyst Devin Ryan maintained Goldman Sachs with a Market Outperf",
+            "date": "2025-04-11T12:32:15Z",
+            "sentiment-score": 0.26970120146870613
+        },
+        {
+            "id": "2c9268e1-ac8f-4d5a-944a-16ea348683cd",
+            "summary": "Earnings mean less, and old outlooks mean nothing when tariff policy is all Wall Street cares about.",
+            "date": "2025-04-11T10:00:25Z",
+            "sentiment-score": -0.1273922510445118
+        },
+        {
+            "id": "4f51e0a0-e56d-450e-871f-371a8ffea311",
+            "summary": "The latest investor updates on stocks that are trending on Friday.",
+            "date": "2025-04-11T09:09:20Z",
+            "sentiment-score": -0.021163467317819595
+        },
+        {
+            "id": "8057f666-75ac-3b5d-b90d-01548fd88313",
+            "summary": "(Bloomberg) -- After a week of wild swings in the US bond market, China\u2019s holdings of Treasuries are increasingly under scrutiny from analysts around the world.Most Read from BloombergMidtown Office Building Evacuated on Concerns of Wall CollapseThe Secret Formula for Faster TrainsIn Chicago, a Former Steel Mill Looks to Make a Quantum LeapNYC Tourist Helicopter Crashes in Hudson River, Killing SixInside the Quiet, Extravagant Expansion of the Frick CollectionSome have gone as far as suggesting",
+            "date": "2025-04-11T07:31:46Z",
+            "sentiment-score": -0.5818160250782967
+        },
+        {
+            "id": "21b32018-8db1-3959-8186-91ac37b99128",
+            "summary": "Analysts cut estimates, citing tariffs and stock market jitters",
+            "date": "2025-04-10T20:25:32Z",
+            "sentiment-score": -0.9530263445340097
+        },
+        {
+            "id": "49133a84-7fa4-35b8-9d46-92ee1938fcfa",
+            "summary": "(Bloomberg) -- The Canadian government has invited representatives from US banks including JPMorgan Chase & Co. for a meeting, according to people with knowledge of the matter, after US President Donald Trump complained that American banks have trouble doing business in Canada.Most Read from BloombergMidtown Office Building Evacuated on Concerns of Wall CollapseIn Chicago, a Former Steel Mill Looks to Make a Quantum LeapThe Secret Formula for Faster TrainsHelicopter Crashes Into Hudson River Wit",
+            "date": "2025-04-10T16:54:09Z",
+            "sentiment-score": -0.6157281324267387
+        },
+        {
+            "id": "5bb1ad47-106f-33ae-86a9-fc609770b0a8",
+            "summary": "While Trump on Wednesday halted reciprocal tariffs on countries, barring China, for 90 days, the announcement did not appear to affect duties on autos, steel and aluminum, leading to concerns around increased costs for the sector.  \"We believe the tariffs as proposed will raise the cost of both importing and manufacturing vehicles in the U.S. by at least a low to mid single digit thousand dollar level on average,\" said Goldman Sachs analysts led by Mark Delaney.",
+            "date": "2025-04-10T14:26:23Z",
+            "sentiment-score": 0.8389826826751232
+        },
+        {
+            "id": "681d1401-542e-345a-9099-ed946f0b359c",
+            "summary": "(Bloomberg) -- Wall Street has gotten its way for decades, Scott Bessent argued Wednesday morning, declaring \u201cIt\u2019s Main Street\u2019s turn.\u201d Then Wall Street had its best day in 16 years.Hours after the Treasury secretary\u2019s full-throated defense of Donald Trump\u2019s \u201cLiberation Day\u201d tariffs, the president embraced an idea pushed by billionaire hedge funder Bill Ackman: Pause the levies for 90 days, rather than \u2014 as Ackman put it \u2014 risking a \u201cself-induced, economic nuclear winter.\u201dFor days, Ackman\u2019s prop",
+            "date": "2025-04-10T14:00:19Z",
+            "sentiment-score": 0.06202264130115509
+        },
+        {
+            "id": "8ec773da-7e72-3f2a-ba40-0737f26669b7",
+            "summary": "(Bloomberg) -- The first Group of Seven monetary policy decisions since President Donald Trump\u2019s trade war unleashed global market turmoil may prompt diverging responses from either side of the Atlantic.Most Read from BloombergThe Secret Formula for Faster TrainsIn Chicago, a Former Steel Mill Looks to Make a Quantum LeapMidtown Office Building Evacuated on Concerns of Wall CollapseNYC Tourist Helicopter Crashes in Hudson River, Killing SixEven Oslo Has an Air Quality ProblemWhile Bank of Canada",
+            "date": "2025-04-12T20:00:00Z",
+            "sentiment-score": -0.5968729369342327
         }
     ]
 }

@@ -1,90 +1,18 @@
 {
     "ticker": "COST",
-    "total_news": 28,
-    "average_sentiment": 0.05169150858585324,
-    "weighted_average_sentiment": 0.051862867092186564,
+    "total_news": 26,
+    "average_sentiment": 0.16269799164281443,
+    "weighted_average_sentiment": 0.2556022456734015,
     "average_daily_sentiments": [
+        0.6973676532506943,
+        0.4583441228605807,
+        0.2945722414712821,
         0.005933814914897084,
         -0.05214605499058962,
         0.33893482461571695,
-        -0.22293132112827152,
-        0,
-        0.07123150234110653,
-        0.20687170251039788
+        -0.22293132112827152
     ],
     "news": [
-        {
-            "id": "4f505e76-711f-3dd8-8f3c-26dd34480238",
-            "summary": "We recently published a list of Jim Cramer is Discussing These 10 Stocks Ahead of Q1 Earnings Season. In this article, we are going to take a look at where Costco Wholesale Corp (NASDAQ:COST) stands against other stocks that Jim Cramer is discussing ahead of Q1 earnings season. Jim Cramer in a latest program on [\u2026]",
-            "date": "2025-04-02T19:46:53Z",
-            "sentiment-score": 0.00044956058263778687
-        },
-        {
-            "id": "95910b19-55b5-37eb-86ee-d2530564c1c9",
-            "summary": "Costco (NASDAQ: COST) has delivered fantastic growth in recent years thanks to its ability to offer customers bargain prices on everything from food to gas.  The tariffs are a particular worry for retailers like Costco that import certain products -- which soon may be more expensive -- and at the same time promise customers low prices.  Considering these positive and negative points, is Costco a buy, sell, or hold in 2025?",
-            "date": "2025-04-03T08:10:00Z",
-            "sentiment-score": 0.14663773775100708
-        },
-        {
-            "id": "e7478949-6133-346a-8329-509722658dbc",
-            "summary": "TD Cowen senior research analyst Oliver Chen joins Catalysts host Madison Mills and Tematica Research chief investment officer Chris Versace to discuss the strength of retailers with bargaining power, such as Walmart (WMT), Costco (COST), and BJ's (BJ). To watch more expert insights and analysis on the latest market action, check out more Catalysts&nbsp;here.",
-            "date": "2025-04-03T10:00:22Z",
-            "sentiment-score": 0.04402606142684817
-        },
-        {
-            "id": "eadab927-c5b1-4459-a8e5-5b8fc833d214",
-            "summary": "GoodRx is trying to help pharmacies compete in a digital age, where they already face pressure on their margins.",
-            "date": "2025-04-03T13:00:44Z",
-            "sentiment-score": 0.12654427997767925
-        },
-        {
-            "id": "2b82c484-f216-30a7-b98c-c3eb561ecbe9",
-            "summary": "Major grocers and some discount chains have the essentials to draw in consumers and the scale to negotiate with vendors amid new tariffs, analysts at UBS said.",
-            "date": "2025-04-03T17:15:43Z",
-            "sentiment-score": 0.7233407543972135
-        },
-        {
-            "id": "0056d0dc-485e-34ff-9fec-8f0b1f117e9e",
-            "summary": "Investors should consider defensively oriented consumer stocks over disrectionary shares after President Trump's latest tariff announcement, Oppenheimer analysts said Thursday.",
-            "date": "2025-04-03T15:47:47Z",
-            "sentiment-score": 0.08337214589118958
-        },
-        {
-            "id": "184f6806-be83-3275-908d-48bb7a91ed21",
-            "summary": "To navigate the volatility the year may bring, blue-chip retail stocks like WMT, COST and HD offer a blend of stability and growth.",
-            "date": "2025-04-03T12:58:00Z",
-            "sentiment-score": 0.09715296793729067
-        },
-        {
-            "id": "ec2507c5-8e3f-43a0-a012-b6aa49685f7e",
-            "summary": "The latest investor updates on stocks that are trending on Thursday.",
-            "date": "2025-04-03T11:23:46Z",
-            "sentiment-score": -0.024558634497225285
-        },
-        {
-            "id": "8f1bd730-f95e-36eb-97ab-cb85eccc881d",
-            "summary": "Two strategic advantages are building a tariff moat around Walmart and Costco.",
-            "date": "2025-04-03T19:02:31Z",
-            "sentiment-score": 0.4584583071991801
-        },
-        {
-            "id": "b7ff950f-4fab-470c-b848-6a9eaaa9c969",
-            "summary": "Retailers are already facing a cautious consumer.",
-            "date": "2025-04-02T21:33:39Z",
-            "sentiment-score": -0.904610138386488
-        },
-        {
-            "id": "59dcc911-c823-3df4-8b7c-85a430d7c706",
-            "summary": "Walmart, Costco Wholesale and The Home Depot are part of the Zacks top Analyst Blog.",
-            "date": "2025-04-04T13:16:00Z",
-            "sentiment-score": 0.00041139498353004456
-        },
-        {
-            "id": "f60e94e0-584a-49e8-9ab6-2f95c0b2b5d9",
-            "summary": "Groceries and scale are two items that has these retailers positioned to benefit.",
-            "date": "2025-04-04T16:49:49Z",
-            "sentiment-score": 0.14205160969868302
-        },
         {
             "id": "44cd9282-3f0a-37f2-aff1-c5c37f68f775",
             "summary": "Amazon and Costco could still beat the market over the next two decades.",
@@ -180,6 +108,66 @@
             "summary": "Costco (COST) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
             "date": "2025-04-09T13:00:14Z",
             "sentiment-score": 0.018428789917379618
+        },
+        {
+            "id": "60bb92e0-40b9-34f3-adf5-6281155b73f9",
+            "summary": "Defensive stocks like Walmart Inc. (WMT) are often a go-to when markets flip upside down. With its low beta and stable dividend, Walmart has historically performed well during periods of fear, uncertainty, and doubt. In a gung-ho political environment full of geopolitical landmines, being recession-proof is often not enough. In recent years, the retail king has reaped the rewards\u2014growing its market share and attracting a wider range of consumers across different income levels. Naturally, that\u2019s",
+            "date": "2025-04-12T12:11:58Z",
+            "sentiment-score": 0.6973676532506943
+        },
+        {
+            "id": "ab0c6ffd-2314-34cb-9f57-9a934adf3095",
+            "summary": "We recently published a list of 10 Best Organic Food Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Costco Wholesale Corporation (NASDAQ:COST) stands against other best organic food stocks to buy according to billionaires. Overview of the Global Organic Food Industry According to a report [\u2026]",
+            "date": "2025-04-11T19:37:24Z",
+            "sentiment-score": 0.013934529386460781
+        },
+        {
+            "id": "e01b7617-2805-3a40-8c4b-4f9a717be167",
+            "summary": "Investing.com -- Mizuho Securities started coverage of major U.S. retailers with a preference for Walmart (NYSE:WMT) over Target and Costco (NASDAQ:COST) citing Walmart\u2019s more advanced transformation, broader earnings power, and greater resilience to economic headwinds.",
+            "date": "2025-04-11T13:24:39Z",
+            "sentiment-score": 0.9027537163347006
+        },
+        {
+            "id": "7f2d6a00-64a8-38f2-a892-777184f75c20",
+            "summary": "Costco Wholesale (COST) continues to deliver \"compelling value\" despite concerns around consumer con",
+            "date": "2025-04-10T19:11:19Z",
+            "sentiment-score": 0.9188134279102087
+        },
+        {
+            "id": "1a94dac1-8f8a-3833-aa91-9bc18c3ace8e",
+            "summary": "Costco's March sales results beat Wall Street\u2019s expectations, leading JPMorgan analysts to call the retailer a \u201cclear market leader.\"",
+            "date": "2025-04-10T18:26:18Z",
+            "sentiment-score": 0.9170916713774204
+        },
+        {
+            "id": "163599f2-8ed9-35ed-b1e2-a05195e8bade",
+            "summary": "Josh Lipton explores some of the top stories on Yahoo Finance's Market Minute. Novavax (NVAX) shares fell after US President Donald Trump's Secretary of Health and Human Services Robert F. Kennedy Jr. questioned the efficacy of the company's COVID vaccine. Costco's (COST) March comparable sales beat estimates. Lovesac (LOVE) reported fourth quarter results, with sales beating estimates. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
+            "date": "2025-04-10T17:23:02Z",
+            "sentiment-score": -0.04959799349308014
+        },
+        {
+            "id": "1f0f9d7b-b643-3da2-9c92-2dc9683e296e",
+            "summary": "Costco's comparable sales for March increase 6.4%. Its distinctive membership business model and pricing power set it apart from traditional players.",
+            "date": "2025-04-10T16:07:00Z",
+            "sentiment-score": 0.4165752101689577
+        },
+        {
+            "id": "f1efab7e-ca35-3317-9161-31cafe9d3e0f",
+            "summary": "We recently published a list of Jim Cramer Says Tariff Pain Isn\u2019t Over Yet And Reviews These 9 Stocks. In this article, we are going to take a look at where Costco Wholesale Corporation (NASDAQ:COST) stands against other stocks that Jim Cramer discusses. In his latest appearance on CNBC\u2019s Squawk on the Street, Jim Cramer dissected [\u2026]",
+            "date": "2025-04-10T12:37:29Z",
+            "sentiment-score": -0.009404769167304039
+        },
+        {
+            "id": "e4fa6b89-8af8-383b-a9f6-7d9eb7eee498",
+            "summary": "Costco (COST) was a big mover last session on higher-than-average trading volume. The latest trend in earnings estimate revisions might not help the stock continue moving higher in the near term.",
+            "date": "2025-04-10T11:38:00Z",
+            "sentiment-score": 0.7780124628916383
+        },
+        {
+            "id": "3abb2c4f-fa98-354f-ac88-3fd8d778fae4",
+            "summary": "Tech stocks are selling off as fears around Trump's tariffs linger.",
+            "date": "2025-04-10T11:05:00Z",
+            "sentiment-score": -0.9094843193888664
         }
     ]
 }
