@@ -57,7 +57,7 @@ To deploy the backend service using Docker:
 
 You can also find the frontend related to this project at https://github.com/kristofmester007/stockmagnifier-frontend.
 
-A deployed version of this project is available at: https://dbatx57diay0.cloudfront.net
+A deployed version of this project is available at: https://dbatx57diay0.cloudfront.net (currently down for cost reasons)
 
 ## Copyright
 
